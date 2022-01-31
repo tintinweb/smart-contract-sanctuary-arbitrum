@@ -1839,3 +1839,6 @@
 {"address": "0x53cc546053a09431c9d1a2b288471680d15000a4", "name": "Comptroller", "compiler": "0.5.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/24/2022"}
 {"address": "0xd1A758149896530a114C7F5e4c4daf093FC184A6", "name": "ChainlinkPriceOracleV2Arbitrum", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 5, "settings": "", "date": "1/24/2022"}
 {"address": "0x59FA438cD0731EBF5F4cDCaf72D4960EFd13FCe6", "name": "MasterPriceOracle", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/24/2022"}
+{"address": "0xA5151f4796636beb84dDdF793fdf0a8117e941c6", "name": "RewardsDistributionV3", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/31/2022"}
+{"address": "0x54552CB564F4675bCEda644e47dE3E35D1c88E1b", "name": "GohmSSOVV2", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 10, "settings": "", "date": "1/31/2022"}
+{"address": "0x26f698491daf32771217abc1356dae48c7230c75", "name": "CalculationsCurve", "compiler": "0.8.11", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/31/2022"}
