@@ -1842,3 +1842,14 @@
 {"address": "0xA5151f4796636beb84dDdF793fdf0a8117e941c6", "name": "RewardsDistributionV3", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/31/2022"}
 {"address": "0x54552CB564F4675bCEda644e47dE3E35D1c88E1b", "name": "GohmSSOVV2", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 10, "settings": "", "date": "1/31/2022"}
 {"address": "0x26f698491daf32771217abc1356dae48c7230c75", "name": "CalculationsCurve", "compiler": "0.8.11", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/31/2022"}
+{"address": "0xF83b23cbF03B5f48a82c43EeFCE4Bc6b8c994737", "name": "TreasuryConfig", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "2/1/2022"}
+{"address": "0x18b78919f34dC70b6Ee8B209160DDF39c8a2d090", "name": "MirrorFeeConfig", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "2/1/2022"}
+{"address": "0xedd744f1f3cdfc1649bdaa5fab32f5adf18fe8e8", "name": "MEVDonalds", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "2/1/2022"}
+{"address": "0xD7fD3b58eA57a972e523A5f5b1999D1eeeeE5654", "name": "MEVDonalds", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "2/1/2022"}
+{"address": "0xb0448763523e129bfc2cd20ceefacc16c620f726", "name": "SushiStaking", "compiler": "0.6.9", "balance": "0 ETH", "txcount": 3, "settings": "", "date": "2/1/2022"}
+{"address": "0xA20526304A431CDba1e477EbAC8BbB126FDE0b83", "name": "Timelock", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "2/1/2022"}
+{"address": "0x6260101218eC4cCfFF1b778936C6f2400f95A954", "name": "MintableBaseToken", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 4, "settings": "", "date": "2/1/2022"}
+{"address": "0x26f3DC14C3B87925cb518c55D9D8968B24Be0FE4", "name": "MarketProxy", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 3, "settings": "", "date": "2/1/2022"}
+{"address": "0x07e9c29b20bDc526aC7C53a17787EEC086fd30c5", "name": "YouTubeMarketV2", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "2/1/2022"}
+{"address": "0xa49F3a7e0397c0fCE8465014EFFc847D6db2871A", "name": "Reader", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "2/1/2022"}
+{"address": "0x8E844f9F367F5310398e73b095674F2D646c9c14", "name": "URLNameVerifier", "compiler": "0.6.9", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "2/1/2022"}
