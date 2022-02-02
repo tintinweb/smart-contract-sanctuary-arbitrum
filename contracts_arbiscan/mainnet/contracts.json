@@ -1853,3 +1853,13 @@
 {"address": "0x07e9c29b20bDc526aC7C53a17787EEC086fd30c5", "name": "YouTubeMarketV2", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "2/1/2022"}
 {"address": "0xa49F3a7e0397c0fCE8465014EFFc847D6db2871A", "name": "Reader", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "2/1/2022"}
 {"address": "0x8E844f9F367F5310398e73b095674F2D646c9c14", "name": "URLNameVerifier", "compiler": "0.6.9", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "2/1/2022"}
+{"address": "0x26596af66A10Cb6c6fe890273eD37980D50f2448", "name": "Maximillion", "compiler": "0.5.16", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "2/2/2022"}
+{"address": "0x59B53E086f3c8f002B67A1f945C9e895f013a30f", "name": "DefiDubai", "compiler": "0.8.11", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "2/2/2022"}
+{"address": "0x3145a934038a6Ae7DBD842D3955B701660e3b958", "name": "StrategyDodoHndEthLpV3", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "2/2/2022"}
+{"address": "0xDD835a49432b12E96C1d8922212FCdfC4822Be8f", "name": "RewardPool", "compiler": "0.8.3", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "2/2/2022"}
+{"address": "0x8Bd0fE2b1458466A3620839C3827975ac8723bB3", "name": "GovernanceLock", "compiler": "0.8.3", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "2/2/2022"}
+{"address": "0x23dDA05B0ED06bE4B16C311155EC7302B79C6f9F", "name": "Treasury", "compiler": "0.8.3", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "2/2/2022"}
+{"address": "0x14911Ee4491c13827A24409D0bf1A32136046823", "name": "fxKeeperPool", "compiler": "0.8.3", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "2/2/2022"}
+{"address": "0x2d715a14d0577964f9dd7956c9a369b26afa55dc", "name": "USDsL2", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "2/1/2022"}
+{"address": "0x9B466b91404620e006AC1b86971EE575001f855a", "name": "EditionsFactory", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "2/1/2022"}
+{"address": "0x46EDB0830013F7F330d1b9D7734E81CcD585931D", "name": "Editions", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "2/1/2022"}
