@@ -1863,3 +1863,8 @@
 {"address": "0x2d715a14d0577964f9dd7956c9a369b26afa55dc", "name": "USDsL2", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "2/1/2022"}
 {"address": "0x9B466b91404620e006AC1b86971EE575001f855a", "name": "EditionsFactory", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "2/1/2022"}
 {"address": "0x46EDB0830013F7F330d1b9D7734E81CcD585931D", "name": "Editions", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "2/1/2022"}
+{"address": "0x5D7a16134De0Ffd38152Ff365929195AaF068C69", "name": "FTCVesting", "compiler": "0.6.10", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "2/2/2022"}
+{"address": "0x6E3C9CA736EA25933031E9F32d23d6696aEFe460", "name": "Vinyl", "compiler": "0.7.3", "balance": "2.9652 ETH", "txcount": 67, "settings": "", "date": "2/2/2022"}
+{"address": "0x214a14850329Bec9fa577D4cE6e00b69dfD287d4", "name": "MerkleDistributor", "compiler": "0.6.11", "balance": "0 ETH", "txcount": 4, "settings": "", "date": "2/2/2022"}
+{"address": "0x444d91660642128A17dD574599981304f9C54DBD", "name": "NativeSSOV1inchRouter", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "2/2/2022"}
+{"address": "0xC296C505207E34FE8aFaC9d0B1ceD6ff17d0e89a", "name": "ERC20SSOV1inchRouter", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "2/2/2022"}
