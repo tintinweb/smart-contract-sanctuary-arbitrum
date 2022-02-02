@@ -1472,3 +1472,11 @@
 {"address": "0xfDd8775b504EB258F4ddaCAEfddC004c259FC657", "name": "LimitOrderMonitor", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "2/1/2022"}
 {"address": "0xdF4cb69402a1826f8c5Ce25442c66D8FC4Ab7CFa", "name": "Fiat24BuyByEth", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "2/1/2022"}
 {"address": "0x5827b80B5E2a607dDa3f4ea5C09ddE2F76fAf25b", "name": "Fiat24BuyByEth", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "2/1/2022"}
+{"address": "0x22119B2eCeA8d16B0F6085639DF842f3B1f49877", "name": "StakingV1", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 4, "settings": "", "date": "2/2/2022"}
+{"address": "0x3a375de527474951a848eEF898c200E259F11Dd4", "name": "StakingV1", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "2/2/2022"}
+{"address": "0x427d356BF964D9248980024d549Ef0870f6E4962", "name": "Rand", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 6, "settings": "", "date": "2/2/2022"}
+{"address": "0x6e1b62FCC1535a4593Ef043568F2f773B054E8C1", "name": "Miece", "compiler": "0.8.0", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "2/2/2022"}
+{"address": "0xA82217FBfabb4b544DB34007A925A336780EbAF4", "name": "Cats", "compiler": "0.8.0", "balance": "0.05 ETH", "txcount": 13, "settings": "", "date": "2/2/2022"}
+{"address": "0x7B7180573Bd5F6eEE65f4b1352f61bC872511923", "name": "LimitOrderManager", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "2/2/2022"}
+{"address": "0x7C11AAF602BB87cd70C1aC5297E083766FC0BC3E", "name": "CallProxy", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "2/2/2022"}
+{"address": "0xE850F540764E4AAc15DfB1CD6Bd99F707b8F0B5D", "name": "GovernanceDeployer", "compiler": "0.5.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "2/2/2022"}
