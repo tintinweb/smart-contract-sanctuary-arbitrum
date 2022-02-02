@@ -1462,3 +1462,13 @@
 {"address": "0x7d43AABC515C356145049227CeE54B608342c0ad", "name": "OptimizedTransparentUpgradeableProxy", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/27/2022"}
 {"address": "0x9b36f165bab9ebe611d491180418d8de4b8f3a1f", "name": "Bridge", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/27/2022"}
 {"address": "0x8B76B40F9B05E044f941cb1365d8D45A53ABE23C", "name": "FaucetToken", "compiler": "0.5.5", "balance": "0 ETH", "txcount": 5, "settings": "-", "date": "1/27/2022"}
+{"address": "0x66feF20C5eA130921eA82eDdB14D55B0E9d7057b", "name": "StakingV1", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 3, "settings": "", "date": "2/2/2022"}
+{"address": "0xdBa5E20b4caE66Ac1B6421873394Af68C5075e3a", "name": "CritterMerkleAirdrop", "compiler": "0.8.11", "balance": "0 ETH", "txcount": 5, "settings": "", "date": "2/1/2022"}
+{"address": "0x0cFbcdd13DcA4F2d75233892309e0ABF0b87829C", "name": "Critter", "compiler": "0.8.11", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "2/1/2022"}
+{"address": "0x71d739C48317ddFc90D1Da1F7857B6084cC187b1", "name": "CritterMerkleAirdrop", "compiler": "0.8.11", "balance": "0 ETH", "txcount": 11, "settings": "", "date": "2/1/2022"}
+{"address": "0x01c26515ed00dfbbBF09E151591d289B748382EC", "name": "Critter", "compiler": "0.8.11", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "2/1/2022"}
+{"address": "0xE5bE54705D41DAaA33A043aa51dE472ED637C3d9", "name": "Minter", "compiler": "0.5.11", "balance": "6 ETH", "txcount": 2, "settings": "", "date": "2/1/2022"}
+{"address": "0x988740c60Ab453e90229f63987F318b658A458F5", "name": "LimitOrderManager", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "2/1/2022"}
+{"address": "0xfDd8775b504EB258F4ddaCAEfddC004c259FC657", "name": "LimitOrderMonitor", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "2/1/2022"}
+{"address": "0xdF4cb69402a1826f8c5Ce25442c66D8FC4Ab7CFa", "name": "Fiat24BuyByEth", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "2/1/2022"}
+{"address": "0x5827b80B5E2a607dDa3f4ea5C09ddE2F76fAf25b", "name": "Fiat24BuyByEth", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "2/1/2022"}
