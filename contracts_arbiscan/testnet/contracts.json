@@ -1480,3 +1480,7 @@
 {"address": "0x7B7180573Bd5F6eEE65f4b1352f61bC872511923", "name": "LimitOrderManager", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "2/2/2022"}
 {"address": "0x7C11AAF602BB87cd70C1aC5297E083766FC0BC3E", "name": "CallProxy", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "2/2/2022"}
 {"address": "0xE850F540764E4AAc15DfB1CD6Bd99F707b8F0B5D", "name": "GovernanceDeployer", "compiler": "0.5.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "2/2/2022"}
+{"address": "0x4Bee1ADB8C5d5eEFbd28C33656CEb1343901d1c2", "name": "StakingV1", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 9, "settings": "", "date": "2/3/2022"}
+{"address": "0xa692ff05b1C4379cBe8C51C4f3098CA19682E233", "name": "StakingV1", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "2/3/2022"}
+{"address": "0x8dBdA52b833637d945Fe32854e91cd5Eb4C4B813", "name": "Structure", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "2/3/2022"}
+{"address": "0x6c6a2716AFF8F3Ec6076760761a59AE9cAA6C731", "name": "Rand", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 3, "settings": "", "date": "2/3/2022"}
