@@ -1508,3 +1508,6 @@
 {"address": "0x548228D7B7A9B7020C266E6e67e2c1b1cd63Be98", "name": "Migrate", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 6, "settings": "", "date": "2/4/2022"}
 {"address": "0x1b2a82FDb0c8aA936a72cBfce86B94D0b3fC47F2", "name": "Migrate", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "2/4/2022"}
 {"address": "0x5F1670bdbAfcbEA39579083Dfd56984bb4A34d25", "name": "OracleAggregator", "compiler": "0.8.5", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "2/4/2022"}
+{"address": "0xf38CF83001bd6b727bD1B7fe3bA225e82812fa09", "name": "APENFT", "compiler": "0.4.26", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "2/5/2022"}
+{"address": "0x57CA131093eA09BB565a32F4FE67aAC57f22ac66", "name": "ERC721XGasReporterMock", "compiler": "0.8.11", "balance": "0 ETH", "txcount": 5, "settings": "", "date": "2/5/2022"}
+{"address": "0xfFeBa1E8110a5A6D9BD06412bCeaB1113db16BF6", "name": "ERC721AGasReporterMock", "compiler": "0.8.11", "balance": "0 ETH", "txcount": 5, "settings": "", "date": "2/5/2022"}
