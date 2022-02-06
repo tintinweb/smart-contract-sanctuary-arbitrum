@@ -1927,3 +1927,7 @@
 {"address": "0x6fcc42233f909a46eb006a7bd6bfe9d94928e64a", "name": "KaliDAOfactory", "compiler": "0.8.11", "balance": "0 ETH", "txcount": 3, "settings": "", "date": "2/4/2022"}
 {"address": "0xb7bde479552384baf472f5c86bc53ae9b4f62972", "name": "KaliDAO", "compiler": "0.8.11", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "2/4/2022"}
 {"address": "0x02d77b4ae9e1b2ae629055ac0f71a29d13b29587", "name": "KaliCoRicardianLLC", "compiler": "0.8.11", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "2/4/2022"}
+{"address": "0x002df1763a83da4837dc1bb9a9c64203526316d4", "name": "ProxyAdmin", "compiler": "0.8.11", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "2/6/2022"}
+{"address": "0x1bb3ba4eb8a0293e21b81fb426ef3eaac94e8770", "name": "PandorumMainPeriphery", "compiler": "0.8.11", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "2/6/2022"}
+{"address": "0xf823cafaf38593f7ba23cd1503d9203603fe1247", "name": "TransparentUpgradeableProxy", "compiler": "0.8.2", "balance": "0 ETH", "txcount": 6, "settings": "", "date": "2/6/2022"}
+{"address": "0x1d969826058baa1284ea1b1d90123ba065828e64", "name": "ConnDForce", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "2/6/2022"}
