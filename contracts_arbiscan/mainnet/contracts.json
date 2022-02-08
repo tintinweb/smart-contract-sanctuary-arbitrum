@@ -1977,3 +1977,16 @@
 {"address": "0xdf454bf5ec27e342f33ca5a6057929cf2e120a42", "name": "PlennyDappFactoryV2", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "2/7/2022"}
 {"address": "0xbee44a0dbf4c54c2a05df55ac0fec4a25c731c0c", "name": "PlennyCoordinatorV2", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "2/7/2022"}
 {"address": "0xfdc9be9b91cc93eb7a7e1cdc53dbfbe2d2359f67", "name": "PlennyContractRegistry", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "2/7/2022"}
+{"address": "0x6f668f1892c62860c295B052739B3290fa4661B4", "name": "ProofOfResidency", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "2/8/2022"}
+{"address": "0xBE52c34454476457F19073458e54508B08bCF6d5", "name": "Operator", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 3, "settings": "", "date": "2/8/2022"}
+{"address": "0x90A23d6d6A857C9749d57c5a6d2935AA17C19C19", "name": "DexProxy", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "2/8/2022"}
+{"address": "0xe83b80Edf2c3b9119D92536811d25650948E237e", "name": "AccuweatherConsumer", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 4, "settings": "", "date": "2/8/2022"}
+{"address": "0x3C9C65F28C0BdC7c407629DD30db6944b9192a70", "name": "SimpleERC20", "compiler": "0.7.0", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "2/8/2022"}
+{"address": "0x41B13AF41C253F4596CA7Edc4e94965149f0428B", "name": "ServiceReceiver", "compiler": "0.7.0", "balance": "0 ETH", "txcount": 2, "settings": "-", "date": "2/8/2022"}
+{"address": "0x3dc0a9db65dbd34cdf4013b96f52d59299eda95e", "name": "PrincipalProtectedVault", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "2/8/2022"}
+{"address": "0x4354E07ef8a68e5C24B343E74b2574cbdd05eC81", "name": "InstaUniswapV3ResolverArbitrum", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "2/8/2022"}
+{"address": "0x0b834fc7c563f5dd9baa0bc573251c7e0208dbf7", "name": "ERC20PresetMinterPauser", "compiler": "0.8.11", "balance": "0 ETH", "txcount": 10, "settings": "", "date": "2/8/2022"}
+{"address": "0x02135bb18Ed99aE59BA70EdcE71c48AD1b332062", "name": "CommunityIssuance", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "2/8/2022"}
+{"address": "0xd7167a4de097c52a608755530af1d36b0d5fc45d", "name": "P1Deleveraging", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "2/8/2022"}
+{"address": "0x1674996777df8Dc9C5DBADA9F80A91Ad70f16ef8", "name": "EditionsFactory", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "2/8/2022"}
+{"address": "0x3b3768F59066DaB77A996d39D1Fc8b5E42Ca8F89", "name": "Editions", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "2/7/2022"}
