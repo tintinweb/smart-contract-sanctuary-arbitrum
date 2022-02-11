@@ -1640,3 +1640,14 @@
 {"address": "0x7D0B76BE5dFe470B8A5962CFEB33f6bD6db2c3F7", "name": "TicketBond", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "2/10/2022"}
 {"address": "0x3CcE5f96BbB67fb2C70834502e9bBeC4e529F591", "name": "BoxOffice", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "2/10/2022"}
 {"address": "0x67e57a7fa45a7147cba61e7c39ee328a6054dc76", "name": "FakeArtMinter", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 2, "settings": "-", "date": "2/10/2022"}
+{"address": "0xF25c455358c98bc4545e22D000b7bd8FeA428926", "name": "ERC721Governor", "compiler": "0.8.6", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "2/11/2022"}
+{"address": "0xD72d09fBFf4b3C67CF64c66529e4EFE6C3AD5d63", "name": "ERC721DAODeployer", "compiler": "0.8.6", "balance": "0 ETH", "txcount": 3, "settings": "", "date": "2/11/2022"}
+{"address": "0x24dD7F7AA2e860D0218fc211932c6110D5295754", "name": "CompositeMintingFilter", "compiler": "0.8.6", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "2/11/2022"}
+{"address": "0x59A0c4c9572d06C605C712dB1372CC8a069208AD", "name": "RejectedNFTsMintingFilter", "compiler": "0.8.6", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "2/11/2022"}
+{"address": "0x2c5cb72CEAD50252A1c9F77296BF7610a11EA419", "name": "RequiredNFTsMintingFilter", "compiler": "0.8.6", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "2/11/2022"}
+{"address": "0x60f17bc35cf4825D9ffDD4eF45646a73c355E836", "name": "FixedPriceSpecificIDMinter", "compiler": "0.8.6", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "2/11/2022"}
+{"address": "0xE90c5ce7A163D07DF0E1dCdB8C641217F499Da0B", "name": "FixedPriceSequentialMinter", "compiler": "0.8.6", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "2/11/2022"}
+{"address": "0x636fcBf709674865563520e8A812C2d0d9367911", "name": "SVGPlaceholder", "compiler": "0.8.6", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "2/11/2022"}
+{"address": "0xE71bf4622578c7d1526A88CD3060f03030E99a04", "name": "ERC721Timelock", "compiler": "0.8.6", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "2/11/2022"}
+{"address": "0x89C15f0087135359F39aF418f249b9A38d9D478F", "name": "ERC721DAOToken", "compiler": "0.8.6", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "2/11/2022"}
+{"address": "0xaA0e750Aab5eB86803A243b43f5793BBF06941B1", "name": "VAF", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 3, "settings": "", "date": "2/11/2022"}
