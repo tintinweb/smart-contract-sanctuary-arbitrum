@@ -1651,3 +1651,13 @@
 {"address": "0xE71bf4622578c7d1526A88CD3060f03030E99a04", "name": "ERC721Timelock", "compiler": "0.8.6", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "2/11/2022"}
 {"address": "0x89C15f0087135359F39aF418f249b9A38d9D478F", "name": "ERC721DAOToken", "compiler": "0.8.6", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "2/11/2022"}
 {"address": "0xaA0e750Aab5eB86803A243b43f5793BBF06941B1", "name": "VAF", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 3, "settings": "", "date": "2/11/2022"}
+{"address": "0x263cbB5D234eB83357fc566437f524742b73189a", "name": "XNft", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "2/11/2022"}
+{"address": "0x9C0a7ad508e7c278C4A552583777d87AE58b69db", "name": "XNft", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "2/11/2022"}
+{"address": "0x576Bcb8Ac87fd9c5733bA36d182988611b56C1B5", "name": "BtcUsdChainlinkOracleId", "compiler": "0.8.5", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "2/11/2022"}
+{"address": "0x28D30EFaBdc0ad25450Fd2a9B85D9fAa3a37156B", "name": "EthUsdChainlinkOracleId", "compiler": "0.8.5", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "2/11/2022"}
+{"address": "0x3F3FA1e68591da6E09FD9bE6E19965cDe7a4f177", "name": "OptionPutSyntheticId", "compiler": "0.8.5", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "2/11/2022"}
+{"address": "0x5B01E88d3952b57235c4D5AebC7dE49277022206", "name": "OptionCallSyntheticId", "compiler": "0.8.5", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "2/11/2022"}
+{"address": "0x3523bf5770a7d8edb2ba6436d1922edc8cbaf54f", "name": "MedianETHUSD", "compiler": "0.5.12", "balance": "0 ETH", "txcount": 12, "settings": "-", "date": "2/11/2022"}
+{"address": "0x26dd617ab44dc4aa51a591e8e3c2e2f6e1665e48", "name": "BridgeV1", "compiler": "0.8.11", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "2/11/2022"}
+{"address": "0x55d6d21bFE34C87DfCb7a799122096C73F704f34", "name": "WSTAR", "compiler": "0.8.11", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "2/11/2022"}
+{"address": "0x9Dd3c31Ad96a29B2349031dE41d1B9b42379A99A", "name": "WSTAR", "compiler": "0.8.11", "balance": "0 ETH", "txcount": 3, "settings": "", "date": "2/11/2022"}
