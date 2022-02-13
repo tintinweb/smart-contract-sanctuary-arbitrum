@@ -1661,3 +1661,6 @@
 {"address": "0x26dd617ab44dc4aa51a591e8e3c2e2f6e1665e48", "name": "BridgeV1", "compiler": "0.8.11", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "2/11/2022"}
 {"address": "0x55d6d21bFE34C87DfCb7a799122096C73F704f34", "name": "WSTAR", "compiler": "0.8.11", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "2/11/2022"}
 {"address": "0x9Dd3c31Ad96a29B2349031dE41d1B9b42379A99A", "name": "WSTAR", "compiler": "0.8.11", "balance": "0 ETH", "txcount": 3, "settings": "", "date": "2/11/2022"}
+{"address": "0x8bbcce48ca6f2f7b6cfb3988b094c7995e8fc94f", "name": "Storage", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 4, "settings": "-", "date": "2/13/2022"}
+{"address": "0xa9fdC25153A5f8a7F31c129626043D09B606bf87", "name": "BondPriceOracle", "compiler": "0.8.2", "balance": "0 ETH", "txcount": 20, "settings": "", "date": "2/13/2022"}
+{"address": "0x8A1515A0C3Aa55e3526dd9E9255df5313086bF4a", "name": "WSTAR", "compiler": "0.8.11", "balance": "0 ETH", "txcount": 11, "settings": "", "date": "2/12/2022"}
