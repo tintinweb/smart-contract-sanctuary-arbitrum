@@ -2110,3 +2110,5 @@
 {"address": "0x5eeda4696062eaa319dde62d2d350f4abf0c88f4", "name": "KaliERC20factory", "compiler": "0.8.11", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "2/11/2022"}
 {"address": "0x55f74bbed0ce2ca8cedfbad07bf333edb29430c4", "name": "KaliERC20", "compiler": "0.8.11", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "2/11/2022"}
 {"address": "0xA0ED021Cf3Ad897181c23e20aA5FfB8F607A9073", "name": "USDCVesting", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "2/11/2022"}
+{"address": "0xb78660d9db5ed6d1a71070b477bc2d1a1d9707ba", "name": "StorageTestArbitrum", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "2/13/2022"}
+{"address": "0x6CA66FA0eC3a0B49592eaF678A2F7aEB06459e4B", "name": "CurvedInterestRate", "compiler": "0.8.6", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "2/12/2022"}
