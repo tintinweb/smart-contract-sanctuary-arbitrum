@@ -2112,3 +2112,14 @@
 {"address": "0xA0ED021Cf3Ad897181c23e20aA5FfB8F607A9073", "name": "USDCVesting", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "2/11/2022"}
 {"address": "0xb78660d9db5ed6d1a71070b477bc2d1a1d9707ba", "name": "StorageTestArbitrum", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "2/13/2022"}
 {"address": "0x6CA66FA0eC3a0B49592eaF678A2F7aEB06459e4B", "name": "CurvedInterestRate", "compiler": "0.8.6", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "2/12/2022"}
+{"address": "0x41FA6c04B8A2D1a30200F39b4714C78C81e0E227", "name": "UniswapTwapPriceOracleV2", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 2, "settings": "-", "date": "2/14/2022"}
+{"address": "0xa861cef799d37fc9788d94cd2e0f581d42df6213", "name": "VestaFarming", "compiler": "0.8.11", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "2/14/2022"}
+{"address": "0xf44420ad4200032284dc9f63b0516a8956fa8816", "name": "RPS", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "2/14/2022"}
+{"address": "0x903C7f49d5da5c114442B8A58848a74822025DFD", "name": "CreateCall", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 2, "settings": "-", "date": "2/14/2022"}
+{"address": "0xb2128c27431005B5874D5737eD7258e70981b54E", "name": "DopexMithicalNFT", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 4, "settings": "-", "date": "2/14/2022"}
+{"address": "0x6C68eB45D5c2019136C8362cC928FB4f13F5385d", "name": "MintSwapCanonicalToken", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "2/14/2022"}
+{"address": "0x045cbcba76a7ecf82d0f6b5dcc0881b3c12e37d0", "name": "KaliDAOfactory", "compiler": "0.8.11", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "2/14/2022"}
+{"address": "0xffe7e91f86fa2c6af0b3cddf0f0906d465e1d760", "name": "KaliDAO", "compiler": "0.8.11", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "2/14/2022"}
+{"address": "0xb572ac31ab7fe0f8b65e6be10bd36ee81da71f2b", "name": "KaliCoRicardianLLC", "compiler": "0.8.11", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "2/14/2022"}
+{"address": "0xFb2019DfD635a03cfFF624D210AEe6AF2B00fC2C", "name": "crosschainQiStablecoinSlim", "compiler": "0.5.17", "balance": "0 ETH", "txcount": 8, "settings": "", "date": "2/14/2022"}
+{"address": "0x12FcB286D664F37981a42cbAce92eAf28d1dA94f", "name": "crosschainQiStablecoinSlim", "compiler": "0.5.17", "balance": "0 ETH", "txcount": 4, "settings": "", "date": "2/14/2022"}
