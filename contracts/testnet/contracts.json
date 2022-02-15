@@ -1673,3 +1673,9 @@
 {"address": "0x5e5e83F0BF31a1Cd555aa12C2F378b294Ea1A26F", "name": "PixelMushrohmStaking", "compiler": "0.8.0", "balance": "0 ETH", "txcount": 16, "settings": "", "date": "2/13/2022"}
 {"address": "0x0C8F5B001bd7c58663abeCe16e1fb10070fc49Fd", "name": "PixelMushrohmERC721", "compiler": "0.8.0", "balance": "0 ETH", "txcount": 12, "settings": "", "date": "2/13/2022"}
 {"address": "0x850D79f33A332ed9792104d5581ccD8399A35C4c", "name": "ArbiDudesDutchAuction", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 5, "settings": "", "date": "2/13/2022"}
+{"address": "0x8E81fD812d5aD76Cf9296107453872392AB2c7BD", "name": "RoboTrust", "compiler": "0.8.11", "balance": "0.02962962962962963 ETH", "txcount": 4, "settings": "", "date": "2/15/2022"}
+{"address": "0x4401f359acb47eb661b741d05b72b395844203a8", "name": "BridgeL2", "compiler": "0.7.0", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "2/14/2022"}
+{"address": "0x959cBD4000F8Db1792C8812608E579a74c6920DA", "name": "Wand", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 41, "settings": "", "date": "2/14/2022"}
+{"address": "0x4C55c04cFA178a4783d762CF2b9320fb1b52CCC1", "name": "Magic", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "2/14/2022"}
+{"address": "0x56FEf17e831afe6dC5d0F9896755bCA41926Ea04", "name": "Spell", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "2/14/2022"}
+{"address": "0x9dBA7dE2c5cCF413dC3c99368Bf8FC7Acc3dEF72", "name": "PixelWizardMarket", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "2/14/2022"}
