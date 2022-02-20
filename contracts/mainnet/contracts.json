@@ -2211,3 +2211,8 @@
 {"address": "0x98a00666CfCb2BA5A405415C2BF6547C63bf5491", "name": "PositionManager", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 76, "settings": "", "date": "2/19/2022"}
 {"address": "0x0F0783F4229D75aBEf3dE066a6cccB3653f40185", "name": "Vesting", "compiler": "0.6.10", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "2/19/2022"}
 {"address": "0x760b432f51dd210C3559987D6D55ee2DE1Db44E6", "name": "AtlasMineStaker", "compiler": "0.8.11", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "2/19/2022"}
+{"address": "0xbEd32937D8A5D1421241F52809908f1a17D75bDb", "name": "Trading", "compiler": "0.8.7", "balance": "1.512 ETH", "txcount": 35, "settings": "", "date": "2/20/2022"}
+{"address": "0xd6af2a0c2a22df3b6a7410f0f432c503d8ab19ca", "name": "Vesting", "compiler": "0.8.9", "balance": "0.074015864455924979 ETH", "txcount": 2, "settings": "", "date": "2/20/2022"}
+{"address": "0x5fa2ac306c4281ccb9fc1dddb305d21f01d8c957", "name": "SingleStakingStrategy", "compiler": "0.8.12", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "2/20/2022"}
+{"address": "0x5f4ae7c2822fbf87acab9348354d32e9cdbea50d", "name": "BeefyVaultV6", "compiler": "0.8.12", "balance": "0 ETH", "txcount": 3, "settings": "", "date": "2/20/2022"}
+{"address": "0x1442097733acf0a2b5c4Ab422F1C0186E95D52Ba", "name": "UniswapV3Pool", "compiler": "0.7.6", "balance": "-", "txcount": 0, "settings": "", "date": "2/20/2022"}
