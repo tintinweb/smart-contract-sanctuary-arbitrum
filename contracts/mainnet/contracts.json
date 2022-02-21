@@ -2216,3 +2216,7 @@
 {"address": "0x5fa2ac306c4281ccb9fc1dddb305d21f01d8c957", "name": "SingleStakingStrategy", "compiler": "0.8.12", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "2/20/2022"}
 {"address": "0x5f4ae7c2822fbf87acab9348354d32e9cdbea50d", "name": "BeefyVaultV6", "compiler": "0.8.12", "balance": "0 ETH", "txcount": 3, "settings": "", "date": "2/20/2022"}
 {"address": "0x1442097733acf0a2b5c4Ab422F1C0186E95D52Ba", "name": "UniswapV3Pool", "compiler": "0.7.6", "balance": "-", "txcount": 0, "settings": "", "date": "2/20/2022"}
+{"address": "0xcAD9297f00487a88Afa120Bf9F4823B52AE388b0", "name": "YieldMint", "compiler": "0.8.0", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "2/21/2022"}
+{"address": "0x63D8De4079a8A46C721748E5db5f940a4C388Af5", "name": "DiamondPepeNFTs1inchRouter", "compiler": "0.8.0", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "2/21/2022"}
+{"address": "0xCc98df46EB88f1eB4DF96fefe1de2C6e41ea9023", "name": "StabilizeStrategyWBTCTraderV4", "compiler": "0.6.6", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "2/21/2022"}
+{"address": "0x245480e654c46e338809991dde4996e4dca40fae", "name": "PrincipalProtectedVault", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "2/21/2022"}
