@@ -1,0 +1,257 @@
+/**
+ *Submitted for verification at arbiscan.io on 2022-02-21
+*/
+
+//SPDX-License-Identifier: MIT
+// We will be using Solidity version 0.7.6
+pragma solidity 0.7.6;
+
+contract HorseRace {
+    event Joined(address indexed _from, uint256 _value);
+    event Withdraw(address indexed _from, uint256 _value);
+    event GameOver(address indexed _from, uint256 _position);
+    event GameTimeout();
+    event GameStarted(uint256 _amount_player);
+    event GameError(string error);
+    event GameDebug(address indexed _from);
+
+    uint256 private price = 0.1 ether;
+    
+    uint256 private num_horses = 5;
+    address[] private players = new address[](num_horses);
+    uint256[] private playerTickets = new uint256[](num_horses);
+    address private owner;
+    address private external_wallet;
+    bool private gamePlaying = false;
+    uint256 private timeGameStarted = 0;
+    bool private gameEnabled = true;
+
+    constructor()  {
+        owner = msg.sender;
+        external_wallet = msg.sender;
+    }
+
+    function setGameEnable(bool status) public {
+        require(msg.sender == owner, "You are not the owner");
+        gameEnabled = status;
+    }
+    function getGameEnable() public view returns (bool) {
+        return gameEnabled;
+    }
+
+    function setOwner(address new_wallet) public {
+        require(msg.sender == owner, "You are not the owner");
+        external_wallet = new_wallet;
+    }
+
+    function getOwner() public view returns (address) {
+        return owner;
+    }
+
+    function setPrice(uint256 new_price) public {
+        require(msg.sender == owner, "You are not the owner");
+        price = new_price;
+    }
+
+    function getBalance() public view returns (uint256) {
+        return address(this).balance;
+    }
+
+    function getStatusGame() public view returns (bool) {
+        return gamePlaying;
+    }
+
+    function getTotalPlayers() public view returns (uint) {
+        uint256 total = 0;
+        for (uint256 i = 0; i < num_horses; i++) {
+            if (players[i] != address(0)) total += 1;
+        }
+        return total;
+    }
+
+    function checkPosition(uint256 position) private view returns (bool) {
+        if (players[position] != address(0)) return true;
+        else return false;
+    }
+
+    function setWinner(uint256 position) public {
+        require(gameEnabled, "Game is not enabled");
+        require(msg.sender == owner, "You are not the owner");
+        require(gamePlaying, "Game is not playing");
+        require(
+            address(this).balance >= price,    //should have at least inside the price ticket to send some money out
+            "Not enough money in the contract"
+        );
+
+        if (!checkPosition(position)) {
+            revert("No player at that position");
+        }
+
+        gamePlaying = false;
+
+        if (position >= 0 && position <= num_horses) {
+            uint256 totalAmount = address(this).balance;
+            uint256 amount_owner = uint256(totalAmount / 100) * 10;
+            uint amount_player = totalAmount - amount_owner;
+            if (address(this).balance >= amount_player) {
+                emit GameOver(players[position], position);
+                address payable receiver = payable(players[position]);
+                receiver.transfer(amount_player);
+                receiver = payable(external_wallet);
+                if (address(this).balance >= amount_owner) {
+                    receiver.transfer(amount_owner);
+                } else {
+                    if (address(this).balance > 0) {
+                        receiver.transfer(address(this).balance);
+                    } else {
+                        //probably use revert to dont give money away ?! :/
+                        emit GameError(
+                            "Not money in the contract for the owner"
+                        );
+                    }
+                }
+            } else {
+                revert("Not enough money to send to winner");
+            }
+        }
+        emptyPlayers();
+    }
+
+    function refundPlayers() private {
+        address payable receiver;
+        uint256 paid_price = 0;
+
+        for (uint i = 0; i < num_horses; i++) {
+            if (players[i] != address(0)) {
+                receiver = payable(players[i]);
+                paid_price = playerTickets[i];
+                if (address(this).balance >= paid_price) {
+                    receiver.transfer(paid_price);
+                }
+            }
+        }
+    }
+
+    function timeout() public {
+        require(gameEnabled, "Game is not enabled");
+        require(msg.sender == owner, "You are not the owner");
+        require(gamePlaying, "There is no game playing");
+        emit GameTimeout();
+        gamePlaying = false;
+        refundPlayers();
+        emptyPlayers();
+    }
+
+    function gameStarted() public {
+        require(gameEnabled, "Game is not enabled");
+        require(!gamePlaying, "There is a game playing");
+        require(msg.sender == owner, "You are not the owner");
+        uint amountPlayer = getTotalPlayers();
+        if (amountPlayer > 0) {
+        gamePlaying = true;
+        timeGameStarted = block.timestamp;
+        emit GameStarted(getTotalPlayers());
+        } else {
+            revert("Not enough players");
+        }
+    }
+
+    function emptyPlayers() private {
+        for (uint256 i = 0; i < num_horses; i++) {
+            players[i] = address(0);
+            playerTickets[i] = 0;
+        }
+    }
+
+    function random() private view returns (uint256) {
+        // sha3 and now have been deprecated
+        return
+            uint256(
+                keccak256(
+                    abi.encodePacked(block.difficulty, block.timestamp, players)
+                )
+            );
+        // convert hash to integer
+        // players is an array of entrants
+    }
+
+    function pickPosition() private view returns (uint256) {
+        uint256 length = 0;
+        uint256[] memory freeSlots = new uint256[](5);
+        for (uint256 i = 0; i < num_horses; i++) {
+            if (players[i] == address(0)) {
+                freeSlots[length] = i;
+                length += 1;
+            }
+        }
+        uint256 number = random() % length;
+        if (number >= 0 && number <= num_horses) return freeSlots[number];
+        else revert("Error random place user");
+    }
+
+    function checkExist(address joiner) private view returns (bool) {
+        bool joined = false;
+        for (uint i = 0; i < num_horses; i++) {
+            if (players[i] == joiner) {
+                joined = true;
+            }
+        }
+        return joined;
+    }
+
+    function checkJoin(address useraddr) public  view returns(bool) {
+       // emit GameDebug(useraddr);
+        for (uint i = 0; i < num_horses; i++) {
+            if (players[i] == useraddr) {
+                    return true;
+            }
+        }
+        return false;
+    }
+
+
+    function withdraw() public  returns (bool) {
+        require(gameEnabled, "Game is not enabled");
+        require(!gamePlaying, "You cant withdraw during in game");
+        for (uint i = 0; i < num_horses; i++) {
+            if (players[i] == msg.sender) {
+                emit Withdraw(msg.sender, i);
+                address payable receiver =  payable(players[i]);
+                uint256 paid_price = playerTickets[i];
+                if (address(this).balance >= paid_price) {
+                    receiver.transfer(paid_price);
+                    players[i] = address(0);
+                    playerTickets[i] = 0;
+                    return true;
+                } else {
+                    players[i] = address(0);
+                    playerTickets[i] = 0;
+                }
+
+            }
+        }
+        return false;
+    }
+
+    function joinRoom() public payable {
+        require(gameEnabled, "Game is not enabled");
+        require(msg.value >= price, "Not enough Ether provided.");
+        if (checkExist(msg.sender)) {
+            revert("You have already joined");
+        }
+        if (!gamePlaying) {
+            if (getTotalPlayers() < num_horses) {
+                //check if every spot is taken
+                uint position = pickPosition();
+                players[position] = msg.sender;
+                playerTickets[position] = msg.value;
+                emit Joined(msg.sender, position);
+            } else {
+                revert("Room is full");
+            }
+        } else {
+            emit GameError("Game is  playing");
+            revert("Game is not playing");
+        }
+    }
+}
