@@ -2309,3 +2309,11 @@
 {"address": "0xC76a3cBefE490Ae4450B2fCC2c38666aA99f7aa0", "name": "crosschainQiStablecoinSlim", "compiler": "0.5.17", "balance": "0 ETH", "txcount": 5, "settings": "", "date": "2/25/2022"}
 {"address": "0x97bA47CDd3193c321Edb3E92501342894db748a7", "name": "VestaParameters", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "2/25/2022"}
 {"address": "0xBa3386D94FC593a1e9A5b57fF02524396080f7b4", "name": "JonesDPXVaultV2", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 3, "settings": "", "date": "2/24/2022"}
+{"address": "0x9D5D23E22FB63202499B1801354dd2D79194860B", "name": "Shogun", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 4, "settings": "-", "date": "2/26/2022"}
+{"address": "0xAEAe470A71fAB319C88b38D21F6ADe73407dD3C0", "name": "DpxVolatilityOracleV2", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "2/26/2022"}
+{"address": "0x9162F655d085F266792FcA4432C9D17c7e53b454", "name": "DpxPriceOracleV2", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "2/26/2022"}
+{"address": "0xB73feD58a603Fe6bE5b3403174c9b9598A3272A1", "name": "Curve2PoolSsovPut", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "2/26/2022"}
+{"address": "0x6A1142681b74fbeA5dEA07258f573484D80e4435", "name": "RdpxSSOVV2", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "2/26/2022"}
+{"address": "0xc1Febbf0B08FbbAE32D4BF23FB375150548e3ba9", "name": "FeeStrategyPut", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "2/26/2022"}
+{"address": "0x9DB652668a6b628a7686C02F7cFD54CEED401A2c", "name": "PrincipalProtectedVault", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "2/26/2022"}
+{"address": "0xd0BaA984Cd2D25A555710B4f199e873Af668866a", "name": "StakingPool", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 80, "settings": "", "date": "2/26/2022"}
