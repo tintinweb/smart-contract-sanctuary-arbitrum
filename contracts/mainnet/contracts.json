@@ -2433,3 +2433,11 @@
 {"address": "0x527033259c64b6bc4d19bf9fe45cab3e969c63e4", "name": "Multicall", "compiler": "0.6.6", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "3/5/2022"}
 {"address": "0xE92e7eE2ae2CC43C7d4Cb0da286fe0F72D452B0B", "name": "AtlasMineStaker", "compiler": "0.8.11", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "3/4/2022"}
 {"address": "0x9eae34faa17caf99d2109f513edc5a6e3a7435b5", "name": "UniswapV2Pair", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 16, "settings": "", "date": "3/4/2022"}
+{"address": "0xe020af75caeEE50f15e2FC7221944c4B13aa58ec", "name": "wGMX", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 6, "settings": "", "date": "3/6/2022"}
+{"address": "0xB8b3BC75D8444e438c978896d46f124C0AeDc790", "name": "wGMX", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 7, "settings": "", "date": "3/6/2022"}
+{"address": "0xF0b06c0bd2231d9661e893be8d17f244D84385d7", "name": "wGMX", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 8, "settings": "", "date": "3/6/2022"}
+{"address": "0xA0F2502C1D9f012E0D406f6485019a33d2cf8cd8", "name": "wGMX", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 6, "settings": "", "date": "3/6/2022"}
+{"address": "0x35b73b9d0620d568513b5e505bEB9Bb87c7F3614", "name": "wGMX", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 9, "settings": "", "date": "3/6/2022"}
+{"address": "0xB14917b6D0b797442C57b04559fd35584463180e", "name": "TZWAP", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 6, "settings": "", "date": "3/6/2022"}
+{"address": "0x6771619F9527F84e579C2257322F427684B8f24d", "name": "test", "compiler": "0.8.11", "balance": "0.015 ETH", "txcount": 29, "settings": "", "date": "3/6/2022"}
+{"address": "0xC8971D873BdB0D92eAc879A31e7d571290bbFcb1", "name": "KashiExchangeRateResolver", "compiler": "0.8.11", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "3/5/2022"}
