@@ -2503,3 +2503,17 @@
 {"address": "0xe825f4f14b93a329fbae230ef6b222f26cca4028", "name": "RealWorldAssetTether", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "3/9/2022"}
 {"address": "0xA04d026be454158Fe6f9d12B5c39eD2e978ab96E", "name": "PremiaETHStrategy", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "3/9/2022"}
 {"address": "0x686497f9E8bf13F6E89382c5249C87A6df49976d", "name": "AaveV3Resolver", "compiler": "0.8.6", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "3/8/2022"}
+{"address": "0x7e0261ba19c5fd52cfeedd71d9e24a94d183d256", "name": "OneSplitView", "compiler": "0.8.2", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "3/10/2022"}
+{"address": "0x391b04b06a5dabf1c52cec97f5150a7811d53775", "name": "OneSplit", "compiler": "0.8.2", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "3/10/2022"}
+{"address": "0xb6B1A3b6BF39FfCd65BA1145C3895c43508497a5", "name": "RouterERC20Token", "compiler": "0.8.2", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "3/10/2022"}
+{"address": "0x24a48b1f08cb88fec2e4c389bce88ba534e2a952", "name": "TZWAP", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 19, "settings": "", "date": "3/10/2022"}
+{"address": "0xd3ddef90ce6b66d0de2cbe3866ee9ea25c379121", "name": "CrosschainForwarder", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "3/10/2022"}
+{"address": "0xb7bac57d856525452468eda72c74c5fa750da474", "name": "OnChainNFT", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 8, "settings": "-", "date": "3/10/2022"}
+{"address": "0x065e424D9b4136fF04ff5F1e0Cb3013255a130Fb", "name": "HandlerReserveUpgradeable", "compiler": "0.8.2", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "3/10/2022"}
+{"address": "0xe78D85A1a0356E02292606F2709E0C8Ca737d764", "name": "FeeManagerUpgradeable", "compiler": "0.8.2", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "3/10/2022"}
+{"address": "0xF6A101810698F5b399bAB6ad95F78eE2744bab84", "name": "ERC20HandlerUpgradeable", "compiler": "0.8.2", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "3/10/2022"}
+{"address": "0x8E4Bc58ec417CfB732b78433E543c106D774caD2", "name": "VoterUpgradeable", "compiler": "0.8.2", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "3/10/2022"}
+{"address": "0x0F1952B985188aCe80006794e0A7EB710e72fBcE", "name": "BridgeUpgradeable", "compiler": "0.8.2", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "3/10/2022"}
+{"address": "0x9491300D42f9b1929DF4c1A3308F68A482B91A30", "name": "MarinateReceiver", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "3/10/2022"}
+{"address": "0xbF4eE234C61dC1e47Aac3a80e813f6068E25a6D9", "name": "Distributor", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 7, "settings": "", "date": "3/10/2022"}
+{"address": "0x7A2172F8c2289b40939FfC5e323284744d398427", "name": "Blocklist", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "3/10/2022"}
