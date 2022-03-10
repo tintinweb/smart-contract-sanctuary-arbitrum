@@ -2517,3 +2517,10 @@
 {"address": "0x9491300D42f9b1929DF4c1A3308F68A482B91A30", "name": "MarinateReceiver", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "3/10/2022"}
 {"address": "0xbF4eE234C61dC1e47Aac3a80e813f6068E25a6D9", "name": "Distributor", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 7, "settings": "", "date": "3/10/2022"}
 {"address": "0x7A2172F8c2289b40939FfC5e323284744d398427", "name": "Blocklist", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "3/10/2022"}
+{"address": "0xa720C0B9A659817ecc0807b74D8e7Cf597268740", "name": "AaveV3Resolver", "compiler": "0.8.6", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "3/10/2022"}
+{"address": "0x40c57923924b5c5c5455c48d93317139addac8fb", "name": "SanctionsList", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 2, "settings": "-", "date": "3/10/2022"}
+{"address": "0x4999fF160B954b1A678e814EFA88D6bAB90116d0", "name": "SmolFarm", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "3/10/2022"}
+{"address": "0xc22b2EfEfC9142B59620d5AbaDc35e512D6D0DbC", "name": "ReceivingForwarder", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "3/10/2022"}
+{"address": "0x9d73b6345d35d8760e306e7862654e96eecd246a", "name": "OneSplitView", "compiler": "0.8.2", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "3/10/2022"}
+{"address": "0x4d4e60648d821684b5d50a09dd557df17bd3a844", "name": "OneSplit", "compiler": "0.8.2", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "3/10/2022"}
+{"address": "0x959F5893efa0831eC2E46f44Eadd9b6B43690BbF", "name": "Summoning", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "3/10/2022"}
