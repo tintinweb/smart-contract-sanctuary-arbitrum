@@ -2583,3 +2583,6 @@
 {"address": "0x0D5550d52428E7e3175bfc9550207e4ad3859b17", "name": "TornadoProxyLight", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 2773, "settings": "", "date": "3/13/2022"}
 {"address": "0xfc9859303c0ac1a7721ECE639f2e249D8FD72ac6", "name": "Verifier", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 0, "settings": "", "date": "3/13/2022"}
 {"address": "0xd408455e186CD6447A196DdA6BBaFa6556a2555F", "name": "Deployer", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 8, "settings": "", "date": "3/13/2022"}
+{"address": "0x2249Afe319baA0137CB434116Ac4d4Fd5c3eb719", "name": "InstaUniswapV3ResolverArbitrum", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "3/13/2022"}
+{"address": "0xbd78c38c28a3a5e1353bc8d8df7059c98996aadc", "name": "GlpManager", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "3/13/2022"}
+{"address": "0x175301Be72f8E6756DCC9C09bF9e4bB05a8ABc48", "name": "MetaStoreProxy", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "3/13/2022"}
