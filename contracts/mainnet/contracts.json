@@ -2586,3 +2586,17 @@
 {"address": "0x2249Afe319baA0137CB434116Ac4d4Fd5c3eb719", "name": "InstaUniswapV3ResolverArbitrum", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "3/13/2022"}
 {"address": "0xbd78c38c28a3a5e1353bc8d8df7059c98996aadc", "name": "GlpManager", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "3/13/2022"}
 {"address": "0x175301Be72f8E6756DCC9C09bF9e4bB05a8ABc48", "name": "MetaStoreProxy", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "3/13/2022"}
+{"address": "0x33D8F735DD64ceC51d212616BCa5Ad9b7769CD34", "name": "InstaFlashResolverArbitrum", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "3/14/2022"}
+{"address": "0x9f150497A059a1988D8afa165CD8613120375149", "name": "ReceivingForwarder", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "3/14/2022"}
+{"address": "0x7b3dde29044fe34f44fe91354388af520fd5ba96", "name": "CustomBond", "compiler": "0.7.5", "balance": "0 ETH", "txcount": 0, "settings": "", "date": "3/14/2022"}
+{"address": "0x3669ce3dafff6e8bea9ad83a0dd9435c588a0de0", "name": "CustomTreasury", "compiler": "0.7.5", "balance": "0 ETH", "txcount": 0, "settings": "", "date": "3/14/2022"}
+{"address": "0x12D3E615C755b6a8B15330263b2137eED97f80d9", "name": "InstaFlashResolverArbitrum", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "3/14/2022"}
+{"address": "0x24455aa55DED7728783c9474bE8eA2f5C935f8EB", "name": "DeBridgeGate", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "3/14/2022"}
+{"address": "0x1310f478A37bBdccf47E8e10962d3bB888FEc62C", "name": "InstaUniswapStakerResolverArbitrum", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "3/14/2022"}
+{"address": "0x5DFbC2713d94FB02d26F06433d3b1DC4b6F52aBf", "name": "FeeTreasury", "compiler": "0.8.2", "balance": "0 ETH", "txcount": 3, "settings": "", "date": "3/14/2022"}
+{"address": "0xbE138aD5D41FDc392AE0B61b09421987C1966CC3", "name": "MiningFixRangeBoostV2", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "3/14/2022"}
+{"address": "0xF8C19b493f29EF5beC98CB7B5644312575F41c43", "name": "RewardForCashback", "compiler": "0.8.2", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "3/14/2022"}
+{"address": "0x5385bCC7420012BaBd14675A466e24FBE2f9b1D6", "name": "Controller", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "3/14/2022"}
+{"address": "0x82adDfB22c87c921748d2BB7Ef708ceE5793Fb7A", "name": "Invitation", "compiler": "0.8.2", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "3/14/2022"}
+{"address": "0xd5ceac8d8e0cb41aabc7955bb313ef3307f1ce55", "name": "TrainingGround", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 9, "settings": "-", "date": "3/14/2022"}
+{"address": "0xf28221504956782e82b90c3e199f93808e04b593", "name": "TrainingGround", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 4, "settings": "-", "date": "3/14/2022"}
