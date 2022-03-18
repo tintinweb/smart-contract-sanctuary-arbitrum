@@ -2719,3 +2719,6 @@
 {"address": "0x823412ac2FfD566cFE35560A850EFec81337e67f", "name": "USDhLP", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 4, "settings": "", "date": "3/17/2022"}
 {"address": "0x59F02AcB50C0833B150C8250AC825Df00749a5dF", "name": "Vesting", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "3/17/2022"}
 {"address": "0x1617787a6ad14d79eb03c20b03fd57d180e859fb", "name": "VovoKeeper", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 10, "settings": "", "date": "3/17/2022"}
+{"address": "0xf53bF0ba21b3917c83F7a7263273a36708FAF804", "name": "DODOStarterFactory", "compiler": "0.6.9", "balance": "0 ETH", "txcount": 3, "settings": "", "date": "3/18/2022"}
+{"address": "0xcb3A2B906cbB42BAEa5cC75054dDCfE27D24Bf7B", "name": "FairFunding", "compiler": "0.6.9", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "3/18/2022"}
+{"address": "0x60017447Cc7A0EA99463e06255fEb471fd56D1bE", "name": "InstantFunding", "compiler": "0.6.9", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "3/18/2022"}
