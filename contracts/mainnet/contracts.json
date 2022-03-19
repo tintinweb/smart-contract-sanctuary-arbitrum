@@ -2722,3 +2722,5 @@
 {"address": "0xf53bF0ba21b3917c83F7a7263273a36708FAF804", "name": "DODOStarterFactory", "compiler": "0.6.9", "balance": "0 ETH", "txcount": 3, "settings": "", "date": "3/18/2022"}
 {"address": "0xcb3A2B906cbB42BAEa5cC75054dDCfE27D24Bf7B", "name": "FairFunding", "compiler": "0.6.9", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "3/18/2022"}
 {"address": "0x60017447Cc7A0EA99463e06255fEb471fd56D1bE", "name": "InstantFunding", "compiler": "0.6.9", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "3/18/2022"}
+{"address": "0xc5ec6B520d589f6375dCc237965DE9E2702476F3", "name": "TheDeadCuties", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 2, "settings": "-", "date": "3/19/2022"}
+{"address": "0xb8481a3ce515ea8caa112dba0d1ecfc03937fbcd", "name": "GaugeHelper", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "3/19/2022"}
