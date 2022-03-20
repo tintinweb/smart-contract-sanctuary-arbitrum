@@ -2724,3 +2724,14 @@
 {"address": "0x60017447Cc7A0EA99463e06255fEb471fd56D1bE", "name": "InstantFunding", "compiler": "0.6.9", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "3/18/2022"}
 {"address": "0xc5ec6B520d589f6375dCc237965DE9E2702476F3", "name": "TheDeadCuties", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 2, "settings": "-", "date": "3/19/2022"}
 {"address": "0xb8481a3ce515ea8caa112dba0d1ecfc03937fbcd", "name": "GaugeHelper", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "3/19/2022"}
+{"address": "0x84162f233546d4b3ec888183d0b1e0fd6ce04abc", "name": "StakeManager", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "3/20/2022"}
+{"address": "0x2D7D5f298067E81e8827eB686428881f4c988dC1", "name": "VoterUpgradeable", "compiler": "0.8.2", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "3/20/2022"}
+{"address": "0xA77c7f3BA954F4a420D8C51E33de23B36dAaBBAC", "name": "BridgeUpgradeable", "compiler": "0.8.2", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "3/20/2022"}
+{"address": "0x02692941aaa28e03c2bc0cc460a6f4f40b319077", "name": "TheDeadCuties", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 360, "settings": "-", "date": "3/20/2022"}
+{"address": "0x66A71Dcef29A0fFBDBE3c6a460a3B5BC225Cd675", "name": "UltraLightNode", "compiler": "0.7.6", "balance": "1.580854095248724142 ETH", "txcount": 56, "settings": "", "date": "3/20/2022"}
+{"address": "0x3c2269811836af69497E5F486A85D7316753cf62", "name": "Endpoint", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 4, "settings": "", "date": "3/20/2022"}
+{"address": "0xeA8DfEE1898a7e0a59f7527F076106d7e44c2176", "name": "LPStaking", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 627, "settings": "", "date": "3/19/2022"}
+{"address": "0x6694340fc020c5E6B96567843da2df01b2CE1eb6", "name": "StargateToken", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 209, "settings": "", "date": "3/19/2022"}
+{"address": "0x55bDb4164D28FBaF0898e0eF14a589ac09Ac9970", "name": "Factory", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 7, "settings": "", "date": "3/19/2022"}
+{"address": "0x352d8275AAE3e0c2404d9f68f6cEE084B5bEB3DD", "name": "Bridge", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 31, "settings": "", "date": "3/19/2022"}
+{"address": "0x53Bf833A5d6c4ddA888F69c22C88C9f356a41614", "name": "Router", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 803, "settings": "", "date": "3/19/2022"}
