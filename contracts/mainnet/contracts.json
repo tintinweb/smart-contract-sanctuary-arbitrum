@@ -3065,3 +3065,9 @@
 {"address": "0xb0ae108669ceb86e9e98e8fe9e40d98b867855fd", "name": "AnyswapV6ERC20", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "4/1/2022"}
 {"address": "0xe6f658118bcc6d344c812826b1af13bd7d59956c", "name": "AnyswapV6ERC20", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "4/1/2022"}
 {"address": "0x085f34DC239094983bF33349aA0eAeDECA0Bfc33", "name": "CyOpProtocol", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "3/31/2022"}
+{"address": "0x4E5D91be46510375F339FEF1cfBa211837a11012", "name": "Router", "compiler": "0.8.2", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "4/2/2022"}
+{"address": "0x321FEbFAe1Cb7d743e2EFb2012Db6E569c1954A5", "name": "PriceOracle", "compiler": "0.8.2", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "4/2/2022"}
+{"address": "0x1bbc5d5c557449e1a3995d40b30fadcb840eb6ac", "name": "GlpVault", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "4/2/2022"}
+{"address": "0xd832508d9591179431c71922e8dae494831a103c", "name": "GlpVault", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "4/2/2022"}
+{"address": "0x82081822932cf22e39d2fbec8047feb6117cd2f6", "name": "sVestingWallet", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 3, "settings": "", "date": "4/2/2022"}
+{"address": "0x50500CCD11e29f14008c7778a6ceD655727a21C3", "name": "EVMValidatorStgV3", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "4/2/2022"}
