@@ -3083,3 +3083,8 @@
 {"address": "0x99a828fe0c1d68d9aebbb8651cdbdbac65dc6207", "name": "FajarPurnamaExperiment", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 3, "settings": "-", "date": "4/3/2022"}
 {"address": "0x5478a4e605D7AA798dC70eCD0A1C3299aaeaFDD7", "name": "RewardForCashback", "compiler": "0.8.2", "balance": "0.002547168592406696 ETH", "txcount": 2, "settings": "", "date": "4/3/2022"}
 {"address": "0xbef1ed68d7ceaf92e03971cae5c6a0f0c3253683", "name": "metaShop", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 4, "settings": "", "date": "4/2/2022"}
+{"address": "0xf7AF7C6C078DaEce5C002caBD1ac7FD3c80aC573", "name": "Kev0", "compiler": "0.8.7", "balance": "0.00771419191863915 ETH", "txcount": 0, "settings": "", "date": "4/4/2022"}
+{"address": "0xEc1Df7EdFcdC2e2042c63252c1cEF480f64F9189", "name": "Gh0stlyGh0sts", "compiler": "0.8.11", "balance": "0 ETH", "txcount": 0, "settings": "", "date": "4/4/2022"}
+{"address": "0xC8aE2A55bC4Bf3280a38C76077A43D4D4a086272", "name": "TwapOracle", "compiler": "0.8.13", "balance": "-", "txcount": 0, "settings": "", "date": "4/4/2022"}
+{"address": "0xe8c93d7fcc126e25e956a7f996c4fa6ed960dd28", "name": "NFTXUnstakingInventoryZap", "compiler": "0.8.4", "balance": "-", "txcount": 0, "settings": "", "date": "4/4/2022"}
+{"address": "0xdf7bdfcfea58f273dd4c403877d49cf3fd4c633f", "name": "L2DAOTokenLock", "compiler": "0.8.7", "balance": "-", "txcount": 0, "settings": "", "date": "4/4/2022"}
