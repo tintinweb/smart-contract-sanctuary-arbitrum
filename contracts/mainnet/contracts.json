@@ -3112,3 +3112,19 @@
 {"address": "0xB237f4264938f0903F5EC120BB1Aa4beE3562FfF", "name": "crosschainQiStablecoinSlimV2", "compiler": "0.5.17", "balance": "-", "txcount": 0, "settings": "", "date": "4/6/2022"}
 {"address": "0x919cef07a399f3af4d8747ab942fe4fbe49a0e79", "name": "ItemContract", "compiler": "0.8.4", "balance": "-", "txcount": 0, "settings": "", "date": "4/5/2022"}
 {"address": "0x6D9c288708a77d51Fa66393916511Cde60522baF", "name": "Escrow", "compiler": "0.8.9", "balance": "-", "txcount": 0, "settings": "", "date": "4/5/2022"}
+{"address": "0xf2ca9d4d6fa28d7762401d55be5040f81f4a8619", "name": "RaidProjectBaseCore", "compiler": "0.8.7", "balance": "-", "txcount": 0, "settings": "", "date": "4/7/2022"}
+{"address": "0x6e72f85f774d0958cd194ef2a3333e31b48a3022", "name": "SmolFrens", "compiler": "0.8.7", "balance": "-", "txcount": 0, "settings": "", "date": "4/7/2022"}
+{"address": "0xCFc27f521576afAA8397cdb65c7b52eDDDF93579", "name": "MockWETH", "compiler": "0.8.4", "balance": "-", "txcount": 0, "settings": "-", "date": "4/7/2022"}
+{"address": "0xc0E02AA55d10e38855e13B64A8E1387A04681A00", "name": "GasMovr", "compiler": "0.8.4", "balance": "0.610850881064995954 ETH", "txcount": 0, "settings": "-", "date": "4/7/2022"}
+{"address": "0x1102d31f7D918121cE10f58AB84ba399ABc27aEc", "name": "GoldenTicket", "compiler": "0.8.7", "balance": "-", "txcount": 0, "settings": "-", "date": "4/7/2022"}
+{"address": "0x2cA6aA98BB394962C360B7894a524784e8434A55", "name": "OGSmithyPass", "compiler": "0.8.7", "balance": "-", "txcount": 0, "settings": "-", "date": "4/7/2022"}
+{"address": "0xde9759ffD0a0D54be5216Ec77B05Bb253F7Bcb9c", "name": "OmniMfersARBI", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 0, "settings": "", "date": "4/7/2022"}
+{"address": "0x3b0B4CeFd850827A6316987a245987B57E543D5f", "name": "VaultV2", "compiler": "0.5.16", "balance": "-", "txcount": 0, "settings": "", "date": "4/7/2022"}
+{"address": "0x1070f775e8eb466154BBa8FA0076C4Adc7FE17e8", "name": "BatchSender", "compiler": "0.6.12", "balance": "-", "txcount": 0, "settings": "", "date": "4/7/2022"}
+{"address": "0xA638119B0293B76F71e5E7E267665B4A1f2cBfBC", "name": "Test", "compiler": "0.8.11", "balance": "-", "txcount": 0, "settings": "", "date": "4/7/2022"}
+{"address": "0x247de9A108639278Eb0348baf15178593921d73f", "name": "PotPoolV1", "compiler": "0.5.16", "balance": "-", "txcount": 0, "settings": "", "date": "4/7/2022"}
+{"address": "0x2B5f73c7017b7dEBB0e4d52c0c0029a5fc94345d", "name": "PriceFeedV2", "compiler": "0.8.13", "balance": "-", "txcount": 0, "settings": "", "date": "4/7/2022"}
+{"address": "0x82b51EC06702E42F721510a99fAe9E2a12369D06", "name": "OmniMfersARBI", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 0, "settings": "", "date": "4/6/2022"}
+{"address": "0xB00D070E1595E582312730ED609ff38C55eBEA65", "name": "OmniMfersARBI", "compiler": "0.8.10", "balance": "-", "txcount": 0, "settings": "", "date": "4/6/2022"}
+{"address": "0x353e731EaA33fC1cc7f50E74EA390e95b192277F", "name": "Gen2Pledge", "compiler": "0.8.7", "balance": "-", "txcount": 0, "settings": "", "date": "4/6/2022"}
+{"address": "0x1b82df960f5470a17606abad2e541cc552870098", "name": "UniswapAdapter", "compiler": "0.8.11", "balance": "-", "txcount": 0, "settings": "", "date": "4/6/2022"}
