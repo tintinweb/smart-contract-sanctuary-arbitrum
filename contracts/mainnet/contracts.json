@@ -3163,3 +3163,8 @@
 {"address": "0x38a71796bC0291Bc09f4D890B45A9A93d49eDf70", "name": "Config", "compiler": "0.8.2", "balance": "-", "txcount": 0, "settings": "", "date": "4/8/2022"}
 {"address": "0x7d45316682E31A2e1221AB2DC9d98AeA99490f41", "name": "PriceOracle", "compiler": "0.8.2", "balance": "-", "txcount": 0, "settings": "", "date": "4/8/2022"}
 {"address": "0x0318c6322136b6f15acb1f630337161888ac2899", "name": "HashBet", "compiler": "0.6.12", "balance": "0.931849107692307693 ETH", "txcount": 0, "settings": "-", "date": "4/8/2022"}
+{"address": "0x5567f52da11180b90ea6615aeafff8426e47cbb1", "name": "NFT", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 0, "settings": "", "date": "4/9/2022"}
+{"address": "0xf78ed59651E4F9d537cc5E3EB81559D679692cf0", "name": "VSTAStaking", "compiler": "0.8.10", "balance": "-", "txcount": 0, "settings": "", "date": "4/9/2022"}
+{"address": "0x27b1049eeb9af616bff1bb6df4090944cbd6bdcf", "name": "Sweeper", "compiler": "0.8.7", "balance": "-", "txcount": 0, "settings": "", "date": "4/9/2022"}
+{"address": "0x340A3F5a18c455f39714B6b692905801f21ed353", "name": "MultiChainMirrorGate", "compiler": "0.8.1", "balance": "-", "txcount": 0, "settings": "", "date": "4/9/2022"}
+{"address": "0x864220556f02b582d63088c483e69edbffa0255a", "name": "SocBatchRequests", "compiler": "0.8.7", "balance": "-", "txcount": 0, "settings": "-", "date": "4/8/2022"}
