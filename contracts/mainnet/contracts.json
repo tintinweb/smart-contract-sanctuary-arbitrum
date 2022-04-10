@@ -3168,3 +3168,14 @@
 {"address": "0x27b1049eeb9af616bff1bb6df4090944cbd6bdcf", "name": "Sweeper", "compiler": "0.8.7", "balance": "-", "txcount": 0, "settings": "", "date": "4/9/2022"}
 {"address": "0x340A3F5a18c455f39714B6b692905801f21ed353", "name": "MultiChainMirrorGate", "compiler": "0.8.1", "balance": "-", "txcount": 0, "settings": "", "date": "4/9/2022"}
 {"address": "0x864220556f02b582d63088c483e69edbffa0255a", "name": "SocBatchRequests", "compiler": "0.8.7", "balance": "-", "txcount": 0, "settings": "-", "date": "4/8/2022"}
+{"address": "0x7a676691cbfad2b4e9f42e1e89b794fea5546c33", "name": "MagicLottery", "compiler": "0.8.13", "balance": "-", "txcount": 0, "settings": "", "date": "4/10/2022"}
+{"address": "0xE3428052aed5e6702e5c850a215ea35DE4127957", "name": "TheMeld", "compiler": "0.8.11", "balance": "-", "txcount": 0, "settings": "", "date": "4/10/2022"}
+{"address": "0xe8b1087b05d07b0217dcb1a9e320f2f76b5cbc6b", "name": "MagicLottery", "compiler": "0.8.13", "balance": "-", "txcount": 0, "settings": "", "date": "4/10/2022"}
+{"address": "0xa351c7b0ee07e1341625e3fe30066841cd3b0f30", "name": "ZAPE", "compiler": "0.8.7", "balance": "-", "txcount": 0, "settings": "", "date": "4/10/2022"}
+{"address": "0xcba2302adb441025b7c0fd8768499d7b494dd1f6", "name": "TidePool", "compiler": "0.7.6", "balance": "-", "txcount": 0, "settings": "", "date": "4/10/2022"}
+{"address": "0x2e7537829d845d1a9b834398d5d97c2acefd91ab", "name": "TidePoolMath", "compiler": "0.7.6", "balance": "-", "txcount": 0, "settings": "-", "date": "4/10/2022"}
+{"address": "0x4f99f135776Bd4aE336f515CaF01F2449EB3099B", "name": "ConnectV2AaveV3Arbitrum", "compiler": "0.7.6", "balance": "-", "txcount": 0, "settings": "", "date": "4/10/2022"}
+{"address": "0xe6aa2d277aAfBb9e19354F6f893737C3608ff995", "name": "ConnectV2AaveV3ImportPermitArbitrum", "compiler": "0.7.6", "balance": "-", "txcount": 0, "settings": "", "date": "4/10/2022"}
+{"address": "0xdB317d70Ce0e7845E2A957c90De5B21Cf943319C", "name": "VVoidTokenTransfer", "compiler": "0.8.4", "balance": "-", "txcount": 0, "settings": "-", "date": "4/10/2022"}
+{"address": "0x3a529f80b1bba08636568221316562413c89f0f8", "name": "RiseTokenFactory", "compiler": "0.8.11", "balance": "-", "txcount": 0, "settings": "", "date": "4/10/2022"}
+{"address": "0xebf5e95cde4b10578113a0cbf56868700cb065e9", "name": "RariFusePriceOracleAdapter", "compiler": "0.8.11", "balance": "-", "txcount": 0, "settings": "", "date": "4/10/2022"}
