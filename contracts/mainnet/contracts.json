@@ -3179,3 +3179,35 @@
 {"address": "0xdB317d70Ce0e7845E2A957c90De5B21Cf943319C", "name": "VVoidTokenTransfer", "compiler": "0.8.4", "balance": "-", "txcount": 0, "settings": "-", "date": "4/10/2022"}
 {"address": "0x3a529f80b1bba08636568221316562413c89f0f8", "name": "RiseTokenFactory", "compiler": "0.8.11", "balance": "-", "txcount": 0, "settings": "", "date": "4/10/2022"}
 {"address": "0xebf5e95cde4b10578113a0cbf56868700cb065e9", "name": "RariFusePriceOracleAdapter", "compiler": "0.8.11", "balance": "-", "txcount": 0, "settings": "", "date": "4/10/2022"}
+{"address": "0x73EA553CD95211956420329c2c7d23851c577725", "name": "CurveThreeTokenBasePool", "compiler": "0.8.10", "balance": "-", "txcount": 0, "settings": "", "date": "4/11/2022"}
+{"address": "0x7E2CC1AFc129E590D68E3455558dEF152bdCaDB0", "name": "Sweeper", "compiler": "0.8.7", "balance": "-", "txcount": 0, "settings": "", "date": "4/11/2022"}
+{"address": "0x1763c8f337f71f068b997cc0969fe989d74b9690", "name": "Daophinz", "compiler": "0.8.7", "balance": "-", "txcount": 0, "settings": "", "date": "4/11/2022"}
+{"address": "0xD9D74a29307cc6Fc8BF424ee4217f1A587FBc8Dc", "name": "OBSource", "compiler": "0.8.4", "balance": "-", "txcount": 0, "settings": "-", "date": "4/11/2022"}
+{"address": "0xd5a7b4c4ac89e07cf2c4837847172a5a7e27a1c4", "name": "VovoKeeper", "compiler": "0.7.6", "balance": "-", "txcount": 0, "settings": "", "date": "4/11/2022"}
+{"address": "0x9c080C803bE4527898C01a684925f4bfC56Ab32f", "name": "Sweeper", "compiler": "0.8.7", "balance": "-", "txcount": 0, "settings": "", "date": "4/11/2022"}
+{"address": "0xE355Df372C4FAaeDf895B958De5D7FB89215aeEa", "name": "DepositWithdrawalProxy", "compiler": "0.5.16", "balance": "-", "txcount": 0, "settings": "", "date": "4/11/2022"}
+{"address": "0xd55AFc5eE5fFdAd3d44829b22E2C2B10a484D33e", "name": "DolomiteAmmFactory", "compiler": "0.5.16", "balance": "-", "txcount": 0, "settings": "", "date": "4/11/2022"}
+{"address": "0xc28A4EC9f09E4071E3707eAACa5c3754fA4f5Faa", "name": "DolomiteAmmRouterProxy", "compiler": "0.5.16", "balance": "-", "txcount": 0, "settings": "", "date": "4/11/2022"}
+{"address": "0xB3fF983d7927540B7f92602657a2a26977664e77", "name": "LiquidatorProxyV1WithAmm", "compiler": "0.5.16", "balance": "-", "txcount": 0, "settings": "", "date": "4/11/2022"}
+{"address": "0xA5F4CEB032a1d7C711BB8AE687F9AB13a976e2E9", "name": "LiquidatorProxyV1", "compiler": "0.5.16", "balance": "-", "txcount": 0, "settings": "", "date": "4/11/2022"}
+{"address": "0xfC280671D79B02086Dd59C89f69632040D366EA8", "name": "SignedOperationProxy", "compiler": "0.5.16", "balance": "-", "txcount": 0, "settings": "", "date": "4/11/2022"}
+{"address": "0xc90e5Df165c26441F6F4e558ca6128A42eb95787", "name": "PayableProxy", "compiler": "0.5.16", "balance": "-", "txcount": 0, "settings": "", "date": "4/11/2022"}
+{"address": "0xEe34B48A6fC757386763409183bBAb704A0b22E6", "name": "Expiry", "compiler": "0.5.16", "balance": "-", "txcount": 0, "settings": "", "date": "4/11/2022"}
+{"address": "0xFdCfAE9abb063bF4e54ce5aDC8B0A9F7cdEDcB6e", "name": "MarginFactory", "compiler": "0.8.2", "balance": "0 ETH", "txcount": 0, "settings": "", "date": "4/11/2022"}
+{"address": "0xC0998A57E7ECce2798bD6e1a634017f7c013348F", "name": "AmmFactory", "compiler": "0.8.2", "balance": "0 ETH", "txcount": 0, "settings": "", "date": "4/11/2022"}
+{"address": "0x86cfc6ba3bbbc603b8dec5b032afa10a3592470d", "name": "TransferProxy", "compiler": "0.5.16", "balance": "-", "txcount": 0, "settings": "", "date": "4/11/2022"}
+{"address": "0x4232fce0d67839f4fd536990bdc02043d9ab708a", "name": "ChainlinkPriceOracleV1", "compiler": "0.5.16", "balance": "-", "txcount": 0, "settings": "", "date": "4/11/2022"}
+{"address": "0xa60686a02F2DB7a42d753B711Ae8978a5d5BA181", "name": "ArbitrumMultiCall", "compiler": "0.5.16", "balance": "-", "txcount": 0, "settings": "", "date": "4/11/2022"}
+{"address": "0x836b557cf9ef29fcf49c776841191782df34e4e5", "name": "DoubleExponentInterestSetter", "compiler": "0.5.16", "balance": "-", "txcount": 0, "settings": "", "date": "4/11/2022"}
+{"address": "0x9F7779A8aF28De91262ba9d6383fEf899102E876", "name": "DolomiteMargin", "compiler": "0.5.16", "balance": "-", "txcount": 0, "settings": "", "date": "4/11/2022"}
+{"address": "0x6B15c3F0D266be946eA2d33C40d1a7204C8403a2", "name": "AdminImpl", "compiler": "0.5.16", "balance": "-", "txcount": 0, "settings": "", "date": "4/11/2022"}
+{"address": "0xe4d3450d52EDF515433FEc12eaEFFFBfa83250b9", "name": "OperationImpl", "compiler": "0.5.16", "balance": "-", "txcount": 0, "settings": "", "date": "4/11/2022"}
+{"address": "0x94bab7C3810029d06937fD30e6aefD395eB1cA06", "name": "CallImpl", "compiler": "0.5.16", "balance": "-", "txcount": 0, "settings": "", "date": "4/11/2022"}
+{"address": "0x5f2eFF4fE0A26d2D1B25C79E872C2B7Bccf781A2", "name": "LiquidateOrVaporizeImpl", "compiler": "0.5.16", "balance": "-", "txcount": 0, "settings": "", "date": "4/11/2022"}
+{"address": "0xDcE03d31D9ad29c3785E61D6F85B31AB3239d379", "name": "TradeImpl", "compiler": "0.5.16", "balance": "-", "txcount": 0, "settings": "", "date": "4/11/2022"}
+{"address": "0xfEd1F92936fb71da71ECf2D22543A85489E259A4", "name": "TransferImpl", "compiler": "0.5.16", "balance": "-", "txcount": 0, "settings": "", "date": "4/11/2022"}
+{"address": "0x43C2FDB89A1C491F9FE86E1Ff05bd2BE204Ab4aE", "name": "WithdrawalImpl", "compiler": "0.5.16", "balance": "-", "txcount": 0, "settings": "", "date": "4/11/2022"}
+{"address": "0x58067f851C63cbc42E5c44748be58da26E29caf5", "name": "DepositImpl", "compiler": "0.5.16", "balance": "-", "txcount": 0, "settings": "", "date": "4/11/2022"}
+{"address": "0x787f332356780C7eac819DF2EA9f54beeeFA6eFE", "name": "MartianMarketTokenController", "compiler": "0.8.7", "balance": "-", "txcount": 0, "settings": "", "date": "4/10/2022"}
+{"address": "0xF593a01898d48BD82896Aa490E7948A51B978aa7", "name": "MartianMarketPriceController", "compiler": "0.8.7", "balance": "-", "txcount": 0, "settings": "", "date": "4/10/2022"}
+{"address": "0x6c1b3eBd9Eb46679662b2ABDD28325B32C892FEa", "name": "MartianMarketWL", "compiler": "0.8.7", "balance": "-", "txcount": 0, "settings": "", "date": "4/10/2022"}
