@@ -3233,3 +3233,27 @@
 {"address": "0x376bEcbc031dd53Ffc62192043dE43bf491988FD", "name": "EthWeeklyCallsSsovV3", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 0, "settings": "", "date": "4/11/2022"}
 {"address": "0x0a11404220BDd38B98eD9978fb8FBA17de3e66D2", "name": "EthStakingStrategyV1", "compiler": "0.8.9", "balance": "-", "txcount": 0, "settings": "", "date": "4/11/2022"}
 {"address": "0x19e6eE4C2cBe7Bcc4cd1ef0BCF7e764fECe23cC6", "name": "EthCallPriceOracle", "compiler": "0.8.9", "balance": "-", "txcount": 0, "settings": "", "date": "4/11/2022"}
+{"address": "0xA90Fb2118f16B44Ac2DF4C2C4db47A87E353f6f9", "name": "Crafting", "compiler": "0.8.9", "balance": "-", "txcount": 0, "settings": "", "date": "4/13/2022"}
+{"address": "0x40E47cab2f03DdDd167bf70F637b4CAC1B724016", "name": "Questing", "compiler": "0.8.9", "balance": "-", "txcount": 0, "settings": "", "date": "4/13/2022"}
+{"address": "0xAb01d1EF2040114CFC88a228f67e932B67f19772", "name": "Summoning", "compiler": "0.8.9", "balance": "-", "txcount": 0, "settings": "", "date": "4/13/2022"}
+{"address": "0xD7FAD3bd59D6477cbe1BE7f646F7f1BA25b230f8", "name": "Vyper_contract", "compiler": "vyper:0.3.1", "balance": "-", "txcount": 0, "settings": "", "date": "4/13/2022"}
+{"address": "0x41B953164995c11C81DA73D212ED8Af25741b7Ac", "name": "Vyper_contract", "compiler": "vyper:0.3.1", "balance": "-", "txcount": 0, "settings": "", "date": "4/13/2022"}
+{"address": "0xb08E16cFc07C684dAA2f93C70323BAdb2A6CBFd2", "name": "ChildChainLiquidityGaugeFactory", "compiler": "0.7.1", "balance": "0 ETH", "txcount": 0, "settings": "", "date": "4/13/2022"}
+{"address": "0x7E2Bb839B0585Ee3FF5f030dAB93D7903E3168fF", "name": "AtlasMineStakerUpgradeable", "compiler": "0.8.11", "balance": "-", "txcount": 0, "settings": "-", "date": "4/13/2022"}
+{"address": "0xaa64ad10E1ff46A968BE333aD5414D8Ed3e4dF21", "name": "SmolFarm", "compiler": "0.8.9", "balance": "-", "txcount": 0, "settings": "", "date": "4/13/2022"}
+{"address": "0x7fd31c7e50c9d76d52eb32f8e5f8a3e78bedb483", "name": "pillowcats", "compiler": "0.8.11", "balance": "0 ETH", "txcount": 0, "settings": "", "date": "4/13/2022"}
+{"address": "0x68E5CDB18301002453E21f19Ee736baE2A2CDA5c", "name": "CurvePoolCodec", "compiler": "0.8.12", "balance": "-", "txcount": 0, "settings": "", "date": "4/13/2022"}
+{"address": "0x42e6Af231bA8eE39f1bf185d452061283bfB324b", "name": "UniswapV2SwapExactTokensForTokensCodec", "compiler": "0.8.12", "balance": "-", "txcount": 0, "settings": "", "date": "4/13/2022"}
+{"address": "0xdB7E4d4dd546a6Df6F9a312761e1B63C2036a782", "name": "TransferSwapper", "compiler": "0.8.12", "balance": "-", "txcount": 0, "settings": "", "date": "4/13/2022"}
+{"address": "0xfdc2ff921fd0dd907448B9C48f3F51F91aBA0c94", "name": "CAPNFTS", "compiler": "0.8.13", "balance": "-", "txcount": 0, "settings": "", "date": "4/13/2022"}
+{"address": "0x8394fec74462e601568b90d9485a4db938b1e2df", "name": "numbercontract", "compiler": "0.8.13", "balance": "-", "txcount": 0, "settings": "", "date": "4/13/2022"}
+{"address": "0x34eb879e3f09042a3dd2ac447d6d81da6fdd338e", "name": "numbercontract", "compiler": "0.8.11", "balance": "-", "txcount": 0, "settings": "", "date": "4/13/2022"}
+{"address": "0x8528Fd1C6945e9291912ed2a568b280eB5196429", "name": "MYBROCC", "compiler": "0.8.13", "balance": "-", "txcount": 0, "settings": "", "date": "4/13/2022"}
+{"address": "0x1D730DC5de41f6710708dEE13Fbad3Fc0cd51884", "name": "MYCHIKIN", "compiler": "0.8.13", "balance": "-", "txcount": 0, "settings": "", "date": "4/13/2022"}
+{"address": "0x49DCd138CE113D48913e97988de3D08387D9D342", "name": "CurveMetaPoolCodec", "compiler": "0.8.12", "balance": "-", "txcount": 0, "settings": "", "date": "4/13/2022"}
+{"address": "0x048f2228D7Bf6776f99aB50cB1b1eaB4D1d4cA73", "name": "EmissionManager", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 0, "settings": "", "date": "4/13/2022"}
+{"address": "0xbbbd1c7bb0a62b1e6b892bef552cecb4598cba2f", "name": "BillionaireSkullClub", "compiler": "0.8.7", "balance": "-", "txcount": 0, "settings": "", "date": "4/13/2022"}
+{"address": "0xc354a35F98574C76b93FcD0633724AAd66b0613b", "name": "Ops", "compiler": "0.8.12", "balance": "-", "txcount": 0, "settings": "", "date": "4/13/2022"}
+{"address": "0xfBaA1c060dFa2E274E8117f8e497b537fA520704", "name": "TaskTreasuryUpgradable", "compiler": "0.8.12", "balance": "-", "txcount": 0, "settings": "", "date": "4/13/2022"}
+{"address": "0xB2f34fd4C16e656163dADFeEaE4Ae0c1F13b140A", "name": "EIP173ProxyWithCustomReceive", "compiler": "0.8.12", "balance": "-", "txcount": 0, "settings": "", "date": "4/13/2022"}
+{"address": "0xad50463997caa189e9700408050C7c105D364CA6", "name": "OmniRobotics", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 0, "settings": "", "date": "4/12/2022"}
