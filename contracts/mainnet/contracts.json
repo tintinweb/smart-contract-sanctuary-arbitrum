@@ -3257,3 +3257,17 @@
 {"address": "0xfBaA1c060dFa2E274E8117f8e497b537fA520704", "name": "TaskTreasuryUpgradable", "compiler": "0.8.12", "balance": "-", "txcount": 0, "settings": "", "date": "4/13/2022"}
 {"address": "0xB2f34fd4C16e656163dADFeEaE4Ae0c1F13b140A", "name": "EIP173ProxyWithCustomReceive", "compiler": "0.8.12", "balance": "-", "txcount": 0, "settings": "", "date": "4/13/2022"}
 {"address": "0xad50463997caa189e9700408050C7c105D364CA6", "name": "OmniRobotics", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 0, "settings": "", "date": "4/12/2022"}
+{"address": "0x0dEa7e8b0b38D20b2807d657E121430fD55789b0", "name": "onehandcleans", "compiler": "0.8.7", "balance": "-", "txcount": 0, "settings": "", "date": "4/14/2022"}
+{"address": "0xb39bfAD6295724E01E079Ee3aa78a378Eff6dEB0", "name": "AccessControlledOffchainAggregator", "compiler": "0.7.6", "balance": "-", "txcount": 0, "settings": "", "date": "4/14/2022"}
+{"address": "0x077Eed716f2d8f5e74AAba5b2B0102cd60D18340", "name": "OmniToadz", "compiler": "0.8.7", "balance": "-", "txcount": 0, "settings": "", "date": "4/14/2022"}
+{"address": "0xeb2a1f06be4266f534daF6e3b5315AEeCc68Fd2D", "name": "ERC20PresetMinterPauserUpgradeable", "compiler": "0.8.10", "balance": "-", "txcount": 0, "settings": "", "date": "4/14/2022"}
+{"address": "0xE52d9a3CBA458832A65cfa9FC8a74bacAbdeB32A", "name": "ProxyAdmin", "compiler": "0.8.10", "balance": "-", "txcount": 0, "settings": "", "date": "4/14/2022"}
+{"address": "0x00dE155Bc0DA2BeFC10Fe3125A9e4864A13addF4", "name": "RiseToken", "compiler": "0.8.11", "balance": "0 ETH", "txcount": 0, "settings": "", "date": "4/14/2022"}
+{"address": "0x7eCfBaa8742fDf5756DAC92fbc8b90a19b8815bF", "name": "ArbMulticall2", "compiler": "0.8.7", "balance": "-", "txcount": 0, "settings": "", "date": "4/14/2022"}
+{"address": "0x1BC6f62Dd3b41aEA7660183778Fe090a9cac30c7", "name": "OmniOwls", "compiler": "0.8.7", "balance": "-", "txcount": 0, "settings": "", "date": "4/14/2022"}
+{"address": "0xf8eb22e806332c717307a9fd3246220c252a8f1b", "name": "PunksUnchained", "compiler": "0.8.11", "balance": "-", "txcount": 0, "settings": "", "date": "4/14/2022"}
+{"address": "0xc70a4E13C1A5d169EEaC50E410d5D42BB080CbBe", "name": "tinycats", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 0, "settings": "", "date": "4/14/2022"}
+{"address": "0x201414c33648572E848419f7f692aFD587Af1d06", "name": "oApes", "compiler": "0.8.11", "balance": "-", "txcount": 0, "settings": "", "date": "4/14/2022"}
+{"address": "0xF5B2F191817CBadC9ecD0C61718309FBa0FdF99f", "name": "LayerZeroPunks", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 0, "settings": "", "date": "4/13/2022"}
+{"address": "0x43d9c444b43f075e2d18904a0de7d86a4d5b3146", "name": "VaultFactory", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 0, "settings": "", "date": "4/13/2022"}
+{"address": "0xcd9aa053dcc28c87c2fbb3e4d47bc989963ce5a0", "name": "Vault", "compiler": "0.8.13", "balance": "-", "txcount": 0, "settings": "", "date": "4/13/2022"}
