@@ -3336,3 +3336,20 @@
 {"address": "0x3172DB49D4301FB91c1b6019041Fb8686C682bee", "name": "ToadzMinter", "compiler": "0.8.9", "balance": "-", "txcount": 0, "settings": "", "date": "4/14/2022"}
 {"address": "0x1438397Ec21dA4CE0fb549F9f1b4ce26ebB8aE5E", "name": "ToadzMetadata", "compiler": "0.8.9", "balance": "-", "txcount": 0, "settings": "", "date": "4/14/2022"}
 {"address": "0x22E402F7b96EfaDb89D584040a427d432d3C57DE", "name": "Bugz", "compiler": "0.8.9", "balance": "-", "txcount": 0, "settings": "", "date": "4/14/2022"}
+{"address": "0x37f9aE2e0Ea6742b9CAD5AbCfB6bBC3475b3862B", "name": "L2BridgeZap", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 14076, "settings": "", "date": "4/16/2022"}
+{"address": "0xCaAbdD9Cf4b61813D4a52f980d6BC1B713FE66F5", "name": "FixedToken", "compiler": "0.6.12", "balance": "-", "txcount": 0, "settings": "", "date": "4/16/2022"}
+{"address": "0x438a2b1C6c715fb1B051c04CA65755560d8B8d43", "name": "DutchAuction", "compiler": "0.6.12", "balance": "-", "txcount": 0, "settings": "", "date": "4/16/2022"}
+{"address": "0x120140d0c1EBC938befc84840575EcDc5fE55aFe", "name": "Crowdsale", "compiler": "0.6.12", "balance": "-", "txcount": 0, "settings": "", "date": "4/16/2022"}
+{"address": "0x7603A35Af5CF10b113f167D424eb75BB7062C8CE", "name": "BatchAuction", "compiler": "0.6.12", "balance": "-", "txcount": 0, "settings": "", "date": "4/16/2022"}
+{"address": "0xB59C15F277631606e72599EAe9ba997f34F1e7a1", "name": "ImNoOne", "compiler": "0.8.4", "balance": "-", "txcount": 0, "settings": "", "date": "4/16/2022"}
+{"address": "0x3f3a8aa8a6a01b7bf20b1d8a5bbcb310b96ee503", "name": "StarNFTV3", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 0, "settings": "", "date": "4/16/2022"}
+{"address": "0x32cd5Dd1691AFf816B68c0Ba04Ee4871b963cfD6", "name": "INFRSNCS", "compiler": "0.8.4", "balance": "0.07 ETH", "txcount": 0, "settings": "", "date": "4/16/2022"}
+{"address": "0xc9e391cd7cc125079bf2489635757eace596d5a4", "name": "GOKU", "compiler": "0.8.7", "balance": "-", "txcount": 0, "settings": "", "date": "4/16/2022"}
+{"address": "0xFF280045adFf6241dafEa5a22cdBD7F928d5253F", "name": "Land", "compiler": "0.8.7", "balance": "-", "txcount": 0, "settings": "-", "date": "4/16/2022"}
+{"address": "0x3632964d67a0df1ecf5b8bceba01cb04d3b454cc", "name": "GokudoLand", "compiler": "0.8.7", "balance": "-", "txcount": 0, "settings": "", "date": "4/16/2022"}
+{"address": "0x9FE6688e7d4BFbC69fE2727f578B1f1b8c75B930", "name": "CastleDAOBallot", "compiler": "0.8.4", "balance": "-", "txcount": 0, "settings": "", "date": "4/16/2022"}
+{"address": "0xf2333584fc5fb17e6b2e9416ad4b3f5e94afd467", "name": "GokudoParadiseContract", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 0, "settings": "", "date": "4/16/2022"}
+{"address": "0x6f3C0e2D0380aD24489A681fCAaD3C84029e397d", "name": "ClassSetter", "compiler": "0.8.7", "balance": "-", "txcount": 0, "settings": "-", "date": "4/16/2022"}
+{"address": "0x35A443f48b838FB5911601B21B2525653d05CB7b", "name": "Classes", "compiler": "0.8.7", "balance": "-", "txcount": 0, "settings": "-", "date": "4/16/2022"}
+{"address": "0x284F8503a71eBa80f466DA7878E476c71BA9dCDA", "name": "ClanSetter", "compiler": "0.8.7", "balance": "-", "txcount": 0, "settings": "-", "date": "4/16/2022"}
+{"address": "0x7A0043689d076D9b1729DF4c15ea06A138dD3b30", "name": "Clans", "compiler": "0.8.7", "balance": "-", "txcount": 0, "settings": "-", "date": "4/16/2022"}
