@@ -3353,3 +3353,15 @@
 {"address": "0x35A443f48b838FB5911601B21B2525653d05CB7b", "name": "Classes", "compiler": "0.8.7", "balance": "-", "txcount": 0, "settings": "-", "date": "4/16/2022"}
 {"address": "0x284F8503a71eBa80f466DA7878E476c71BA9dCDA", "name": "ClanSetter", "compiler": "0.8.7", "balance": "-", "txcount": 0, "settings": "-", "date": "4/16/2022"}
 {"address": "0x7A0043689d076D9b1729DF4c15ea06A138dD3b30", "name": "Clans", "compiler": "0.8.7", "balance": "-", "txcount": 0, "settings": "-", "date": "4/16/2022"}
+{"address": "0x9273607C6CC52003B40E25ce1A64feED71e84DDE", "name": "SquireQuestingCavern", "compiler": "0.8.11", "balance": "-", "txcount": 0, "settings": "", "date": "4/17/2022"}
+{"address": "0xF4b883107140994f79f09E28E16B1b85f1944a8C", "name": "SquireQuestingMountain", "compiler": "0.8.11", "balance": "-", "txcount": 0, "settings": "", "date": "4/17/2022"}
+{"address": "0x81829cD23D7fdFA02e4FD8Da2621351eF51A2d23", "name": "SquireQuestingTemple", "compiler": "0.8.11", "balance": "-", "txcount": 0, "settings": "", "date": "4/17/2022"}
+{"address": "0xBA2d18Ec141d01bf1e5fEC9Cbef75193EEdCd06D", "name": "SquireQuestingForest", "compiler": "0.8.11", "balance": "-", "txcount": 0, "settings": "", "date": "4/17/2022"}
+{"address": "0x40dfD822D62B88c0950f2c857b9D8D9BE5d79a18", "name": "Squires", "compiler": "0.8.11", "balance": "-", "txcount": 0, "settings": "-", "date": "4/17/2022"}
+{"address": "0xbFfd759b9F7d07ac76797cc13974031Eb23e5757", "name": "PotionProbability", "compiler": "0.8.11", "balance": "-", "txcount": 0, "settings": "", "date": "4/17/2022"}
+{"address": "0x8ee6dc0033fB7142F2B4eF3768eCc9beeA11d143", "name": "TrinketProbability", "compiler": "0.8.11", "balance": "-", "txcount": 0, "settings": "", "date": "4/17/2022"}
+{"address": "0x913dB69145f33Af291F46E980e4c0CaBBfcC27AA", "name": "RingProbability", "compiler": "0.8.11", "balance": "-", "txcount": 0, "settings": "", "date": "4/17/2022"}
+{"address": "0x32A322C7C77840c383961B8aB503c9f45440c81f", "name": "FIEF", "compiler": "0.8.11", "balance": "-", "txcount": 0, "settings": "", "date": "4/17/2022"}
+{"address": "0x94fd843E77fe67A18d52E0AD0C9713C5a9399ef4", "name": "FuseBAMM", "compiler": "0.6.11", "balance": "-", "txcount": 0, "settings": "", "date": "4/17/2022"}
+{"address": "0x1A0a9864e6607e163bB41F831a81D518DFE1cDce", "name": "OmniChicks", "compiler": "0.8.12", "balance": "0.1035 ETH", "txcount": 0, "settings": "", "date": "4/17/2022"}
+{"address": "0xcd32d9ba75a1ebe133f7d097e274f1e5dd41327d", "name": "SuperOmniCockroaches", "compiler": "0.8.7", "balance": "-", "txcount": 0, "settings": "", "date": "4/17/2022"}
