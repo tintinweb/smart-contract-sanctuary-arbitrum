@@ -3365,3 +3365,20 @@
 {"address": "0x94fd843E77fe67A18d52E0AD0C9713C5a9399ef4", "name": "FuseBAMM", "compiler": "0.6.11", "balance": "-", "txcount": 0, "settings": "", "date": "4/17/2022"}
 {"address": "0x1A0a9864e6607e163bB41F831a81D518DFE1cDce", "name": "OmniChicks", "compiler": "0.8.12", "balance": "0.1035 ETH", "txcount": 0, "settings": "", "date": "4/17/2022"}
 {"address": "0xcd32d9ba75a1ebe133f7d097e274f1e5dd41327d", "name": "SuperOmniCockroaches", "compiler": "0.8.7", "balance": "-", "txcount": 0, "settings": "", "date": "4/17/2022"}
+{"address": "0xf7fbe8eec9063aa518d11639565b018468bb4abb", "name": "KOTESquires", "compiler": "0.8.11", "balance": "-", "txcount": 0, "settings": "-", "date": "4/18/2022"}
+{"address": "0x3CFB19B6cFb4fD9D2cd532C7c74CD0cD0Fe7E5b6", "name": "MintSwapCanonicalToken", "compiler": "0.8.9", "balance": "-", "txcount": 0, "settings": "", "date": "4/18/2022"}
+{"address": "0x2FA063182C6f0f953c99aBf46Add4D2C9f6fF61A", "name": "ArbUXRNFT", "compiler": "0.8.4", "balance": "-", "txcount": 0, "settings": "", "date": "4/18/2022"}
+{"address": "0x270d4C1b6F0bB172A9fd628E29530Ca484190013", "name": "L2Pool", "compiler": "0.8.10", "balance": "-", "txcount": 0, "settings": "", "date": "4/18/2022"}
+{"address": "0xD6FA681E22306b0F4E605B979b7c9a1dFa865ade", "name": "PoolConfigurator", "compiler": "0.8.10", "balance": "-", "txcount": 0, "settings": "", "date": "4/18/2022"}
+{"address": "0x794a61358D6845594F94dc1DB02A252b5b4814aD", "name": "InitializableImmutableAdminUpgradeabilityProxy", "compiler": "0.8.10", "balance": "-", "txcount": 0, "settings": "", "date": "4/18/2022"}
+{"address": "0x94dabf4b7c8e49edf2c799357e4ecd5e8c11ce44", "name": "FlashLoanLogic", "compiler": "0.8.10", "balance": "-", "txcount": 0, "settings": "", "date": "4/18/2022"}
+{"address": "0xf329e36C7bF6E5E86ce2150875a84Ce77f477375", "name": "InitializableImmutableAdminUpgradeabilityProxy", "compiler": "0.8.10", "balance": "-", "txcount": 0, "settings": "", "date": "4/18/2022"}
+{"address": "0xdf1a1b60f2d438842916c0adc43748768353ec25", "name": "AggregationRouter", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 293, "settings": "", "date": "4/18/2022"}
+{"address": "0x4fe29c68A162EB6fbeeF85c502c42859D2f5F990", "name": "ETHFeeCollector", "compiler": "0.5.16", "balance": "0 ETH", "txcount": 0, "settings": "", "date": "4/18/2022"}
+{"address": "0x3D39A116f257F2eB6a63ce400197565E18df6919", "name": "ETHFeeCollector", "compiler": "0.5.16", "balance": "-", "txcount": 0, "settings": "", "date": "4/18/2022"}
+{"address": "0x214937a1777e28f188Df0ECf3c53189894ef4C1c", "name": "BAdmin", "compiler": "0.5.16", "balance": "0 ETH", "txcount": 0, "settings": "", "date": "4/18/2022"}
+{"address": "0x90eED2ff2D01b5731353f855290b9E0116F54f53", "name": "SoLItem", "compiler": "0.8.9", "balance": "-", "txcount": 0, "settings": "", "date": "4/18/2022"}
+{"address": "0xd3515617126323ae293A2D503AA1Db54D41D6ea6", "name": "ImbuedSoul", "compiler": "0.8.9", "balance": "-", "txcount": 0, "settings": "", "date": "4/18/2022"}
+{"address": "0x359281D2e16fcFb03FAA5C1a7688542216f35968", "name": "SeedEvolution", "compiler": "0.8.9", "balance": "-", "txcount": 0, "settings": "", "date": "4/18/2022"}
+{"address": "0x2e2071180682Ce6C247B1eF93d382D509F5F6A17", "name": "TransparentUpgradeableProxy", "compiler": "0.8.7", "balance": "-", "txcount": 0, "settings": "", "date": "4/18/2022"}
+{"address": "0xD16f5343FDDD2DcF6A8791e302A204c13069D165", "name": "veSPA_v1", "compiler": "0.8.7", "balance": "-", "txcount": 0, "settings": "", "date": "4/18/2022"}
