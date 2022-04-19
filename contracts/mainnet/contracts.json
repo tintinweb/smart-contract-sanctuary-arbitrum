@@ -3382,3 +3382,27 @@
 {"address": "0x359281D2e16fcFb03FAA5C1a7688542216f35968", "name": "SeedEvolution", "compiler": "0.8.9", "balance": "-", "txcount": 0, "settings": "", "date": "4/18/2022"}
 {"address": "0x2e2071180682Ce6C247B1eF93d382D509F5F6A17", "name": "TransparentUpgradeableProxy", "compiler": "0.8.7", "balance": "-", "txcount": 0, "settings": "", "date": "4/18/2022"}
 {"address": "0xD16f5343FDDD2DcF6A8791e302A204c13069D165", "name": "veSPA_v1", "compiler": "0.8.7", "balance": "-", "txcount": 0, "settings": "", "date": "4/18/2022"}
+{"address": "0x6309A017A0cA726A8D78b9C50E1B984B865697FE", "name": "GaugeSnapshotReceiver", "compiler": "0.8.6", "balance": "-", "txcount": 0, "settings": "", "date": "4/19/2022"}
+{"address": "0xb015ACeEdD478fc497A798Ab45fcED8BdEd08924", "name": "AirnodeRrpV0", "compiler": "0.8.9", "balance": "-", "txcount": 0, "settings": "", "date": "4/19/2022"}
+{"address": "0x944609FF0729435F87Ef429EC155d7539A83B9C8", "name": "RequesterAuthorizerWithAirnode", "compiler": "0.8.9", "balance": "-", "txcount": 0, "settings": "", "date": "4/19/2022"}
+{"address": "0x5aB00E30453EEAd35025A761ED65d51d74574C24", "name": "AccessControlRegistry", "compiler": "0.8.9", "balance": "-", "txcount": 0, "settings": "", "date": "4/19/2022"}
+{"address": "0xb13B67E805A621F58095277cBD98475Da451E739", "name": "MultiChainMirrorGate", "compiler": "0.8.1", "balance": "-", "txcount": 0, "settings": "", "date": "4/19/2022"}
+{"address": "0xe18e891627bef1f64a68355791de143bb9c5bb6a", "name": "omnibots", "compiler": "0.8.11", "balance": "-", "txcount": 0, "settings": "", "date": "4/19/2022"}
+{"address": "0x17F63ee2551C517260E956B0913daa2cDAC301E4", "name": "PerpetualMarketCore", "compiler": "0.7.6", "balance": "-", "txcount": 0, "settings": "", "date": "4/19/2022"}
+{"address": "0xf466a566f6B7145D0e79b3961422B40111623Fd0", "name": "Amm", "compiler": "0.8.2", "balance": "0 ETH", "txcount": 0, "settings": "", "date": "4/19/2022"}
+{"address": "0xb2E780110C0B333203Da7F1fD7dcE2F90A608f3C", "name": "Margin", "compiler": "0.8.2", "balance": "0 ETH", "txcount": 0, "settings": "", "date": "4/19/2022"}
+{"address": "0xEf0e8BA283b209cBBD0F1FbF958a436D180fbeE2", "name": "AshesOfLight", "compiler": "0.8.1", "balance": "-", "txcount": 0, "settings": "", "date": "4/19/2022"}
+{"address": "0x3adf67c8a3be2a212baf077aaba33bde089e801d", "name": "Omnirock", "compiler": "0.8.7", "balance": "-", "txcount": 0, "settings": "", "date": "4/19/2022"}
+{"address": "0x75402bFe5D92B78bc21ECdeDa292EDeB90ddc0e9", "name": "RewardForStaking", "compiler": "0.8.2", "balance": "-", "txcount": 0, "settings": "", "date": "4/19/2022"}
+{"address": "0x2c5a68404a667f531dDb03a87090CeFe64B1CEdd", "name": "NFTRebate", "compiler": "0.8.2", "balance": "-", "txcount": 0, "settings": "", "date": "4/19/2022"}
+{"address": "0x5179D7Ee1B8eCeCb9ECF279b435Bd03f8d3107A6", "name": "BatchSender", "compiler": "0.6.12", "balance": "-", "txcount": 0, "settings": "", "date": "4/19/2022"}
+{"address": "0x38207df68031f6019E780243b3B035f1903Ed560", "name": "FeeTreasury", "compiler": "0.8.2", "balance": "0 ETH", "txcount": 0, "settings": "", "date": "4/19/2022"}
+{"address": "0xebbac1cbc593a5879857dbb78af575222132e65d", "name": "AdContract", "compiler": "0.8.13", "balance": "0.00001 ETH", "txcount": 0, "settings": "-", "date": "4/19/2022"}
+{"address": "0x08587289499dD3683D4041CE976405ad0bcD5C86", "name": "SamuRiseMetadataStateTEST", "compiler": "0.8.13", "balance": "-", "txcount": 0, "settings": "", "date": "4/19/2022"}
+{"address": "0xad4FBAbbf0252D68Fb8E88AD92E6877cBb62a1Ae", "name": "SamuRiseEquipmentTEST", "compiler": "0.8.13", "balance": "-", "txcount": 0, "settings": "", "date": "4/19/2022"}
+{"address": "0x77147626d7ce254b19ae01052b8167a808de4776", "name": "Dev", "compiler": "0.8.7", "balance": "-", "txcount": 0, "settings": "-", "date": "4/19/2022"}
+{"address": "0x8f181b5dabb228a82972eab3932fa16306b8057a", "name": "Simple", "compiler": "0.8.7", "balance": "-", "txcount": 0, "settings": "-", "date": "4/19/2022"}
+{"address": "0xa3e49d899Dd5EBcbc1aE6f2093B0dE1Db5DBe70A", "name": "KromatikaSwapRouter", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 0, "settings": "", "date": "4/19/2022"}
+{"address": "0x7054D002db18a10C31683ec1A8515589C65bb034", "name": "KromatikaSwapRouter", "compiler": "0.7.6", "balance": "-", "txcount": 0, "settings": "", "date": "4/18/2022"}
+{"address": "0x7209d8881a3FD83D1fB94dF76B90bd99aa53bE54", "name": "Moonbears", "compiler": "0.8.11", "balance": "2 ETH", "txcount": 0, "settings": "", "date": "4/18/2022"}
+{"address": "0x394D99c0042dFe9DA59886b1483Ebf677Ee8E45f", "name": "Moonbears", "compiler": "0.8.11", "balance": "-", "txcount": 0, "settings": "", "date": "4/18/2022"}
