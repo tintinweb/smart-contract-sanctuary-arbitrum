@@ -3406,3 +3406,12 @@
 {"address": "0x7054D002db18a10C31683ec1A8515589C65bb034", "name": "KromatikaSwapRouter", "compiler": "0.7.6", "balance": "-", "txcount": 0, "settings": "", "date": "4/18/2022"}
 {"address": "0x7209d8881a3FD83D1fB94dF76B90bd99aa53bE54", "name": "Moonbears", "compiler": "0.8.11", "balance": "2 ETH", "txcount": 0, "settings": "", "date": "4/18/2022"}
 {"address": "0x394D99c0042dFe9DA59886b1483Ebf677Ee8E45f", "name": "Moonbears", "compiler": "0.8.11", "balance": "-", "txcount": 0, "settings": "", "date": "4/18/2022"}
+{"address": "0xA0E1A63E39D2C97d93c79115234c4cdFE6f33067", "name": "AcidCatsNoMint", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 0, "settings": "", "date": "4/20/2022"}
+{"address": "0xC9E46B48c47FE6A807Ad61912bCf278B24A43b53", "name": "CLR", "compiler": "0.7.6", "balance": "-", "txcount": 0, "settings": "", "date": "4/20/2022"}
+{"address": "0x2066264F7A87a6669594c1f041a9aBb47F0365C4", "name": "LMTerminal", "compiler": "0.7.6", "balance": "-", "txcount": 0, "settings": "", "date": "4/20/2022"}
+{"address": "0x62B1a88CCc6BC5e6FF91FB2FCD29Ab4F819b35C6", "name": "RelayTransit", "compiler": "0.8.12", "balance": "-", "txcount": 0, "settings": "", "date": "4/20/2022"}
+{"address": "0x280a7aea073b600a8382cb10616c9028343e9c55", "name": "TokenUriHelper", "compiler": "0.8.0", "balance": "-", "txcount": 0, "settings": "-", "date": "4/20/2022"}
+{"address": "0x8Aa382760BCdCe8644C33e6C2D52f6304A76F5c8", "name": "ReferralReader", "compiler": "0.6.12", "balance": "-", "txcount": 0, "settings": "", "date": "4/20/2022"}
+{"address": "0x4cC06067DeAD6B1Ab1F656C6DC7620F4Cd319fD6", "name": "ToadzMetadata", "compiler": "0.8.9", "balance": "-", "txcount": 0, "settings": "", "date": "4/20/2022"}
+{"address": "0xa3adaa6aad9bdf0aa74ee4eb09f7dcdb27797434", "name": "Amm", "compiler": "0.8.2", "balance": "0 ETH", "txcount": 0, "settings": "", "date": "4/20/2022"}
+{"address": "0x4563c4B3c2c475D19B103C26AaB5eAC62FA741f2", "name": "GaugeSnapshotReceiver", "compiler": "0.8.9", "balance": "-", "txcount": 0, "settings": "", "date": "4/20/2022"}
