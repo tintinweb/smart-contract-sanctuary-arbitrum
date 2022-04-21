@@ -3415,3 +3415,18 @@
 {"address": "0x4cC06067DeAD6B1Ab1F656C6DC7620F4Cd319fD6", "name": "ToadzMetadata", "compiler": "0.8.9", "balance": "-", "txcount": 0, "settings": "", "date": "4/20/2022"}
 {"address": "0xa3adaa6aad9bdf0aa74ee4eb09f7dcdb27797434", "name": "Amm", "compiler": "0.8.2", "balance": "0 ETH", "txcount": 0, "settings": "", "date": "4/20/2022"}
 {"address": "0x4563c4B3c2c475D19B103C26AaB5eAC62FA741f2", "name": "GaugeSnapshotReceiver", "compiler": "0.8.9", "balance": "-", "txcount": 0, "settings": "", "date": "4/20/2022"}
+{"address": "0xdd34346ba8bc2763553311259de9a86ed8ceb9f8", "name": "amoguscontract", "compiler": "0.8.13", "balance": "-", "txcount": 0, "settings": "", "date": "4/21/2022"}
+{"address": "0x325865cfd0b482abdd7cece30c86e8ee8c186dac", "name": "turnips", "compiler": "0.8.7", "balance": "-", "txcount": 0, "settings": "", "date": "4/21/2022"}
+{"address": "0x6Ad427Bbd16f3ff5a0C976a948B86444E43FB13e", "name": "HashBet", "compiler": "0.6.12", "balance": "0.601453953379953381 ETH", "txcount": 0, "settings": "-", "date": "4/21/2022"}
+{"address": "0x0a3bb08b3a15a19b4de82f8acfc862606fb69a2d", "name": "iZUMiBondUSD", "compiler": "0.8.0", "balance": "-", "txcount": 0, "settings": "-", "date": "4/21/2022"}
+{"address": "0x5CA5e03228a3C16EF262d29E588Adb6c2445fDbC", "name": "ERC20V3Factory", "compiler": "0.6.9", "balance": "-", "txcount": 0, "settings": "", "date": "4/21/2022"}
+{"address": "0xC2B9352013Ddc82A1b0CA7A2006dA782c3C064fE", "name": "STokensManager", "compiler": "0.8.9", "balance": "-", "txcount": 0, "settings": "", "date": "4/21/2022"}
+{"address": "0x0264f7600f697696a4750e3bcc608d118271fab7", "name": "NFTDegen", "compiler": "0.8.2", "balance": "-", "txcount": 0, "settings": "", "date": "4/21/2022"}
+{"address": "0xfBd849E6007f9BC3CC2D6Eb159c045B8dc660268", "name": "VotingEscrow", "compiler": "0.8.4", "balance": "-", "txcount": 0, "settings": "", "date": "4/20/2022"}
+{"address": "0x20e48dD8126f121d2b60E558e90619db7e1d9b00", "name": "SamuRiseLand", "compiler": "0.8.13", "balance": "-", "txcount": 0, "settings": "", "date": "4/20/2022"}
+{"address": "0x17286f8a7DD6722109b727AF84f8f5c8F434ECC1", "name": "SamuRiseItems", "compiler": "0.8.13", "balance": "-", "txcount": 0, "settings": "", "date": "4/20/2022"}
+{"address": "0x06E9d5ad82Ac38451334bc9313CA0E40faFb22D6", "name": "Staking", "compiler": "0.8.7", "balance": "-", "txcount": 0, "settings": "", "date": "4/20/2022"}
+{"address": "0xc1a9097ed6bcd613c1658c47ad6ea0b9a8c37846", "name": "uwu", "compiler": "0.8.0", "balance": "-", "txcount": 0, "settings": "", "date": "4/20/2022"}
+{"address": "0xF68C9D34074d82A82fc665b6313dAe58cc71b261", "name": "GaugeSnapshotReceiver", "compiler": "0.8.9", "balance": "-", "txcount": 0, "settings": "", "date": "4/20/2022"}
+{"address": "0x4f7C0bBe210B3a6E124B67C5604CF50a8c695CBe", "name": "VolatilitySurfaceOracle", "compiler": "0.8.12", "balance": "-", "txcount": 0, "settings": "", "date": "4/20/2022"}
+{"address": "0xFfCeD8801FB873a4cdC2304EED9905CF54083ac9", "name": "PoolSell", "compiler": "0.8.12", "balance": "-", "txcount": 0, "settings": "", "date": "4/20/2022"}
