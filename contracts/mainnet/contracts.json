@@ -3430,3 +3430,67 @@
 {"address": "0xF68C9D34074d82A82fc665b6313dAe58cc71b261", "name": "GaugeSnapshotReceiver", "compiler": "0.8.9", "balance": "-", "txcount": 0, "settings": "", "date": "4/20/2022"}
 {"address": "0x4f7C0bBe210B3a6E124B67C5604CF50a8c695CBe", "name": "VolatilitySurfaceOracle", "compiler": "0.8.12", "balance": "-", "txcount": 0, "settings": "", "date": "4/20/2022"}
 {"address": "0xFfCeD8801FB873a4cdC2304EED9905CF54083ac9", "name": "PoolSell", "compiler": "0.8.12", "balance": "-", "txcount": 0, "settings": "", "date": "4/20/2022"}
+{"address": "0x72527c165ed5f860b9a568c385ca2465db82eeb5", "name": "Multiplexer", "compiler": "0.4.26", "balance": "-", "txcount": 0, "settings": "-", "date": "4/25/2022"}
+{"address": "0x2F0AF8eC2f5893392843a0F647A30A141dba9DaF", "name": "Vyper_contract", "compiler": "vyper:0.2.15", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "4/25/2022"}
+{"address": "0x7e79c121a912ebebb63af676b4f277fb1701970b", "name": "METAKAYS", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 0, "settings": "", "date": "4/25/2022"}
+{"address": "0x7A74140744b494FF456EFb16477852057eC16Fac", "name": "Election", "compiler": "0.8.7", "balance": "-", "txcount": 0, "settings": "", "date": "4/25/2022"}
+{"address": "0x4bc8ea84bdc3ebb01d495e5d1605d4f082aeb5d7", "name": "BatchNFTMinter", "compiler": "0.8.13", "balance": "-", "txcount": 0, "settings": "", "date": "4/24/2022"}
+{"address": "0xad337077480134028b7c68af290e891ce28076eb", "name": "HedgeyOTC", "compiler": "0.8.13", "balance": "-", "txcount": 0, "settings": "", "date": "4/24/2022"}
+{"address": "0x2AA5d15Eb36E5960d056e8FeA6E7BB3e2a06A351", "name": "Hedgeys", "compiler": "0.8.13", "balance": "-", "txcount": 0, "settings": "", "date": "4/24/2022"}
+{"address": "0x44b78525eCB574d1D5ABb74d6d5F34C915440488", "name": "OmniFrogs", "compiler": "0.8.4", "balance": "0.003 ETH", "txcount": 0, "settings": "", "date": "4/24/2022"}
+{"address": "0x4cE3F32C1091a57e2B475F660fba211fF7815c18", "name": "OmniMonke", "compiler": "0.8.4", "balance": "-", "txcount": 0, "settings": "", "date": "4/24/2022"}
+{"address": "0xd5856C0b1e62cCD6D430EF5B7403B3474E8070d6", "name": "GaugeOracle", "compiler": "0.8.9", "balance": "-", "txcount": 0, "settings": "", "date": "4/24/2022"}
+{"address": "0x329584Ed86E0604b5818c4F9B54Aca729DCDa98D", "name": "GaugeSnapshotReceiver", "compiler": "0.8.9", "balance": "-", "txcount": 0, "settings": "", "date": "4/24/2022"}
+{"address": "0xD3228e099E6596988Ae0b73EAa62591c875e5693", "name": "StubWithdrawer", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 0, "settings": "", "date": "4/24/2022"}
+{"address": "0xdfCA0417158E05d4C9298970237dC8F49e873919", "name": "DEIPool", "compiler": "0.8.13", "balance": "-", "txcount": 0, "settings": "", "date": "4/24/2022"}
+{"address": "0x70De3200eFF47A1Ee1FC9A6B588799533cC5f49c", "name": "DEIPoolLibrary", "compiler": "0.8.13", "balance": "-", "txcount": 0, "settings": "", "date": "4/24/2022"}
+{"address": "0x08654c8f419b29840a2ec6522ad2ed99ab850ee1", "name": "MuonV02", "compiler": "0.8.0", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "4/24/2022"}
+{"address": "0x4f54b79b35a9aa99afaf3f9d4f51e8780838fcbc", "name": "MultiSenderV1", "compiler": "0.8.0", "balance": "0 ETH", "txcount": 0, "settings": "", "date": "4/24/2022"}
+{"address": "0x96C0e74D2f519dae4b431d99b9bb9Ac56895D78D", "name": "Registry", "compiler": "0.8.0", "balance": "0 ETH", "txcount": 0, "settings": "", "date": "4/24/2022"}
+{"address": "0x730f12bf77049380020322dD9980227e800328c8", "name": "GlpVault", "compiler": "0.7.6", "balance": "-", "txcount": 0, "settings": "", "date": "4/24/2022"}
+{"address": "0x82aa9351CD61467c5c450727293865a5A047A908", "name": "MvxPresaleGMX", "compiler": "0.8.9", "balance": "-", "txcount": 0, "settings": "", "date": "4/23/2022"}
+{"address": "0xDF2347AaC568c5d6147CDC9ba8AeC25a30886C20", "name": "VolatilityOracle", "compiler": "0.8.9", "balance": "-", "txcount": 0, "settings": "", "date": "4/23/2022"}
+{"address": "0x2B055D25A5Fa6d493C53c178480E962Aabaa9255", "name": "EthWeeklyCallsSsovV3", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 0, "settings": "", "date": "4/23/2022"}
+{"address": "0x822d167C1CCb99bA01434aCe59d13449Cd109C08", "name": "EthStakingStrategyV1", "compiler": "0.8.9", "balance": "-", "txcount": 0, "settings": "", "date": "4/23/2022"}
+{"address": "0x63F4551A979C3766CA51735822bA6354e541C689", "name": "ToadzBalance", "compiler": "0.8.9", "balance": "-", "txcount": 0, "settings": "", "date": "4/23/2022"}
+{"address": "0x1432009101ad09012522B30fBe3aab5893db8D7D", "name": "World", "compiler": "0.8.9", "balance": "-", "txcount": 0, "settings": "", "date": "4/23/2022"}
+{"address": "0xb9a2867a5050eab60A7b2E347DA2a750e7f23Bd3", "name": "HuntingGrounds", "compiler": "0.8.9", "balance": "-", "txcount": 0, "settings": "", "date": "4/23/2022"}
+{"address": "0x965557a30Cc82c44e7a6D27d8863ead184A51e8F", "name": "Adventure", "compiler": "0.8.9", "balance": "-", "txcount": 0, "settings": "", "date": "4/23/2022"}
+{"address": "0xbe358cbFC33C64167C6Bd0fB466DAD0164C37028", "name": "SmolFarm", "compiler": "0.8.9", "balance": "-", "txcount": 0, "settings": "", "date": "4/23/2022"}
+{"address": "0x78b8Be05e7f26a7Eb82cf0CFaf4C8bcA562699b7", "name": "ponzu_arbi", "compiler": "0.8.7", "balance": "-", "txcount": 0, "settings": "", "date": "4/23/2022"}
+{"address": "0x6b88b564efc6fce6515e73b0b1dab5c4f10a1054", "name": "BalanceChecker", "compiler": "0.4.26", "balance": "-", "txcount": 0, "settings": "", "date": "4/23/2022"}
+{"address": "0x61ed79DC3265aCf050434893D78adD20D8A504f6", "name": "Disperse", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 0, "settings": "", "date": "4/23/2022"}
+{"address": "0x4C4287b07d293E361281bCeEe8715c8CDeB64E34", "name": "DistributionScheduler", "compiler": "0.7.1", "balance": "-", "txcount": 0, "settings": "", "date": "4/23/2022"}
+{"address": "0x3344ae78b00d0d92454b0efae5285703a34ca321", "name": "InstaAaveV3ResolverArbitrum", "compiler": "0.8.6", "balance": "-", "txcount": 0, "settings": "", "date": "4/22/2022"}
+{"address": "0xd4684f5cC2CB2950974d5884368587ab43E7e0Fd", "name": "InstaFlashResolverArbitrum", "compiler": "0.8.4", "balance": "-", "txcount": 0, "settings": "", "date": "4/22/2022"}
+{"address": "0x64ad1B923c187c2549610a578eC0753946A8b922", "name": "Flashloan", "compiler": "0.8.4", "balance": "-", "txcount": 0, "settings": "", "date": "4/22/2022"}
+{"address": "0x45d86E0dB60c4AEE3dFea312d8F4b5eE87E4886a", "name": "CityClashTowers", "compiler": "0.8.4", "balance": "-", "txcount": 0, "settings": "", "date": "4/22/2022"}
+{"address": "0xF924981CFD341Fe3f3417f77696e35b68CC6d1Fa", "name": "SwapsImplUniswapV3_ETH", "compiler": "0.5.17", "balance": "-", "txcount": 0, "settings": "", "date": "4/22/2022"}
+{"address": "0xaCF63E56fd08970b43401492a02F6F38B6635C91", "name": "ONFT", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 0, "settings": "", "date": "4/22/2022"}
+{"address": "0x90343bB7E3d0992e03F6c80B92a5D44664e79a64", "name": "DolomiteAmmPair", "compiler": "0.5.16", "balance": "0 ETH", "txcount": 0, "settings": "", "date": "4/22/2022"}
+{"address": "0xA526B730B96d0ADC11B206560DE19760f12737c4", "name": "DepositWithdrawalProxy", "compiler": "0.5.16", "balance": "-", "txcount": 0, "settings": "", "date": "4/22/2022"}
+{"address": "0x07e323C9303B5646EA265E55d826c88625Da779a", "name": "SimpleFeeOwner", "compiler": "0.5.16", "balance": "-", "txcount": 0, "settings": "", "date": "4/22/2022"}
+{"address": "0x79C666093972bDCd77EFB350b2f88b42d0de1394", "name": "DolomiteAmmFactory", "compiler": "0.5.16", "balance": "0 ETH", "txcount": 0, "settings": "", "date": "4/22/2022"}
+{"address": "0xC47e015830E775EC932BCcE8CFC9452f5D76f4Bd", "name": "DolomiteAmmRouterProxy", "compiler": "0.5.16", "balance": "-", "txcount": 0, "settings": "", "date": "4/22/2022"}
+{"address": "0xE6B3895F9A7F81909ddE224Fa2582869736dFD5F", "name": "LiquidatorProxyV1WithAmm", "compiler": "0.5.16", "balance": "-", "txcount": 0, "settings": "", "date": "4/22/2022"}
+{"address": "0xDda7d883B19536823ccD6d16F0b14d9ba1FAB581", "name": "LiquidatorProxyV1", "compiler": "0.5.16", "balance": "-", "txcount": 0, "settings": "", "date": "4/22/2022"}
+{"address": "0x6Da4cfC73590226868Ce13C6155196f8e6BBC427", "name": "SignedOperationProxy", "compiler": "0.5.16", "balance": "-", "txcount": 0, "settings": "", "date": "4/22/2022"}
+{"address": "0x027DB2781590972D65e7ACC7Aa3D002Ba16B6Fc3", "name": "PayableProxy", "compiler": "0.5.16", "balance": "-", "txcount": 0, "settings": "", "date": "4/22/2022"}
+{"address": "0x0d64b6C7E51843c053e5AE9A92f88B0A81DCD8Dc", "name": "Expiry", "compiler": "0.5.16", "balance": "-", "txcount": 0, "settings": "", "date": "4/22/2022"}
+{"address": "0xe6f14Dbf3d9c65621c639051b66FCD746E552728", "name": "TransferProxy", "compiler": "0.5.16", "balance": "-", "txcount": 0, "settings": "", "date": "4/22/2022"}
+{"address": "0x6a76986201E1906eb8d887Bb4Ad74b55888617af", "name": "DolomiteMargin", "compiler": "0.5.16", "balance": "-", "txcount": 0, "settings": "", "date": "4/22/2022"}
+{"address": "0x2A50efa8D04D84ee1Aa285e035a97d9e1f1d3431", "name": "AdminImpl", "compiler": "0.5.16", "balance": "-", "txcount": 0, "settings": "", "date": "4/22/2022"}
+{"address": "0x8007d1Ad7D73a9Ef93C55b3AfB21861Bcb32e02c", "name": "OperationImpl", "compiler": "0.5.16", "balance": "-", "txcount": 0, "settings": "", "date": "4/22/2022"}
+{"address": "0xFCe308e5427071876aefA83e31c53985862956c4", "name": "CallImpl", "compiler": "0.5.16", "balance": "-", "txcount": 0, "settings": "", "date": "4/22/2022"}
+{"address": "0x452cA7b561f9c9Af3f77c2d93331a0e0566DEE59", "name": "LiquidateOrVaporizeImpl", "compiler": "0.5.16", "balance": "-", "txcount": 0, "settings": "", "date": "4/22/2022"}
+{"address": "0x7D157fBAaEDc920BCC4A15Dc94A5F10142A19F58", "name": "TradeImpl", "compiler": "0.5.16", "balance": "-", "txcount": 0, "settings": "", "date": "4/22/2022"}
+{"address": "0xf691B87AF8960e7Dc70BC7636A72B850144eEfA4", "name": "TransferImpl", "compiler": "0.5.16", "balance": "-", "txcount": 0, "settings": "", "date": "4/22/2022"}
+{"address": "0xA8C90016c476540Cb0103E31a98777251e435da5", "name": "WithdrawalImpl", "compiler": "0.5.16", "balance": "-", "txcount": 0, "settings": "", "date": "4/22/2022"}
+{"address": "0x631FAFbfEaF3984E0Ab34a4bE1a74fA2e9060F60", "name": "DepositImpl", "compiler": "0.5.16", "balance": "-", "txcount": 0, "settings": "", "date": "4/22/2022"}
+{"address": "0xf2ff9b585a2141bb56eb8e2a49c272cb408412e3", "name": "OmniPenguins", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 0, "settings": "", "date": "4/22/2022"}
+{"address": "0x5bF946D5D72D5F6dbe02Be9118F37Cf394315d1a", "name": "Staking", "compiler": "0.8.7", "balance": "-", "txcount": 0, "settings": "", "date": "4/22/2022"}
+{"address": "0xe5547938f6c2b07ae46f0676e3dab0a9f6f1cfd2", "name": "SHO", "compiler": "0.8.7", "balance": "-", "txcount": 0, "settings": "", "date": "4/22/2022"}
+{"address": "0xad934f56bbe66c418edead15b846397a3270175c", "name": "Beast", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 0, "settings": "-", "date": "4/22/2022"}
+{"address": "0x4336D53241bEC93cd25cD0b91a8Bd73Ddbd0D23E", "name": "ArbiDudesDutchAuctionV2", "compiler": "0.8.4", "balance": "-", "txcount": 0, "settings": "-", "date": "4/22/2022"}
+{"address": "0xEa5755fFBA14683853f1E212F2AeCa928Be4815E", "name": "SmolFarm", "compiler": "0.8.9", "balance": "-", "txcount": 0, "settings": "", "date": "4/21/2022"}
+{"address": "0x3683484F1b2998457840529b3Afbb0F4278d15EC", "name": "SmolFarm", "compiler": "0.8.9", "balance": "-", "txcount": 0, "settings": "", "date": "4/21/2022"}
