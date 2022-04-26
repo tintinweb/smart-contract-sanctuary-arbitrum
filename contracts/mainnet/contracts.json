@@ -3503,3 +3503,26 @@
 {"address": "0x954cf52a10e3618a4ddec4141d22bbe251537606", "name": "Storage", "compiler": "0.8.13", "balance": "-", "txcount": 0, "settings": "-", "date": "4/25/2022"}
 {"address": "0xC53e6d7018e2D10EbEd643302567f8dE752804fB", "name": "StargateFeeLibraryV02", "compiler": "0.7.6", "balance": "-", "txcount": 0, "settings": "", "date": "4/25/2022"}
 {"address": "0xb328c2C62E83D3a179646b5c7284A99182735241", "name": "Treasury", "compiler": "0.7.6", "balance": "-", "txcount": 0, "settings": "", "date": "4/25/2022"}
+{"address": "0xeb6276fd4d8b05104aef4246d84d7840cb964cc8", "name": "MSDepositWrapper", "compiler": "0.5.16", "balance": "0 ETH", "txcount": 0, "settings": "", "date": "4/26/2022"}
+{"address": "0xC7c5BcC72153708D1212579805954922277bF4FF", "name": "BuildABuddy", "compiler": "0.8.7", "balance": "-", "txcount": 0, "settings": "", "date": "4/26/2022"}
+{"address": "0xbbcd233da5DC6E7552FfBC20184A7D26d19DF8f0", "name": "GaugeOracle", "compiler": "0.8.9", "balance": "-", "txcount": 0, "settings": "", "date": "4/26/2022"}
+{"address": "0xdEA0414646098DA9E844404c37C6B50F020dCafF", "name": "SamuRiseMetadataStateV2", "compiler": "0.8.13", "balance": "-", "txcount": 0, "settings": "", "date": "4/26/2022"}
+{"address": "0x854958e1b0a0b9dfacecffa8c6b3fd87fe644aa5", "name": "GirthyGregNft", "compiler": "0.8.7", "balance": "-", "txcount": 0, "settings": "", "date": "4/26/2022"}
+{"address": "0x998e7550dd3c437740b09504efe12efea3551846", "name": "HelloAuthor", "compiler": "0.8.10", "balance": "-", "txcount": 0, "settings": "-", "date": "4/26/2022"}
+{"address": "0xa3AE4e21927a79F8f3A148C99fEBa55857C1F7c0", "name": "xNFTP", "compiler": "0.8.13", "balance": "-", "txcount": 0, "settings": "-", "date": "4/26/2022"}
+{"address": "0x5AC1719fA0af073E5222fc33EeE4145A41f6Ed66", "name": "testreadcontract123456", "compiler": "0.8.7", "balance": "-", "txcount": 0, "settings": "", "date": "4/26/2022"}
+{"address": "0xce863e9e39059ce3edde8171d24e65c6da54cbf2", "name": "testreadcontract123", "compiler": "0.8.7", "balance": "-", "txcount": 0, "settings": "", "date": "4/26/2022"}
+{"address": "0xDdA51a4585545FBF1169393C8F39686B9838C693", "name": "Crystal", "compiler": "0.8.9", "balance": "-", "txcount": 0, "settings": "", "date": "4/26/2022"}
+{"address": "0x59203a0d80AF78A4392BB2479308E643c8384D18", "name": "Socket", "compiler": "0.8.11", "balance": "-", "txcount": 0, "settings": "", "date": "4/26/2022"}
+{"address": "0x15B45b996139699e9Bda87CFf0894aC34Fa71841", "name": "SmartAccountFactory", "compiler": "0.8.11", "balance": "-", "txcount": 0, "settings": "-", "date": "4/26/2022"}
+{"address": "0x4ebc8B53188997698A05311750974a29510e9fc9", "name": "SmartAccountBeacon", "compiler": "0.8.11", "balance": "-", "txcount": 0, "settings": "", "date": "4/26/2022"}
+{"address": "0x5F75987EF9ab33F475ff238eB77ebC698B2cA71F", "name": "SmartAccount", "compiler": "0.8.11", "balance": "-", "txcount": 0, "settings": "-", "date": "4/26/2022"}
+{"address": "0x19AD2c8A230cA7F470c9065ac53c6326872292F9", "name": "Registry", "compiler": "0.8.11", "balance": "-", "txcount": 0, "settings": "-", "date": "4/26/2022"}
+{"address": "0x04FDed83dA7a01A1548B8D9D64F1ab4986E096A2", "name": "Curve", "compiler": "0.8.11", "balance": "-", "txcount": 0, "settings": "", "date": "4/26/2022"}
+{"address": "0xC786a5e0e597b702aC5F4b26A17519d38014469a", "name": "Config", "compiler": "0.8.11", "balance": "-", "txcount": 0, "settings": "-", "date": "4/26/2022"}
+{"address": "0x3E92ba32Dc3C3D240DbcE797ccAadf1BE09165EF", "name": "OptimizedTransparentUpgradeableProxy", "compiler": "0.7.6", "balance": "-", "txcount": 0, "settings": "", "date": "4/26/2022"}
+{"address": "0xe46c7ef98fe15c9e8360b24e6f3c9d5bb26b3676", "name": "LlamaPay", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 0, "settings": "", "date": "4/26/2022"}
+{"address": "0xC21d1416cb92112C054D83Aadd006e184722d50F", "name": "LlamaPayFactory", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 0, "settings": "", "date": "4/26/2022"}
+{"address": "0xbA01A97c074987B38749107af25F0414cF9566B8", "name": "MRPP", "compiler": "0.8.10", "balance": "-", "txcount": 0, "settings": "", "date": "4/26/2022"}
+{"address": "0x8625CdED52adC98B9d8b91631a3121C2556d16EC", "name": "METADATA", "compiler": "0.8.10", "balance": "-", "txcount": 0, "settings": "-", "date": "4/26/2022"}
+{"address": "0x233332a01Ebf20f770883ebff68374b015AccB9C", "name": "CauldronV3", "compiler": "0.6.12", "balance": "-", "txcount": 0, "settings": "", "date": "4/26/2022"}
