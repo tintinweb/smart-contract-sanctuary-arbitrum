@@ -3526,3 +3526,13 @@
 {"address": "0xbA01A97c074987B38749107af25F0414cF9566B8", "name": "MRPP", "compiler": "0.8.10", "balance": "-", "txcount": 0, "settings": "", "date": "4/26/2022"}
 {"address": "0x8625CdED52adC98B9d8b91631a3121C2556d16EC", "name": "METADATA", "compiler": "0.8.10", "balance": "-", "txcount": 0, "settings": "-", "date": "4/26/2022"}
 {"address": "0x233332a01Ebf20f770883ebff68374b015AccB9C", "name": "CauldronV3", "compiler": "0.6.12", "balance": "-", "txcount": 0, "settings": "", "date": "4/26/2022"}
+{"address": "0xC38d4423efaD7D673b0cD47656ed33F8c15c6a57", "name": "AccessControlledOffchainAggregator", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 4, "settings": "", "date": "4/27/2022"}
+{"address": "0x7B9845A634822c543F5Ce544Dd7D7797B79a06b8", "name": "AccessControlledOffchainAggregator", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 4, "settings": "", "date": "4/27/2022"}
+{"address": "0xA331D84eC860Bf466b4CdCcFb4aC09a1B43F3aE6", "name": "Authorizer", "compiler": "0.7.1", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "4/27/2022"}
+{"address": "0x42448fDDCec02124cf6dB19a9f91Dea7bB0e88e5", "name": "JonesERC20VaultV3", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "4/27/2022"}
+{"address": "0x1F8B6F7eaa0420f8CF827E18425b4F09074538E7", "name": "KyberSwapV2", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "4/27/2022"}
+{"address": "0xfDc94F5eD9A0a533E53688f3FcEc406516FF7F29", "name": "BooomToken", "compiler": "0.8.11", "balance": "0 ETH", "txcount": 8, "settings": "", "date": "4/27/2022"}
+{"address": "0x0C8e5199e57b8563b1916c52728D13553abc5a10", "name": "ToadzMinter", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "4/27/2022"}
+{"address": "0x2c07bc934974BbF413a4a4CeDA98713DCb8d9e16", "name": "RewardDistributor_v1", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 51, "settings": "", "date": "4/27/2022"}
+{"address": "0xa97244676D6e5C3ef4E9C5Df4212C6B969d841BA", "name": "UniProxy", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "4/27/2022"}
+{"address": "0x66CD859053c458688044d816117D5Bdf42A56813", "name": "HypeRegistry", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "4/27/2022"}
