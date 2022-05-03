@@ -3651,3 +3651,16 @@
 {"address": "0x7487C19df56B7ea764Fc269468B5d3014565052f", "name": "SsovV3Wrapper", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "5/2/2022"}
 {"address": "0x791ca79DC3e1522102737a473e9d2afA3d441255", "name": "GenericVault", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "5/1/2022"}
 {"address": "0xe1853c95624e36b1d1d1f8b9dde82c0ad4d28d4f", "name": "ElkStrategy", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "5/1/2022"}
+{"address": "0x36a40e0e1581f9a5a6d6b52f5d064f5c8031068f", "name": "KaliDAOcrowdsale", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "5/3/2022"}
+{"address": "0x7b00d124fc98107ff97fac5d37493e1784bb5c8e", "name": "InstaDSAPowerResolver", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "5/3/2022"}
+{"address": "0x5745f1eb73a45fc4abb2d9f243b148a6ae20622e", "name": "KaliAccessManager", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "5/3/2022"}
+{"address": "0x62Cd928B16b7A92101C3091F5136fd9bb017870A", "name": "EvoBridgeV2", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 0, "settings": "", "date": "5/3/2022"}
+{"address": "0x9983D8cDEAf7872501628229d311E2F7Df396aDd", "name": "EvoProxy", "compiler": "0.8.13", "balance": "0.577 ETH", "txcount": 5, "settings": "", "date": "5/3/2022"}
+{"address": "0xe1C367e2b576Ac421a9f46C9cC624935730c36aa", "name": "Arbitrum_SpokePool", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "5/3/2022"}
+{"address": "0x1E04370d15790a7182fC2A676748d65B5CF2F3d5", "name": "InstantDistributionAgreementV1", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "5/3/2022"}
+{"address": "0x594b483fc7f11df704b331a320613530353c4f3c", "name": "SlotsBitmapLibrary", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "5/3/2022"}
+{"address": "0x61ee7fb0d7883a694d58a95b84b78a8da7fa12fb", "name": "ConstantFlowAgreementV1", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "5/3/2022"}
+{"address": "0x332f0950E42FFFf6Cbc0BAF5f0820E5fEe235eCd", "name": "SuperToken", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 0, "settings": "", "date": "5/3/2022"}
+{"address": "0xd2d9d2e89d5e1f77f78ed21f83185b898142bc6f", "name": "SuperTokenFactory", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "5/3/2022"}
+{"address": "0x17a87ad539f576a4bc4e0864022422d3aa8f2ba4", "name": "Superfluid", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "5/3/2022"}
+{"address": "0xa1BF3a289D6fB46411B9Bc974b2b6dA7f8ea60D5", "name": "Toadz", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "5/3/2022"}
