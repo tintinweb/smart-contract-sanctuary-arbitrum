@@ -3721,3 +3721,9 @@
 {"address": "0x5dd5510334fe9bb4ace396d4a9c8607aa27b06f4", "name": "EtnStake", "compiler": "0.6.6", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "5/5/2022"}
 {"address": "0x491fda2291dc5b462b83a2923aaebbd9874b1203", "name": "EtnOffMarket", "compiler": "0.6.6", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "5/5/2022"}
 {"address": "0x796aa66f965a663016efd6731f4724c0a8e80314", "name": "ArbiPunk", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 64, "settings": "", "date": "5/5/2022"}
+{"address": "0x2a7f56a631a608fd384dbb4d2fafd5398cb8df7b", "name": "TozokuNFT", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 9, "settings": "", "date": "5/6/2022"}
+{"address": "0x843B66a06a4F00C0703fd2aE2e67C9399f7FAD92", "name": "CrossChainCanonicalGALCX", "compiler": "0.8.11", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "5/6/2022"}
+{"address": "0x9d4C27802238c96270bD3913E5DbbaDBa92715E1", "name": "CrossChainCanonicalAlchemicTokenV2", "compiler": "0.8.11", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "5/6/2022"}
+{"address": "0xDFF1091149bE811aDB2e5FE0fB48DBa8DcE5a755", "name": "ConnectV2AaveV3ImportArbitrum", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "5/5/2022"}
+{"address": "0x1C478220c520a20924295E2325D0cE96ff64dCA6", "name": "TransparentUpgradeableProxy", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 11, "settings": "", "date": "5/5/2022"}
+{"address": "0xb30ec5d733ab354ad031c6dd217fc71ff31ff7be", "name": "SquireQuestingForest", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "5/5/2022"}
