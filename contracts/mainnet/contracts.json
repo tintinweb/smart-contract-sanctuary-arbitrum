@@ -3745,3 +3745,7 @@
 {"address": "0xf67ef5e77b350a81dcba5430bc8be876eda8d591", "name": "Unitroller", "compiler": "0.5.16", "balance": "0 ETH", "txcount": 38, "settings": "", "date": "5/6/2022"}
 {"address": "0x5cab5ea2e616d9d8ed89b3420540f21cc5ac7698", "name": "CErc20Delegator", "compiler": "0.5.16", "balance": "0 ETH", "txcount": 28, "settings": "", "date": "5/6/2022"}
 {"address": "0x55e5f6e48fd4715e1c05b9dafa5cfd0b387425ee", "name": "CWrappedNativeDelegator", "compiler": "0.5.16", "balance": "0 ETH", "txcount": 20, "settings": "", "date": "5/6/2022"}
+{"address": "0x6A50a0181B3dB71f485b9BC512CF2c10F2c2889A", "name": "XferFactory", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 5, "settings": "", "date": "5/8/2022"}
+{"address": "0x0485954f55efDa230F9027ffDE40466467965610", "name": "CLR", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "5/8/2022"}
+{"address": "0x5c31E2d1c611d062beFdf3883AdE05a32c52b9Cb", "name": "ConnectV2AaveV3ImportPermitArbitrum", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "5/8/2022"}
+{"address": "0x7774A0DF035513A31a9E975F45B803C99Bc75e8c", "name": "Adventure000", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 6, "settings": "", "date": "5/8/2022"}
