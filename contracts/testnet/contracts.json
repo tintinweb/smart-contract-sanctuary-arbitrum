@@ -3712,3 +3712,11 @@
 {"address": "0x38C53C9e358Aa8B5C95CE36e77816F789788D97B", "name": "MasterChef", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 4, "settings": "", "date": "5/8/2022"}
 {"address": "0x0516f587ac430E2d871dF8ab7157606773284A30", "name": "MockToken", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 4, "settings": "", "date": "5/8/2022"}
 {"address": "0x148F51F848131E257399Fffe23960e70Bc4600c1", "name": "MasterChef", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "5/8/2022"}
+{"address": "0x373ae2E24a153587ea08619223DC49aa3e9f5EFf", "name": "SwapAndStakeV3", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 3, "settings": "", "date": "5/10/2022"}
+{"address": "0xbb681d77506df5CA21D2214ab3923b4C056aa3e2", "name": "DeterministicFactory", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "5/9/2022"}
+{"address": "0x6AC89E733689d7B4f8E36da456bC813C7623B058", "name": "ReactorManager", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "5/9/2022"}
+{"address": "0x4986C13Be9226B01aC2D2294cA58287FF0283d94", "name": "ReactorMinter", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "5/9/2022"}
+{"address": "0x5016d4b017859B185Eca5155BB73C43FC5893eba", "name": "Reactor", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "5/9/2022"}
+{"address": "0x65e4C60c575CB68EA449D379e7B4F89E8eC39059", "name": "Router", "compiler": "0.8.2", "balance": "0 ETH", "txcount": 468, "settings": "", "date": "5/9/2022"}
+{"address": "0x1acD5372e90De9fD47c5AB00De44E19D17ffB989", "name": "Deployer", "compiler": "0.5.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "5/9/2022"}
+{"address": "0x42410B07978Dbec310B6d78451C3aAEF5c8066b6", "name": "FakeDAI", "compiler": "0.5.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "5/9/2022"}
