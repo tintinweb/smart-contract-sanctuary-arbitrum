@@ -3845,3 +3845,7 @@
 {"address": "0x27b1f3ef72F6279F0439aCf19cbcbfAB8fD462D9", "name": "CustomOracleWrapper", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "5/10/2022"}
 {"address": "0xCA5EC836D9d3926e3E38b20a055815E10aF6c807", "name": "ChainlinkWrapper", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "5/10/2022"}
 {"address": "0x2F0AF8eC2f5893392843a0F647A30A141dba9DaF", "name": "Vyper_contract", "compiler": "vyper:0.2.15", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "4/25/2022"}
+{"address": "0x878c410028e3830f1fe03c428ff95012111ae1f1", "name": "ConnectV2HopArbitrum", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "5/11/2022"}
+{"address": "0x34c1acab84a5c7fdf7815ff1140aacb62cfa4acb", "name": "Trustnodes", "compiler": "0.4.26", "balance": "0 ETH", "txcount": 2, "settings": "-", "date": "5/11/2022"}
+{"address": "0xf33Eb640773827AFBbB886Fa2d60B071d51D2D85", "name": "mSpellReporterManual", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "5/11/2022"}
+{"address": "0x648Af26592C7425447B8EEe647F4106b97a27793", "name": "mSpellReporterManual", "compiler": "0.8.10", "balance": "0.218676622434162216 ETH", "txcount": 2, "settings": "", "date": "5/11/2022"}
