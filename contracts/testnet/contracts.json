@@ -3875,3 +3875,6 @@
 {"address": "0x14cf2b80ed71580b619017597eaf7bfe85be6ed9", "name": "ItemData", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "5/14/2022"}
 {"address": "0x6DD7A087124F19c4bDb1A58dfEf7f8e7507fDC5d", "name": "SquireQuestingMountain", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "5/14/2022"}
 {"address": "0x1FD64DaF7057A6dcEa33621CFB3E2E1Fce26E8E0", "name": "SquireQuestingCavern", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "5/14/2022"}
+{"address": "0x125954BB00818385505E4484c12373af0f4352C0", "name": "PriceOracle", "compiler": "0.8.2", "balance": "0 ETH", "txcount": 5, "settings": "", "date": "5/16/2022"}
+{"address": "0x8783839eF81df529b29a663eBC1B32cB0CBf3C3b", "name": "PriceOracle", "compiler": "0.8.2", "balance": "0 ETH", "txcount": 4, "settings": "", "date": "5/16/2022"}
+{"address": "0x3De6dB617e9B65E4c202840ef7bF572d69a823c5", "name": "PriceOracle", "compiler": "0.8.2", "balance": "0 ETH", "txcount": 5, "settings": "", "date": "5/16/2022"}
