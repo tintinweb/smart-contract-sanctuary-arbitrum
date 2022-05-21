@@ -4054,3 +4054,15 @@
 {"address": "0xE7bca579E865Ad47a4Ed105c2463115188430317", "name": "DpxStaker", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "5/20/2022"}
 {"address": "0xC22885e06cd8507c5c74a948C59af853AEd1Ea5C", "name": "AnyswapV6ERC20", "compiler": "0.8.14", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "5/20/2022"}
 {"address": "0xd8d8e95bcdd58d9bc10c4bf27e75f6879e41e0d3", "name": "SRTickets", "compiler": "0.8.14", "balance": "0.049655391582418018 ETH", "txcount": 14, "settings": "", "date": "5/20/2022"}
+{"address": "0x64531c4C5A8F43E71b5f16e0638c6851ae22FFCa", "name": "UmamiHelper", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "5/21/2022"}
+{"address": "0x436b3b2207b94a4066e6e99864aeacc27b8a932e", "name": "UmamiHelper", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 4, "settings": "", "date": "5/21/2022"}
+{"address": "0x23B87748b615096d1A0F48870daee203A720723D", "name": "PlsJonesPlutusChef", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 50, "settings": "", "date": "5/21/2022"}
+{"address": "0x6cB81093F91C9CdB08d2b190830484D8180d5544", "name": "PlsJonesRewardsDistro", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 3, "settings": "", "date": "5/21/2022"}
+{"address": "0x20DF4953BA19c74B2A46B6873803F28Bf640c1B5", "name": "PlsDpxPlutusChef", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 115, "settings": "", "date": "5/21/2022"}
+{"address": "0x38e517AB9edF86e8089633041ECb2E5Db00715aD", "name": "PlsDpxRewardsDistro", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 3, "settings": "", "date": "5/21/2022"}
+{"address": "0x7ea32e38e2f7d3784a5f3853d9f2ce77ac82e587", "name": "DagongrenNFT", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 3, "settings": "", "date": "5/21/2022"}
+{"address": "0x15feEA944A7F4eE4835c59ABC488C1935f2301b4", "name": "MPTValidatorV4", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "5/21/2022"}
+{"address": "0x34c1dE737E201F9581f37564B492B492288eb7aF", "name": "ConnectV2UniswapV3SwapArbitrum", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "5/21/2022"}
+{"address": "0x951033E46e2aA7FBa52132dAAD4Ee91A39d6694a", "name": "Router", "compiler": "0.8.2", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "5/21/2022"}
+{"address": "0xe120205de4b069e3400d287e80689e04bF733C76", "name": "PriceOracle", "compiler": "0.8.2", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "5/21/2022"}
+{"address": "0x6052213c67A539A91A1A88842dD81785601ddD13", "name": "PendingRewards", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "5/20/2022"}
