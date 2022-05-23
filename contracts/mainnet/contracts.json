@@ -4074,3 +4074,16 @@
 {"address": "0x7Bbf579b1FfB5E06501976A719cb3a33aE7DdBaB", "name": "PoolActions", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "5/22/2022"}
 {"address": "0x1ee601Ce02B4a5A6f13A0137A736c77431D440BA", "name": "FactoryValidator", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "5/22/2022"}
 {"address": "0xA44A832B994f796452e4FaF191a041F791AD8A0A", "name": "LpTokenFactory", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "5/21/2022"}
+{"address": "0x6B850cED59e0bd5Ba49095860B4f31E2c71Ef6E5", "name": "Disperse", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 20, "settings": "", "date": "5/23/2022"}
+{"address": "0x5Ca135cB8527d76e932f34B5145575F9d8cbE08E", "name": "FraxswapFactory", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 3, "settings": "", "date": "5/23/2022"}
+{"address": "0xc2544A32872A91F4A553b404C6950e89De901fdb", "name": "FraxswapRouter", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 3, "settings": "", "date": "5/23/2022"}
+{"address": "0xb771410E2b1d892C3469711824c44769528fdc89", "name": "FraxswapPair", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 0, "settings": "", "date": "5/23/2022"}
+{"address": "0xbA5EdDa000E13E78897c4087dd73BEE50D23dB80", "name": "DssProxyRegistry", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "5/23/2022"}
+{"address": "0x4440881babe0dd59cb541f823073b51432a817bc", "name": "SimpleToken", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "5/23/2022"}
+{"address": "0xf76F586F6aAC0c8dE147Eea75D76AB7c2f23eDC2", "name": "Oracle", "compiler": "0.4.24", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "5/23/2022"}
+{"address": "0x8f9ee420D3fA095E8Ed3f227053164dAC41e790a", "name": "DFSPrices", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "5/23/2022"}
+{"address": "0xd2CFBb9846dc053e45e597f1F1F18F2f08781253", "name": "ERC20View", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "5/23/2022"}
+{"address": "0xbcb55BDb669E756e982169c19C20C987c26F3C2D", "name": "JonesWETHVaultV3Adapter", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "5/23/2022"}
+{"address": "0xff531f2e7d83bf11e59e8e5a49903a2f2b3c273e", "name": "SimpleToken", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "5/23/2022"}
+{"address": "0xB88690461dDbaB6f04Dfad7df66B7725942FEb9C", "name": "Arbitrum_SpokePool", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 29, "settings": "", "date": "5/23/2022"}
+{"address": "0x9fa4a9f3815dc4ee4d55a0b3290e6d297cdbff72", "name": "StakingContractMainnet", "compiler": "0.8.11", "balance": "0 ETH", "txcount": 30, "settings": "", "date": "5/23/2022"}
