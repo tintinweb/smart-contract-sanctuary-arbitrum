@@ -4330,3 +4330,25 @@
 {"address": "0x2ff54204b36655D34cB8bD6EE008C43C4BC9373f", "name": "Deployer", "compiler": "0.8.14", "balance": "0 ETH", "txcount": 3, "settings": "", "date": "5/31/2022"}
 {"address": "0xa8b052fD197202a434a9678BBC7eB33484bCEcEf", "name": "AdvancedQuesting", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "5/31/2022"}
 {"address": "0xF3F361C1A84969dB21eB5Ed278BC987B7540923C", "name": "DCATokenDescriptor", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 0, "settings": "", "date": "5/31/2022", "err": "Exception('HTML IN OUTPUT!! - BeautifulSoup messed up..')"}
+{"address": "0x25ED6d7e43e216d51287350577D4C8eEc74f0bB5", "name": "SsovV3Viewer", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/2/2022"}
+{"address": "0xa548ea3D73b3eF803C427531f7C9fa6cf67E099D", "name": "PriceFeed", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/2/2022"}
+{"address": "0xE7E8aC496070B5794dE80A93007065563e647079", "name": "Amm", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/2/2022"}
+{"address": "0xe98f68F3380c990D3045B4ae29f3BCa0F3D02939", "name": "JonesHedgingV3Strategy", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/2/2022"}
+{"address": "0xe36fA7dC99658C9B7E247471261b65A88077D349", "name": "JonesHedgingV3Strategy", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/2/2022"}
+{"address": "0xB9bd050747357ce1fF4eFD314012ca94C07543E6", "name": "JonesHedgingV3Strategy", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/2/2022"}
+{"address": "0xC8d6d21995E00e17c5aaF07bBCde43f0ccd12725", "name": "JonesHedgingV3Strategy", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/2/2022"}
+{"address": "0x405775bE91Aab1D06a3aFBB5A1a6D2A5cf7F5D2a", "name": "GmxLibrary", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "6/2/2022"}
+{"address": "0x0B09b06321528f1e2BE49aD08c6fA6d530D0A457", "name": "SushiRouterWrapper", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "6/2/2022"}
+{"address": "0x7449cd63c2b1a06c36945ed83f0626d303781b6e", "name": "UniV3TickHelper", "compiler": "0.6.9", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/2/2022"}
+{"address": "0xB3dB56c96E20746d67684cc27cCc6E45f6E2B790", "name": "SMAOracle", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 3, "settings": "", "date": "6/2/2022"}
+{"address": "0xfE7d097f8F752C83D6C9a0414D611e1c958780cB", "name": "SMAOracle", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 3, "settings": "", "date": "6/2/2022"}
+{"address": "0xe72D2194046AEB0Bd60307e99fe5BC224Be5683B", "name": "SMAOracle", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 3, "settings": "", "date": "6/2/2022"}
+{"address": "0x0ff4830c16a410aDD6685e625d34746AEefAaE37", "name": "Amm", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "6/2/2022"}
+{"address": "0x36C9Ca1B4B6Cc660569C41bCFf609233A913807e", "name": "ClearingHouseViewer", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/2/2022"}
+{"address": "0x107e7997A9d9a209cef12F04d1aF3A1Ba55F8058", "name": "ClearingHouse", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "6/2/2022"}
+{"address": "0x58a06134C070f510f8ecab1d9e50F15797747b86", "name": "InsuranceFund", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "6/2/2022"}
+{"address": "0x38BCd313a3bf6aC1C3D886a2326da981fC99C8e6", "name": "PriceFeed", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "6/2/2022"}
+{"address": "0x7850D9dF61564A41e0393B741FadDe99d61A068c", "name": "O3ArbitrumCurveAggregator", "compiler": "0.8.8", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/2/2022"}
+{"address": "0x58Ce907edF4D8418e27Aaa7d0674D0C7995FD69f", "name": "O3ArbitrumSushiAggregator", "compiler": "0.8.8", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/2/2022"}
+{"address": "0x52fA62999BeB50C8359d7E542D4d3876Abe3B39D", "name": "CommunityIssuance", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/1/2022"}
+{"address": "0xF3F361C1A84969dB21eB5Ed278BC987B7540923C", "name": "DCATokenDescriptor", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 0, "settings": "", "date": "5/31/2022", "err": "Exception('HTML IN OUTPUT!! - BeautifulSoup messed up..')"}
