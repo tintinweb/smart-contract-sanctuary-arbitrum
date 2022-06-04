@@ -4365,3 +4365,8 @@
 {"address": "0x3a7b1e85637911d5005bb72db2e1e20b4f6f5b6c", "name": "MyContract", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 2, "settings": "-", "date": "6/3/2022"}
 {"address": "0xBE075348188277860C43335CfE384bB89593bFa1", "name": "HumanToken", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 2, "settings": "-", "date": "6/2/2022"}
 {"address": "0xF3F361C1A84969dB21eB5Ed278BC987B7540923C", "name": "DCATokenDescriptor", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 0, "settings": "", "date": "5/31/2022", "err": "Exception('HTML IN OUTPUT!! - BeautifulSoup messed up..')"}
+{"address": "0x5c515ed3e9e04278f1f9e98e08b8c08f18d158ba", "name": "QiDaoSimpleBorrowerArbitrumWETH", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/4/2022"}
+{"address": "0x01Bc54eAeD57981E4d45ba059B38d26f15da4a3B", "name": "Items", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 7, "settings": "-", "date": "6/4/2022"}
+{"address": "0xEC06E18b64b54470Eb423A245640600155aD3427", "name": "PrivateTgeHelper", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/4/2022"}
+{"address": "0x91d07bc0fef6914f17139fac32a6120d405c2aac", "name": "BatchUpdateStateTreeVerifierBatch64", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "6/3/2022"}
+{"address": "0xF3F361C1A84969dB21eB5Ed278BC987B7540923C", "name": "DCATokenDescriptor", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 0, "settings": "", "date": "5/31/2022", "err": "Exception('HTML IN OUTPUT!! - BeautifulSoup messed up..')"}
