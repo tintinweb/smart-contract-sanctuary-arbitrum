@@ -4370,3 +4370,21 @@
 {"address": "0xEC06E18b64b54470Eb423A245640600155aD3427", "name": "PrivateTgeHelper", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/4/2022"}
 {"address": "0x91d07bc0fef6914f17139fac32a6120d405c2aac", "name": "BatchUpdateStateTreeVerifierBatch64", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "6/3/2022"}
 {"address": "0xF3F361C1A84969dB21eB5Ed278BC987B7540923C", "name": "DCATokenDescriptor", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 0, "settings": "", "date": "5/31/2022", "err": "Exception('HTML IN OUTPUT!! - BeautifulSoup messed up..')"}
+{"address": "0x3ab1a7185c9c357cf3af5a836aa398f8de89d87c", "name": "MetaTransactions", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/5/2022"}
+{"address": "0x8a6aa3a6b8be771b405bf009c10e4ca3ef02b89e", "name": "RisedleExchange", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/5/2022"}
+{"address": "0xfba79040db56b7dce88125549abd3724cb137f47", "name": "MultiSend", "compiler": "0.4.25", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "6/5/2022"}
+{"address": "0xcced4613da58cace9d3fed70f2d34d91b3a4266a", "name": "TransformERC20", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/5/2022"}
+{"address": "0xb6f2503c9a5f6dfe8f493368c67af6c7cebe7fd2", "name": "Ownable", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/5/2022"}
+{"address": "0x7abfab640c837a4fa32fdbf0cb4f65d8a62ed45a", "name": "SimpleFunctionRegistry", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/5/2022"}
+{"address": "0xCE19e2b65F193291Dd41A047ED468faC0895e12c", "name": "Multicall2", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/5/2022"}
+{"address": "0x7e17e886488df4A1a44D23c67dB212e48428d56C", "name": "WhaleswapRouter", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/5/2022"}
+{"address": "0xD18E754824641182823D5534fAC974B6F98eb962", "name": "WhaleswapFactory", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/5/2022"}
+{"address": "0xc24839dD20855c5CCEA5293032B57CeaC0eca9F3", "name": "FlashmintFactory", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/5/2022"}
+{"address": "0x80a035d3e90fcd2ce2a37a217ce34657f54b171b", "name": "Bank", "compiler": "0.8.7", "balance": "0.01 ETH", "txcount": 2, "settings": "-", "date": "6/5/2022"}
+{"address": "0xc28EaA5051C0cfB8A493749990787d0190e8300F", "name": "TidePoolFactory", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/5/2022"}
+{"address": "0xDAc1f6f41d55506290E067C32A0A36d00F68e54B", "name": "TidePoolMath", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "6/5/2022"}
+{"address": "0xBb43686258F8cDd4C3d253f01B19325CB05c25B8", "name": "PoolActions", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "6/5/2022"}
+{"address": "0xDfd1170c56F48612a1d39A3D9BF13f874926230A", "name": "FactoryValidator", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "6/5/2022"}
+{"address": "0xea80c02d93e44021a3f058a591a89aee4065752c", "name": "IGDisperseLite", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 2, "settings": "-", "date": "6/5/2022"}
+{"address": "0xa3cea5366f724b6a941b976074fb21f3cf6c1a23", "name": "QiDaoSimpleBorrowerArbitrumWBTCTwo", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/5/2022"}
+{"address": "0xF3F361C1A84969dB21eB5Ed278BC987B7540923C", "name": "DCATokenDescriptor", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 0, "settings": "", "date": "5/31/2022", "err": "Exception('HTML IN OUTPUT!! - BeautifulSoup messed up..')"}
