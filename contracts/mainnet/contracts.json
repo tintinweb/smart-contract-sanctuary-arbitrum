@@ -4388,3 +4388,26 @@
 {"address": "0xea80c02d93e44021a3f058a591a89aee4065752c", "name": "IGDisperseLite", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 2, "settings": "-", "date": "6/5/2022"}
 {"address": "0xa3cea5366f724b6a941b976074fb21f3cf6c1a23", "name": "QiDaoSimpleBorrowerArbitrumWBTCTwo", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/5/2022"}
 {"address": "0xF3F361C1A84969dB21eB5Ed278BC987B7540923C", "name": "DCATokenDescriptor", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 0, "settings": "", "date": "5/31/2022", "err": "Exception('HTML IN OUTPUT!! - BeautifulSoup messed up..')"}
+{"address": "0x62CE0dA6b4AD99682Bfdc7d51bC9aDd6Aba5c52C", "name": "Exploration", "compiler": "0.8.11", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/6/2022"}
+{"address": "0x938fedd63c6770ba50266fe4c548a09fd2d1c9f1", "name": "MACI", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 16, "settings": "", "date": "6/6/2022"}
+{"address": "0x143D005AC7A089527E22eb7004EA57218d4df76C", "name": "Adventure", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 18, "settings": "-", "date": "6/6/2022"}
+{"address": "0x5a1506440bbebbaac698c9ca4572c4503c14320b", "name": "NitroTest", "compiler": "0.5.0", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "6/6/2022"}
+{"address": "0xfabc2f95da751f390fee6b12ee4e943367913f78", "name": "hotgoblintown", "compiler": "0.8.14", "balance": "0 ETH", "txcount": 135, "settings": "", "date": "6/6/2022"}
+{"address": "0x50B3091b4188edFA3589B341aDFb078edB93AdDd", "name": "EpochStakingRewardsRolling", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/6/2022"}
+{"address": "0x8db6749c9e8f28a4a9bbc02facb9ba9c58e3c9c5", "name": "StakingContractMainnet", "compiler": "0.8.11", "balance": "0 ETH", "txcount": 3, "settings": "", "date": "6/6/2022"}
+{"address": "0xba0649B1a51Ab1f0074E26Ba164b26EBF6e9a91e", "name": "MultiChainMirrorGateV2", "compiler": "0.8.1", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "6/6/2022"}
+{"address": "0x6e1954dA37Fad279114035a45dA49ca30eA5a988", "name": "EpochStakingRewards", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 4, "settings": "", "date": "6/6/2022"}
+{"address": "0x89A829BD85280b5d3cfce6eEc3eAf783A94d296a", "name": "EpochStakingRewards", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/6/2022"}
+{"address": "0x6CCD4CFaF4bDa43c09682B3e588B4bd18BFFd603", "name": "PrivateTgeRewards", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 3, "settings": "", "date": "6/6/2022"}
+{"address": "0x0C0858290b6b268a93fB557af06390A3460c5dB6", "name": "AcrossImplV2", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/6/2022"}
+{"address": "0xC57120368a86FB33c5F89f8a698909D1E97e501f", "name": "BAMM", "compiler": "0.6.11", "balance": "0 ETH", "txcount": 4, "settings": "", "date": "6/6/2022"}
+{"address": "0x9a79a2b1C777BF2bf291Cc25249f430499517a12", "name": "GMXOracle", "compiler": "0.6.11", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/6/2022"}
+{"address": "0xb54f98976B40CDAccFc4958Fc9C0f6955d52521e", "name": "BAMM", "compiler": "0.6.11", "balance": "0 ETH", "txcount": 9, "settings": "", "date": "6/6/2022"}
+{"address": "0x4db1d29ea5b51ddadcc5ab26709dda49e7eb1e71", "name": "DPXOracle", "compiler": "0.6.11", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/6/2022"}
+{"address": "0xdd206d36bccfb49ab5afe4f7b5c04285f8daefcb", "name": "OraclePriceBot", "compiler": "0.6.9", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/6/2022"}
+{"address": "0x902810fecd278703aca73913ab2a6c7684019bbb", "name": "DPXOracle", "compiler": "0.6.11", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/6/2022"}
+{"address": "0xAC52881718493432B40ecbd31d818A60aCf97D38", "name": "CityMinter", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/6/2022"}
+{"address": "0x3240feB8Fe823761554948d537892dB15df520B0", "name": "CityStorage", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/6/2022"}
+{"address": "0x20251F0ee19917bDe625Ba9eBf79aD3b7769f673", "name": "City", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/6/2022"}
+{"address": "0x58362cB2dee7074b1dEA3f9F34339f500f612323", "name": "BatchStaker", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/6/2022"}
+{"address": "0xF3F361C1A84969dB21eB5Ed278BC987B7540923C", "name": "DCATokenDescriptor", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 0, "settings": "", "date": "5/31/2022", "err": "Exception('HTML IN OUTPUT!! - BeautifulSoup messed up..')"}
