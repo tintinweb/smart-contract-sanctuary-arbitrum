@@ -4450,3 +4450,37 @@
 {"address": "0xE23316331e0717E5353F2Fbe710248B295f5BA7f", "name": "Profile", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 18, "settings": "", "date": "6/6/2022"}
 {"address": "0x255F1640232d05ea568Fb2938Ff9aaa509a11087", "name": "AlphaGAZER", "compiler": "0.7.5", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "6/6/2022"}
 {"address": "0xF3F361C1A84969dB21eB5Ed278BC987B7540923C", "name": "DCATokenDescriptor", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 0, "settings": "", "date": "5/31/2022", "err": "Exception('HTML IN OUTPUT!! - BeautifulSoup messed up..')"}
+{"address": "0x89566CD6302EC9730970BB4E9374d9329b756E2C", "name": "ConnectV2AaveV3Arbitrum", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/8/2022"}
+{"address": "0x30aE282CF477E2eF28B14d0125aCEAd57Fe1d7a1", "name": "Upgrader", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 4, "settings": "", "date": "6/8/2022"}
+{"address": "0x32f4E770FeaC9676F41c88065228BfFDF9116E26", "name": "BadgerBridgeZeroControllerArb", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/8/2022"}
+{"address": "0x61899cADEF20c007C7afC9cD895a8634AB5aB2b4", "name": "L2ERC721Gateway", "compiler": "0.6.11", "balance": "0 ETH", "txcount": 3, "settings": "-", "date": "6/8/2022"}
+{"address": "0x3154715136672582f85603E963E99c00F799a048", "name": "ArbitrumGoblinPunks", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 148, "settings": "-", "date": "6/8/2022"}
+{"address": "0x4f73ad319193320ED20eeFAEFb8F30B89b05b8B6", "name": "GMXArb", "compiler": "0.6.11", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "6/8/2022"}
+{"address": "0xbe76cD24F74634D50BBa6fd86A4c1579bAcBA11C", "name": "DPXArb", "compiler": "0.6.11", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "6/8/2022"}
+{"address": "0xe9111F2438eEFA0E3f8C138620A0097D5619E454", "name": "HelperImpl", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/8/2022"}
+{"address": "0xACaE9aA7cF3f7d8c4E147ab9Fd21025970F52AEF", "name": "SwapsExternal", "compiler": "0.5.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/8/2022"}
+{"address": "0xe71b2F15b928993C3a94a6789Dc8F777E1Fc2593", "name": "LoanClosings", "compiler": "0.5.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/8/2022"}
+{"address": "0x100f9EC4E0085d8f469500F66370f8dc64e1F670", "name": "LoanOpenings", "compiler": "0.5.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/8/2022"}
+{"address": "0xaef9e3e050d0ef060cdfd5246209b0b6bb66060f", "name": "AnyswapV6ERC20", "compiler": "0.8.14", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "6/8/2022"}
+{"address": "0x3ecB21eABEF68a237862E8A003807eE4Fa47509b", "name": "HlpManagerRouter", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 6, "settings": "", "date": "6/8/2022"}
+{"address": "0x851aBAD9A78609ef44dB07BfBBE55748731513A6", "name": "Router", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/8/2022"}
+{"address": "0xf28e261b89fc4479EE41044Dd55F7a4053F9844a", "name": "VaultPriceFeed", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 11, "settings": "", "date": "6/8/2022"}
+{"address": "0x5374Bb5C0D6C4806592b812E36929f8678e7F1c0", "name": "H2SOFA", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 3, "settings": "", "date": "6/8/2022"}
+{"address": "0x6f9Ce330fe91100007b49cf9866D9916d20875d5", "name": "H2SOFA", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 3, "settings": "", "date": "6/8/2022"}
+{"address": "0xbECFeff02f87170687C4DfBa89839Fa7088617d7", "name": "H2SOFA", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 3, "settings": "", "date": "6/8/2022"}
+{"address": "0xa68bE3131531d981dc2d4BbE29111F3239E18Bc7", "name": "H2SOFA", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 3, "settings": "", "date": "6/8/2022"}
+{"address": "0xA8741aC0DD756e50712b6751199487bd556760c9", "name": "H2SOFA", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 3, "settings": "", "date": "6/8/2022"}
+{"address": "0x8640Ee2a0611dA2A1834aE3408a763b0Bd55253F", "name": "H2SOFA", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 3, "settings": "", "date": "6/8/2022"}
+{"address": "0x20c76fcbD46576A3541BCac1ae7f308246F5707E", "name": "H2SOFA", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 3, "settings": "", "date": "6/8/2022"}
+{"address": "0x7E7eBde8a4Dc9D4f7969A901791a880eB03143f9", "name": "H2SOFA", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 3, "settings": "", "date": "6/8/2022"}
+{"address": "0xd3B2A3A3Faef1501755b290089d4dAaFdb6167c7", "name": "TransferSwapper", "compiler": "0.8.12", "balance": "0.0334397108201269 ETH", "txcount": 535, "settings": "", "date": "6/8/2022"}
+{"address": "0xEc0bcB478a3651961674bD19b62BB7eC39b9928c", "name": "PopulationBooster", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/8/2022"}
+{"address": "0x76095061f675F4CcD86094b8ac9018fD96a70Fa3", "name": "YeetSummoner", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/7/2022"}
+{"address": "0xbB907b1a769bD338c9d09Fb20C2997ECE5E715a3", "name": "Yeeter", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/7/2022"}
+{"address": "0x96cfffb31fc10aafa4c1c8e0975edaf072360de1", "name": "BytMultiTokenMarket", "compiler": "0.8.6", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/7/2022"}
+{"address": "0x9425f47e808d9d4fE56f5F9f517CbBDd802DcdFb", "name": "DaoSafeMinionSummoner", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/7/2022"}
+{"address": "0x3840453a3907916113db88bfac2349533a736c64", "name": "MolochSummoner", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/7/2022"}
+{"address": "0x8c0463eafc0b91d7a246ca391dc4f81e9e6bd029", "name": "Moloch", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/7/2022"}
+{"address": "0x03024E3Fc95e00Ecad3B919F1dE22428d7dEcbC9", "name": "Closet", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/7/2022"}
+{"address": "0xF4f935F4272e6FD9C779cF0036589A63b48d77A7", "name": "GBCLab", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 308, "settings": "", "date": "6/7/2022"}
+{"address": "0xF3F361C1A84969dB21eB5Ed278BC987B7540923C", "name": "DCATokenDescriptor", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 0, "settings": "", "date": "5/31/2022", "err": "Exception('HTML IN OUTPUT!! - BeautifulSoup messed up..')"}
