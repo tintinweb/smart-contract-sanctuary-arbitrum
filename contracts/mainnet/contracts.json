@@ -4484,3 +4484,31 @@
 {"address": "0x03024E3Fc95e00Ecad3B919F1dE22428d7dEcbC9", "name": "Closet", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/7/2022"}
 {"address": "0xF4f935F4272e6FD9C779cF0036589A63b48d77A7", "name": "GBCLab", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 308, "settings": "", "date": "6/7/2022"}
 {"address": "0xF3F361C1A84969dB21eB5Ed278BC987B7540923C", "name": "DCATokenDescriptor", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 0, "settings": "", "date": "5/31/2022", "err": "Exception('HTML IN OUTPUT!! - BeautifulSoup messed up..')"}
+{"address": "0x4188fbD7aDC72853E3275F1c3503E170994888D7", "name": "OraclePassThrough", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/9/2022"}
+{"address": "0xb148E1e51F207c1C63DeC8C67b3AA5cb22C9Be99", "name": "L2ScalingPriceOracle", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/9/2022"}
+{"address": "0x03d3b7304BcC1cFCFe0e13bDDD853EE29960496d", "name": "L2Core", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/9/2022"}
+{"address": "0xed499d98deacb0f5837c34360a3b3d83d8c2440c", "name": "AxolittlesArb", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 3, "settings": "", "date": "6/9/2022"}
+{"address": "0x6384Ef6F16a6eAe309257c839201CDB850AfEEa1", "name": "SamuRiseSashimono", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/9/2022"}
+{"address": "0x2aF18586b7A8505626c155EfB22Ad4EDC1504748", "name": "LoanClosings", "compiler": "0.5.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/9/2022"}
+{"address": "0xb61915609e6dc7a7261b678073c53bac5875a8b4", "name": "Vyper_contract", "compiler": "vyper:0.2.16", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "6/9/2022"}
+{"address": "0xB93427b83573C8F27a08A909045c3e809610411a", "name": "Vyper_contract", "compiler": "vyper:0.2.16", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/9/2022"}
+{"address": "0xb5c4fc379064258c4c9b197e99fd3efd9f2f21e3", "name": "moodykittens", "compiler": "0.8.11", "balance": "0 ETH", "txcount": 342, "settings": "", "date": "6/9/2022"}
+{"address": "0x6F06481D6f59d7AA5ebe482eAE9545849b9985F8", "name": "SamuRiseLandMetadataState", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/9/2022"}
+{"address": "0x5De023E37A317f9027cbABdF3Fb1C1F48B41210b", "name": "MinimaxMain", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/9/2022"}
+{"address": "0xD7ab1699280980E756C446769B4c0F04550f88c9", "name": "TicksFeesReader", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/9/2022"}
+{"address": "0x2B1c7b41f6A8F2b2bc45C3233a5d5FB3cD6dC9A8", "name": "AntiSnipAttackPositionManager", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "6/9/2022"}
+{"address": "0x0D125c15D54cA1F8a813C74A81aEe34ebB508C1f", "name": "QuoterV2", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/9/2022"}
+{"address": "0xC1e7dFE73E1598E3910EF4C7845B68A9Ab6F4c83", "name": "Router", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/9/2022"}
+{"address": "0x5F1dddbf348aC2fbe22a163e30F99F9ECE3DD50a", "name": "Factory", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 3, "settings": "", "date": "6/9/2022"}
+{"address": "0xDA474537cE9b687b78B236452A05631f09B6EB6A", "name": "TokenPositionDescriptor", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/9/2022"}
+{"address": "0x955ad6bA2D83C7fedf2641cDeC314Ee7BE7C568E", "name": "ArbitrumGoats", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 78, "settings": "-", "date": "6/9/2022"}
+{"address": "0x8EADe6a7302fbD007d955Ff7817bA3E2C8EBBf87", "name": "ArbisUmamiExchange", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 4, "settings": "", "date": "6/9/2022"}
+{"address": "0x2E02fb1f85087da8E42370dFB0D7A1a03F4c617b", "name": "SamuRiseItemsV3", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/9/2022"}
+{"address": "0x789aFB109Db8eb308e0dFa4f9Fbbe36e51b2D367", "name": "SamuRiseLandV2", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/9/2022"}
+{"address": "0x3F21597260749f289FE957baB1E4972E363A70f4", "name": "SamuRiseLandMetadataState", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/9/2022"}
+{"address": "0x0B745f4bBBa16C02B45D3f85a3f011B8Decc30b4", "name": "SamuRiseQuest", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/9/2022"}
+{"address": "0xFfCc8846E7e62965E9aB8e9bfe746834CdbF143A", "name": "SamuRiseSashimono", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/9/2022"}
+{"address": "0x5C723b255924E4E70E767b89974433f7183D1a17", "name": "DiceRNG", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/9/2022"}
+{"address": "0x14e22da5880c82cda2fc6a50b05b72d801d5e8e9", "name": "SimpleToken", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "6/8/2022"}
+{"address": "0xE7a3EE18abB273E55de74D824B8AAEb6D2A4F7Ed", "name": "NFTXVaultUpgradeable", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/8/2022"}
+{"address": "0xF3F361C1A84969dB21eB5Ed278BC987B7540923C", "name": "DCATokenDescriptor", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 0, "settings": "", "date": "5/31/2022", "err": "Exception('HTML IN OUTPUT!! - BeautifulSoup messed up..')"}
