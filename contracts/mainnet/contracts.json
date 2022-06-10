@@ -4512,3 +4512,23 @@
 {"address": "0x14e22da5880c82cda2fc6a50b05b72d801d5e8e9", "name": "SimpleToken", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "6/8/2022"}
 {"address": "0xE7a3EE18abB273E55de74D824B8AAEb6D2A4F7Ed", "name": "NFTXVaultUpgradeable", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/8/2022"}
 {"address": "0xF3F361C1A84969dB21eB5Ed278BC987B7540923C", "name": "DCATokenDescriptor", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 0, "settings": "", "date": "5/31/2022", "err": "Exception('HTML IN OUTPUT!! - BeautifulSoup messed up..')"}
+{"address": "0xDdE49F4aC07CdFa60B0559803EeE4A520c2611ED", "name": "ERC1167Factory", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/10/2022"}
+{"address": "0x278A903dA9Fb0ea8B90c2b1b089eF90033FDd868", "name": "PriceBoundPSM", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/10/2022"}
+{"address": "0x4d2cF840FDe4210A96F485fC01f1459Bfb2EFABb", "name": "PriceBoundPSM", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/10/2022"}
+{"address": "0x95f24518ba299f8096b36a4868ee599b65f927bc", "name": "SmolAgeCouncilPass", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 2, "settings": "-", "date": "6/10/2022"}
+{"address": "0x0d6d0600BEa83FaAF172C2E8aCDd2F5140e235D3", "name": "PCVGuardAdmin", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 3, "settings": "", "date": "6/10/2022"}
+{"address": "0x14eCB5Ff2A78364E0FF443B7F0F6e0e393531484", "name": "PCVGuardian", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/10/2022"}
+{"address": "0x980A05105a53eCa7745DA40DF1AdE6674fc73eD5", "name": "OptimisticTimelock", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/10/2022"}
+{"address": "0xEF44D6786b2b4d544b7850Fe67CE6381626Bf2D6", "name": "StablePoolFactory", "compiler": "0.7.1", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/10/2022"}
+{"address": "0x38ad36c81da9638a108664df26ab3814809738f5", "name": "Meetiners", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/10/2022"}
+{"address": "0x37c092d275e48e3c9001059d9b7d55802cbdbe04", "name": "UserManagerArb", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/10/2022"}
+{"address": "0x2ce7019b949d52083b6d97bbdf677df850177570", "name": "PrideCats", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 215, "settings": "", "date": "6/10/2022"}
+{"address": "0x2918507c80289d2e7D379415f76ac5e80fA68633", "name": "DexOperator", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "6/10/2022"}
+{"address": "0x88Ad27C41AD06f01153E7Cd9b10cBEdF4616f4d5", "name": "OptimisticOracleV2", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/10/2022"}
+{"address": "0x9D3E3624b3de482331F4f091Fd8b76D3F344bd8C", "name": "AnyswapV6ERC20", "compiler": "0.8.14", "balance": "0 ETH", "txcount": 13, "settings": "", "date": "6/10/2022"}
+{"address": "0x05e481B19129B560E921E487AdB281E70Bdba463", "name": "AnyswapV6ERC20", "compiler": "0.8.14", "balance": "0 ETH", "txcount": 3, "settings": "", "date": "6/10/2022"}
+{"address": "0x1e31E3Ba5e246E2f2390D29C778E33A59F6aA6C6", "name": "AnyswapV6ERC20", "compiler": "0.8.14", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "6/10/2022"}
+{"address": "0x0e08a10fa94e2e13a667128f43774fb571880263", "name": "AxolittlesArb", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 3, "settings": "", "date": "6/10/2022"}
+{"address": "0xfa51c2b728a3b7e076ce415f69180efb8ebac67b", "name": "Gratuity", "compiler": "0.8.11", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/10/2022"}
+{"address": "0x5c7101167A834a26d1f667F4Fbc74f22D9C8f421", "name": "ItemShop", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/9/2022"}
+{"address": "0xF3F361C1A84969dB21eB5Ed278BC987B7540923C", "name": "DCATokenDescriptor", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 0, "settings": "", "date": "5/31/2022", "err": "Exception('HTML IN OUTPUT!! - BeautifulSoup messed up..')"}
