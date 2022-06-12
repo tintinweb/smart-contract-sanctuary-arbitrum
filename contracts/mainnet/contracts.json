@@ -4548,3 +4548,17 @@
 {"address": "0xD48464911306eCFE48f618052FCE40d9d2eD1940", "name": "TroveManager", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/10/2022"}
 {"address": "0xB9827a130F0FaD6bAaE7948ad4C412c2A9b1CcE3", "name": "VestaParameters", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/10/2022"}
 {"address": "0xF3F361C1A84969dB21eB5Ed278BC987B7540923C", "name": "DCATokenDescriptor", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 0, "settings": "", "date": "5/31/2022", "err": "Exception('HTML IN OUTPUT!! - BeautifulSoup messed up..')"}
+{"address": "0x31949446395e16A294108a25bfcC4937799FA8Ef", "name": "CityClash", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/12/2022"}
+{"address": "0x5A39174e7F2B669a51Ec179eF49b3eca7ddB96AB", "name": "Cryptids", "compiler": "0.8.11", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "6/12/2022"}
+{"address": "0xdBd2BaCe25998F67781aA087cEaF8f2a45B5f9B4", "name": "ERC1155Owl", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/12/2022"}
+{"address": "0x6021885D7A0D82931864C93A72a227A03872bc3A", "name": "ImpossibleRouter", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "6/12/2022"}
+{"address": "0x153c39372b54846537e4Ee7fCfe175F1bEdfA2B9", "name": "ImpossibleWrapperFactory", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/12/2022"}
+{"address": "0x37Ba8F8c69D8D399F4f633AE338aDb07d1391730", "name": "ImpossibleSwapFactory", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "6/12/2022"}
+{"address": "0x75f7970131ecc7f3d58760254ad4e19cf555996a", "name": "SimpleToken", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "6/12/2022"}
+{"address": "0x159d215d9ea225cfb0afca0fcdf4f04e424429ac", "name": "VovoGlpKeeper", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "6/12/2022"}
+{"address": "0x4ee2D9cc8395f297183341acE35214E21666C71B", "name": "ERC721Owl", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/12/2022"}
+{"address": "0x6aeec68a12f1fb7ed7838793ed154968db4cb052", "name": "EtnShopNft", "compiler": "0.8.1", "balance": "0 ETH", "txcount": 2, "settings": "-", "date": "6/12/2022"}
+{"address": "0x2a116ce845743589cc1043d6837d8431f0de7789", "name": "EtnShop", "compiler": "0.8.1", "balance": "0 ETH", "txcount": 2, "settings": "-", "date": "6/12/2022"}
+{"address": "0x464B3581d4Af6bA4587E4E3fba1a3a4702aDAaDe", "name": "NFTMarketplace", "compiler": "0.8.7", "balance": "0.005 ETH", "txcount": 2, "settings": "", "date": "6/12/2022"}
+{"address": "0xFe4BD67BF3d5D2f7964341ba26C66E364915b047", "name": "NFTMarketplace", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/12/2022"}
+{"address": "0xF3F361C1A84969dB21eB5Ed278BC987B7540923C", "name": "DCATokenDescriptor", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 0, "settings": "", "date": "5/31/2022", "err": "Exception('HTML IN OUTPUT!! - BeautifulSoup messed up..')"}
