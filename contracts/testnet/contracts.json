@@ -4643,3 +4643,4 @@
 {"address": "0x37Ba8F8c69D8D399F4f633AE338aDb07d1391730", "name": "ImpossibleSwapFactory", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "6/12/2022"}
 {"address": "0x442BE512611180486E829Ad27414505BAc8D99e0", "name": "NilERC721TemplateV1", "compiler": "0.8.11", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/12/2022"}
 {"address": "0x016959aa9b18ee9b9dc4f5b901d9e31cf9616dfd", "name": "Harpolis", "compiler": "0.8.7", "balance": "100 wei", "txcount": 4, "settings": "", "date": "6/12/2022"}
+{"address": "0x10901D521293A032cd8AD516A1E67Ac006577762", "name": "FlipNFT", "compiler": "0.8.4", "balance": "0.39 ETH", "txcount": 8, "settings": "", "date": "6/12/2022", "err": "Exception('HTML IN OUTPUT!! - BeautifulSoup messed up..')"}
