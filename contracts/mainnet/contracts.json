@@ -4568,3 +4568,15 @@
 {"address": "0xed386fe855c1eff2f843b910923dd8846e45c5a4", "name": "Multicall2", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/13/2022"}
 {"address": "0x695695941772655497b43E3C30efa52A45DC82E6", "name": "newFarm", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 6, "settings": "", "date": "6/12/2022"}
 {"address": "0xF3F361C1A84969dB21eB5Ed278BC987B7540923C", "name": "DCATokenDescriptor", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 0, "settings": "", "date": "5/31/2022", "err": "Exception('HTML IN OUTPUT!! - BeautifulSoup messed up..')"}
+{"address": "0xB917A2D5611A3Df2F6c9b9542A4BFcd712A6B0BB", "name": "BorrowerOperations", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/13/2022"}
+{"address": "0x79109e6f4806fb341abc989380e12067c26aabee", "name": "TroveSmolSweeper", "compiler": "0.8.14", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/13/2022"}
+{"address": "0x31D2678Ed8Ea62fC63d5ECfF713920F75167D062", "name": "FlipNFT", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "6/13/2022", "err": "Exception('HTML IN OUTPUT!! - BeautifulSoup messed up..')"}
+{"address": "0x86f5c37BE9d87975d0aEa307Ac9143c13Fbb454c", "name": "PusdVolatilityOracle", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/13/2022"}
+{"address": "0xdb2825f2A6c141A86862cCd5D4A86B18a436dd41", "name": "PusdVault", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "6/13/2022"}
+{"address": "0x31220f60cc16f73de42616eee9e177f2b6762ea3", "name": "CompanyVaultV6", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/13/2022"}
+{"address": "0x20623365E132d35dae373902A25D8B2e28c8F13d", "name": "TreasureMarketplace", "compiler": "0.8.12", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/13/2022"}
+{"address": "0xF992FCEF771dF908f9B09Bb2619092f70AB21957", "name": "StrategyCurveTwoPool", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/13/2022"}
+{"address": "0x23ddd3beC944cdB16Cacf3039e389324Df598B89", "name": "RefuelImpl", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/13/2022"}
+{"address": "0xdcABb6d7E88396498FFF4CD987F60e354BF2a44b", "name": "OneInchRefuelSwapImpl", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/13/2022"}
+{"address": "0x7340798B75185849440c11FE09C5E6b494344F5C", "name": "RefuelBridgeImpl", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/13/2022"}
+{"address": "0xF3F361C1A84969dB21eB5Ed278BC987B7540923C", "name": "DCATokenDescriptor", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 0, "settings": "", "date": "5/31/2022", "err": "Exception('HTML IN OUTPUT!! - BeautifulSoup messed up..')"}
