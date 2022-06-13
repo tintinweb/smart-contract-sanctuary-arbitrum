@@ -4626,3 +4626,20 @@
 {"address": "0x9947d4e80a73bb9049cba64392a289b48e0b403e", "name": "MyFirstERC20Token", "compiler": "0.8.11", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "6/11/2022"}
 {"address": "0x79190aEa3C08F14F8eA6Da30ee9bd671413C1FA2", "name": "ArbiRockContract", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "6/11/2022"}
 {"address": "0x4f59992D6f16870705054DDa3A6d597C3897b525", "name": "PerpetualMarketCore", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 13, "settings": "", "date": "6/11/2022"}
+{"address": "0x79d305edfc7e6052ac05bbb43e1a7b0521be8bc4", "name": "TreasureTroveSmolSweeper", "compiler": "0.8.14", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/13/2022"}
+{"address": "0x01e531842cF08cAEACafAa2299249E6714b77d0d", "name": "Store", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 2, "settings": "-", "date": "6/13/2022"}
+{"address": "0x48b9609f40316787653ce8e1803c26F6806F38Af", "name": "VeAPEX", "compiler": "0.8.2", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/13/2022"}
+{"address": "0x9e42F93c3E4687cc0859C6115131Df857882D482", "name": "ApeXPool", "compiler": "0.8.2", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/13/2022"}
+{"address": "0x2846BF321C423743FE4f2C2b6E171E4CC5939F79", "name": "BuddleDestArbitrum", "compiler": "0.8.11", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/12/2022"}
+{"address": "0xbE6A94f85b58e7FA3e7e641338c7e4C0f8c98D4C", "name": "BuddleSrcArbitrum", "compiler": "0.8.11", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/12/2022"}
+{"address": "0x6e58991985F2af1a07f433CE136d9FFc365d5382", "name": "CoreChamber", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "6/12/2022"}
+{"address": "0xC5B80EcC29e9169e468599Ea0e2cF2A263FE6835", "name": "BobotGenesis", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "6/12/2022"}
+{"address": "0x6A6bAF663bC532326796a17d99e5d0a54d239BF3", "name": "BobotGenesis", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "6/12/2022"}
+{"address": "0x79109e6f4806fb341abc989380e12067c26aabee", "name": "TroveSmolSweeper", "compiler": "0.8.14", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/12/2022"}
+{"address": "0x10901D521293A032cd8AD516A1E67Ac006577762", "name": "FlipNFT", "compiler": "0.8.4", "balance": "0.39 ETH", "txcount": 8, "settings": "", "date": "6/12/2022", "err": "Exception('HTML IN OUTPUT!! - BeautifulSoup messed up..')"}
+{"address": "0x6021885D7A0D82931864C93A72a227A03872bc3A", "name": "ImpossibleRouter", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "6/12/2022"}
+{"address": "0xC7530a59Fa001F0F151dA4C95595C2D3fEd5F811", "name": "ImpossibleRouterExtension", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/12/2022"}
+{"address": "0x153c39372b54846537e4Ee7fCfe175F1bEdfA2B9", "name": "ImpossibleWrapperFactory", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/12/2022"}
+{"address": "0x37Ba8F8c69D8D399F4f633AE338aDb07d1391730", "name": "ImpossibleSwapFactory", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "6/12/2022"}
+{"address": "0x442BE512611180486E829Ad27414505BAc8D99e0", "name": "NilERC721TemplateV1", "compiler": "0.8.11", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/12/2022"}
+{"address": "0x016959aa9b18ee9b9dc4f5b901d9e31cf9616dfd", "name": "Harpolis", "compiler": "0.8.7", "balance": "100 wei", "txcount": 4, "settings": "", "date": "6/12/2022"}
