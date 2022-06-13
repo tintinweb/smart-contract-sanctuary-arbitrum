@@ -4562,3 +4562,9 @@
 {"address": "0x464B3581d4Af6bA4587E4E3fba1a3a4702aDAaDe", "name": "NFTMarketplace", "compiler": "0.8.7", "balance": "0.005 ETH", "txcount": 2, "settings": "", "date": "6/12/2022"}
 {"address": "0xFe4BD67BF3d5D2f7964341ba26C66E364915b047", "name": "NFTMarketplace", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/12/2022"}
 {"address": "0xF3F361C1A84969dB21eB5Ed278BC987B7540923C", "name": "DCATokenDescriptor", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 0, "settings": "", "date": "5/31/2022", "err": "Exception('HTML IN OUTPUT!! - BeautifulSoup messed up..')"}
+{"address": "0x83Ea3709561cf24BcF45a43Cc637D7633b1c9B44", "name": "SoLItem", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/13/2022"}
+{"address": "0x4edcD31736De5A22d91b231791214ad1e6522490", "name": "SeedEvolution", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/13/2022"}
+{"address": "0x24953fc9B40aca05C49332b7098F2c0f6Bf46Ba3", "name": "ImbuedSoul", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/13/2022"}
+{"address": "0xed386fe855c1eff2f843b910923dd8846e45c5a4", "name": "Multicall2", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/13/2022"}
+{"address": "0x695695941772655497b43E3C30efa52A45DC82E6", "name": "newFarm", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 6, "settings": "", "date": "6/12/2022"}
+{"address": "0xF3F361C1A84969dB21eB5Ed278BC987B7540923C", "name": "DCATokenDescriptor", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 0, "settings": "", "date": "5/31/2022", "err": "Exception('HTML IN OUTPUT!! - BeautifulSoup messed up..')"}
