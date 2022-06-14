@@ -4580,3 +4580,19 @@
 {"address": "0xdcABb6d7E88396498FFF4CD987F60e354BF2a44b", "name": "OneInchRefuelSwapImpl", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/13/2022"}
 {"address": "0x7340798B75185849440c11FE09C5E6b494344F5C", "name": "RefuelBridgeImpl", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/13/2022"}
 {"address": "0xF3F361C1A84969dB21eB5Ed278BC987B7540923C", "name": "DCATokenDescriptor", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 0, "settings": "", "date": "5/31/2022", "err": "Exception('HTML IN OUTPUT!! - BeautifulSoup messed up..')"}
+{"address": "0xF406f7CD82AbFDEdf8f718D48912eE40A210A655", "name": "StargateFeeLibraryV03", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/14/2022"}
+{"address": "0x0B1e94EF8e2aE93997C6375935286BF7A25Cc3C2", "name": "StrategyCurveTricrypto", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "6/14/2022"}
+{"address": "0xE3D068954336fEF7A6A21056431df2E1044f1A5C", "name": "ConnectV2AaveV3Arbitrum", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/14/2022"}
+{"address": "0x815d02c749b0606ed264633CE41a52EbE82a5738", "name": "KSRouter02", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/14/2022"}
+{"address": "0x44729AD390e37E35a89126fc3E172D325E5d3f38", "name": "KSFactory", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 3, "settings": "", "date": "6/14/2022"}
+{"address": "0xe8CaF94CaC4cdBF23E6504BBea45b9DDd203F010", "name": "FlashHedge", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 3, "settings": "", "date": "6/14/2022"}
+{"address": "0x555D4F62c3C180DC674a46baECe9bD52adDB140e", "name": "Fiat24ClientApplication", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/14/2022"}
+{"address": "0x437e1F2aFA4664222a261B3568A4dd8883c5059F", "name": "CommonHealthCheck", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "6/14/2022"}
+{"address": "0x3597e21BfCDa0325b60beD75033CcB6eb94baaB4", "name": "NFTCollectible", "compiler": "0.8.4", "balance": "0.192 ETH", "txcount": 89, "settings": "", "date": "6/14/2022"}
+{"address": "0x8B98991EEd7C25280BE5532C3b23a095654868c0", "name": "PerpetualMarketCore", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 9, "settings": "", "date": "6/14/2022"}
+{"address": "0xAdBAeE9665C101413EbFF07e20520bdB67C71AB6", "name": "PerpetualMarket", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 35, "settings": "", "date": "6/14/2022"}
+{"address": "0xB2f42A7A115A6c50B6aB7f03146402EE00feEe3E", "name": "Staking", "compiler": "0.8.3", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/13/2022"}
+{"address": "0x4c83fc455f8ce14dd3c5f311020610b7c99a99b3", "name": "StrategyCurveLP", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/13/2022"}
+{"address": "0xFf28D45CcEbC110A24340d9de14D29d3A08AbDb8", "name": "CampaignFactory", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 2, "settings": "-", "date": "6/13/2022"}
+{"address": "0x31D2678Ed8Ea62fC63d5ECfF713920F75167D062", "name": "FlipNFT", "compiler": "0.8.4", "balance": "13.77 ETH", "txcount": 416, "settings": "", "date": "6/13/2022", "err": "Exception('HTML IN OUTPUT!! - BeautifulSoup messed up..')"}
+{"address": "0xF3F361C1A84969dB21eB5Ed278BC987B7540923C", "name": "DCATokenDescriptor", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 0, "settings": "", "date": "5/31/2022", "err": "Exception('HTML IN OUTPUT!! - BeautifulSoup messed up..')"}
