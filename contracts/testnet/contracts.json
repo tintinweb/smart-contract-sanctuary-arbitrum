@@ -4670,3 +4670,22 @@
 {"address": "0x93C481E5446038ED66eB91709c303F04Db696Fee", "name": "TalonThievesNFT", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/13/2022"}
 {"address": "0xceEA0de06Ea6a62DF853EE6857d94b0d05bDA3E4", "name": "NFTMarketplace", "compiler": "0.8.14", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/13/2022"}
 {"address": "0x10901D521293A032cd8AD516A1E67Ac006577762", "name": "FlipNFT", "compiler": "0.8.4", "balance": "0.42 ETH", "txcount": 16, "settings": "", "date": "6/12/2022", "err": "Exception('HTML IN OUTPUT!! - BeautifulSoup messed up..')"}
+{"address": "0x93eaa79ed544537Bf118FD68DE7c17e74a5A46bd", "name": "ERC20_test", "compiler": "0.8.11", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "6/15/2022"}
+{"address": "0xcf02a9673b794dd4406df71708b8ad9a74cf194b", "name": "ERC20_test", "compiler": "0.8.11", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "6/15/2022"}
+{"address": "0x16D33236D7Af17ca55E60EcE64e9F6CeD32Ba416", "name": "CombineTierFactory", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "6/14/2022"}
+{"address": "0x37D28dAc000800E6F586b90e9207a2487d5282ab", "name": "Orlee", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "6/14/2022"}
+{"address": "0x1cf4E822645AEF7AF6204Af80fbba3B216bE73dF", "name": "InstantDistributionAgreementV1", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/14/2022"}
+{"address": "0xb3d5522da454d804bcaffb1177686c8cbb2094b2", "name": "SlotsBitmapLibrary", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/14/2022"}
+{"address": "0xc8aa287591c4ee226060f65224ef9304e92be901", "name": "ConstantFlowAgreementV1", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/14/2022"}
+{"address": "0x33ff6cfa1ce97afd52d77cf93302d8610ce49db9", "name": "SuperTokenFactory", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/14/2022"}
+{"address": "0xc0c8b94a05e0FeB2ee23Ed05081b9930CC436478", "name": "TestGovernance", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 5, "settings": "", "date": "6/14/2022"}
+{"address": "0x5310E6Cb0e52253A7c5f1f3Ba25DF2DbfE8796BF", "name": "VeAPEX", "compiler": "0.8.2", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/14/2022"}
+{"address": "0x1a840b6f64C6e9C253e8ede006c9421cbdC798de", "name": "ApeXPool", "compiler": "0.8.2", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/14/2022"}
+{"address": "0x4348aca2252727defc234161ee654a5c5e24a78a", "name": "Store", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 2, "settings": "-", "date": "6/14/2022"}
+{"address": "0x5072675c344a979916136Af7Bf8b70A31b9A7a79", "name": "StakingPoolFactory", "compiler": "0.8.2", "balance": "0 ETH", "txcount": 8, "settings": "", "date": "6/14/2022"}
+{"address": "0x8247066bb0B9eBA022397f0a4A5e11ff36DADF7f", "name": "PoolCreateEvent", "compiler": "0.8.2", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "6/14/2022"}
+{"address": "0xE738e60af6E1d41FA533c72Aad1F668EE18754f1", "name": "MiniMiaoTraitGen", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/14/2022"}
+{"address": "0xFF046420Bbaa9D5a0001D385c39863B3E5a1E659", "name": "MiniMiaoDescriptor", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/14/2022"}
+{"address": "0xADb7D968253114270935403d815A26380A65dE0C", "name": "MiniMiao", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 15, "settings": "", "date": "6/14/2022"}
+{"address": "0x1ACA0A7134442aB9dB42EdC7C0c02593b435Cd01", "name": "FlipNFT", "compiler": "0.8.4", "balance": "0.06 ETH", "txcount": 5, "settings": "", "date": "6/13/2022", "err": "Exception('HTML IN OUTPUT!! - BeautifulSoup messed up..')"}
+{"address": "0x10901D521293A032cd8AD516A1E67Ac006577762", "name": "FlipNFT", "compiler": "0.8.4", "balance": "0.42 ETH", "txcount": 16, "settings": "", "date": "6/12/2022", "err": "Exception('HTML IN OUTPUT!! - BeautifulSoup messed up..')"}
