@@ -4675,3 +4675,8 @@
 {"address": "0x2C624c7EBdF6b76538641F8e7f16507Ec48Fb180", "name": "WorldEvent", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 4, "settings": "", "date": "6/17/2022"}
 {"address": "0x31D2678Ed8Ea62fC63d5ECfF713920F75167D062", "name": "FlipNFT", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 1505, "settings": "", "date": "6/13/2022", "err": "Exception('HTML IN OUTPUT!! - BeautifulSoup messed up..')"}
 {"address": "0xF3F361C1A84969dB21eB5Ed278BC987B7540923C", "name": "DCATokenDescriptor", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 0, "settings": "", "date": "5/31/2022", "err": "Exception('HTML IN OUTPUT!! - BeautifulSoup messed up..')"}
+{"address": "0x3c8dbde0b3ec215e5cb07d534ceb22ea5083dc71", "name": "TainoPass", "compiler": "0.8.6", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "6/18/2022"}
+{"address": "0x09cadCBe6Fe623F01B7bC37635b97ABF385d46Dd", "name": "ConnectV2AaveV3Arbitrum", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/18/2022"}
+{"address": "0x5Af7a354C9C35B58b4278aB0e1E934fab01b26Ab", "name": "VolatilitySurfaceOracle", "compiler": "0.8.12", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/18/2022"}
+{"address": "0x31D2678Ed8Ea62fC63d5ECfF713920F75167D062", "name": "FlipNFT", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 1523, "settings": "", "date": "6/13/2022", "err": "Exception('HTML IN OUTPUT!! - BeautifulSoup messed up..')"}
+{"address": "0xF3F361C1A84969dB21eB5Ed278BC987B7540923C", "name": "DCATokenDescriptor", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 0, "settings": "", "date": "5/31/2022", "err": "Exception('HTML IN OUTPUT!! - BeautifulSoup messed up..')"}
