@@ -4680,3 +4680,9 @@
 {"address": "0x5Af7a354C9C35B58b4278aB0e1E934fab01b26Ab", "name": "VolatilitySurfaceOracle", "compiler": "0.8.12", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/18/2022"}
 {"address": "0x31D2678Ed8Ea62fC63d5ECfF713920F75167D062", "name": "FlipNFT", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 1523, "settings": "", "date": "6/13/2022", "err": "Exception('HTML IN OUTPUT!! - BeautifulSoup messed up..')"}
 {"address": "0xF3F361C1A84969dB21eB5Ed278BC987B7540923C", "name": "DCATokenDescriptor", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 0, "settings": "", "date": "5/31/2022", "err": "Exception('HTML IN OUTPUT!! - BeautifulSoup messed up..')"}
+{"address": "0x1947eb44875219c8e1b0d269a1893e086737ee3e", "name": "TransparentUpgradeableProxy", "compiler": "0.8.12", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "6/19/2022"}
+{"address": "0xFe3836C95c3DfBD1fB32094Defd3eDf5f149A169", "name": "FuckOdyssey", "compiler": "0.8.1", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "6/19/2022"}
+{"address": "0x419f2b1045be119724ad36337f9907e254c47fa2", "name": "FuckOdyssey", "compiler": "0.8.1", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "6/19/2022"}
+{"address": "0x7fa3b15B7385729a7BA356b4a874290BDB59aD45", "name": "Router", "compiler": "0.8.2", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "6/19/2022"}
+{"address": "0x31D2678Ed8Ea62fC63d5ECfF713920F75167D062", "name": "FlipNFT", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 1527, "settings": "", "date": "6/13/2022", "err": "Exception('HTML IN OUTPUT!! - BeautifulSoup messed up..')"}
+{"address": "0xF3F361C1A84969dB21eB5Ed278BC987B7540923C", "name": "DCATokenDescriptor", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 0, "settings": "", "date": "5/31/2022", "err": "Exception('HTML IN OUTPUT!! - BeautifulSoup messed up..')"}
