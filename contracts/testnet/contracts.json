@@ -4814,3 +4814,44 @@
 {"address": "0x4218B9Ad587823f26D66B65E270f29E875A67A1B", "name": "MglobeGameERC1155", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 5, "settings": "", "date": "6/18/2022"}
 {"address": "0x1ACA0A7134442aB9dB42EdC7C0c02593b435Cd01", "name": "FlipNFT", "compiler": "0.8.4", "balance": "0.06 ETH", "txcount": 5, "settings": "", "date": "6/13/2022", "err": "Exception('HTML IN OUTPUT!! - BeautifulSoup messed up..')"}
 {"address": "0x10901D521293A032cd8AD516A1E67Ac006577762", "name": "FlipNFT", "compiler": "0.8.4", "balance": "0.42 ETH", "txcount": 16, "settings": "", "date": "6/12/2022", "err": "Exception('HTML IN OUTPUT!! - BeautifulSoup messed up..')"}
+{"address": "0x2d91C960b03F2C39604aE1b644ba508a1366057c", "name": "VaultFactory", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/20/2022"}
+{"address": "0xC423D7e3e1B7caF1AA5ce58EA0f3A91427Fd47ae", "name": "StrategySplitterV2", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/20/2022"}
+{"address": "0xFC9b894D0b4a34AB41278Df5F2aBEEb5de95c9e4", "name": "VaultInsurance", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/20/2022"}
+{"address": "0xCF66857b468740d6dbF9cE11929A9c03DDA12988", "name": "TetuVaultV2", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/20/2022"}
+{"address": "0xC9d5917A0cb82450Cd687AF31eCAaC967D7F121C", "name": "ForwarderV3", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/20/2022"}
+{"address": "0xbEB411eAD71713E7f2814326498Ff2a054242206", "name": "PlatformVoter", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/20/2022"}
+{"address": "0x13d862a01d0AB241509A2e47e31d0db04e9b9F49", "name": "TetuVoter", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/20/2022"}
+{"address": "0xB5A5D5fE893bC26C6E70CEbb8a193f764A438fd5", "name": "MultiBribe", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/20/2022"}
+{"address": "0x57Cf87b92E38f619bBeB2F13800730e668d69d7D", "name": "MultiGauge", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/20/2022"}
+{"address": "0x00379dD90b2A337C4652E286e4FBceadef940a21", "name": "VeDistributor", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/20/2022"}
+{"address": "0x0A0846c978a56D6ea9D2602eeb8f977B21F3207F", "name": "VeTetu", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/20/2022"}
+{"address": "0x6B2e0fACD2F2A8f407aC591067Ac06b5d29247E4", "name": "VeTetuLogo", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/20/2022"}
+{"address": "0x0EFc2D2D054383462F2cD72eA2526Ef7687E1016", "name": "ProxyControlled", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 3, "settings": "", "date": "6/20/2022"}
+{"address": "0xf31d85CA2811B482f783860aacE022cf837dF7fE", "name": "ControllerV2", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/20/2022"}
+{"address": "0x88a12B7b6525c0B46c0c200405f49cE0E72D71Aa", "name": "MockToken", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "6/20/2022"}
+{"address": "0x152867C2f891A82E0cF9bdffE2f92534979882cD", "name": "VeAPEX", "compiler": "0.8.2", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/20/2022"}
+{"address": "0x55c6a7bA186416c497286FAA9B630693E2CFe368", "name": "ApeXPool", "compiler": "0.8.2", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/20/2022"}
+{"address": "0xaCC463508716d97f1007360Ff4d9Ae61dCEA6bCb", "name": "StakingPool", "compiler": "0.8.2", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/20/2022"}
+{"address": "0xaDfB4e319187BcaCFD68b1a9da05440c6dbeA5cb", "name": "StakingPoolFactory", "compiler": "0.8.2", "balance": "0 ETH", "txcount": 8, "settings": "", "date": "6/20/2022"}
+{"address": "0x83E95fBD0c97B0E873200452702851e905B560bf", "name": "NeanderSmol", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "6/20/2022"}
+{"address": "0x8506554c599C274C9277E887b1c865c2A9E0089a", "name": "AdvancedONFT721", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 10, "settings": "", "date": "6/19/2022"}
+{"address": "0xd42C6D1a4dBAdBCfBD8975a1402555640ba3Ac5F", "name": "HomeRouter", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "6/19/2022"}
+{"address": "0x6701D9802aDF674E524053bd44AA83ef253efc41", "name": "Router", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 212, "settings": "", "date": "6/19/2022"}
+{"address": "0x1C1CAaC85124bb4D56aA14ef7972AF00DDc5f93E", "name": "Whitelist", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "6/19/2022"}
+{"address": "0x2cAdEa78051417f502Bd047525a1c17A0e5eE743", "name": "Public", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 3, "settings": "", "date": "6/19/2022"}
+{"address": "0x34c84BEF064CA1381d837b702051231b0b87d07e", "name": "Private", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/19/2022"}
+{"address": "0xeB5153F9166d444631b16D62DC7D4e14DA532E29", "name": "HomeRouter", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "6/19/2022"}
+{"address": "0x8A1cfd3Fe59e6c76192b1Aa51F9781c61a074A6b", "name": "Public", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/19/2022"}
+{"address": "0xACc3B960122e38BaccEBb6d7161534CEc8776258", "name": "Holder", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "6/19/2022"}
+{"address": "0x90813C8C86E68da04fEaA66340273c361291154c", "name": "PublicFactory", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 3, "settings": "", "date": "6/19/2022"}
+{"address": "0xFce20B781d44B5405fE8542FFd0288bA906fF2be", "name": "PublicFactory", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/19/2022"}
+{"address": "0x792fD2049F064Ad3214B6B15049d665fD855edE4", "name": "PublicFactory", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/19/2022"}
+{"address": "0xf609687230a65e8bd14cacedefcf2dea9c15b242", "name": "Multicall2", "compiler": "0.8.5", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "6/19/2022"}
+{"address": "0xf84d4c31d80d85ebe4e249dc30080d2eb1ba78ea", "name": "tool", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "6/19/2022"}
+{"address": "0xdfd9daD424Bb96328055227e5bEE8fcD612dB288", "name": "PublicFactory", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/19/2022"}
+{"address": "0xF3cd57BC865a85f89e96DedF9863a9c211A3eB59", "name": "PublicSale", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/19/2022"}
+{"address": "0x26776F4a7B80C096dC08016AD7dB8502887E589d", "name": "BobotGenesisV2", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "6/19/2022"}
+{"address": "0xFe3836C95c3DfBD1fB32094Defd3eDf5f149A169", "name": "FuckOdyssey", "compiler": "0.8.1", "balance": "0 ETH", "txcount": 3, "settings": "-", "date": "6/19/2022"}
+{"address": "0x52DFc79c585a3E1Bf3E94e3e56f07dB1F7945ED5", "name": "FuckOdyssey", "compiler": "0.8.1", "balance": "0.002 ETH", "txcount": 2, "settings": "-", "date": "6/19/2022"}
+{"address": "0x1ACA0A7134442aB9dB42EdC7C0c02593b435Cd01", "name": "FlipNFT", "compiler": "0.8.4", "balance": "0.06 ETH", "txcount": 5, "settings": "", "date": "6/13/2022", "err": "Exception('HTML IN OUTPUT!! - BeautifulSoup messed up..')"}
+{"address": "0x10901D521293A032cd8AD516A1E67Ac006577762", "name": "FlipNFT", "compiler": "0.8.4", "balance": "0.42 ETH", "txcount": 16, "settings": "", "date": "6/12/2022", "err": "Exception('HTML IN OUTPUT!! - BeautifulSoup messed up..')"}
