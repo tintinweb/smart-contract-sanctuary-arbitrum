@@ -1,0 +1,110 @@
+/**
+ *Submitted for verification at Arbiscan on 2022-06-22
+*/
+
+contract PollingEvents {
+    event PollCreated(
+        address indexed creator,
+        uint256 blockCreated,
+        uint256 indexed pollId,
+        uint256 startDate,
+        uint256 endDate,
+        string multiHash,
+        string url
+    );
+
+    event PollWithdrawn(
+        address indexed creator,
+        uint256 blockWithdrawn,
+        uint256 pollId
+    );
+
+    event Voted(
+        address indexed voter,
+        uint256 indexed pollId,
+        uint256 indexed optionId
+    );
+}
+
+contract Polling is PollingEvents {
+
+    string public constant name = "MakerDAO Polling";
+    string public constant version = "Arbitrum.1";
+    uint256 public constant chainId  = 1; //votes are counted towards mainnet polls
+
+    uint256 public npoll = 1000;
+    mapping (address => uint) public nonces;
+
+    // -- math --
+    function add(uint256 x, uint256 y) internal pure returns (uint256 z) {
+        z = x + y;
+        require(z >= x);
+    }
+
+    // --- EIP712 niceties ---
+    bytes32 public DOMAIN_SEPARATOR;
+    // bytes32 public constant VOTE_TYPEHASH = keccak256("Vote(address voter,uint256 nonce, uint256 expiry, uint256[] calldata pollIds, uint256[] calldata optionIds)");
+    bytes32 public constant VOTE_TYPEHASH = 0x3a32d9ff21845937462ef54f60a7e43f80718634057cd914d865b96e11a28dbd;
+
+    constructor() public {
+        DOMAIN_SEPARATOR = keccak256(abi.encode(
+            keccak256("EIP712Domain(string name,string version,uint256 chainId,address verifyingContract)"),
+            keccak256(bytes(name)),
+            keccak256(bytes(version)),
+            chainId,
+            address(this)
+        ));
+    }
+
+    function createPoll(uint256 startDate, uint256 endDate, string calldata multiHash, string calldata url)
+        external
+    {
+        uint256 startDate_ = startDate > now ? startDate : now;
+        require(endDate > startDate_, "polling-invalid-poll-window");
+        emit PollCreated(
+            msg.sender,
+            block.number,
+            npoll,
+            startDate_,
+            endDate,
+            multiHash,
+            url
+        );
+        require(npoll < uint(-1), "polling-too-many-polls");
+        npoll++;
+    }
+
+    function withdrawPoll(uint256 pollId)
+        external
+    {
+        emit PollWithdrawn(msg.sender, block.number, pollId);
+    }
+
+    function increasePollNumber(uint256 amount) external {
+        require(amount <= 30);
+        npoll = add(npoll, amount);
+    }
+
+    function vote(address voter, uint256 nonce, uint256 expiry, uint256[] calldata pollIds, uint256[] calldata optionIds, uint8 v, bytes32 r, bytes32 s)
+        external
+    {
+        require(pollIds.length == optionIds.length, "non-matching-length");
+        bytes32 digest =
+            keccak256(abi.encodePacked(
+                "\x19\x01",
+                DOMAIN_SEPARATOR,
+                keccak256(abi.encode(VOTE_TYPEHASH,
+                                     voter,
+                                     nonce,
+                                     expiry))
+        ));
+        require(voter != address(0), "Polling/invalid-address");
+        require(voter == ecrecover(digest, v, r, s), "Polling/invalid-signature");
+        require(expiry == 0 || now <= expiry, "Polling/signature-expired");
+        require(nonce == nonces[voter]++, "Polling/invalid-nonce");
+
+        for (uint i = 0; i < pollIds.length; i++) {
+            emit Voted(voter, pollIds[i], optionIds[i]);
+        }
+    }
+}
