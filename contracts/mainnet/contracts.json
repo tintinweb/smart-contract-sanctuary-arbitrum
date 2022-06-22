@@ -4715,3 +4715,27 @@
 {"address": "0xab725c1c3778b0e23a680F66977e2462646F2F90", "name": "TreasureMarketplace", "compiler": "0.8.12", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/20/2022"}
 {"address": "0x31D2678Ed8Ea62fC63d5ECfF713920F75167D062", "name": "FlipNFT", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 1535, "settings": "", "date": "6/13/2022", "err": "Exception('HTML IN OUTPUT!! - BeautifulSoup messed up..')"}
 {"address": "0xF3F361C1A84969dB21eB5Ed278BC987B7540923C", "name": "DCATokenDescriptor", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 0, "settings": "", "date": "5/31/2022", "err": "Exception('HTML IN OUTPUT!! - BeautifulSoup messed up..')"}
+{"address": "0x560D4B645CDC392a6f858354Ce9d205289D3289b", "name": "TransparentUpgradeableProxy", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/22/2022"}
+{"address": "0xCd9Df581F855d07144F150B0C681824548008644", "name": "EVOUpgradeable", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/22/2022"}
+{"address": "0x7bf23a2586e350db81bf389762afd98c6a4ae297", "name": "Arbirds", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 3, "settings": "", "date": "6/22/2022"}
+{"address": "0x006d8E69365bd93c38f4AF1814207a4002f938C5", "name": "StargateLPStrategy", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 5, "settings": "", "date": "6/22/2022"}
+{"address": "0x978D34A96780414c5978AB3e861B0D098B2A006c", "name": "StargateLPStrategy", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 5, "settings": "", "date": "6/22/2022"}
+{"address": "0xa6247E6FbA04354AfD4D688De946AE1370b3C15E", "name": "StargateCurveLevSwapper", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/22/2022"}
+{"address": "0x2906ae98fdAf225a697a09158D10843A89CF0FC5", "name": "StargateCurveSwapper", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/22/2022"}
+{"address": "0x14D6dF05Ce338f8b32491532E9E0b23838AD213E", "name": "StargateCurveLevSwapper", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/22/2022"}
+{"address": "0x85E8A3087C90992BAdD74BE44F18626b2359F490", "name": "StargateCurveSwapper", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/22/2022"}
+{"address": "0xd98bfb05DD6aa37BA5624479Eb4264de9a3384Ee", "name": "CauldronV3_1", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 3, "settings": "", "date": "6/22/2022"}
+{"address": "0x7C8FeF8eA9b1fE46A7689bfb8149341C90431D38", "name": "DegenBox", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 4, "settings": "", "date": "6/22/2022"}
+{"address": "0xbf74f84b76aedf2702a6adb4bd76656cd691b1c2", "name": "LizardToken", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/22/2022"}
+{"address": "0xE4ADdfdf5641EB4e15F60a81F63CEd4884B49823", "name": "AaveV3Adapter", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/22/2022"}
+{"address": "0x393d7299c2caA940b777b014a094C3B2ea45ee2B", "name": "UUPSProxy", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 10, "settings": "", "date": "6/22/2022"}
+{"address": "0x864251739E944743102babDB1bf6cE385264E4fa", "name": "RouterERC20UpgradableToken", "compiler": "0.8.2", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/22/2022"}
+{"address": "0x236b53b1082724c35ea65cbdef39ae296fa04111", "name": "testContractProxy", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "6/22/2022"}
+{"address": "0xf3a5906fd21e1d484b29b9572d1807bfccf25dbf", "name": "testApp", "compiler": "0.8.0", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/22/2022"}
+{"address": "0x1Dd9e9e142f3f84d90aF1a9F2cb617C7e08420a4", "name": "AnyswapV6ERC20", "compiler": "0.8.14", "balance": "0 ETH", "txcount": 17, "settings": "", "date": "6/22/2022"}
+{"address": "0x650af55d5877f289837c30b94af91538a7504b76", "name": "AnyswapV6Router", "compiler": "0.8.14", "balance": "0 ETH", "txcount": 1979, "settings": "", "date": "6/22/2022"}
+{"address": "0xb16ed82e07d93882378357d3cf7e3e92efd5abfb", "name": "r0cketflippers", "compiler": "0.8.14", "balance": "0 ETH", "txcount": 8, "settings": "", "date": "6/21/2022"}
+{"address": "0xCBBFB7e0E6782DF0d3e91F8D785A5Bf9E8d9775F", "name": "veDPXYieldDistributor", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 70, "settings": "", "date": "6/21/2022"}
+{"address": "0x80789D252A288E93b01D82373d767D71a75D9F16", "name": "DPXVotingEscrow", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 75, "settings": "", "date": "6/21/2022"}
+{"address": "0x31D2678Ed8Ea62fC63d5ECfF713920F75167D062", "name": "FlipNFT", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 1536, "settings": "", "date": "6/13/2022", "err": "Exception('HTML IN OUTPUT!! - BeautifulSoup messed up..')"}
+{"address": "0xF3F361C1A84969dB21eB5Ed278BC987B7540923C", "name": "DCATokenDescriptor", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 0, "settings": "", "date": "5/31/2022", "err": "Exception('HTML IN OUTPUT!! - BeautifulSoup messed up..')"}
