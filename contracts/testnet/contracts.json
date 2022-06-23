@@ -4939,3 +4939,31 @@
 {"address": "0xbd66be184Dc6A6FE8B4fB77F50eBa8a22eA3fB86", "name": "NFTStakeFarming", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "6/22/2022"}
 {"address": "0x1ACA0A7134442aB9dB42EdC7C0c02593b435Cd01", "name": "FlipNFT", "compiler": "0.8.4", "balance": "0.06 ETH", "txcount": 5, "settings": "", "date": "6/13/2022", "err": "Exception('HTML IN OUTPUT!! - BeautifulSoup messed up..')"}
 {"address": "0x10901D521293A032cd8AD516A1E67Ac006577762", "name": "FlipNFT", "compiler": "0.8.4", "balance": "0.42 ETH", "txcount": 16, "settings": "", "date": "6/12/2022", "err": "Exception('HTML IN OUTPUT!! - BeautifulSoup messed up..')"}
+{"address": "0x97d2912D0e3719306C6963160e6065fD357C2FBf", "name": "StakingPool", "compiler": "0.8.2", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "6/23/2022"}
+{"address": "0x1575D5522553Cfd46E08DE84386F108FFA1d3584", "name": "StakingPoolFactory", "compiler": "0.8.2", "balance": "0 ETH", "txcount": 7, "settings": "", "date": "6/23/2022"}
+{"address": "0x651d487251d45da0e2e9ae8085232e52b813688d", "name": "TestVault", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/23/2022"}
+{"address": "0x2f0ada7654e61cf850aee0c04a49a8d07225d753", "name": "TestWETH", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/23/2022"}
+{"address": "0xE48D182cd39Cd65054A7D4e28772986f0A45Ade7", "name": "EYE", "compiler": "0.8.12", "balance": "0 ETH", "txcount": 3, "settings": "", "date": "6/23/2022"}
+{"address": "0xE26379e70318e8A0f439f5d7dB833822d2533BF6", "name": "StakingPoolFactory", "compiler": "0.8.2", "balance": "0 ETH", "txcount": 7, "settings": "", "date": "6/23/2022"}
+{"address": "0xa875b3feb317780a262e070f006bd527a8a14c20", "name": "Counter", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/23/2022"}
+{"address": "0x3ECC47016c47948ed6C88FFf689429FA0141E92d", "name": "SignatureDrop", "compiler": "0.8.12", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/23/2022"}
+{"address": "0xB5c1f9598aa82054EA80600737BfD494E7d1aDBE", "name": "Multiwrap", "compiler": "0.8.12", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/23/2022"}
+{"address": "0xAC4190bFF783B19812137c38E7d3c724b655f1d5", "name": "Marketplace", "compiler": "0.8.12", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/23/2022"}
+{"address": "0x10C06F8B3695813276b4A921C06bb3b122aAf9d2", "name": "Split", "compiler": "0.8.12", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/23/2022"}
+{"address": "0x8F18067D118B1DD1D7a503B0b6Ed255341068029", "name": "TokenERC1155", "compiler": "0.8.12", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/23/2022"}
+{"address": "0x7181acA2A01Bc98596b1d5375C97389F0d136B2b", "name": "TokenERC721", "compiler": "0.8.12", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/23/2022"}
+{"address": "0x83cCFAaA705Bf3B734B50121d47b82D58aE91796", "name": "TokenERC20", "compiler": "0.8.12", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/23/2022"}
+{"address": "0xe9D53b11d6531b0E56990755a7856889FC59848d", "name": "DropERC20", "compiler": "0.8.12", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/23/2022"}
+{"address": "0x7c8331a0d93e55a70153cbd9d5d28117d24226be", "name": "ProxyAdmin", "compiler": "0.8.6", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/23/2022"}
+{"address": "0x7185fBf58db5F3Df186197406CEc2E253A1f5fE6", "name": "DropERC1155", "compiler": "0.8.12", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/23/2022"}
+{"address": "0x0E1d366475709eF677275E4161a20456cAc2071f", "name": "DropERC721", "compiler": "0.8.12", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/23/2022"}
+{"address": "0x5bB3DCac11fa075D4f362Bb2D0De93fA821f1dA9", "name": "TWFee", "compiler": "0.8.12", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/23/2022"}
+{"address": "0xF04B81c1D80Dbdd2662b91eD534b7a50152ed910", "name": "MyTestRamppProjectContract", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/23/2022"}
+{"address": "0xb0435b47ad26115A39c59735b814f3769F07C2c1", "name": "TWFactory", "compiler": "0.8.12", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "6/23/2022"}
+{"address": "0xcF4c511551aE4dab1F997866FC3900cd2aaeC40D", "name": "TWRegistry", "compiler": "0.8.12", "balance": "0 ETH", "txcount": 3, "settings": "", "date": "6/22/2022"}
+{"address": "0x374a730471f554d1c5e7f705016d2b0479fda96f", "name": "CattleRoyale", "compiler": "0.8.6", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/22/2022"}
+{"address": "0xf533719fDF51e128E27756bf3FAc1c53b8A398ef", "name": "Vault", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 4, "settings": "", "date": "6/22/2022"}
+{"address": "0x0da373ef8142f752644fa7d660e218f59217437b", "name": "LucidLonghornsToken", "compiler": "0.8.6", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/22/2022"}
+{"address": "0x06644a29fefFDdE1332d3a081377d95707fd3B19", "name": "TransparentUpgradeableProxy", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 9, "settings": "", "date": "6/22/2022"}
+{"address": "0x1ACA0A7134442aB9dB42EdC7C0c02593b435Cd01", "name": "FlipNFT", "compiler": "0.8.4", "balance": "0.06 ETH", "txcount": 5, "settings": "", "date": "6/13/2022", "err": "Exception('HTML IN OUTPUT!! - BeautifulSoup messed up..')"}
+{"address": "0x10901D521293A032cd8AD516A1E67Ac006577762", "name": "FlipNFT", "compiler": "0.8.4", "balance": "0.42 ETH", "txcount": 16, "settings": "", "date": "6/12/2022", "err": "Exception('HTML IN OUTPUT!! - BeautifulSoup messed up..')"}
