@@ -4967,3 +4967,35 @@
 {"address": "0x06644a29fefFDdE1332d3a081377d95707fd3B19", "name": "TransparentUpgradeableProxy", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 9, "settings": "", "date": "6/22/2022"}
 {"address": "0x1ACA0A7134442aB9dB42EdC7C0c02593b435Cd01", "name": "FlipNFT", "compiler": "0.8.4", "balance": "0.06 ETH", "txcount": 5, "settings": "", "date": "6/13/2022", "err": "Exception('HTML IN OUTPUT!! - BeautifulSoup messed up..')"}
 {"address": "0x10901D521293A032cd8AD516A1E67Ac006577762", "name": "FlipNFT", "compiler": "0.8.4", "balance": "0.42 ETH", "txcount": 16, "settings": "", "date": "6/12/2022", "err": "Exception('HTML IN OUTPUT!! - BeautifulSoup messed up..')"}
+{"address": "0x65122c5120dC798514E6552e755893B77983D562", "name": "Comptroller", "compiler": "0.5.17", "balance": "0 ETH", "txcount": 10, "settings": "", "date": "6/24/2022"}
+{"address": "0x6A9110a2074eb89375818867dEd8D571024674B5", "name": "ApeXPool", "compiler": "0.8.2", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/24/2022"}
+{"address": "0x02874cb86847A94F07b87F3e91e8890Bd0201996", "name": "StakingPoolFactory", "compiler": "0.8.2", "balance": "0 ETH", "txcount": 8, "settings": "", "date": "6/24/2022"}
+{"address": "0x2367Afa69432C54100b5667C8C903B684d519fD0", "name": "UpkeepCounter", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/23/2022"}
+{"address": "0x05904287ccA5B9eE233c177BAAbe97A0b15ADA21", "name": "DpxBonds", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 3, "settings": "", "date": "6/23/2022"}
+{"address": "0xA8de3524C3b31608Ee9F261A36db963488d938E7", "name": "DpxBonds", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 3, "settings": "", "date": "6/23/2022"}
+{"address": "0x00Fe6D66dbf6bC77D4e53B60E042b78Ec0192be7", "name": "NFTMarket", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/23/2022"}
+{"address": "0x8C2235e1D9bBd04385213C704C467e4098262Fb7", "name": "GenesisSpirit", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "6/23/2022"}
+{"address": "0xDF53Be3048C7b7112CA7b4454e9685ea8A15eD46", "name": "SquireQuestingTemple", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/23/2022"}
+{"address": "0x49e73fa6a5408d70adfd4c969a37cacb5831f26e", "name": "CattleRoyaleProxy", "compiler": "0.8.6", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/23/2022"}
+{"address": "0x2a6fb8B52e74f0Ee4C88d8c2D6d91252239b41e2", "name": "StakingPool", "compiler": "0.8.2", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "6/23/2022"}
+{"address": "0xCe0A84bd22C5d4C3eb47fDd6BA9EF27F9A81bEca", "name": "StakingPoolFactory", "compiler": "0.8.2", "balance": "0 ETH", "txcount": 7, "settings": "", "date": "6/23/2022"}
+{"address": "0xe715022FBa0818891638B4E52eec411A48476941", "name": "Kennel", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 5, "settings": "", "date": "6/23/2022"}
+{"address": "0x2C77b893834F79c208c66643284AA736B88c65D4", "name": "Smulips", "compiler": "0.8.15", "balance": "0.2 ETH", "txcount": 17, "settings": "", "date": "6/23/2022"}
+{"address": "0x9DCED98e2030A1596609200952B5578Fac2aB517", "name": "Smulips", "compiler": "0.8.15", "balance": "0.1 ETH", "txcount": 10, "settings": "-", "date": "6/23/2022"}
+{"address": "0x8d309F0dC4401C43997E57c4bc89eDd7b7B87Ee6", "name": "Smulips", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "6/23/2022"}
+{"address": "0xaf9cbb3ffe9387370b1543a71b5bbebdf1fed739", "name": "TestVault", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 6, "settings": "", "date": "6/23/2022"}
+{"address": "0x006089929469ec0489a143C0d71f52C7d0201CCf", "name": "SubscriptionDePay", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 5, "settings": "", "date": "6/23/2022"}
+{"address": "0x7955ca8ec4b8c4a803b9e24cba63517dd9455122", "name": "TestVault", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 4, "settings": "", "date": "6/23/2022"}
+{"address": "0xfc10433016c248Fde8F70e590e1633105Bf76aAD", "name": "StakingPool", "compiler": "0.8.2", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "6/23/2022"}
+{"address": "0x2B82Af714EBdaf1F2c914Dd18572Ae61aE1Ed574", "name": "StakingPoolFactory", "compiler": "0.8.2", "balance": "0 ETH", "txcount": 7, "settings": "", "date": "6/23/2022"}
+{"address": "0x299624823Fd29665B1994428504d8e407bF38bC4", "name": "TokenFactory", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/23/2022"}
+{"address": "0xb3c7580b93cE50E71c2A50B030877171D25410F2", "name": "SampleTokenERC20", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/23/2022"}
+{"address": "0x0A55aF327Bd9490ddE3dF6F5AD78cc1C28324f28", "name": "MosaicVault", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "6/23/2022"}
+{"address": "0xfcb4c80d5Cd7515971FBd7bF5E321dA429E10a56", "name": "MosaicVaultConfig", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "6/23/2022"}
+{"address": "0x9691467cFcF5c625f7606C181FEa8e3e93639d6D", "name": "MosaicHolding", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "6/23/2022"}
+{"address": "0x550fe2445137bc326a5f955731a4a7f9783d011d", "name": "TestVault", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "6/23/2022"}
+{"address": "0xad7c15d903ba942281dcf7b245624b6b167b9c56", "name": "TestUSD", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 12, "settings": "", "date": "6/23/2022"}
+{"address": "0xf590e8d42B60879E294859ADA65525CF56cE6Eec", "name": "SubscriptionDePay", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 7, "settings": "", "date": "6/23/2022"}
+{"address": "0x64b5b06ff4e8b63D601c3D2134bB6E2A3f137106", "name": "NFTStaking", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/23/2022"}
+{"address": "0x1ACA0A7134442aB9dB42EdC7C0c02593b435Cd01", "name": "FlipNFT", "compiler": "0.8.4", "balance": "0.06 ETH", "txcount": 5, "settings": "", "date": "6/13/2022", "err": "Exception('HTML IN OUTPUT!! - BeautifulSoup messed up..')"}
+{"address": "0x10901D521293A032cd8AD516A1E67Ac006577762", "name": "FlipNFT", "compiler": "0.8.4", "balance": "0.42 ETH", "txcount": 16, "settings": "", "date": "6/12/2022", "err": "Exception('HTML IN OUTPUT!! - BeautifulSoup messed up..')"}
