@@ -4808,3 +4808,13 @@
 {"address": "0x586510d4ca572b48c46927145e19885759bb01d4", "name": "L2Receiver", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/25/2022"}
 {"address": "0x31D2678Ed8Ea62fC63d5ECfF713920F75167D062", "name": "FlipNFT", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 1542, "settings": "", "date": "6/13/2022", "err": "Exception('HTML IN OUTPUT!! - BeautifulSoup messed up..')"}
 {"address": "0xF3F361C1A84969dB21eB5Ed278BC987B7540923C", "name": "DCATokenDescriptor", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 0, "settings": "", "date": "5/31/2022", "err": "Exception('HTML IN OUTPUT!! - BeautifulSoup messed up..')"}
+{"address": "0xDa2011f5ec633f5753c2158d2a1f6Ed10487aA35", "name": "FiveOceans", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 203, "settings": "", "date": "6/26/2022"}
+{"address": "0x300F1489dAe131e6ceF3ff96A6B1E139cb557a56", "name": "Teeth", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 5, "settings": "", "date": "6/26/2022"}
+{"address": "0xF23f3D06cE7416607BcCA4059586E8d980a7FDc6", "name": "SmulipFounders", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "6/26/2022"}
+{"address": "0x3eb8df4c5d6f95ee86d8d24e5cd7273a46607509", "name": "_um", "compiler": "0.8.14", "balance": "0.000004 ETH", "txcount": 3, "settings": "", "date": "6/26/2022"}
+{"address": "0x32e364eb912c57cb515e5f7fa8f441655d4d5b5c", "name": "_um_bulkminter", "compiler": "0.8.14", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/26/2022"}
+{"address": "0xA11937C76F8569fC47fe2D7d3EB80288812Ef380", "name": "PozzlenautsONFT", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 5, "settings": "", "date": "6/26/2022"}
+{"address": "0xe49b117cfc664f1e3ef17ed142f94161ef90803d", "name": "TainoPass", "compiler": "0.8.6", "balance": "0 ETH", "txcount": 6, "settings": "", "date": "6/25/2022"}
+{"address": "0x097f641b50a7b927a2bc64c29b249faa1a4f35f9", "name": "Bagel", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "6/25/2022"}
+{"address": "0x31D2678Ed8Ea62fC63d5ECfF713920F75167D062", "name": "FlipNFT", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 1544, "settings": "", "date": "6/13/2022", "err": "Exception('HTML IN OUTPUT!! - BeautifulSoup messed up..')"}
+{"address": "0xF3F361C1A84969dB21eB5Ed278BC987B7540923C", "name": "DCATokenDescriptor", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 0, "settings": "", "date": "5/31/2022", "err": "Exception('HTML IN OUTPUT!! - BeautifulSoup messed up..')"}
