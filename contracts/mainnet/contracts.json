@@ -4834,3 +4834,9 @@
 {"address": "0x253B772408c5c2Ee6c96b027AAe6896fecc075a2", "name": "RdpxEthLpFarm", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/26/2022"}
 {"address": "0x5B13B00E3a78E4F1190f2c10A0A2161913Bc8B7A", "name": "DpxEthLpFarm", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/26/2022"}
 {"address": "0x31D2678Ed8Ea62fC63d5ECfF713920F75167D062", "name": "FlipNFT", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 1545, "settings": "", "date": "6/13/2022", "err": "Exception('HTML IN OUTPUT!! - BeautifulSoup messed up..')"}
+{"address": "0xA170177Cb38D5C196445C77F8EC5EEf38d14B26b", "name": "MerkleAirdrop", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 4, "settings": "", "date": "6/27/2022"}
+{"address": "0x3eD91aB1CBE00F9d0964981B636001bA50709Dc6", "name": "Rocket", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 4, "settings": "", "date": "6/27/2022"}
+{"address": "0xE568035f04D87Cab3d12A2826A9318F7c04dbfd3", "name": "School", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 3, "settings": "", "date": "6/27/2022"}
+{"address": "0xFcC6D817166AB01c838B9e8551725EE2eFa1EF63", "name": "SmolBrain", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 7, "settings": "", "date": "6/27/2022"}
+{"address": "0x904BEA2b86aDE37108c0F4d0EFCbf53584999488", "name": "Land", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 6, "settings": "", "date": "6/27/2022"}
+{"address": "0x31D2678Ed8Ea62fC63d5ECfF713920F75167D062", "name": "FlipNFT", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 1545, "settings": "", "date": "6/13/2022", "err": "Exception('HTML IN OUTPUT!! - BeautifulSoup messed up..')"}
