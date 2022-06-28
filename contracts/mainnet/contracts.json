@@ -4854,3 +4854,5 @@
 {"address": "0x0A95222B5Ed8690a0279993E63903687536cCEcD", "name": "DpxEthLpFarm", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 67, "settings": "", "date": "6/28/2022"}
 {"address": "0x86E25f1e266eA4831b3CBb68164753DcbA30D047", "name": "BidifyFactory", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 4, "settings": "-", "date": "6/27/2022"}
 {"address": "0x31D2678Ed8Ea62fC63d5ECfF713920F75167D062", "name": "FlipNFT", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 1545, "settings": "", "date": "6/13/2022", "err": "Exception('HTML IN OUTPUT!! - BeautifulSoup messed up..')"}
+{"address": "0x1554ee754707D5C93b7934AF404747Aba521Aaf2", "name": "BatchRelayerLibrary", "compiler": "0.7.1", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/28/2022"}
+{"address": "0x31D2678Ed8Ea62fC63d5ECfF713920F75167D062", "name": "FlipNFT", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 1545, "settings": "", "date": "6/13/2022", "err": "Exception('HTML IN OUTPUT!! - BeautifulSoup messed up..')"}
