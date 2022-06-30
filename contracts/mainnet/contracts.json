@@ -4910,3 +4910,35 @@
 {"address": "0xC72633F995e98Ac3BB8a89e6a9C4Af335C3D6E44", "name": "OmniseaToken", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 7, "settings": "", "date": "6/29/2022"}
 {"address": "0xeee20efde3b7222561cb29b03aa62d3f1368fba2", "name": "ERC20PermitEverywhere", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/29/2022"}
 {"address": "0x31D2678Ed8Ea62fC63d5ECfF713920F75167D062", "name": "FlipNFT", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 1547, "settings": "", "date": "6/13/2022", "err": "Exception('HTML IN OUTPUT!! - BeautifulSoup messed up..')"}
+{"address": "0xF207A094737751dc3E420e1f71E5D74De4C448b2", "name": "TowersUpgrade", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/30/2022"}
+{"address": "0x2766ec868b1fd3461b956947dd41d5bd5529bd89", "name": "HyphenLiquidityFarmingV2", "compiler": "0.8.0", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/30/2022"}
+{"address": "0x3a3e4dae2d1acd16028d12fd59044e8f2c452c53", "name": "WhitelistPeriodManager", "compiler": "0.8.0", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/30/2022"}
+{"address": "0xd881d88a575d9d6f1b6f062d8d494588abbb0c41", "name": "LiquidityPool", "compiler": "0.8.0", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/30/2022"}
+{"address": "0xe1a9afffadb8e095ec861272a040bd488b24c085", "name": "LiquidityProviders", "compiler": "0.8.0", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/30/2022"}
+{"address": "0xd016e072642030fa0813ff62acda5c8feb17c448", "name": "LPToken", "compiler": "0.8.0", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/30/2022"}
+{"address": "0x451f4594e12ac35929a909ce32fc6afd3eb7e50c", "name": "TokenManager", "compiler": "0.8.0", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/30/2022"}
+{"address": "0x9Bcf58cD6d22c532e77DCAA196fC45589042Bc5B", "name": "ExecutorManager", "compiler": "0.8.0", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "6/30/2022"}
+{"address": "0x9C0dD7c93139ca6AB62470f65c173F1eEfDc9ef9", "name": "ArbitrumETH", "compiler": "0.8.0", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "6/30/2022"}
+{"address": "0xaF8Fe2c2F6ae85DdE4599b9babA02f59Fb736443", "name": "ArbitrumBICO", "compiler": "0.8.0", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "6/30/2022"}
+{"address": "0xb8EaA2FeeBF4605b1f4212D1A308641CD3186874", "name": "ArbitrumUSDC", "compiler": "0.8.0", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "6/30/2022"}
+{"address": "0x56a14A1954b5d5FD7C636a24137a93742bA708b9", "name": "ArbitrumBuyAdapter", "compiler": "0.7.5", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/30/2022"}
+{"address": "0x5b99094C3c2129F17b78cE5eBD1Cd8ADB887b340", "name": "ArbitrumAdapter01", "compiler": "0.7.5", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/30/2022"}
+{"address": "0xb41Ec6e014e2AD12Ae8514216EAb2592b74F19e7", "name": "SimpleSwapNFT", "compiler": "0.7.5", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/30/2022"}
+{"address": "0x5F7Cf10348A7d53709f13BbA1d6B47c2628c1bB9", "name": "ERC165", "compiler": "0.7.5", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/30/2022"}
+{"address": "0x27eb327B7255a2bF666EBB4D60AB4752dA4611b9", "name": "OnERC1155Received", "compiler": "0.7.5", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/30/2022"}
+{"address": "0x9a61002219E354A6E02331A510F0651A6d31edF5", "name": "OnERC721Received", "compiler": "0.7.5", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/30/2022"}
+{"address": "0x0310983446288E08f1Dd973148F194A685Ea551F", "name": "NewUniswapV2ExchangeRouter", "compiler": "0.7.5", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/30/2022"}
+{"address": "0xC79cf51b0951418cb7B010e38c3ceB8801E53184", "name": "SimpleSwapHelper", "compiler": "0.7.5", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/30/2022"}
+{"address": "0x8DcDfe88EF0351f27437284D0710cD65b20288bb", "name": "ProtectedSimpleSwap", "compiler": "0.7.5", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/30/2022"}
+{"address": "0x1F49705f2e10C8C77727D4F790daE444147D6903", "name": "SimpleSwap", "compiler": "0.7.5", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/30/2022"}
+{"address": "0xd8b2760230BbF3aA9777E175eC1c9720EB499ebA", "name": "ProtectedMultiPath", "compiler": "0.7.5", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/30/2022"}
+{"address": "0x749015EFfb59fcB9B826d854F3cA5c5C2F192147", "name": "MultiPath", "compiler": "0.7.5", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/30/2022"}
+{"address": "0xa655d02670be0ceC6b8b6b83c68Ed5375a2f5028", "name": "FeeClaimer", "compiler": "0.7.5", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/30/2022"}
+{"address": "0x1120dd8772c1cbD4e3F0bC141AB1BC7eeaFbdAf0", "name": "AugustusSwapper", "compiler": "0.7.5", "balance": "0 ETH", "txcount": 28, "settings": "", "date": "6/30/2022"}
+{"address": "0x0927FD43a7a87E3E8b81Df2c44B03C4756849F6D", "name": "AugustusRFQ", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/30/2022"}
+{"address": "0xf3D3E8037122906745Bad425233c7C6E069b98C8", "name": "PriceFeed", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/30/2022"}
+{"address": "0x48760B4A6749000B576f5857Cd6551d322E5ae8e", "name": "Amm", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/30/2022"}
+{"address": "0x12D38Ca7B789f67f79bDF1d099fc9AE3bf2b76c1", "name": "ClearingHouse", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/30/2022"}
+{"address": "0xC58A0dA586f1d2F010bAC6EA5DD92ccBbF267D48", "name": "TimelockControllerWithMinDelayOverride", "compiler": "0.8.14", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "6/30/2022", "err": "Exception('unable to find source-code. rate limited? retry..')"}
+{"address": "0x82df2eD312a6bEE27F61A77e9d92D48ae590e97E", "name": "MagicStaking", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/30/2022", "err": "Exception('unable to find source-code. rate limited? retry..')"}
+{"address": "0x31D2678Ed8Ea62fC63d5ECfF713920F75167D062", "name": "FlipNFT", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 1548, "settings": "", "date": "6/13/2022", "err": "Exception('HTML IN OUTPUT!! - BeautifulSoup messed up..')"}
