@@ -5013,3 +5013,18 @@
 {"address": "0xC58A0dA586f1d2F010bAC6EA5DD92ccBbF267D48", "name": "TimelockControllerWithMinDelayOverride", "compiler": "0.8.14", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "6/30/2022", "err": "Exception('unable to find source-code. rate limited? retry..')"}
 {"address": "0x82df2eD312a6bEE27F61A77e9d92D48ae590e97E", "name": "MagicStaking", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/30/2022", "err": "Exception('unable to find source-code. rate limited? retry..')"}
 {"address": "0x31D2678Ed8Ea62fC63d5ECfF713920F75167D062", "name": "FlipNFT", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 1553, "settings": "", "date": "6/13/2022", "err": "Exception('HTML IN OUTPUT!! - BeautifulSoup messed up..')"}
+{"address": "0xF380166F8490F24AF32Bf47D1aA217FBA62B6575", "name": "SimpleGovernance", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "7/4/2022"}
+{"address": "0xF03928DDc5e5Fa43c7f0cc94aB5adB76D25C79a6", "name": "GovernedOwnerProxy", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "7/4/2022"}
+{"address": "0xf1dDcACA7D17f8030Ab2eb54f2D9811365EFe123", "name": "Treasury", "compiler": "0.8.12", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "7/4/2022"}
+{"address": "0x1a7e4e63778B4f12a199C062f3eFdD288afCBce8", "name": "AgTokenSideChainMultiBridge", "compiler": "0.8.12", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "7/4/2022"}
+{"address": "0x8d58fc585BAA584Da5319Eb2941bED3f419346C6", "name": "Spender", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "7/4/2022"}
+{"address": "0x867093697b61Af2d15052de15E32AB5D62fcB2e9", "name": "SymbolImplementationOption", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "7/4/2022"}
+{"address": "0x69328f23A090e57378e3120f622ed0697f0E7ECF", "name": "RouterHpsmHlp", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "7/4/2022"}
+{"address": "0x71dBdA135d5A9F64306fd22e00E59a5fEdFB86F9", "name": "PoolSwapLibrary", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "7/4/2022"}
+{"address": "0x714d243fEaFfF5599105B59cD58bcCACb5eECc21", "name": "PoolStateHelper", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "7/4/2022"}
+{"address": "0xfd5b7516794d5a706d6fc4e04d94996c57f4b6b8", "name": "StakingPoolQueryReward", "compiler": "0.8.0", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "7/4/2022"}
+{"address": "0xb51e18061c396933ce1c68a62f3935cc3e2abf88", "name": "PoolKeeper", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 2122, "settings": "", "date": "7/4/2022"}
+{"address": "0x051afd0b39acf4cc52c76a479ad802d0b82a8249", "name": "PoolKeeper", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 2331, "settings": "", "date": "7/4/2022"}
+{"address": "0xC58A0dA586f1d2F010bAC6EA5DD92ccBbF267D48", "name": "TimelockControllerWithMinDelayOverride", "compiler": "0.8.14", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "6/30/2022", "err": "Exception('unable to find source-code. rate limited? retry..')"}
+{"address": "0x82df2eD312a6bEE27F61A77e9d92D48ae590e97E", "name": "MagicStaking", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/30/2022", "err": "Exception('unable to find source-code. rate limited? retry..')"}
+{"address": "0x31D2678Ed8Ea62fC63d5ECfF713920F75167D062", "name": "FlipNFT", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 1553, "settings": "", "date": "6/13/2022", "err": "Exception('HTML IN OUTPUT!! - BeautifulSoup messed up..')"}
