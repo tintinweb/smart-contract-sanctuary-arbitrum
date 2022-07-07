@@ -5092,3 +5092,20 @@
 {"address": "0xC58A0dA586f1d2F010bAC6EA5DD92ccBbF267D48", "name": "TimelockControllerWithMinDelayOverride", "compiler": "0.8.14", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "6/30/2022", "err": "Exception('unable to find source-code. rate limited? retry..')"}
 {"address": "0x82df2eD312a6bEE27F61A77e9d92D48ae590e97E", "name": "MagicStaking", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/30/2022", "err": "Exception('unable to find source-code. rate limited? retry..')"}
 {"address": "0x31D2678Ed8Ea62fC63d5ECfF713920F75167D062", "name": "FlipNFT", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 1553, "settings": "", "date": "6/13/2022", "err": "Exception('HTML IN OUTPUT!! - BeautifulSoup messed up..')"}
+{"address": "0xF9234CB08edb93c0d4a4d4c70cC3FfD070e78e07", "name": "SimpleSwapNFT", "compiler": "0.7.5", "balance": "-", "txcount": 0, "settings": "", "date": "7/7/2022"}
+{"address": "0x7a839098c2754Dba5a8f489a73b8DB10BD3dc35c", "name": "PusdVaultWeekly", "compiler": "0.8.9", "balance": "-", "txcount": 0, "settings": "", "date": "7/7/2022"}
+{"address": "0x66cF9033E119FcA8429bC87D423a14AaCEd22a3D", "name": "PusdVaultBiWeekly", "compiler": "0.8.9", "balance": "-", "txcount": 0, "settings": "", "date": "7/7/2022"}
+{"address": "0xb77a55274251C4FE858F76b8D94ae76E1Dcaf7B5", "name": "OptionsToken", "compiler": "0.8.9", "balance": "-", "txcount": 0, "settings": "", "date": "7/7/2022"}
+{"address": "0x50b89FA00B4513C2f58162427b9F26a5276a074C", "name": "ProtectedSimpleSwap", "compiler": "0.7.5", "balance": "-", "txcount": 0, "settings": "", "date": "7/7/2022"}
+{"address": "0xf298381A2b6B072F1998Ee4Eb261101F2a9F9516", "name": "SimpleSwap", "compiler": "0.7.5", "balance": "-", "txcount": 0, "settings": "", "date": "7/7/2022"}
+{"address": "0x2de92a5De61FeB225f411f0270dDC9f65D043521", "name": "ProtectedMultiPath", "compiler": "0.7.5", "balance": "-", "txcount": 0, "settings": "", "date": "7/7/2022"}
+{"address": "0x2637C588C7cA5138032992c97F437F55bD9fC782", "name": "MultiPath", "compiler": "0.7.5", "balance": "-", "txcount": 0, "settings": "", "date": "7/7/2022"}
+{"address": "0xA7465CCD97899edcf11C56D2d26B49125674e45F", "name": "FeeClaimer", "compiler": "0.7.5", "balance": "-", "txcount": 0, "settings": "", "date": "7/7/2022"}
+{"address": "0xbb5518859AB064BD484fB632A475968e7592e2E3", "name": "BunnyBats", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 0, "settings": "", "date": "7/7/2022"}
+{"address": "0x73C1D5BE4Ccc63c7154ec7305f34Fd97BAe8FcAE", "name": "STokensManager", "compiler": "0.8.9", "balance": "-", "txcount": 0, "settings": "", "date": "7/7/2022"}
+{"address": "0x007bfb81A0f4E8EEBC1D0570ad4dB6E04594bd43", "name": "Lockup", "compiler": "0.8.9", "balance": "-", "txcount": 0, "settings": "", "date": "7/7/2022"}
+{"address": "0x9eA7a3f50044EEBFCeA7aCb08069E4Fd238Ba1fD", "name": "AnyswapV6ERC20", "compiler": "0.8.15", "balance": "-", "txcount": 0, "settings": "", "date": "7/7/2022"}
+{"address": "0xA3a3D699B0a3a027d32C8d5040352ddE1b8A8106", "name": "AnyswapV6ERC20", "compiler": "0.8.15", "balance": "-", "txcount": 0, "settings": "", "date": "7/7/2022"}
+{"address": "0xC58A0dA586f1d2F010bAC6EA5DD92ccBbF267D48", "name": "TimelockControllerWithMinDelayOverride", "compiler": "0.8.14", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "6/30/2022", "err": "Exception('unable to find source-code. rate limited? retry..')"}
+{"address": "0x82df2eD312a6bEE27F61A77e9d92D48ae590e97E", "name": "MagicStaking", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/30/2022", "err": "Exception('unable to find source-code. rate limited? retry..')"}
+{"address": "0x31D2678Ed8Ea62fC63d5ECfF713920F75167D062", "name": "FlipNFT", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 1553, "settings": "", "date": "6/13/2022", "err": "Exception('HTML IN OUTPUT!! - BeautifulSoup messed up..')"}
