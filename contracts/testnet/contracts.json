@@ -5341,3 +5341,17 @@
 {"address": "0xe8B436DcA7d20151Bc09410a71468CF9c6dE397e", "name": "AllowanceTarget", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "7/5/2022"}
 {"address": "0xfA0A2D2A9174Ac175E74fff71B9eA53CBEAfc064", "name": "Spender", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 3, "settings": "", "date": "7/5/2022"}
 {"address": "0x22176d20a9657fa0a8136ee3e4fa12c6558b2fc7", "name": "CrowdFunding", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 2, "settings": "-", "date": "7/5/2022"}
+{"address": "0xf04dadfdEA943D8265aA00ff7D2a8A40fD986267", "name": "STokensManager", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "7/7/2022"}
+{"address": "0xD9D080eb59A63757430615c0b60fBC2694DDB54B", "name": "Lockup", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "7/7/2022"}
+{"address": "0x24093ece5569ad8ba95ab704e26abf485d5b2f9f", "name": "NeanderSmol", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "7/7/2022"}
+{"address": "0xea3f3ac90c9ac718d3af22cbed47b58d6015ce04", "name": "BarnMetadata", "compiler": "0.8.2", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "7/6/2022"}
+{"address": "0xb5f3981cace8b16b836ae1b73aa7052453648b66", "name": "Barn", "compiler": "0.8.2", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "7/6/2022"}
+{"address": "0x0beeefcb3c76d6a76f1a229b34f9c383932e898f", "name": "Barn", "compiler": "0.8.2", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "7/6/2022"}
+{"address": "0x2aadf6e4a7902d29c5e4bc0cf67fef361fd16530", "name": "Barn", "compiler": "0.8.2", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "7/6/2022"}
+{"address": "0x3047F44d0A8383EDd59A583092d7E6DB7ade85e0", "name": "HuwaDomainMinter", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "7/6/2022"}
+{"address": "0x4EA1C78102d2C201cFc98fd53b634Cc01294771c", "name": "RelicItems", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 3, "settings": "-", "date": "7/6/2022"}
+{"address": "0x9CaFd1421aAa1015b64F755Ff49499455f46cA70", "name": "Relic", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 3, "settings": "-", "date": "7/6/2022"}
+{"address": "0x3e20f7f6295292ab46048e38a37dbc8274b320e6", "name": "Solenv", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "7/6/2022"}
+{"address": "0xdd99eda7b74c6f3391cbcad39daee3ec054cf91b", "name": "Solenv", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "7/6/2022"}
+{"address": "0x68af0b702585947494bd528a9eda92efb44eb8cb", "name": "DatachainV1", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "7/6/2022"}
+{"address": "0x2c888eb02540a8c5586fab0ec4b0bbbfdacae36a", "name": "Solenv", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "7/6/2022"}
