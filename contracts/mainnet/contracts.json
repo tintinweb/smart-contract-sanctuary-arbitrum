@@ -5157,3 +5157,32 @@
 {"address": "0xC58A0dA586f1d2F010bAC6EA5DD92ccBbF267D48", "name": "TimelockControllerWithMinDelayOverride", "compiler": "0.8.14", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "6/30/2022", "err": "Exception('unable to find source-code. rate limited? retry..')"}
 {"address": "0x82df2eD312a6bEE27F61A77e9d92D48ae590e97E", "name": "MagicStaking", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/30/2022", "err": "Exception('unable to find source-code. rate limited? retry..')"}
 {"address": "0x31D2678Ed8Ea62fC63d5ECfF713920F75167D062", "name": "FlipNFT", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 1553, "settings": "", "date": "6/13/2022", "err": "Exception('HTML IN OUTPUT!! - BeautifulSoup messed up..')"}
+{"address": "0xf52bE300D788e2C298F17A79b75873bCB020D6cD", "name": "ScaledPolynomialPriceCalculator", "compiler": "0.8.6", "balance": "-", "txcount": 0, "settings": "", "date": "7/8/2022"}
+{"address": "0x758f0caaA0f44bcc7C04C4246A1604c1261b9EC8", "name": "CombinePriceCalculator", "compiler": "0.8.6", "balance": "-", "txcount": 0, "settings": "", "date": "7/8/2022"}
+{"address": "0xaDa0bbacF91338470CBb77d175caf3F6539B7293", "name": "CombinePriceCalculator", "compiler": "0.8.6", "balance": "-", "txcount": 0, "settings": "", "date": "7/8/2022"}
+{"address": "0x4B2A77b3dAe1DdBc0D38E48e9caB2fa27d2c5A74", "name": "HegicStrategyStrangle", "compiler": "0.8.6", "balance": "-", "txcount": 0, "settings": "", "date": "7/8/2022"}
+{"address": "0xEAc44b1eBb63bfc311D4c20C9310370CC96acCab", "name": "HegicStrategyStrangle", "compiler": "0.8.6", "balance": "-", "txcount": 0, "settings": "", "date": "7/8/2022"}
+{"address": "0x88eB2123ED2e5e00FF27D4b6b8445552FB5Dd742", "name": "HegicStrategySpreadPut", "compiler": "0.8.6", "balance": "-", "txcount": 0, "settings": "", "date": "7/8/2022"}
+{"address": "0x1e535376A6BC59b89Bdd7F3B7f9e27A849593810", "name": "HegicStrategySpreadPut", "compiler": "0.8.6", "balance": "-", "txcount": 0, "settings": "", "date": "7/8/2022"}
+{"address": "0xc886131869D70F7DfB506722CaB959732BC21a59", "name": "HegicStrategySpreadCall", "compiler": "0.8.6", "balance": "-", "txcount": 0, "settings": "", "date": "7/8/2022"}
+{"address": "0xe7D49B93590dB8C5ed806436fED5dc05D8585F9e", "name": "HegicStrategySpreadCall", "compiler": "0.8.6", "balance": "-", "txcount": 0, "settings": "", "date": "7/8/2022"}
+{"address": "0x8696D1c2318DAD4062505F94439Dcc1B9b1392E0", "name": "HegicStrategyInverseLongCondor", "compiler": "0.8.6", "balance": "-", "txcount": 0, "settings": "", "date": "7/8/2022"}
+{"address": "0xbaAc8a6D575a933ED1198F0Cc0f7f5a2fDB6915e", "name": "HegicStrategyInverseLongCondor", "compiler": "0.8.6", "balance": "-", "txcount": 0, "settings": "", "date": "7/8/2022"}
+{"address": "0x5F25F80560D28830494102d39a441461Ffc4A5Cb", "name": "HegicStrategyInverseLongButterfly", "compiler": "0.8.6", "balance": "-", "txcount": 0, "settings": "", "date": "7/8/2022"}
+{"address": "0xB3aF2002812ee94905D598fFb28196B53C0c9A0e", "name": "HegicStrategyInverseLongButterfly", "compiler": "0.8.6", "balance": "-", "txcount": 0, "settings": "", "date": "7/8/2022"}
+{"address": "0x8F4137407a74509639C4cB756209772C8F354c98", "name": "HegicStrategyInverseBullPutSpread", "compiler": "0.8.6", "balance": "-", "txcount": 0, "settings": "", "date": "7/8/2022"}
+{"address": "0x74FE1E2771710707dcE3b07FaF426a6e254E055e", "name": "HegicStrategyInverseBullPutSpread", "compiler": "0.8.6", "balance": "-", "txcount": 0, "settings": "", "date": "7/8/2022"}
+{"address": "0xb524ee6713F8f3ecD9C734E79321f100e8fbf9Ff", "name": "HegicStrategyInverseBearCallSpread", "compiler": "0.8.6", "balance": "-", "txcount": 0, "settings": "", "date": "7/8/2022"}
+{"address": "0x8cdf5200D48c585f33D31FEfDEB93BD11cB1d268", "name": "HegicStrategyInverseBearCallSpread", "compiler": "0.8.6", "balance": "-", "txcount": 0, "settings": "", "date": "7/8/2022"}
+{"address": "0xC0f70b898D017bF7089087E54Fd55D9B8091344D", "name": "HegicInverseOperationalTreasury", "compiler": "0.8.6", "balance": "-", "txcount": 0, "settings": "", "date": "7/8/2022"}
+{"address": "0x1DDC167FB5f94F437100ab2438C12A73df49Eb28", "name": "AtlasMine", "compiler": "0.8.9", "balance": "-", "txcount": 0, "settings": "", "date": "7/8/2022"}
+{"address": "0x96365da944537d027eCC9905f6b4237C093aE568", "name": "CurveYieldStrategy", "compiler": "0.8.14", "balance": "-", "txcount": 0, "settings": "", "date": "7/8/2022"}
+{"address": "0x9C215206Da4bf108aE5aEEf9dA7caD3352A36Dad", "name": "SwapperSidechain", "compiler": "0.8.12", "balance": "-", "txcount": 0, "settings": "", "date": "7/8/2022"}
+{"address": "0x9485aca5bbBE1667AD97c7fE7C4531a624C8b1ED", "name": "OracleUSDCEURChainlinkArbitrum", "compiler": "0.8.12", "balance": "-", "txcount": 0, "settings": "", "date": "7/8/2022"}
+{"address": "0x1033dD8415A282Db52f14902E91DE6e91868aC6D", "name": "VaultManager", "compiler": "0.8.12", "balance": "-", "txcount": 0, "settings": "", "date": "7/8/2022"}
+{"address": "0x7AB641E661a9728913A44e06f6a4879481142DDb", "name": "OracleETHEURChainlinkArbitrum", "compiler": "0.8.12", "balance": "-", "txcount": 0, "settings": "", "date": "7/8/2022"}
+{"address": "0x4a5c2cbCFB921b596Dec049389899CC8Eb4678ED", "name": "AaveV3RatioCheck", "compiler": "0.8.10", "balance": "-", "txcount": 0, "settings": "", "date": "7/8/2022"}
+{"address": "0x5B7a5F0fbD8B4974DAf447e097CbF467419328b3", "name": "AaveV3RatioTrigger", "compiler": "0.8.10", "balance": "-", "txcount": 0, "settings": "", "date": "7/8/2022"}
+{"address": "0x3C6e41Bc10B895F1ec0b060e73Ee0B50E9691B9D", "name": "GasFeeTakerL2", "compiler": "0.8.10", "balance": "-", "txcount": 0, "settings": "", "date": "7/8/2022"}
+{"address": "0xC58A0dA586f1d2F010bAC6EA5DD92ccBbF267D48", "name": "TimelockControllerWithMinDelayOverride", "compiler": "0.8.14", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "6/30/2022", "err": "Exception('unable to find source-code. rate limited? retry..')"}
+{"address": "0x82df2eD312a6bEE27F61A77e9d92D48ae590e97E", "name": "MagicStaking", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/30/2022", "err": "Exception('unable to find source-code. rate limited? retry..')"}
