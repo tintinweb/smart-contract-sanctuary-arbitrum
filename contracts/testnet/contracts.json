@@ -5433,3 +5433,12 @@
 {"address": "0x2ccA64fdAd721a96151012d2790dDC2085B321cd", "name": "UniswapV2Router01", "compiler": "0.6.6", "balance": "0 ETH", "txcount": 3, "settings": "", "date": "7/8/2022"}
 {"address": "0x45F33E23F24bB6696eDC9e7BEab42951e9832c81", "name": "UniswapV2Pair", "compiler": "0.5.16", "balance": "0 ETH", "txcount": 0, "settings": "", "date": "7/8/2022"}
 {"address": "0xA752da5aeda462570014c042E82511C1d9c17e3c", "name": "UniswapV2Factory", "compiler": "0.5.16", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "7/8/2022"}
+{"address": "0xb8b51a0791619db25172f7b519a6924110df41a6", "name": "MintableERC721", "compiler": "0.8.11", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "7/10/2022"}
+{"address": "0xC5C59d79480eD5b2749b93e6f17336580A97fDF6", "name": "CustomAzukiContract", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "7/10/2022"}
+{"address": "0x303A41300BAEb37A1028Af017B17B8A6edC3066a", "name": "SignatureDrop", "compiler": "0.8.12", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "7/9/2022"}
+{"address": "0x8dA4a1dc73685ddEa380BE207F2861859bD3C00f", "name": "SmolOwnersWrappedSmolResolver", "compiler": "0.8.11", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "7/9/2022"}
+{"address": "0xE296B31F000B6192bCDD0E40b3b1355c07F27eaB", "name": "SmoloveRingVault", "compiler": "0.8.11", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "7/9/2022"}
+{"address": "0xcDc5fca6099efC710000bDcC46b597F3297fa71A", "name": "SmolRingStaking", "compiler": "0.8.11", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "7/9/2022"}
+{"address": "0x64f02Cfb6f676f91Ca8f223645FB2CAE1f46C2e4", "name": "SmolRings", "compiler": "0.8.11", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "7/9/2022"}
+{"address": "0x68c797886d3E86ea2dA63CeBF1145bcAE3c83E79", "name": "SmolRingUtils", "compiler": "0.8.11", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "7/9/2022"}
+{"address": "0x3f93277D3d1968a20Ab80b69e56e2c43be6c6aaF", "name": "SmoloveActionsVault", "compiler": "0.8.11", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "7/9/2022"}
