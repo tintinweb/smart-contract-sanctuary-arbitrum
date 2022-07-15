@@ -5288,3 +5288,18 @@
 {"address": "0xD8983a340A96b9C2Bb6855E46847aE134Db71fB1", "name": "GasPriceLogger", "compiler": "0.8.6", "balance": "-", "txcount": 0, "settings": "", "date": "7/14/2022"}
 {"address": "0xC58A0dA586f1d2F010bAC6EA5DD92ccBbF267D48", "name": "TimelockControllerWithMinDelayOverride", "compiler": "0.8.14", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "6/30/2022", "err": "Exception('unable to find source-code. rate limited? retry..')"}
 {"address": "0x82df2eD312a6bEE27F61A77e9d92D48ae590e97E", "name": "MagicStaking", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/30/2022", "err": "Exception('unable to find source-code. rate limited? retry..')"}
+{"address": "0x8e54ef5213e74fda5ed3350aa2c247838a75edb0", "name": "DutchPreSale", "compiler": "0.6.12", "balance": "-", "txcount": 0, "settings": "", "date": "7/15/2022"}
+{"address": "0xa0df47432d9d88bcc040e9ee66ddc7e17a882715", "name": "PegToken", "compiler": "0.6.12", "balance": "-", "txcount": 0, "settings": "", "date": "7/15/2022"}
+{"address": "0xb1b1ff836f9a5a7f323097cdeb3cd1b666963104", "name": "GenesisRewardPool", "compiler": "0.6.12", "balance": "-", "txcount": 0, "settings": "", "date": "7/15/2022"}
+{"address": "0xF9eBA2FE3F8d03d098a439fab2038c737D3DBB94", "name": "StargateAdapter", "compiler": "0.8.15", "balance": "-", "txcount": 0, "settings": "", "date": "7/15/2022"}
+{"address": "0xa41fA8C837117771532D67299226Be17E7014bb6", "name": "AnyswapAdapter", "compiler": "0.8.15", "balance": "-", "txcount": 0, "settings": "", "date": "7/15/2022"}
+{"address": "0x000000000a5396D115a0F0703160336a8835EC13", "name": "FixedWager", "compiler": "0.8.14", "balance": "0 ETH", "txcount": 0, "settings": "", "date": "7/15/2022"}
+{"address": "0x0000000000B952afB12942405F20a1B1B1F575B4", "name": "TokenLockup", "compiler": "0.8.14", "balance": "0 ETH", "txcount": 0, "settings": "", "date": "7/15/2022"}
+{"address": "0x0000000001E835A5D0D176e05499850B636F6B15", "name": "ConditionalWager", "compiler": "0.8.14", "balance": "0 ETH", "txcount": 0, "settings": "", "date": "7/15/2022"}
+{"address": "0xD136C1D3CcF1aCe65Bc39E492c36A16f66bf5572", "name": "CBridgeAdapter", "compiler": "0.8.15", "balance": "-", "txcount": 0, "settings": "", "date": "7/15/2022"}
+{"address": "0x381d7F421C72579c7Db349a3D6a8A7bF0ddACdD5", "name": "AltaCreate2Deployer", "compiler": "0.8.14", "balance": "0 ETH", "txcount": 0, "settings": "", "date": "7/15/2022"}
+{"address": "0x45C855a1d453AAe3658C615A9Eb2faA47588eE17", "name": "TransferSwapper", "compiler": "0.8.15", "balance": "-", "txcount": 0, "settings": "", "date": "7/15/2022"}
+{"address": "0x323a07f929f7c4db7631866af151248ae3912d98", "name": "AnyswapV6ERC20", "compiler": "0.8.14", "balance": "-", "txcount": 0, "settings": "", "date": "7/15/2022"}
+{"address": "0x47f361D821aF70178aFAc11742beD5a823717644", "name": "StargateFeeLibraryV04", "compiler": "0.7.6", "balance": "-", "txcount": 0, "settings": "", "date": "7/14/2022"}
+{"address": "0xC58A0dA586f1d2F010bAC6EA5DD92ccBbF267D48", "name": "TimelockControllerWithMinDelayOverride", "compiler": "0.8.14", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "6/30/2022", "err": "Exception('unable to find source-code. rate limited? retry..')"}
+{"address": "0x82df2eD312a6bEE27F61A77e9d92D48ae590e97E", "name": "MagicStaking", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/30/2022", "err": "Exception('unable to find source-code. rate limited? retry..')"}
