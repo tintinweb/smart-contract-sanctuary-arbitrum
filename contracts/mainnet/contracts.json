@@ -5303,3 +5303,23 @@
 {"address": "0x47f361D821aF70178aFAc11742beD5a823717644", "name": "StargateFeeLibraryV04", "compiler": "0.7.6", "balance": "-", "txcount": 0, "settings": "", "date": "7/14/2022"}
 {"address": "0xC58A0dA586f1d2F010bAC6EA5DD92ccBbF267D48", "name": "TimelockControllerWithMinDelayOverride", "compiler": "0.8.14", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "6/30/2022", "err": "Exception('unable to find source-code. rate limited? retry..')"}
 {"address": "0x82df2eD312a6bEE27F61A77e9d92D48ae590e97E", "name": "MagicStaking", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/30/2022", "err": "Exception('unable to find source-code. rate limited? retry..')"}
+{"address": "0xdec76a77f863580c5e05649d73b8775e5288abee", "name": "NeanderSmol", "compiler": "0.8.13", "balance": "-", "txcount": 0, "settings": "-", "date": "7/15/2022"}
+{"address": "0xc2e898a06A32C0339d2545f0c744a27A60CE987D", "name": "Vault", "compiler": "0.8.10", "balance": "-", "txcount": 0, "settings": "", "date": "7/15/2022"}
+{"address": "0xBf2BF634C58B326352179652f392ab03B2d1863B", "name": "Seekers", "compiler": "0.8.10", "balance": "-", "txcount": 0, "settings": "", "date": "7/15/2022"}
+{"address": "0x97c58A3d9606f3171963dE6e5520F10Da8b14d73", "name": "SeasonOne", "compiler": "0.8.10", "balance": "-", "txcount": 0, "settings": "", "date": "7/15/2022"}
+{"address": "0xA5126c106657d9739287149EF2dB9De3f875d8F8", "name": "Cloak", "compiler": "0.8.10", "balance": "-", "txcount": 0, "settings": "", "date": "7/15/2022"}
+{"address": "0x81681f320f8350d63cbb9f84cffc3c111820e8ab", "name": "MultiSender", "compiler": "0.8.13", "balance": "-", "txcount": 0, "settings": "-", "date": "7/15/2022"}
+{"address": "0x5F712D1a539f1d70640Db5e71e4B9D8701493335", "name": "Treasury", "compiler": "0.8.7", "balance": "-", "txcount": 0, "settings": "", "date": "7/15/2022"}
+{"address": "0xd84A715105ae340D7aEb088d0ad26992e7b4Ae79", "name": "Pool", "compiler": "0.8.7", "balance": "-", "txcount": 0, "settings": "", "date": "7/15/2022"}
+{"address": "0xEa1C8C79C534e0AA1F20cCc172D4880987bEE4C6", "name": "Oracle", "compiler": "0.8.7", "balance": "-", "txcount": 0, "settings": "", "date": "7/15/2022"}
+{"address": "0xC119d8d5B218035793662f045FCf690f35987F3D", "name": "Trading", "compiler": "0.8.7", "balance": "-", "txcount": 0, "settings": "", "date": "7/15/2022"}
+{"address": "0x5f945110043605a93cfc27a5699ea81f6c867aeb", "name": "BalancerWETHWBTCUSDCStrategy", "compiler": "0.8.10", "balance": "-", "txcount": 0, "settings": "", "date": "7/15/2022"}
+{"address": "0x2C7C1873a43EC31593667b8420125Ec6698e6F86", "name": "ParaswapAdapter", "compiler": "0.8.4", "balance": "0.000002435727510397 ETH", "txcount": 0, "settings": "", "date": "7/15/2022"}
+{"address": "0xCEE85a334E6E2A0273C2f4234C25cDb270Bf285A", "name": "OneInchAdapter", "compiler": "0.8.4", "balance": "0.000005952200450462 ETH", "txcount": 0, "settings": "", "date": "7/15/2022"}
+{"address": "0x0D1cc763eF54440311e99E426ccF8B9a92224932", "name": "Router", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 0, "settings": "-", "date": "7/15/2022"}
+{"address": "0xb21859423e5a752302d6831d6dcD4Aad0e5979Ba", "name": "AaveV3Supply", "compiler": "0.8.10", "balance": "-", "txcount": 0, "settings": "", "date": "7/15/2022"}
+{"address": "0x594aF86Dd3b18944360589db73bA84c1D6951Eb3", "name": "CLR", "compiler": "0.7.6", "balance": "-", "txcount": 0, "settings": "", "date": "7/15/2022"}
+{"address": "0xA19A4e499AE49f240AE61463BE670d12c3EB7E6A", "name": "UniswapLibrary", "compiler": "0.7.6", "balance": "-", "txcount": 0, "settings": "", "date": "7/15/2022"}
+{"address": "0x93deae4b5ecE4BcD280721a2F9ab6B3364e2B9E1", "name": "Gangs", "compiler": "0.8.9", "balance": "-", "txcount": 0, "settings": "", "date": "7/15/2022"}
+{"address": "0xC58A0dA586f1d2F010bAC6EA5DD92ccBbF267D48", "name": "TimelockControllerWithMinDelayOverride", "compiler": "0.8.14", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "6/30/2022", "err": "Exception('unable to find source-code. rate limited? retry..')"}
+{"address": "0x82df2eD312a6bEE27F61A77e9d92D48ae590e97E", "name": "MagicStaking", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/30/2022", "err": "Exception('unable to find source-code. rate limited? retry..')"}
