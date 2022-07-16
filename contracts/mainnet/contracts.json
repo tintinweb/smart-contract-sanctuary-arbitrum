@@ -5323,3 +5323,16 @@
 {"address": "0x93deae4b5ecE4BcD280721a2F9ab6B3364e2B9E1", "name": "Gangs", "compiler": "0.8.9", "balance": "-", "txcount": 0, "settings": "", "date": "7/15/2022"}
 {"address": "0xC58A0dA586f1d2F010bAC6EA5DD92ccBbF267D48", "name": "TimelockControllerWithMinDelayOverride", "compiler": "0.8.14", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "6/30/2022", "err": "Exception('unable to find source-code. rate limited? retry..')"}
 {"address": "0x82df2eD312a6bEE27F61A77e9d92D48ae590e97E", "name": "MagicStaking", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/30/2022", "err": "Exception('unable to find source-code. rate limited? retry..')"}
+{"address": "0xC7552Cd237823DeFa7F3a2E2cB6A3D0B9759F32C", "name": "EthWeeklyPutsSsovV3", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 0, "settings": "", "date": "7/16/2022"}
+{"address": "0x9f52C2eeac80bb9084b4d67C26A56aAC7B3f54B0", "name": "EthWeeklyCallsSsovV3", "compiler": "0.8.9", "balance": "-", "txcount": 0, "settings": "", "date": "7/16/2022"}
+{"address": "0x2c91B040f93D76F3CF62d578cacA9e08A5Ec1120", "name": "EthStakingStrategyV1", "compiler": "0.8.9", "balance": "-", "txcount": 0, "settings": "", "date": "7/16/2022"}
+{"address": "0x8161033b2776a9556b326D5eB468B2B76B7B4a23", "name": "EthMonthlyCallsSsovV3", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 0, "settings": "", "date": "7/16/2022"}
+{"address": "0xE9132A503ba31Cf6320Ae97f42A9f3cf06Fa4e08", "name": "DpxWeeklyPutsSsovV3", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 0, "settings": "", "date": "7/16/2022"}
+{"address": "0xB0706Ef9151A5be7826cB1f4Be864841E696d11a", "name": "DpxStakingStrategyV2", "compiler": "0.8.9", "balance": "-", "txcount": 0, "settings": "", "date": "7/16/2022"}
+{"address": "0x1ae38835Bf3afbEC178E8a59Ca82aA383dC3DF57", "name": "DpxMonthlyCallsSsovV3", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 0, "settings": "", "date": "7/16/2022"}
+{"address": "0x21f45F3839E9D7694c7AD9eb0a97d82ED7cdf843", "name": "CurveStakingStrategyV1", "compiler": "0.8.9", "balance": "-", "txcount": 0, "settings": "", "date": "7/16/2022"}
+{"address": "0x03475494dc89d378C4268e90A62876eFb0278a1a", "name": "CrvWeeklyPutsSsovV3", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 0, "settings": "", "date": "7/16/2022"}
+{"address": "0x54565213927794D7cA31436D01b799f487e204BA", "name": "BtcWeeklyPutsSsovV3", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 0, "settings": "", "date": "7/16/2022"}
+{"address": "0x9E216659f3292aa3259a3B9433A1f73f92F2041D", "name": "StargateFeeLibraryV04", "compiler": "0.7.6", "balance": "-", "txcount": 0, "settings": "", "date": "7/15/2022"}
+{"address": "0xC58A0dA586f1d2F010bAC6EA5DD92ccBbF267D48", "name": "TimelockControllerWithMinDelayOverride", "compiler": "0.8.14", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "6/30/2022", "err": "Exception('unable to find source-code. rate limited? retry..')"}
+{"address": "0x82df2eD312a6bEE27F61A77e9d92D48ae590e97E", "name": "MagicStaking", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/30/2022", "err": "Exception('unable to find source-code. rate limited? retry..')"}
