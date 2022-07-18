@@ -5369,3 +5369,19 @@
 {"address": "0x7CFc862Ae57336B1B554f59cD2652009C26109Bf", "name": "Vault", "compiler": "0.6.12", "balance": "-", "txcount": 0, "settings": "", "date": "7/18/2022"}
 {"address": "0xC58A0dA586f1d2F010bAC6EA5DD92ccBbF267D48", "name": "TimelockControllerWithMinDelayOverride", "compiler": "0.8.14", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "6/30/2022", "err": "Exception('unable to find source-code. rate limited? retry..')"}
 {"address": "0x82df2eD312a6bEE27F61A77e9d92D48ae590e97E", "name": "MagicStaking", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/30/2022", "err": "Exception('unable to find source-code. rate limited? retry..')"}
+{"address": "0x62f9bE2048692c089C829856464b5C121B896e67", "name": "Itemz", "compiler": "0.8.9", "balance": "-", "txcount": 0, "settings": "", "date": "7/18/2022"}
+{"address": "0x5c12ADC734699C07b095fe30B8312F1A7bbaA788", "name": "InterchainGasPaymaster", "compiler": "0.8.13", "balance": "-", "txcount": 0, "settings": "", "date": "7/18/2022"}
+{"address": "0x398633D19f4371e1DB5a8EFE90468eB70B1176AA", "name": "InboxValidatorManager", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 16, "settings": "", "date": "7/18/2022"}
+{"address": "0x8428a1a7E97Fc75Fb7Ba5c4aec31B55e52bbe9D6", "name": "InboxValidatorManager", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 11, "settings": "", "date": "7/18/2022"}
+{"address": "0x2f9DB5616fa3fAd1aB06cB2C906830BA63d135e3", "name": "InboxValidatorManager", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 19, "settings": "", "date": "7/18/2022"}
+{"address": "0x3a867fCfFeC2B790970eeBDC9023E75B0a172aa7", "name": "UpgradeBeaconProxy", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "7/18/2022"}
+{"address": "0x8Ef275e05aB3c650927C5d4A5D6B7823233812be", "name": "SsovV3Viewer", "compiler": "0.8.9", "balance": "-", "txcount": 0, "settings": "", "date": "7/18/2022"}
+{"address": "0xdbAfE8d85620c2cfCc0b2a55d5d68D48B1d00631", "name": "RdpxWeeklyPutsSsovV3", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 0, "settings": "", "date": "7/18/2022"}
+{"address": "0x1d1CC5a92A87772607639acf5A8f5A55fd35A4ec", "name": "RdpxStakingStrategyV1", "compiler": "0.8.9", "balance": "-", "txcount": 0, "settings": "", "date": "7/18/2022"}
+{"address": "0xAfD90Af84ae892C2DFeEA6D379087A7B4D21eC34", "name": "RdpxMonthlyCallsSsovV3", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 0, "settings": "", "date": "7/18/2022"}
+{"address": "0x541fDD2284852Dacc5BA7E31241Ff5bc646b8985", "name": "GohmWeeklyPutsSsovV3", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 0, "settings": "", "date": "7/18/2022"}
+{"address": "0x525bf37950E74448E2e39db95E0b9bC971957587", "name": "GohmStakingStrategy", "compiler": "0.8.9", "balance": "-", "txcount": 0, "settings": "", "date": "7/18/2022"}
+{"address": "0x52c70138FfF1a5a6D821ab4Bb39D3dF0346f98bd", "name": "GohmMonthlyCallsSsovV3", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 0, "settings": "", "date": "7/18/2022"}
+{"address": "0x7e513B848cFAF3Bc9FfB69a35981E5E1279acE59", "name": "GmxWeeklyPutsSsovV3", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 0, "settings": "", "date": "7/18/2022"}
+{"address": "0xC58A0dA586f1d2F010bAC6EA5DD92ccBbF267D48", "name": "TimelockControllerWithMinDelayOverride", "compiler": "0.8.14", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "6/30/2022", "err": "Exception('unable to find source-code. rate limited? retry..')"}
+{"address": "0x82df2eD312a6bEE27F61A77e9d92D48ae590e97E", "name": "MagicStaking", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/30/2022", "err": "Exception('unable to find source-code. rate limited? retry..')"}
