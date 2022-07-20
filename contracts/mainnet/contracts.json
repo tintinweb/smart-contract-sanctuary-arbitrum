@@ -5409,3 +5409,8 @@
 {"address": "0xAb0b1c317D283246a36A0a6A82412bA57c95D7B4", "name": "FCCTask", "compiler": "0.8.7", "balance": "-", "txcount": 0, "settings": "-", "date": "7/19/2022"}
 {"address": "0xC58A0dA586f1d2F010bAC6EA5DD92ccBbF267D48", "name": "TimelockControllerWithMinDelayOverride", "compiler": "0.8.14", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "6/30/2022", "err": "Exception('unable to find source-code. rate limited? retry..')"}
 {"address": "0x82df2eD312a6bEE27F61A77e9d92D48ae590e97E", "name": "MagicStaking", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/30/2022", "err": "Exception('unable to find source-code. rate limited? retry..')"}
+{"address": "0xa533F56B9D97ddebAA9f343c171E893Bb34bF8bc", "name": "BatchTransfer", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "7/20/2022"}
+{"address": "0x165A45083F43BF3D0DF756bD51E3855bDEf45250", "name": "StargateFeeLibraryV04", "compiler": "0.7.6", "balance": "-", "txcount": 0, "settings": "", "date": "7/19/2022"}
+{"address": "0x962F92cEe9A559d705f8999C92752EbCDD550616", "name": "WidgetSwap", "compiler": "0.8.4", "balance": "-", "txcount": 0, "settings": "", "date": "7/19/2022"}
+{"address": "0xC58A0dA586f1d2F010bAC6EA5DD92ccBbF267D48", "name": "TimelockControllerWithMinDelayOverride", "compiler": "0.8.14", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "6/30/2022", "err": "Exception('unable to find source-code. rate limited? retry..')"}
+{"address": "0x82df2eD312a6bEE27F61A77e9d92D48ae590e97E", "name": "MagicStaking", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/30/2022", "err": "Exception('unable to find source-code. rate limited? retry..')"}
