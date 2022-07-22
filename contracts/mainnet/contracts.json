@@ -5477,3 +5477,27 @@
 {"address": "0x4c54ff66AD6F34903662AABB58e7F9Db90484765", "name": "SigmaERC20Token", "compiler": "0.7.5", "balance": "-", "txcount": 0, "settings": "", "date": "7/21/2022"}
 {"address": "0xC58A0dA586f1d2F010bAC6EA5DD92ccBbF267D48", "name": "TimelockControllerWithMinDelayOverride", "compiler": "0.8.14", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "6/30/2022", "err": "Exception('unable to find source-code. rate limited? retry..')"}
 {"address": "0x82df2eD312a6bEE27F61A77e9d92D48ae590e97E", "name": "MagicStaking", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/30/2022", "err": "Exception('unable to find source-code. rate limited? retry..')"}
+{"address": "0x2c9b2a8e56c9bddc05be7da9683805a2f0c70d31", "name": "Alpha", "compiler": "0.7.5", "balance": "-", "txcount": 0, "settings": "", "date": "7/22/2022"}
+{"address": "0x72512886fe8bd05490fb8dcfc3ca7ab1a6d1bc2b", "name": "StakingWarmup", "compiler": "0.7.5", "balance": "-", "txcount": 0, "settings": "", "date": "7/22/2022"}
+{"address": "0x406d3588a3407b8a60cf71a50eabca4c971083f5", "name": "Distributor", "compiler": "0.7.5", "balance": "-", "txcount": 0, "settings": "", "date": "7/22/2022"}
+{"address": "0xD0ebF5bd3AeB8Ea64636dfcBc5D853dcC7A7c1FE", "name": "SigmaStaking", "compiler": "0.7.5", "balance": "-", "txcount": 0, "settings": "", "date": "7/22/2022"}
+{"address": "0xf8bb10207b7f4cb40f4c84c64270e21a21c9b838", "name": "SigmaBondDepository", "compiler": "0.7.5", "balance": "-", "txcount": 0, "settings": "", "date": "7/22/2022"}
+{"address": "0x7b7b5ba61659777e309569af876acdb49624319e", "name": "SigmaBondDepository", "compiler": "0.7.5", "balance": "-", "txcount": 0, "settings": "", "date": "7/22/2022"}
+{"address": "0xb9349347fcC0318137e6143A01c6582C072Fb581", "name": "MultiSigWalletWithDailyLimit", "compiler": "0.4.19", "balance": "0 ETH", "txcount": 9, "settings": "", "date": "7/22/2022"}
+{"address": "0xEF69fa2D315288854A0c731010e6764545c4F3ea", "name": "Fiat24GBP", "compiler": "0.8.7", "balance": "-", "txcount": 0, "settings": "", "date": "7/22/2022"}
+{"address": "0xb7B74581F667Bdc28801d99c085789273bBa4c25", "name": "Fiat24CHF", "compiler": "0.8.7", "balance": "-", "txcount": 0, "settings": "", "date": "7/22/2022"}
+{"address": "0x6d7d466cb620ED35c91A155fbE52B1A8807D480e", "name": "Fiat24EUR", "compiler": "0.8.7", "balance": "-", "txcount": 0, "settings": "", "date": "7/22/2022"}
+{"address": "0xFf1Bf587cBfFa91E64a1b7C43147729e1075bF32", "name": "Fiat24USD", "compiler": "0.8.7", "balance": "-", "txcount": 0, "settings": "", "date": "7/22/2022"}
+{"address": "0x2B938F00A8A32A1295983711F007ffAE33d035CF", "name": "MetaAggregationRouter", "compiler": "0.8.9", "balance": "-", "txcount": 0, "settings": "", "date": "7/22/2022"}
+{"address": "0xa19d570d65Ff031331dFD453faC2F94bF2bdE405", "name": "LibCorrectSwapV1", "compiler": "0.8.13", "balance": "-", "txcount": 0, "settings": "", "date": "7/22/2022"}
+{"address": "0x4AF9bE5A3464aFDEFc80700b41fcC4d9713E7449", "name": "LibSoFeeV01", "compiler": "0.8.13", "balance": "-", "txcount": 0, "settings": "", "date": "7/22/2022"}
+{"address": "0x2967E7Bb9DaA5711Ac332cAF874BD47ef99B3820", "name": "SoDiamond", "compiler": "0.8.13", "balance": "0.00001 ETH", "txcount": 0, "settings": "", "date": "7/22/2022"}
+{"address": "0x01c49cF47dCF62769466738a179F94d51ea8BDdB", "name": "GenericSwapFacet", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 0, "settings": "", "date": "7/22/2022"}
+{"address": "0xAD85421c47e9B830602deb83fCF149c2A1f0e8A9", "name": "OwnershipFacet", "compiler": "0.8.13", "balance": "-", "txcount": 0, "settings": "", "date": "7/22/2022"}
+{"address": "0xa7487A536968Be0D563901aeb3Fc07B099e2fb04", "name": "WithdrawFacet", "compiler": "0.8.13", "balance": "-", "txcount": 0, "settings": "", "date": "7/22/2022"}
+{"address": "0xD8dec96b9E22a99f68D48CfB20cd6868a3dcc56b", "name": "StargateFacet", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 0, "settings": "", "date": "7/22/2022"}
+{"address": "0x0917923Af85aB3aDab081e3B8825fccEddBB889c", "name": "DexManagerFacet", "compiler": "0.8.13", "balance": "-", "txcount": 0, "settings": "", "date": "7/22/2022"}
+{"address": "0xE4D1ebF03742a8238b546980261507FdE0113D37", "name": "DiamondLoupeFacet", "compiler": "0.8.13", "balance": "-", "txcount": 0, "settings": "", "date": "7/22/2022"}
+{"address": "0xDAE4Db475ACA613a5e2DC5fC304dA7e962B3cEaD", "name": "DiamondCutFacet", "compiler": "0.8.13", "balance": "-", "txcount": 0, "settings": "", "date": "7/22/2022"}
+{"address": "0xC58A0dA586f1d2F010bAC6EA5DD92ccBbF267D48", "name": "TimelockControllerWithMinDelayOverride", "compiler": "0.8.14", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "6/30/2022", "err": "Exception('unable to find source-code. rate limited? retry..')"}
+{"address": "0x82df2eD312a6bEE27F61A77e9d92D48ae590e97E", "name": "MagicStaking", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/30/2022", "err": "Exception('unable to find source-code. rate limited? retry..')"}
