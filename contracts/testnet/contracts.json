@@ -5732,3 +5732,14 @@
 {"address": "0x1436Fec1b156BeA8a63E3ca4A8d64eF5b9600497", "name": "AccessControlledOffchainAggregator", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 869448, "settings": "", "date": "7/20/2022"}
 {"address": "0x33F735352eC43b67e94A1649Ed3166326cf228e7", "name": "FCCTask", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "7/20/2022"}
 {"address": "0xE946bD0a884189e4Cf3BC07DDDFb020C0c0F3b9E", "name": "VulnerableContract", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 3, "settings": "-", "date": "7/20/2022"}
+{"address": "0xA15674dBA20AE3907d0E2EdAb333A1860519Edf6", "name": "BattleflyComic", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "7/21/2022"}
+{"address": "0x7acB418b4269E0DB4be1d38c7AeDB7e71AFD6736", "name": "RevealStaking", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "7/21/2022"}
+{"address": "0x41b34D681594053110977CD668Ef08798380D85A", "name": "UnisonUSDCVault", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "7/21/2022"}
+{"address": "0x47FE6eE36D04babeC8a809590332018D55B4f5E9", "name": "ERC721ShareInstantStream", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "7/21/2022"}
+{"address": "0xb2035c77EEc63Eca2bA2d20415715f1993fb4B35", "name": "ERC721LockedStakingEmissionStream", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "7/21/2022"}
+{"address": "0x1ee1fEd614B687D913fD9874FBC60CBfE15964d9", "name": "ERC721FullFeaturedCollection", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "7/21/2022"}
+{"address": "0xf61E4e084A73bbc1A862566A3ad2cf5fe685fE69", "name": "ERC721EqualEmissionStream", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "7/21/2022"}
+{"address": "0xC226F6dFcEb1b2Ae174820de51d077275ceE0E14", "name": "ERC721AFullFeaturedCollection", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "7/21/2022"}
+{"address": "0x137d31C9E75eeb883d88406944540F2FB8bfDcaF", "name": "ERC20LockableToken", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "7/21/2022"}
+{"address": "0x0F3EF26eBcEBc54c555B360B8E057Ce37fe252Bd", "name": "WrappedToken", "compiler": "0.8.14", "balance": "0 ETH", "txcount": 0, "settings": "", "date": "7/21/2022"}
+{"address": "0x7a8ead64b79c466d8a9bcfd2a7b7bf938f9cb542", "name": "IFAllocationMasterAdapter", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "7/21/2022"}
