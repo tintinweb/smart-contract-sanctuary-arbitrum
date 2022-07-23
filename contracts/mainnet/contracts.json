@@ -5516,3 +5516,14 @@
 {"address": "0xE45af3389384e29a9D698a89f1d97E61b30095C8", "name": "USDTswapStrategy", "compiler": "0.6.12", "balance": "-", "txcount": 0, "settings": "", "date": "7/23/2022"}
 {"address": "0xC58A0dA586f1d2F010bAC6EA5DD92ccBbF267D48", "name": "TimelockControllerWithMinDelayOverride", "compiler": "0.8.14", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "6/30/2022", "err": "Exception('unable to find source-code. rate limited? retry..')"}
 {"address": "0x82df2eD312a6bEE27F61A77e9d92D48ae590e97E", "name": "MagicStaking", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/30/2022", "err": "Exception('unable to find source-code. rate limited? retry..')"}
+{"address": "0x3d6033ac8deb6a92c791985fa1b8d1eabe4cf103", "name": "EventFactory", "compiler": "0.8.14", "balance": "0 ETH", "txcount": 0, "settings": "", "date": "7/23/2022"}
+{"address": "0xce48bf8bbb1fa7cfe16c8585024bd15c05b2a783", "name": "Event", "compiler": "0.8.14", "balance": "-", "txcount": 0, "settings": "", "date": "7/23/2022"}
+{"address": "0x37d550e3d4daa67a873c189de3bea5bcfd2aa166", "name": "EventFactory", "compiler": "0.8.14", "balance": "0 ETH", "txcount": 0, "settings": "", "date": "7/23/2022"}
+{"address": "0x3ee0b43d3729612aa2f2c41a50a14ed95c588d0e", "name": "Event", "compiler": "0.8.14", "balance": "-", "txcount": 0, "settings": "", "date": "7/23/2022"}
+{"address": "0x2f5F5F4E5aa7ae69d8eCD7C42d07434493C73b3f", "name": "AutoMinterERC721A", "compiler": "0.8.10", "balance": "-", "txcount": 0, "settings": "", "date": "7/23/2022"}
+{"address": "0x246Ebb0514c69767547213E2ff56223062628eF9", "name": "CLR", "compiler": "0.7.6", "balance": "-", "txcount": 0, "settings": "", "date": "7/23/2022"}
+{"address": "0xFe63667EAd82Ae168782e80492393f8d4d6aDa7C", "name": "UniswapLibrary", "compiler": "0.7.6", "balance": "-", "txcount": 0, "settings": "", "date": "7/23/2022"}
+{"address": "0x8ce86b36add6b60229ba2f1bdeac220244c8ad24", "name": "TrustfallNFT", "compiler": "0.8.11", "balance": "-", "txcount": 0, "settings": "", "date": "7/23/2022"}
+{"address": "0x4B278cAF8Ba4A7C1F1155eB2C12DCfB4d15E808a", "name": "BattleflyTreasuryFlywheelVault", "compiler": "0.8.4", "balance": "-", "txcount": 0, "settings": "", "date": "7/23/2022"}
+{"address": "0xC58A0dA586f1d2F010bAC6EA5DD92ccBbF267D48", "name": "TimelockControllerWithMinDelayOverride", "compiler": "0.8.14", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "6/30/2022", "err": "Exception('unable to find source-code. rate limited? retry..')"}
+{"address": "0x82df2eD312a6bEE27F61A77e9d92D48ae590e97E", "name": "MagicStaking", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/30/2022", "err": "Exception('unable to find source-code. rate limited? retry..')"}
