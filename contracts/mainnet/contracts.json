@@ -5540,3 +5540,8 @@
 {"address": "0x090a81Da3fB3e2910e87F9c38a0bf6EdC55Fc2e9", "name": "RangoHyphen", "compiler": "0.8.13", "balance": "-", "txcount": 0, "settings": "", "date": "7/24/2022"}
 {"address": "0xC58A0dA586f1d2F010bAC6EA5DD92ccBbF267D48", "name": "TimelockControllerWithMinDelayOverride", "compiler": "0.8.14", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "6/30/2022", "err": "Exception('unable to find source-code. rate limited? retry..')"}
 {"address": "0x82df2eD312a6bEE27F61A77e9d92D48ae590e97E", "name": "MagicStaking", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/30/2022", "err": "Exception('unable to find source-code. rate limited? retry..')"}
+{"address": "0xD0EBace98cB8F1CB814980B371318241cDE0Cee7", "name": "Badgez", "compiler": "0.8.9", "balance": "-", "txcount": 0, "settings": "", "date": "7/24/2022"}
+{"address": "0x543b500500619af16e400111Dd291304C49F51Bc", "name": "Itemz", "compiler": "0.8.9", "balance": "-", "txcount": 0, "settings": "", "date": "7/24/2022"}
+{"address": "0x84bfd74e9f23667dbf0710de1cdf3f5db4470bbc", "name": "Omnisender", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 0, "settings": "-", "date": "7/24/2022"}
+{"address": "0xC58A0dA586f1d2F010bAC6EA5DD92ccBbF267D48", "name": "TimelockControllerWithMinDelayOverride", "compiler": "0.8.14", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "6/30/2022", "err": "Exception('unable to find source-code. rate limited? retry..')"}
+{"address": "0x82df2eD312a6bEE27F61A77e9d92D48ae590e97E", "name": "MagicStaking", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/30/2022", "err": "Exception('unable to find source-code. rate limited? retry..')"}
