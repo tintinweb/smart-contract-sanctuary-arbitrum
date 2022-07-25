@@ -5571,3 +5571,4 @@
 {"address": "0xa0743ace7974d7a4863447742f3528fa985265ae", "name": "Multicall", "compiler": "0.8.0", "balance": "-", "txcount": 0, "settings": "-", "date": "7/25/2022"}
 {"address": "0xD2247182D7BfdFc1e1B5d26FB7dcEb64eDABD5cb", "name": "BattleflyFounderVaultV08", "compiler": "0.8.4", "balance": "-", "txcount": 0, "settings": "", "date": "7/25/2022"}
 {"address": "0xedba3b40e3ee9157424de9d2829dec3ef949e63d", "name": "Voting", "compiler": "0.8.10", "balance": "-", "txcount": 0, "settings": "", "date": "7/25/2022"}
+{"address": "0x65C44cD0C5bB58A20CD1130687F529Ef0a99CB50", "name": "MultiTroveGetter", "compiler": "0.8.10", "balance": "-", "txcount": 0, "settings": "", "date": "7/25/2022"}
