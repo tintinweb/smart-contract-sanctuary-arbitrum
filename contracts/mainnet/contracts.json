@@ -5549,3 +5549,7 @@
 {"address": "0x45bb5ce5ed820a2b7e81ce50078a543eb771249c", "name": "StrangeIllusions", "compiler": "0.8.9", "balance": "-", "txcount": 0, "settings": "", "date": "7/25/2022"}
 {"address": "0x0C4681e6C0235179ec3D4F4fc4DF3d14FDD96017", "name": "RadiantToken", "compiler": "0.7.6", "balance": "-", "txcount": 0, "settings": "", "date": "7/24/2022"}
 {"address": "0x9e8a23754695d3ace8b7226809fb016408dde915", "name": "EventFactoryNonUpgradeable", "compiler": "0.8.14", "balance": "-", "txcount": 0, "settings": "", "date": "7/24/2022"}
+{"address": "0x9d4eb3f30854ca4b46554313611f110e57104e9c", "name": "CampaignFactory", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 0, "settings": "-", "date": "7/25/2022"}
+{"address": "0x19eb5460dece5ec4e7dc515814ab7bdba71fbdf3", "name": "Beings", "compiler": "0.8.9", "balance": "-", "txcount": 0, "settings": "", "date": "7/25/2022"}
+{"address": "0x88e51ed61a27f83b10c2e04168d94ec4bf9ca435", "name": "Dosimplestrokes", "compiler": "0.8.9", "balance": "-", "txcount": 0, "settings": "", "date": "7/25/2022"}
+{"address": "0xc3168ff82a27605dd7938ad5d3a92bc97c0bb086", "name": "Rabbits", "compiler": "0.8.9", "balance": "-", "txcount": 0, "settings": "", "date": "7/25/2022"}
