@@ -5553,3 +5553,21 @@
 {"address": "0x19eb5460dece5ec4e7dc515814ab7bdba71fbdf3", "name": "Beings", "compiler": "0.8.9", "balance": "-", "txcount": 0, "settings": "", "date": "7/25/2022"}
 {"address": "0x88e51ed61a27f83b10c2e04168d94ec4bf9ca435", "name": "Dosimplestrokes", "compiler": "0.8.9", "balance": "-", "txcount": 0, "settings": "", "date": "7/25/2022"}
 {"address": "0xc3168ff82a27605dd7938ad5d3a92bc97c0bb086", "name": "Rabbits", "compiler": "0.8.9", "balance": "-", "txcount": 0, "settings": "", "date": "7/25/2022"}
+{"address": "0xfB514940dB48AC749487C06Dd12e0A61ad242C8E", "name": "USDL", "compiler": "0.8.9", "balance": "-", "txcount": 0, "settings": "-", "date": "7/25/2022"}
+{"address": "0x3332241a5a4eCb4c28239A9731ad45De7f000333", "name": "RubicProxy", "compiler": "0.8.15", "balance": "-", "txcount": 0, "settings": "", "date": "7/25/2022"}
+{"address": "0xd4f54a9d49f1f39d30f4b59fe8af04c5b68ea4d9", "name": "SuperRabbits", "compiler": "0.8.9", "balance": "-", "txcount": 0, "settings": "", "date": "7/25/2022"}
+{"address": "0x0bf7e45087104c9b7ab7717c93d08766d58ae0be", "name": "Yakuzzi", "compiler": "0.8.9", "balance": "-", "txcount": 0, "settings": "", "date": "7/25/2022"}
+{"address": "0xa229148590c49e9284Aa72cF0e5536f60d00b6cd", "name": "LiquidityPoolHop1", "compiler": "0.8.10", "balance": "-", "txcount": 0, "settings": "", "date": "7/25/2022"}
+{"address": "0x9DE8733589921CF203e703d9e4330e83162AEc33", "name": "NativeUnwrapper", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 3, "settings": "", "date": "7/25/2022"}
+{"address": "0xBf116aAF0217B65aE29aB6C0f1B495D5A6F5c62d", "name": "AstralRitual", "compiler": "0.8.4", "balance": "-", "txcount": 0, "settings": "-", "date": "7/25/2022"}
+{"address": "0xcd5daf9cF3CCa8Ff41Effd74D9437C432b31C358", "name": "LiquidityManager", "compiler": "0.8.10", "balance": "-", "txcount": 0, "settings": "", "date": "7/25/2022"}
+{"address": "0x917863CEd89FcF12a2AA590f692Ff48983103a50", "name": "OrderBook", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 0, "settings": "", "date": "7/25/2022"}
+{"address": "0xF0Ce0927F984f3d19D3b013ADdbC310c48B1FD6A", "name": "LiquidityPoolHop2", "compiler": "0.8.10", "balance": "-", "txcount": 0, "settings": "", "date": "7/25/2022"}
+{"address": "0x33261B56d71d8AF545aFcf255779149788CeeD62", "name": "Vault", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "7/25/2022"}
+{"address": "0x085F5B8945426Aa5e8239CD172070d0301Fe33BA", "name": "MlpToken", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "7/25/2022"}
+{"address": "0xcCD84810375992d7E19d1529150B1B29eA2EfF6B", "name": "MuxToken", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "7/25/2022"}
+{"address": "0x57e627e99ea951ee9c904ba07dbd4af337297db3", "name": "PePeMfers", "compiler": "0.8.9", "balance": "-", "txcount": 0, "settings": "", "date": "7/25/2022"}
+{"address": "0x8c589b04a4c1f8f280f0133395451f6c2be02450", "name": "AaveV3View", "compiler": "0.8.10", "balance": "-", "txcount": 0, "settings": "-", "date": "7/25/2022"}
+{"address": "0xa0743ace7974d7a4863447742f3528fa985265ae", "name": "Multicall", "compiler": "0.8.0", "balance": "-", "txcount": 0, "settings": "-", "date": "7/25/2022"}
+{"address": "0xD2247182D7BfdFc1e1B5d26FB7dcEb64eDABD5cb", "name": "BattleflyFounderVaultV08", "compiler": "0.8.4", "balance": "-", "txcount": 0, "settings": "", "date": "7/25/2022"}
+{"address": "0xedba3b40e3ee9157424de9d2829dec3ef949e63d", "name": "Voting", "compiler": "0.8.10", "balance": "-", "txcount": 0, "settings": "", "date": "7/25/2022"}
