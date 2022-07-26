@@ -5603,3 +5603,20 @@
 {"address": "0x17Ad93BfD041Fc9784c4Fd203330bC4b0320c272", "name": "ConnectV2ParaswapV5Arbitrum", "compiler": "0.7.6", "balance": "-", "txcount": 0, "settings": "", "date": "7/26/2022"}
 {"address": "0x094aEdF28a9B0c27A5F74e74292CC1F5de2c8CC7", "name": "CurveMaster", "compiler": "0.8.9", "balance": "-", "txcount": 0, "settings": "", "date": "7/26/2022"}
 {"address": "0x7228eA3888904329095C2193f035Cea7aC3C85Dd", "name": "VaultController", "compiler": "0.8.9", "balance": "-", "txcount": 0, "settings": "", "date": "7/26/2022"}
+{"address": "0xd5678ae1ce712adc945aa8c86a7be2923cbc3c98", "name": "LiquidityPool", "compiler": "0.8.0", "balance": "0 ETH", "txcount": 0, "settings": "", "date": "7/26/2022"}
+{"address": "0xE92dDFFF71EE9E65eC8A6df05ea093776A16B66D", "name": "StrategyCurveLP", "compiler": "0.6.12", "balance": "-", "txcount": 0, "settings": "", "date": "7/26/2022"}
+{"address": "0xCEcF454c980F36719B5f2788d49615Fde86aA71d", "name": "ShipyardVault", "compiler": "0.6.12", "balance": "-", "txcount": 0, "settings": "", "date": "7/26/2022"}
+{"address": "0xD142abb2675E5c92899240121700AEb8BBB4a331", "name": "ShipyardOneClickCurve", "compiler": "0.6.12", "balance": "-", "txcount": 0, "settings": "", "date": "7/26/2022"}
+{"address": "0x07b5E4382b2a8fBC4bF31b09fdee89A918E33856", "name": "AaveV3RatioTrigger", "compiler": "0.8.10", "balance": "-", "txcount": 0, "settings": "", "date": "7/26/2022"}
+{"address": "0x7524C98ECF884e4EC62347c34f5BaefD7D067C84", "name": "AaveSubProxy", "compiler": "0.8.10", "balance": "-", "txcount": 0, "settings": "", "date": "7/26/2022"}
+{"address": "0x245675A2f4b4C1052C880cD600DCF04D58520eE7", "name": "UpkeepCounter", "compiler": "0.8.6", "balance": "-", "txcount": 0, "settings": "", "date": "7/26/2022"}
+{"address": "0x75206c2a29b646706c8856df0e8acaea38921bad", "name": "QuickLock", "compiler": "0.7.6", "balance": "-", "txcount": 0, "settings": "", "date": "7/26/2022"}
+{"address": "0x3B6176Cae0BFa63d9f8c8561cEbE3E19c1BC504b", "name": "VariableDebtToken", "compiler": "0.7.6", "balance": "-", "txcount": 0, "settings": "", "date": "7/26/2022"}
+{"address": "0xE06CD7763d46c406B92CcDf817451fe4b65CBE55", "name": "AToken", "compiler": "0.7.6", "balance": "-", "txcount": 0, "settings": "", "date": "7/26/2022"}
+{"address": "0x5293c6CA56b8941040b8D18f557dFA82cF520216", "name": "InitializableImmutableAdminUpgradeabilityProxy", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 0, "settings": "", "date": "7/26/2022"}
+{"address": "0x6E2B5533729B1f67D7E60bcB89cCbc3F5f66b32D", "name": "LendingPoolConfigurator", "compiler": "0.7.6", "balance": "-", "txcount": 0, "settings": "", "date": "7/26/2022"}
+{"address": "0xF636f5CF95fb152B7Ab9b63bf7305BeAC3395ebc", "name": "KeeperRegistryDev", "compiler": "0.8.6", "balance": "-", "txcount": 0, "settings": "", "date": "7/26/2022"}
+{"address": "0x303f4edF8849C661a0f8Db5dFb2cd746843CE78E", "name": "KeeperRegistryDev", "compiler": "0.8.6", "balance": "-", "txcount": 0, "settings": "", "date": "7/26/2022"}
+{"address": "0x3f1986bc56fbb0d9c172b7f7ef1c6006e5da4b6f", "name": "ShipyardOneClickCurve", "compiler": "0.6.12", "balance": "-", "txcount": 0, "settings": "", "date": "7/26/2022"}
+{"address": "0xe21B295ED46528eFD5F3EF66E18BC6ad1c87f003", "name": "LendingPoolAddressesProvider", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 0, "settings": "", "date": "7/26/2022"}
+{"address": "0xED60Be096713DE7C98558D4e5206BDB397f1f68f", "name": "StargateBorrow", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 0, "settings": "", "date": "7/26/2022"}
