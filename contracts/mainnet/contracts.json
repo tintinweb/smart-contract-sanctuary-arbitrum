@@ -5601,3 +5601,5 @@
 {"address": "0xc963ef7d977ECb0Ab71d835C4cb1Bf737f28d010", "name": "MasterChef", "compiler": "0.7.6", "balance": "-", "txcount": 0, "settings": "", "date": "7/26/2022"}
 {"address": "0x287Ff908B4DB0b29B65B8442B0a5840455f0Db32", "name": "ChefIncentivesController", "compiler": "0.7.6", "balance": "-", "txcount": 0, "settings": "", "date": "7/26/2022"}
 {"address": "0x17Ad93BfD041Fc9784c4Fd203330bC4b0320c272", "name": "ConnectV2ParaswapV5Arbitrum", "compiler": "0.7.6", "balance": "-", "txcount": 0, "settings": "", "date": "7/26/2022"}
+{"address": "0x094aEdF28a9B0c27A5F74e74292CC1F5de2c8CC7", "name": "CurveMaster", "compiler": "0.8.9", "balance": "-", "txcount": 0, "settings": "", "date": "7/26/2022"}
+{"address": "0x7228eA3888904329095C2193f035Cea7aC3C85Dd", "name": "VaultController", "compiler": "0.8.9", "balance": "-", "txcount": 0, "settings": "", "date": "7/26/2022"}
