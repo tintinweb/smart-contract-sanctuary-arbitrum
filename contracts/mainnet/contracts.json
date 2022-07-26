@@ -5594,3 +5594,10 @@
 {"address": "0xab843bec136e848fc47f0eb24902b61f158534d6", "name": "LendingPool", "compiler": "0.7.6", "balance": "-", "txcount": 0, "settings": "", "date": "7/25/2022"}
 {"address": "0x2032b9A8e9F7e76768CA9271003d3e43E1616B1F", "name": "InitializableImmutableAdminUpgradeabilityProxy", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 0, "settings": "", "date": "7/25/2022"}
 {"address": "0xBE15b88801C777277006409900200bda1f6F8786", "name": "USDL", "compiler": "0.8.9", "balance": "-", "txcount": 0, "settings": "", "date": "7/25/2022"}
+{"address": "0x0A93FF362287f0AEFfC313423c80854F4713022A", "name": "SsovV3Viewer", "compiler": "0.8.9", "balance": "-", "txcount": 0, "settings": "", "date": "7/26/2022"}
+{"address": "0xC8e3beDF35F23037A1067f6ED72625CAF72FA5D8", "name": "UiPoolDataProviderV2V3", "compiler": "0.7.6", "balance": "-", "txcount": 0, "settings": "", "date": "7/26/2022"}
+{"address": "0x6596D55Cd061Fd14A9eCf988E3F073E69C381608", "name": "TokenVesting", "compiler": "0.7.6", "balance": "-", "txcount": 0, "settings": "", "date": "7/26/2022"}
+{"address": "0xFf785dE8a851048a65CbE92C84d4167eF3Ce9BAC", "name": "AaveOracle", "compiler": "0.7.6", "balance": "-", "txcount": 0, "settings": "", "date": "7/26/2022"}
+{"address": "0xc963ef7d977ECb0Ab71d835C4cb1Bf737f28d010", "name": "MasterChef", "compiler": "0.7.6", "balance": "-", "txcount": 0, "settings": "", "date": "7/26/2022"}
+{"address": "0x287Ff908B4DB0b29B65B8442B0a5840455f0Db32", "name": "ChefIncentivesController", "compiler": "0.7.6", "balance": "-", "txcount": 0, "settings": "", "date": "7/26/2022"}
+{"address": "0x17Ad93BfD041Fc9784c4Fd203330bC4b0320c272", "name": "ConnectV2ParaswapV5Arbitrum", "compiler": "0.7.6", "balance": "-", "txcount": 0, "settings": "", "date": "7/26/2022"}
