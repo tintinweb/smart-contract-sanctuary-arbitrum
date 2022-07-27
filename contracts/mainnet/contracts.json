@@ -5620,3 +5620,11 @@
 {"address": "0x3f1986bc56fbb0d9c172b7f7ef1c6006e5da4b6f", "name": "ShipyardOneClickCurve", "compiler": "0.6.12", "balance": "-", "txcount": 0, "settings": "", "date": "7/26/2022"}
 {"address": "0xe21B295ED46528eFD5F3EF66E18BC6ad1c87f003", "name": "LendingPoolAddressesProvider", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 0, "settings": "", "date": "7/26/2022"}
 {"address": "0xED60Be096713DE7C98558D4e5206BDB397f1f68f", "name": "StargateBorrow", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 0, "settings": "", "date": "7/26/2022"}
+{"address": "0x97d4f554aebf690681c69b9e041c7bc74bb2b63d", "name": "Multicall2", "compiler": "0.8.9", "balance": "-", "txcount": 0, "settings": "-", "date": "7/27/2022"}
+{"address": "0xb0B49C3c76f92d629278FDE6Ad48d3ea877D2c0d", "name": "VaultLifecycle", "compiler": "0.8.7", "balance": "-", "txcount": 0, "settings": "", "date": "7/27/2022"}
+{"address": "0xeDfB130e72b26AC9Bcfa0a721249B546cCe65274", "name": "GlpUSDCVault", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 0, "settings": "", "date": "7/27/2022"}
+{"address": "0x44435a66aE25d4e7F2FB054A68Bf6a0A44ae05DC", "name": "CBridgeAdapter", "compiler": "0.8.15", "balance": "-", "txcount": 0, "settings": "", "date": "7/27/2022"}
+{"address": "0x2979a1cb90EEB9e75d7fB4f9813FCC40E4a7fD8b", "name": "TransferSwapper", "compiler": "0.8.15", "balance": "-", "txcount": 0, "settings": "", "date": "7/27/2022"}
+{"address": "0xc46972377559A3fb367a994a4f9EDc0A0297eFD3", "name": "WePiggyPriceProviderForArbWithSequencer", "compiler": "0.6.12", "balance": "-", "txcount": 0, "settings": "", "date": "7/27/2022"}
+{"address": "0x508b91e672e74ae96f74b4881a790e8df62b3c6b", "name": "DegenGuys", "compiler": "0.8.9", "balance": "-", "txcount": 0, "settings": "", "date": "7/27/2022"}
+{"address": "0x60Ca7E3960e5F143DdB42B19B64F65c27cAD561d", "name": "SwapAndStakeV3", "compiler": "0.8.7", "balance": "-", "txcount": 0, "settings": "", "date": "7/27/2022"}
