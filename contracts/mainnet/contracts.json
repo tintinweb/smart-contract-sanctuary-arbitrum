@@ -5651,3 +5651,8 @@
 {"address": "0x8ECeF9edf30159d06751dc9b5Aece47fD9f38e0d", "name": "UniSwapperV3", "compiler": "0.8.10", "balance": "-", "txcount": 0, "settings": "", "date": "7/28/2022"}
 {"address": "0xD9Dd51d9Cc7Bfbe0B5Eb0Cfb57F08A62DAebE5a9", "name": "SgBridge", "compiler": "0.8.10", "balance": "-", "txcount": 0, "settings": "", "date": "7/28/2022"}
 {"address": "0xcc07e1fab177a5b81ad39a348f3fba2ad8269999", "name": "InitContract", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 0, "settings": "", "date": "7/28/2022"}
+{"address": "0x69a9ee64CF740899E4a826733B22CDE131777a48", "name": "MagicPotionsWithWideRoyalties", "compiler": "0.8.13", "balance": "-", "txcount": 0, "settings": "", "date": "7/28/2022"}
+{"address": "0x9F3b4c7f863d4d3615Aa203A230D18EA4DB46582", "name": "MagicPS", "compiler": "0.8.13", "balance": "-", "txcount": 0, "settings": "", "date": "7/28/2022"}
+{"address": "0xB82b43c4c0ABF41Dfc342571C330964fF576a9b3", "name": "CurveWrapperV3", "compiler": "0.8.10", "balance": "-", "txcount": 0, "settings": "", "date": "7/28/2022"}
+{"address": "0xAf2F4F94F06F8f9c6FCA5547fDd5Da723e4aE803", "name": "ArbitrumBridgeExecutor", "compiler": "0.8.10", "balance": "-", "txcount": 0, "settings": "", "date": "7/28/2022"}
+{"address": "0x1763b9ED3586B08AE796c7787811a2E1bc16163a", "name": "Greeter", "compiler": "0.8.10", "balance": "-", "txcount": 0, "settings": "-", "date": "7/28/2022"}
