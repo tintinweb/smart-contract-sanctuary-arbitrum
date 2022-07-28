@@ -5642,3 +5642,12 @@
 {"address": "0x3Fc3C3A2c808197D60bf20fB0EEE8731B3e07B24", "name": "StrategyCurveLP", "compiler": "0.6.12", "balance": "-", "txcount": 0, "settings": "", "date": "7/27/2022"}
 {"address": "0xdC6a4530E5A4F7d7c3C2515C5Ec293e4E48De52F", "name": "ShipyardVault", "compiler": "0.6.12", "balance": "-", "txcount": 0, "settings": "", "date": "7/27/2022"}
 {"address": "0xE644A77b050DE45233716Db3aF2E2f0CC56206B8", "name": "ShipyardOneClickCurve", "compiler": "0.6.12", "balance": "-", "txcount": 0, "settings": "", "date": "7/27/2022"}
+{"address": "0xbc2597d3f1f9565100582cde02e3712d03b8b0f6", "name": "AnyswapV6ERC20", "compiler": "0.8.14", "balance": "-", "txcount": 0, "settings": "", "date": "7/28/2022"}
+{"address": "0x93e9602dd447679dc10B3Ea7025e08119C95C9C1", "name": "DefaultReserveInterestRateStrategy", "compiler": "0.7.6", "balance": "-", "txcount": 0, "settings": "", "date": "7/28/2022"}
+{"address": "0x4d5fc4f50c7f78471861866fd13f234ce99f56d8", "name": "DefaultReserveInterestRateStrategy", "compiler": "0.7.6", "balance": "-", "txcount": 0, "settings": "", "date": "7/28/2022"}
+{"address": "0xe1ca57D084ce6A810f2b2cF964Db0D691cAABAE5", "name": "StrategyCurveLP", "compiler": "0.6.12", "balance": "-", "txcount": 0, "settings": "", "date": "7/28/2022"}
+{"address": "0x01f89316a774ba0400591fab6a9ae30d29fd3b7d", "name": "StrategyRadiantChefLP", "compiler": "0.6.12", "balance": "-", "txcount": 0, "settings": "", "date": "7/28/2022"}
+{"address": "0x338097e546106ca0cD53ED2C7dA1bfcdF4eE9c3e", "name": "POL", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 0, "settings": "", "date": "7/28/2022"}
+{"address": "0x8ECeF9edf30159d06751dc9b5Aece47fD9f38e0d", "name": "UniSwapperV3", "compiler": "0.8.10", "balance": "-", "txcount": 0, "settings": "", "date": "7/28/2022"}
+{"address": "0xD9Dd51d9Cc7Bfbe0B5Eb0Cfb57F08A62DAebE5a9", "name": "SgBridge", "compiler": "0.8.10", "balance": "-", "txcount": 0, "settings": "", "date": "7/28/2022"}
+{"address": "0xcc07e1fab177a5b81ad39a348f3fba2ad8269999", "name": "InitContract", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 0, "settings": "", "date": "7/28/2022"}
