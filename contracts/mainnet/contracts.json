@@ -5634,3 +5634,11 @@
 {"address": "0x3B13A900f333676497438A191Cc2Ab7eB8B84F55", "name": "ThreeLines0_100", "compiler": "0.8.9", "balance": "-", "txcount": 0, "settings": "", "date": "7/27/2022"}
 {"address": "0x5FFBccf73c74d253E53518E9BA4A4Eb12893659F", "name": "MinimaxMain", "compiler": "0.8.13", "balance": "-", "txcount": 0, "settings": "", "date": "7/27/2022"}
 {"address": "0x617Dee16B86534a5d792A4d7A62FB491B544111E", "name": "MetaAggregationRouter", "compiler": "0.8.9", "balance": "-", "txcount": 0, "settings": "", "date": "7/27/2022"}
+{"address": "0xcc074519b9b8ee38a2b4bac88e31ffa69b1ec0de", "name": "DeterministicDeployer", "compiler": "0.8.15", "balance": "-", "txcount": 0, "settings": "", "date": "7/28/2022"}
+{"address": "0x5476CdE45f2fd9345dAbcec831361562C80c8d08", "name": "BrokerImplementation", "compiler": "0.8.10", "balance": "-", "txcount": 0, "settings": "", "date": "7/28/2022"}
+{"address": "0xE5b76F759f8b98535e7E32A1C30f9b88E816f5FF", "name": "ClientImplementation", "compiler": "0.8.10", "balance": "-", "txcount": 0, "settings": "", "date": "7/28/2022"}
+{"address": "0xE27D403091e14549D1da62BA21a9bFCAD4EFFf0a", "name": "Client", "compiler": "0.8.10", "balance": "-", "txcount": 0, "settings": "", "date": "7/28/2022"}
+{"address": "0xF059d3D7111810BaCc834FB6F429652b792Db27d", "name": "Broker", "compiler": "0.8.10", "balance": "-", "txcount": 0, "settings": "", "date": "7/28/2022"}
+{"address": "0x3Fc3C3A2c808197D60bf20fB0EEE8731B3e07B24", "name": "StrategyCurveLP", "compiler": "0.6.12", "balance": "-", "txcount": 0, "settings": "", "date": "7/27/2022"}
+{"address": "0xdC6a4530E5A4F7d7c3C2515C5Ec293e4E48De52F", "name": "ShipyardVault", "compiler": "0.6.12", "balance": "-", "txcount": 0, "settings": "", "date": "7/27/2022"}
+{"address": "0xE644A77b050DE45233716Db3aF2E2f0CC56206B8", "name": "ShipyardOneClickCurve", "compiler": "0.6.12", "balance": "-", "txcount": 0, "settings": "", "date": "7/27/2022"}
