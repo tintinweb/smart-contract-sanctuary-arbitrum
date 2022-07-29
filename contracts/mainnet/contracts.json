@@ -5667,3 +5667,4 @@
 {"address": "0x4F5f89fa3C11Cad0c1C7B0bb91603069477e68CF", "name": "VestingVesta", "compiler": "0.8.11", "balance": "-", "txcount": 0, "settings": "", "date": "7/29/2022"}
 {"address": "0x96a695837463157d8b6323b0dd343f292f3440da", "name": "HelloWorld", "compiler": "0.8.8", "balance": "-", "txcount": 0, "settings": "-", "date": "7/29/2022"}
 {"address": "0x069f1044bb37b28bc014f0c783346f92317905eb", "name": "HelloWorld", "compiler": "0.8.8", "balance": "-", "txcount": 0, "settings": "-", "date": "7/29/2022"}
+{"address": "0x5ef4c5352882b10893b70DbcaA0C000965bd23c5", "name": "ProtocolFeePercentagesProvider", "compiler": "0.7.1", "balance": "-", "txcount": 0, "settings": "", "date": "7/29/2022"}
