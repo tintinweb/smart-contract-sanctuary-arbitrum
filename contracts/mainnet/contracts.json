@@ -5669,3 +5669,9 @@
 {"address": "0x069f1044bb37b28bc014f0c783346f92317905eb", "name": "HelloWorld", "compiler": "0.8.8", "balance": "-", "txcount": 0, "settings": "-", "date": "7/29/2022"}
 {"address": "0x5ef4c5352882b10893b70DbcaA0C000965bd23c5", "name": "ProtocolFeePercentagesProvider", "compiler": "0.7.1", "balance": "-", "txcount": 0, "settings": "", "date": "7/29/2022"}
 {"address": "0xde44d3fb118e0f007f2c0d8fffe98b994383949a", "name": "ArkNetwork", "compiler": "0.8.13", "balance": "-", "txcount": 0, "settings": "", "date": "7/29/2022"}
+{"address": "0x8D56dec3e324C2E7dA07311e5A75A491209E23FA", "name": "Curve2PoolWrapper", "compiler": "0.8.10", "balance": "-", "txcount": 0, "settings": "", "date": "7/30/2022"}
+{"address": "0x077af14Ac43c2A2980a0bFD382591decf1D1eb55", "name": "SushiRouterWrapper", "compiler": "0.8.10", "balance": "-", "txcount": 0, "settings": "", "date": "7/30/2022"}
+{"address": "0xe098e7a8186296a5dc84f0C69E4C75db3DC248e2", "name": "SsovV3Wrapper", "compiler": "0.8.10", "balance": "-", "txcount": 0, "settings": "", "date": "7/30/2022"}
+{"address": "0x687bdfc9c39b0baf8bd84e319d667fd41643ec05", "name": "UMarket", "compiler": "0.6.6", "balance": "-", "txcount": 0, "settings": "", "date": "7/30/2022"}
+{"address": "0x4f4530c9B93dAcE9eb22232D947aecbD9da135DF", "name": "Fiat24CryptoTopUp", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 0, "settings": "", "date": "7/30/2022"}
+{"address": "0x14a6F932B1eF619Ec8506A4A9F577b3857156286", "name": "Fiat24CryptoTopUp", "compiler": "0.8.7", "balance": "-", "txcount": 0, "settings": "", "date": "7/30/2022"}
