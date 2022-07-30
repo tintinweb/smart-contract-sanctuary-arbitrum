@@ -5675,3 +5675,13 @@
 {"address": "0x687bdfc9c39b0baf8bd84e319d667fd41643ec05", "name": "UMarket", "compiler": "0.6.6", "balance": "-", "txcount": 0, "settings": "", "date": "7/30/2022"}
 {"address": "0x4f4530c9B93dAcE9eb22232D947aecbD9da135DF", "name": "Fiat24CryptoTopUp", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 0, "settings": "", "date": "7/30/2022"}
 {"address": "0x14a6F932B1eF619Ec8506A4A9F577b3857156286", "name": "Fiat24CryptoTopUp", "compiler": "0.8.7", "balance": "-", "txcount": 0, "settings": "", "date": "7/30/2022"}
+{"address": "0x3605Ad3fCafCb8a59e2AdCB81fA28B94ebD26A17", "name": "BattleflyAtlasStakerV02", "compiler": "0.8.4", "balance": "-", "txcount": 0, "settings": "", "date": "7/30/2022"}
+{"address": "0xb10cf543b266561959e3dd9786267a978f4561b7", "name": "Storage", "compiler": "0.8.7", "balance": "-", "txcount": 0, "settings": "-", "date": "7/30/2022"}
+{"address": "0xE2bFE28B2e94ADAF8fd9Af503E54d562571D6110", "name": "JonesSSOVPutV3Strategy", "compiler": "0.8.10", "balance": "-", "txcount": 0, "settings": "", "date": "7/30/2022"}
+{"address": "0xa151FE8e987735fB32Bd6b1E24dd8F8f0849f1d0", "name": "JonesSSOVPutV3Strategy", "compiler": "0.8.10", "balance": "-", "txcount": 0, "settings": "", "date": "7/30/2022"}
+{"address": "0xBD2c07f13695EEf334236C51101EBE20133e7545", "name": "JonesSSOVPutV3Strategy", "compiler": "0.8.10", "balance": "-", "txcount": 0, "settings": "", "date": "7/30/2022"}
+{"address": "0xdEDC5D2E3FBfd85fD85Ec0a799A68C477a376FfA", "name": "JonesSSOVPutV3Strategy", "compiler": "0.8.10", "balance": "-", "txcount": 0, "settings": "", "date": "7/30/2022"}
+{"address": "0x37a15bA72a5481889740adeBD1A233d84C607c05", "name": "JonesSSOVCallV3Strategy", "compiler": "0.8.10", "balance": "-", "txcount": 0, "settings": "", "date": "7/30/2022"}
+{"address": "0x30f3cd4d31Be7B6979c0e6Cbd58b0d473a1A083f", "name": "JonesSSOVCallV3Strategy", "compiler": "0.8.10", "balance": "-", "txcount": 0, "settings": "", "date": "7/30/2022"}
+{"address": "0x67b99b086E286765f226ae4F8294F7B13E510e57", "name": "JonesSSOVCallV3Strategy", "compiler": "0.8.10", "balance": "-", "txcount": 0, "settings": "", "date": "7/30/2022"}
+{"address": "0x1304E5a0E6fFf1556Cf8f8dcc346C7dbD2C897Dd", "name": "JonesSSOVCallV3Strategy", "compiler": "0.8.10", "balance": "-", "txcount": 0, "settings": "", "date": "7/30/2022"}
