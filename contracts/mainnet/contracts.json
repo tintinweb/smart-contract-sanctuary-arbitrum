@@ -5688,3 +5688,7 @@
 {"address": "0x69DBf8dD98Aa40F50E4f2263c6f2d66f26f9cb5b", "name": "VoltSystemOracle", "compiler": "0.8.13", "balance": "-", "txcount": 0, "settings": "", "date": "7/31/2022"}
 {"address": "0xcd836280e4416e08F54E5584Bcd49Ac2E3a68747", "name": "OraclePassThrough", "compiler": "0.8.13", "balance": "-", "txcount": 0, "settings": "", "date": "7/31/2022"}
 {"address": "0x6768956F6D7c8bf2539e08E9772a5771AF872228", "name": "BattleflyFounderVaultV08", "compiler": "0.8.4", "balance": "-", "txcount": 0, "settings": "", "date": "7/30/2022"}
+{"address": "0xc2d2da15a0c55b0dea2886928e1de283e7e2a793", "name": "BozzCatz", "compiler": "0.8.9", "balance": "-", "txcount": 0, "settings": "", "date": "7/31/2022"}
+{"address": "0xea90ccc65d86cb2549567368c1d4841ffd1b89dc", "name": "BristolsFinance", "compiler": "0.8.7", "balance": "-", "txcount": 0, "settings": "-", "date": "7/31/2022"}
+{"address": "0xe3dcb3072cde3ce99bcc08e90aa574b3797bf8bb", "name": "arbi", "compiler": "0.8.8", "balance": "-", "txcount": 0, "settings": "-", "date": "7/31/2022"}
+{"address": "0x6d03e89fed39198eadefdf93b40cb3a5ad49d522", "name": "arbi1", "compiler": "0.8.8", "balance": "-", "txcount": 0, "settings": "-", "date": "7/31/2022"}
