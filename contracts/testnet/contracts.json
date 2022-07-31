@@ -5902,3 +5902,6 @@
 {"address": "0xBCDCaF67193Bf5C57be08623278fCB69f4cA9e68", "name": "USDG", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "7/28/2022"}
 {"address": "0xBc9BC47A7aB63db1E0030dC7B60DDcDe29CF4Ffb", "name": "Vault", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 8, "settings": "", "date": "7/28/2022"}
 {"address": "0xDF599110093C4EC6Abbc0d84ccFC1aae8d988CB9", "name": "IntermediaryTimeDelay", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "7/28/2022"}
+{"address": "0xc5c6ab47aa2d2f20b16fab3b81894f3ef63e1d8d", "name": "CookIngredients", "compiler": "0.8.11", "balance": "0 ETH", "txcount": 13, "settings": "", "date": "7/30/2022"}
+{"address": "0x29a4b13a805267c5db5813c6583e910b29436a36", "name": "RecipeStake", "compiler": "0.8.11", "balance": "0 ETH", "txcount": 23, "settings": "", "date": "7/30/2022"}
+{"address": "0x7fda1378af1fb21a50ed56d2c0216692cbdfc35b", "name": "BossCardERC1155", "compiler": "0.8.11", "balance": "0 ETH", "txcount": 15, "settings": "-", "date": "7/30/2022"}
