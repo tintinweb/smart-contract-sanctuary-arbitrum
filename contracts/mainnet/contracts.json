@@ -5716,3 +5716,6 @@
 {"address": "0x1b1822c6a40c9dCe91e9c185228E308271dA99c6", "name": "USDP", "compiler": "0.7.6", "balance": "-", "txcount": 0, "settings": "", "date": "7/31/2022"}
 {"address": "0x9ce9325db2e57bd5efb61e1a1b5911c46a92ddaa", "name": "SpongeBoredNFT", "compiler": "0.8.9", "balance": "-", "txcount": 0, "settings": "", "date": "7/31/2022"}
 {"address": "0x972e554612bd4b5f91d9b21fb794f28109091777", "name": "BlesssedZombies", "compiler": "0.8.9", "balance": "-", "txcount": 0, "settings": "", "date": "7/31/2022"}
+{"address": "0x11A99D3A49DD1b5AdCAF24964646C90de50D0D47", "name": "SsovV3OptionsToken", "compiler": "0.8.9", "balance": "-", "txcount": 0, "settings": "", "date": "7/31/2022"}
+{"address": "0xA2862ca5c8D4f00f88eAb259D3647685182DcBA0", "name": "EthStakingStrategyV1", "compiler": "0.8.9", "balance": "-", "txcount": 0, "settings": "", "date": "7/31/2022"}
+{"address": "0x9E722E233646E1eDEa4A913489A75262A181C911", "name": "EthCallsSsovV3", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 0, "settings": "", "date": "7/31/2022"}
