@@ -5685,3 +5685,6 @@
 {"address": "0x30f3cd4d31Be7B6979c0e6Cbd58b0d473a1A083f", "name": "JonesSSOVCallV3Strategy", "compiler": "0.8.10", "balance": "-", "txcount": 0, "settings": "", "date": "7/30/2022"}
 {"address": "0x67b99b086E286765f226ae4F8294F7B13E510e57", "name": "JonesSSOVCallV3Strategy", "compiler": "0.8.10", "balance": "-", "txcount": 0, "settings": "", "date": "7/30/2022"}
 {"address": "0x1304E5a0E6fFf1556Cf8f8dcc346C7dbD2C897Dd", "name": "JonesSSOVCallV3Strategy", "compiler": "0.8.10", "balance": "-", "txcount": 0, "settings": "", "date": "7/30/2022"}
+{"address": "0x69DBf8dD98Aa40F50E4f2263c6f2d66f26f9cb5b", "name": "VoltSystemOracle", "compiler": "0.8.13", "balance": "-", "txcount": 0, "settings": "", "date": "7/31/2022"}
+{"address": "0xcd836280e4416e08F54E5584Bcd49Ac2E3a68747", "name": "OraclePassThrough", "compiler": "0.8.13", "balance": "-", "txcount": 0, "settings": "", "date": "7/31/2022"}
+{"address": "0x6768956F6D7c8bf2539e08E9772a5771AF872228", "name": "BattleflyFounderVaultV08", "compiler": "0.8.4", "balance": "-", "txcount": 0, "settings": "", "date": "7/30/2022"}
