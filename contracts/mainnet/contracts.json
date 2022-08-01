@@ -5734,3 +5734,12 @@
 {"address": "0x8DEb66a4A40E370355bEe35f12E55Fe9c755d686", "name": "Vyper_contract", "compiler": "vyper:0.3.1", "balance": "-", "txcount": 0, "settings": "-", "date": "7/31/2022"}
 {"address": "0x5172205CA5b352BC429EE2904D0297b7aCB3F785", "name": "VotingEscrow", "compiler": "0.8.10", "balance": "-", "txcount": 0, "settings": "", "date": "8/1/2022"}
 {"address": "0xb8db42fd86cf3a633020c1f90181fd51c7106e56", "name": "Idles", "compiler": "0.8.7", "balance": "-", "txcount": 0, "settings": "-", "date": "8/1/2022"}
+{"address": "0x5786809DA660dB613994460F096F19fcd19eD4c9", "name": "AaveV3Borrow", "compiler": "0.8.10", "balance": "-", "txcount": 0, "settings": "", "date": "8/1/2022"}
+{"address": "0xe8Ec1A61f6C86e8d33C327FEdad559c20b9A66a2", "name": "FYToken", "compiler": "0.8.15", "balance": "-", "txcount": 0, "settings": "", "date": "8/1/2022"}
+{"address": "0xF9D75FD94FD35c8014c4F7f8e3434755172e9005", "name": "YieldMath", "compiler": "0.8.15", "balance": "-", "txcount": 0, "settings": "", "date": "8/1/2022"}
+{"address": "0xED84bDfba3629C232953d34033545a38f0e57BD2", "name": "Roller", "compiler": "0.8.15", "balance": "-", "txcount": 0, "settings": "", "date": "8/1/2022"}
+{"address": "0xbdb135329c9305785533705c8ee350fe9e0361a4", "name": "Bonjour", "compiler": "0.8.10", "balance": "-", "txcount": 0, "settings": "", "date": "8/1/2022"}
+{"address": "0xfa77552d3E8aCC8444D2Ae0b6c5c3EcDDB59A90F", "name": "BattleflyFlywheelVaultV02", "compiler": "0.8.4", "balance": "-", "txcount": 0, "settings": "", "date": "8/1/2022"}
+{"address": "0xbf492F869DdB1A18BB4F41b6c3059D9f882Fe7ff", "name": "AaveV3Withdraw", "compiler": "0.8.10", "balance": "-", "txcount": 0, "settings": "", "date": "8/1/2022"}
+{"address": "0xd88D5356e08dAd84E1576F89f4BF43C79a8BF0b2", "name": "AaveV3Payback", "compiler": "0.8.10", "balance": "-", "txcount": 0, "settings": "", "date": "8/1/2022"}
+{"address": "0x734Ac0534dDa77A6Bc776588D77E9a89447674a1", "name": "DecoderBot", "compiler": "0.8.10", "balance": "-", "txcount": 0, "settings": "", "date": "8/1/2022"}
