@@ -5719,3 +5719,16 @@
 {"address": "0x11A99D3A49DD1b5AdCAF24964646C90de50D0D47", "name": "SsovV3OptionsToken", "compiler": "0.8.9", "balance": "-", "txcount": 0, "settings": "", "date": "7/31/2022"}
 {"address": "0xA2862ca5c8D4f00f88eAb259D3647685182DcBA0", "name": "EthStakingStrategyV1", "compiler": "0.8.9", "balance": "-", "txcount": 0, "settings": "", "date": "7/31/2022"}
 {"address": "0x9E722E233646E1eDEa4A913489A75262A181C911", "name": "EthCallsSsovV3", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 0, "settings": "", "date": "7/31/2022"}
+{"address": "0xc0ccDfAf6bE988c3B796D1CBa13A8fcb8cBb6654", "name": "RolesAuthority", "compiler": "0.8.15", "balance": "-", "txcount": 0, "settings": "", "date": "8/1/2022"}
+{"address": "0x52BedBf8D9d7de75fc50ca89D592c493440B41c0", "name": "Crafting", "compiler": "0.8.9", "balance": "-", "txcount": 0, "settings": "", "date": "8/1/2022"}
+{"address": "0x6f853Ab58aa5716529e735C668FE5BbFE970015c", "name": "Vester", "compiler": "0.8.10", "balance": "-", "txcount": 0, "settings": "", "date": "8/1/2022"}
+{"address": "0x28345899567fa8eF459b5BB171d63E0719affd16", "name": "MuxRewardTracker", "compiler": "0.8.10", "balance": "-", "txcount": 0, "settings": "", "date": "8/1/2022"}
+{"address": "0xCD3112f5244c50D05e4E8AbE51A39cEB2D32E9A2", "name": "VotingEscrow", "compiler": "0.8.10", "balance": "-", "txcount": 0, "settings": "", "date": "8/1/2022"}
+{"address": "0xB0cF86a9E40Df2DAFC05f9750bd18c51d3D69330", "name": "MlpRewardTracker", "compiler": "0.8.10", "balance": "-", "txcount": 0, "settings": "", "date": "8/1/2022"}
+{"address": "0xC8efD5D238cCF8b4d1C859Bf4dCe1dc3bf1AD667", "name": "MuxDistributor", "compiler": "0.8.10", "balance": "-", "txcount": 0, "settings": "", "date": "8/1/2022"}
+{"address": "0xdC500D973F9b2456c4015Ff74B4bF0d537b4b002", "name": "FeeDistributor", "compiler": "0.8.10", "balance": "-", "txcount": 0, "settings": "", "date": "8/1/2022"}
+{"address": "0x404cf7B188D8ca8219D874cfff96e2EF918d5261", "name": "RewardRouter", "compiler": "0.8.10", "balance": "-", "txcount": 0, "settings": "", "date": "8/1/2022"}
+{"address": "0x454C4eA9e1593805c7d40f34E6e3C8C39ec20d8A", "name": "Mux", "compiler": "0.8.10", "balance": "-", "txcount": 0, "settings": "", "date": "8/1/2022"}
+{"address": "0x58AC91f5BE7dC0c35b24B96B19BAc55FBB8E705e", "name": "Vyper_contract", "compiler": "vyper:0.2.16", "balance": "-", "txcount": 0, "settings": "-", "date": "7/31/2022"}
+{"address": "0x3edE9b145F82e9e46C03f8A8F67B77aEE847b632", "name": "Vyper_contract", "compiler": "vyper:0.3.1", "balance": "-", "txcount": 0, "settings": "-", "date": "7/31/2022"}
+{"address": "0x8DEb66a4A40E370355bEe35f12E55Fe9c755d686", "name": "Vyper_contract", "compiler": "vyper:0.3.1", "balance": "-", "txcount": 0, "settings": "-", "date": "7/31/2022"}
