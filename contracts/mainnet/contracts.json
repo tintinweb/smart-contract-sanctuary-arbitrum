@@ -5743,3 +5743,6 @@
 {"address": "0xbf492F869DdB1A18BB4F41b6c3059D9f882Fe7ff", "name": "AaveV3Withdraw", "compiler": "0.8.10", "balance": "-", "txcount": 0, "settings": "", "date": "8/1/2022"}
 {"address": "0xd88D5356e08dAd84E1576F89f4BF43C79a8BF0b2", "name": "AaveV3Payback", "compiler": "0.8.10", "balance": "-", "txcount": 0, "settings": "", "date": "8/1/2022"}
 {"address": "0x734Ac0534dDa77A6Bc776588D77E9a89447674a1", "name": "DecoderBot", "compiler": "0.8.10", "balance": "-", "txcount": 0, "settings": "", "date": "8/1/2022"}
+{"address": "0xdf43263dfec19117f2fe79d1d9842a10c7495ccd", "name": "BaseFeeOracle", "compiler": "0.8.12", "balance": "-", "txcount": 0, "settings": "", "date": "8/1/2022"}
+{"address": "0xff72f7c5f64ec2fd79b57d1a69c3311c1bb3eef1", "name": "BaseFee", "compiler": "0.8.12", "balance": "-", "txcount": 0, "settings": "", "date": "8/1/2022"}
+{"address": "0xA5CF5645cd0F244bDd8b30a706c04d0e18e46a28", "name": "MirthisContract", "compiler": "0.8.7", "balance": "-", "txcount": 0, "settings": "-", "date": "8/1/2022"}
