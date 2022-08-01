@@ -5732,3 +5732,5 @@
 {"address": "0x58AC91f5BE7dC0c35b24B96B19BAc55FBB8E705e", "name": "Vyper_contract", "compiler": "vyper:0.2.16", "balance": "-", "txcount": 0, "settings": "-", "date": "7/31/2022"}
 {"address": "0x3edE9b145F82e9e46C03f8A8F67B77aEE847b632", "name": "Vyper_contract", "compiler": "vyper:0.3.1", "balance": "-", "txcount": 0, "settings": "-", "date": "7/31/2022"}
 {"address": "0x8DEb66a4A40E370355bEe35f12E55Fe9c755d686", "name": "Vyper_contract", "compiler": "vyper:0.3.1", "balance": "-", "txcount": 0, "settings": "-", "date": "7/31/2022"}
+{"address": "0x5172205CA5b352BC429EE2904D0297b7aCB3F785", "name": "VotingEscrow", "compiler": "0.8.10", "balance": "-", "txcount": 0, "settings": "", "date": "8/1/2022"}
+{"address": "0xb8db42fd86cf3a633020c1f90181fd51c7106e56", "name": "Idles", "compiler": "0.8.7", "balance": "-", "txcount": 0, "settings": "-", "date": "8/1/2022"}
