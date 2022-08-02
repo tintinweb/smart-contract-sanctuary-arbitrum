@@ -5746,3 +5746,10 @@
 {"address": "0xdf43263dfec19117f2fe79d1d9842a10c7495ccd", "name": "BaseFeeOracle", "compiler": "0.8.12", "balance": "-", "txcount": 0, "settings": "", "date": "8/1/2022"}
 {"address": "0xff72f7c5f64ec2fd79b57d1a69c3311c1bb3eef1", "name": "BaseFee", "compiler": "0.8.12", "balance": "-", "txcount": 0, "settings": "", "date": "8/1/2022"}
 {"address": "0xA5CF5645cd0F244bDd8b30a706c04d0e18e46a28", "name": "MirthisContract", "compiler": "0.8.7", "balance": "-", "txcount": 0, "settings": "-", "date": "8/1/2022"}
+{"address": "0x09b2C0B5c8b620512B470ad72ff8c6725143a081", "name": "AdrastiaUniswapV3PA", "compiler": "0.8.13", "balance": "-", "txcount": 0, "settings": "", "date": "8/1/2022"}
+{"address": "0x056a7d17141F9138AA028C27EE592A488d97F99C", "name": "AdrastiaTwapOracle", "compiler": "0.8.13", "balance": "-", "txcount": 0, "settings": "", "date": "8/1/2022"}
+{"address": "0x6eE3b0daeF79522784d8e63Ebb62f10F8008EB3b", "name": "AdrastiaUniswapV3LA", "compiler": "0.8.13", "balance": "-", "txcount": 0, "settings": "", "date": "8/1/2022"}
+{"address": "0x0D37164F1b7aBC350f8f933afC866270f47F3D99", "name": "AdrastiaUniswapV2PA", "compiler": "0.8.13", "balance": "-", "txcount": 0, "settings": "", "date": "8/1/2022"}
+{"address": "0x0D11468cA479FE165ec8aDF768Fde690a6C6973E", "name": "AdrastiaTwapOracle", "compiler": "0.8.13", "balance": "-", "txcount": 0, "settings": "", "date": "8/1/2022"}
+{"address": "0x72c2A64Ea1Cae1F54f854958360bAd135d8D070A", "name": "AdrastiaUniswapV2LA", "compiler": "0.8.13", "balance": "-", "txcount": 0, "settings": "", "date": "8/1/2022"}
+{"address": "0x77008B19fd4e7f9590e7695f7d9A02F1AF2Ac7ad", "name": "AdrastiaAggregatedTwapOracle", "compiler": "0.8.13", "balance": "-", "txcount": 0, "settings": "", "date": "8/1/2022"}
