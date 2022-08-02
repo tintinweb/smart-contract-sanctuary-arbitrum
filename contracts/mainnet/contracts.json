@@ -5753,3 +5753,6 @@
 {"address": "0x0D11468cA479FE165ec8aDF768Fde690a6C6973E", "name": "AdrastiaTwapOracle", "compiler": "0.8.13", "balance": "-", "txcount": 0, "settings": "", "date": "8/1/2022"}
 {"address": "0x72c2A64Ea1Cae1F54f854958360bAd135d8D070A", "name": "AdrastiaUniswapV2LA", "compiler": "0.8.13", "balance": "-", "txcount": 0, "settings": "", "date": "8/1/2022"}
 {"address": "0x77008B19fd4e7f9590e7695f7d9A02F1AF2Ac7ad", "name": "AdrastiaAggregatedTwapOracle", "compiler": "0.8.13", "balance": "-", "txcount": 0, "settings": "", "date": "8/1/2022"}
+{"address": "0x5AF1f885064CFeC4EdfF2cbb23Dbe4DeC1ad7E50", "name": "GasFeeTakerL2", "compiler": "0.8.10", "balance": "-", "txcount": 0, "settings": "", "date": "8/2/2022"}
+{"address": "0x9E250cAe25Cc0fD6e955285Fe981b62c4479176b", "name": "DpxPutPriceOracleV2", "compiler": "0.8.9", "balance": "-", "txcount": 0, "settings": "", "date": "8/2/2022"}
+{"address": "0x58bC6Da61a00310ebC519Fcf8c0D55493c529341", "name": "DpxCallPriceOracleV2", "compiler": "0.8.9", "balance": "-", "txcount": 0, "settings": "", "date": "8/2/2022"}
