@@ -5923,3 +5923,28 @@
 {"address": "0x176ce53D666670d54f7f59673D0571faDFd4b6eF", "name": "VestaParameters", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "8/1/2022"}
 {"address": "0x1994eEF52aDd08D86A03151bEE0Cad23d6fA9518", "name": "MintMercenaries", "compiler": "0.8.9", "balance": "0.001 ETH", "txcount": 4, "settings": "", "date": "8/1/2022"}
 {"address": "0x2594494293925dfd1840bc522Bf0a0898Bf3e0d6", "name": "Anima", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "8/1/2022"}
+{"address": "0x213f7b1B5c66991351206c936468f75F064aFB8E", "name": "WzglERC20", "compiler": "0.8.9", "balance": "-", "txcount": 0, "settings": "-", "date": "8/2/2022"}
+{"address": "0x35aafaaab289E31b05910b20C0a70798d885AF6f", "name": "WzglToken", "compiler": "0.8.9", "balance": "-", "txcount": 0, "settings": "-", "date": "8/2/2022"}
+{"address": "0xab32cebe1f84c5b0d4161befa03a0d3006e61399", "name": "ZUSD", "compiler": "0.5.13", "balance": "-", "txcount": 0, "settings": "", "date": "8/2/2022"}
+{"address": "0x456C4d8f4c379fAd563220dC4C0ae6E3b11cfa95", "name": "GYEN", "compiler": "0.5.13", "balance": "-", "txcount": 0, "settings": "", "date": "8/2/2022"}
+{"address": "0x4C07c36CC3B200786CA8bDCFc097d06b5A751c15", "name": "ArbToken_v1", "compiler": "0.5.13", "balance": "-", "txcount": 0, "settings": "", "date": "8/2/2022"}
+{"address": "0x21b4e9d3c5e77f78201427ddf2a35756c6959972", "name": "fishbags", "compiler": "0.8.7", "balance": "-", "txcount": 0, "settings": "-", "date": "8/1/2022"}
+{"address": "0x9bc72a875a33DFFac9eCAD8B86e88143cd9c16a6", "name": "NFTMarketplace", "compiler": "0.8.14", "balance": "-", "txcount": 0, "settings": "", "date": "8/1/2022"}
+{"address": "0x25b5d0a9fef638c686f251363214559f2e805e3f", "name": "BaseFeeOracle", "compiler": "0.8.12", "balance": "-", "txcount": 0, "settings": "", "date": "8/1/2022"}
+{"address": "0x19b7faf0210a4811cf3401a845c1420c2e3566ba", "name": "BaseFee", "compiler": "0.8.12", "balance": "-", "txcount": 0, "settings": "", "date": "8/1/2022"}
+{"address": "0x37bbac70b9c27dbb55d5c52fc322efd7880fabfd", "name": "PricingModule", "compiler": "0.7.6", "balance": "-", "txcount": 0, "settings": "", "date": "8/1/2022"}
+{"address": "0x7cc2da5549e2524142c64aa12df1327eef283274", "name": "MockERC20", "compiler": "0.7.6", "balance": "-", "txcount": 0, "settings": "", "date": "8/1/2022"}
+{"address": "0x904Cff6da6ca3D554faA45F863C765e40e57c522", "name": "ParticleMinter", "compiler": "0.8.4", "balance": "-", "txcount": 0, "settings": "", "date": "8/1/2022"}
+{"address": "0xa40FA166fe537a11D69FDfb05C83a830B9fa7e03", "name": "QuestManager", "compiler": "0.8.4", "balance": "-", "txcount": 0, "settings": "", "date": "8/1/2022"}
+{"address": "0x94Ee97756afa4C56E899F5752439a1c04F38d619", "name": "QuestV1", "compiler": "0.8.4", "balance": "-", "txcount": 0, "settings": "", "date": "8/1/2022"}
+{"address": "0x3E76f55132924Aa6a1C45Ba0ebC2A171dA426949", "name": "AoV", "compiler": "0.8.4", "balance": "-", "txcount": 0, "settings": "", "date": "8/1/2022"}
+{"address": "0xA12D01c6c69f5B7F49fBb2EbC40F51f5703c436a", "name": "AovMetadata", "compiler": "0.8.4", "balance": "-", "txcount": 0, "settings": "", "date": "8/1/2022"}
+{"address": "0x9417624CB7566325AF23322f8D265b0CEf392BCc", "name": "AdventurerData", "compiler": "0.8.4", "balance": "-", "txcount": 0, "settings": "", "date": "8/1/2022"}
+{"address": "0xeF452664afcfFf6fF834b9269AFCfE36E11b280B", "name": "Anima", "compiler": "0.8.4", "balance": "-", "txcount": 0, "settings": "", "date": "8/1/2022"}
+{"address": "0x9C8D0ba84bb5cD81387511d022E8F4C631602E12", "name": "Particle", "compiler": "0.8.4", "balance": "-", "txcount": 0, "settings": "", "date": "8/1/2022"}
+{"address": "0x1f47BFd5b214AB85F789999fCb666551CF21f05B", "name": "QuestTimer", "compiler": "0.8.4", "balance": "-", "txcount": 0, "settings": "", "date": "8/1/2022"}
+{"address": "0x675a824f4B940c747caC35DA0CC3f7E441419942", "name": "L2WethGateway", "compiler": "0.6.11", "balance": "-", "txcount": 0, "settings": "", "date": "8/1/2022"}
+{"address": "0x02F95dFAc9B67EdCD9158c04fe30d114A013d08D", "name": "L2CustomGateway", "compiler": "0.6.11", "balance": "-", "txcount": 0, "settings": "", "date": "8/1/2022"}
+{"address": "0x5574f6Cd9de0F9D224cE85e1cD6C4Be11132A385", "name": "L2ERC20Gateway", "compiler": "0.6.11", "balance": "-", "txcount": 0, "settings": "", "date": "8/1/2022"}
+{"address": "0x9BB136adEa1E3dd0B132CAd18d69Ee444aC17bFd", "name": "L2GatewayRouter", "compiler": "0.6.11", "balance": "-", "txcount": 0, "settings": "", "date": "8/1/2022"}
+{"address": "0x0FC55f16BA856fa37c8CEe7C0Be48F580ede0b54", "name": "RecipeStake", "compiler": "0.8.11", "balance": "-", "txcount": 0, "settings": "", "date": "8/1/2022"}
