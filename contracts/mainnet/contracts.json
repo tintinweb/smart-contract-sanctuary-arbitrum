@@ -5756,3 +5756,13 @@
 {"address": "0x5AF1f885064CFeC4EdfF2cbb23Dbe4DeC1ad7E50", "name": "GasFeeTakerL2", "compiler": "0.8.10", "balance": "-", "txcount": 0, "settings": "", "date": "8/2/2022"}
 {"address": "0x9E250cAe25Cc0fD6e955285Fe981b62c4479176b", "name": "DpxPutPriceOracleV2", "compiler": "0.8.9", "balance": "-", "txcount": 0, "settings": "", "date": "8/2/2022"}
 {"address": "0x58bC6Da61a00310ebC519Fcf8c0D55493c529341", "name": "DpxCallPriceOracleV2", "compiler": "0.8.9", "balance": "-", "txcount": 0, "settings": "", "date": "8/2/2022"}
+{"address": "0xc141258D176df9bfA6a745aFb321c3dcF72e0306", "name": "setNumberContract", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "8/2/2022"}
+{"address": "0x697aC228808CAb8DB149C8c43D5086d9a698CC58", "name": "BeefyFeeBatchV3", "compiler": "0.8.15", "balance": "-", "txcount": 0, "settings": "", "date": "8/2/2022"}
+{"address": "0x03E074BB834F7C4940dFdE8b29e63584b3dE3a87", "name": "FujiAdmin", "compiler": "0.8.4", "balance": "-", "txcount": 0, "settings": "", "date": "8/2/2022"}
+{"address": "0xd0003218bb5245CeF7f1aE3EF9a7611eaa4920D2", "name": "BattleflyFlywheelVaultV02", "compiler": "0.8.4", "balance": "-", "txcount": 0, "settings": "", "date": "8/2/2022"}
+{"address": "0x2F64f73B222B4978CAfd0295c0fa106cE5f34996", "name": "GasFeeTakerL2", "compiler": "0.8.10", "balance": "-", "txcount": 0, "settings": "", "date": "8/2/2022"}
+{"address": "0x11687644c4e0f292f65bab6776490cfa5d00eaf1", "name": "ReceiveAssets", "compiler": "0.8.10", "balance": "-", "txcount": 0, "settings": "", "date": "8/2/2022"}
+{"address": "0xBa20fb9D03e0E974fC54E37417C1f7F6a01622f2", "name": "CelerBridge", "compiler": "0.8.10", "balance": "-", "txcount": 0, "settings": "", "date": "8/2/2022"}
+{"address": "0x9F948e9A79186f076EA19f5DDCCDF30eDc6DbaA2", "name": "SsovV3Viewer", "compiler": "0.8.9", "balance": "-", "txcount": 0, "settings": "", "date": "8/2/2022"}
+{"address": "0x3D03e7d7B73011d0B4Fab681bE6679C8EA74ba5e", "name": "BattleflyTreasuryFlywheelVault", "compiler": "0.8.4", "balance": "-", "txcount": 0, "settings": "", "date": "8/2/2022"}
+{"address": "0x6f3fAe2fFe0b33e54daa5FD23BA0554D4582d5A2", "name": "FeeDistributor", "compiler": "0.8.10", "balance": "-", "txcount": 0, "settings": "", "date": "8/2/2022"}
