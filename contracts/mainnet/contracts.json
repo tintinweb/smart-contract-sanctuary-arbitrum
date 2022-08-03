@@ -5810,3 +5810,7 @@
 {"address": "0x7d3AEc789F3b8C207bC2DF8C07a03778E18102e1", "name": "SymbolImplementationPower", "compiler": "0.8.10", "balance": "-", "txcount": 0, "settings": "", "date": "8/3/2022"}
 {"address": "0xBF7beaa7cf7349023c6467F68c7abd7dd89F7297", "name": "SymbolImplementationFutures", "compiler": "0.8.10", "balance": "-", "txcount": 0, "settings": "", "date": "8/3/2022"}
 {"address": "0x6fcd9599578fDe6d92ceC94Cb7752C90D1a55c54", "name": "SymbolImplementationFutures", "compiler": "0.8.10", "balance": "-", "txcount": 0, "settings": "", "date": "8/3/2022"}
+{"address": "0x75E2F915B37D49716365346b1E3E273Cb3E0cC33", "name": "BotRegistry", "compiler": "0.6.12", "balance": "-", "txcount": 0, "settings": "-", "date": "8/3/2022"}
+{"address": "0x08CC9c26FE28C30661EB6876288150A6ac130f29", "name": "UniSwapperV3", "compiler": "0.8.10", "balance": "-", "txcount": 0, "settings": "", "date": "8/3/2022"}
+{"address": "0xAB15B22589925c21406CC45Bc85866666bCb2B59", "name": "ERC721RestrictedFactory", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 0, "settings": "", "date": "8/3/2022"}
+{"address": "0x3eE318adFB77bd51326B9d89c6a464AD9F5B613F", "name": "Vesting", "compiler": "0.8.15", "balance": "-", "txcount": 0, "settings": "", "date": "8/3/2022"}
