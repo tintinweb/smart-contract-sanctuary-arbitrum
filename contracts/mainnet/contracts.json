@@ -5837,3 +5837,9 @@
 {"address": "0xaf4a2633621b9b0bc49b2d29a0ceac2ca680d352", "name": "PHAT", "compiler": "0.8.7", "balance": "-", "txcount": 0, "settings": "", "date": "8/4/2022"}
 {"address": "0x85272bf6DdCCBDea45Cf0535ea5C65bf91B480c4", "name": "UiPoolDataProviderV3", "compiler": "0.8.10", "balance": "-", "txcount": 0, "settings": "", "date": "8/4/2022"}
 {"address": "0x35DDe5599318112829d97A29f4E8f4C49aAfc47C", "name": "UiIncentiveDataProviderV3", "compiler": "0.8.10", "balance": "-", "txcount": 0, "settings": "", "date": "8/4/2022"}
+{"address": "0x7605aaA45344F91315E0C596Ab679159784F8b7b", "name": "BTCArb", "compiler": "0.6.11", "balance": "-", "txcount": 0, "settings": "", "date": "8/4/2022"}
+{"address": "0x896d8a30C32eAd64f2e1195C2C8E0932Be7Dc20B", "name": "GMXArb", "compiler": "0.6.11", "balance": "-", "txcount": 0, "settings": "", "date": "8/4/2022"}
+{"address": "0x85689591dF2BA483f1debf19f4D97F6C5EF287F8", "name": "DPXArb", "compiler": "0.6.11", "balance": "-", "txcount": 0, "settings": "", "date": "8/4/2022"}
+{"address": "0x753C750807373e52dbEd6622ccF3779132d0FEAc", "name": "GOHMArb", "compiler": "0.6.11", "balance": "-", "txcount": 0, "settings": "", "date": "8/4/2022"}
+{"address": "0x7D30d048F8693aF30A10aa5D6d281A7A7E6E1245", "name": "EthArb", "compiler": "0.6.11", "balance": "0 ETH", "txcount": 0, "settings": "", "date": "8/4/2022"}
+{"address": "0x6358BF62229571721CdFB350F31Dd0EfA20769fa", "name": "AaveV3View", "compiler": "0.8.10", "balance": "-", "txcount": 0, "settings": "", "date": "8/4/2022"}
