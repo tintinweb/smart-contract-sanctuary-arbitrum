@@ -5828,3 +5828,12 @@
 {"address": "0x9b0EfA67e8112d8EA2eB3C86C798B2bb88467335", "name": "PoolExercise", "compiler": "0.8.12", "balance": "-", "txcount": 0, "settings": "", "date": "8/4/2022"}
 {"address": "0x7453378873A8AA7d3822668d3753fed20c23e585", "name": "PoolBase", "compiler": "0.8.12", "balance": "-", "txcount": 0, "settings": "", "date": "8/4/2022"}
 {"address": "0xD8A0D357171beBC63CeA559c4e9CD182c1bf25ef", "name": "ExchangeHelper", "compiler": "0.8.12", "balance": "-", "txcount": 0, "settings": "", "date": "8/3/2022"}
+{"address": "0xe75886DE20dF66827e321EfdB88726e6Baa4b0A7", "name": "L2ERC20TokenGateway", "compiler": "0.8.10", "balance": "-", "txcount": 0, "settings": "", "date": "8/4/2022"}
+{"address": "0x0fBcbaEA96Ce0cF7Ee00A8c19c3ab6f5Dc8E1921", "name": "ERC20Bridged", "compiler": "0.8.10", "balance": "-", "txcount": 0, "settings": "", "date": "8/4/2022"}
+{"address": "0xa9140F0c13Eef5f5f813ddefA9448A8a2C5c6d8c", "name": "AaveV3View", "compiler": "0.8.10", "balance": "-", "txcount": 0, "settings": "", "date": "8/4/2022"}
+{"address": "0x75ff3dd673Ef9fC459A52E1054db5dF2A1101212", "name": "L2ERC20TokenGateway", "compiler": "0.8.10", "balance": "-", "txcount": 0, "settings": "", "date": "8/4/2022"}
+{"address": "0xE5576eB1dD4aA524D67Cf9a32C8742540252b6F4", "name": "OssifiableProxy", "compiler": "0.8.10", "balance": "-", "txcount": 0, "settings": "", "date": "8/4/2022"}
+{"address": "0xEfa0dB536d2c8089685630fafe88CF7805966FC3", "name": "ERC20Bridged", "compiler": "0.8.10", "balance": "-", "txcount": 0, "settings": "", "date": "8/4/2022"}
+{"address": "0xaf4a2633621b9b0bc49b2d29a0ceac2ca680d352", "name": "PHAT", "compiler": "0.8.7", "balance": "-", "txcount": 0, "settings": "", "date": "8/4/2022"}
+{"address": "0x85272bf6DdCCBDea45Cf0535ea5C65bf91B480c4", "name": "UiPoolDataProviderV3", "compiler": "0.8.10", "balance": "-", "txcount": 0, "settings": "", "date": "8/4/2022"}
+{"address": "0x35DDe5599318112829d97A29f4E8f4C49aAfc47C", "name": "UiIncentiveDataProviderV3", "compiler": "0.8.10", "balance": "-", "txcount": 0, "settings": "", "date": "8/4/2022"}
