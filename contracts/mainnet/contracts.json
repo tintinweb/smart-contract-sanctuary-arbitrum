@@ -5843,3 +5843,25 @@
 {"address": "0x753C750807373e52dbEd6622ccF3779132d0FEAc", "name": "GOHMArb", "compiler": "0.6.11", "balance": "-", "txcount": 0, "settings": "", "date": "8/4/2022"}
 {"address": "0x7D30d048F8693aF30A10aa5D6d281A7A7E6E1245", "name": "EthArb", "compiler": "0.6.11", "balance": "0 ETH", "txcount": 0, "settings": "", "date": "8/4/2022"}
 {"address": "0x6358BF62229571721CdFB350F31Dd0EfA20769fa", "name": "AaveV3View", "compiler": "0.8.10", "balance": "-", "txcount": 0, "settings": "", "date": "8/4/2022"}
+{"address": "0xB6326555E45cd51670C0c09A058FaB3fAa263895", "name": "MultiChainAdapter", "compiler": "0.8.12", "balance": "0 ETH", "txcount": 0, "settings": "", "date": "8/4/2022"}
+{"address": "0x4d6da93Ccd646C54cA34FD56F9917B17614e62b5", "name": "MultiChainSenderOrReceiver", "compiler": "0.8.12", "balance": "0 ETH", "txcount": 0, "settings": "", "date": "8/4/2022"}
+{"address": "0x62e33FE7Dab5c1B9547f4d6dCa35e9c7CFE24A92", "name": "MultiChainSenderOrReceiver", "compiler": "0.8.12", "balance": "0 ETH", "txcount": 0, "settings": "", "date": "8/4/2022"}
+{"address": "0xD49E292C5D82eaD45aB5b4Ee27fF00F09bb93165", "name": "MultiChainAdapter", "compiler": "0.8.12", "balance": "0 ETH", "txcount": 0, "settings": "", "date": "8/4/2022"}
+{"address": "0x45dA3c2a08566Fb8FF950132fd8A97faF835BBA6", "name": "MultiChainSenderOrReceiver", "compiler": "0.8.12", "balance": "-", "txcount": 0, "settings": "", "date": "8/4/2022"}
+{"address": "0x599550cA1CB5BC28265cc7A5fC9513f2E645cC8B", "name": "SimpleFactory", "compiler": "0.8.12", "balance": "-", "txcount": 0, "settings": "", "date": "8/4/2022"}
+{"address": "0xCB0c3b8817F23DF3eCE685cB47A13f60De8652b9", "name": "MultiChainNFT", "compiler": "0.8.12", "balance": "-", "txcount": 0, "settings": "", "date": "8/4/2022"}
+{"address": "0xe5ebb53c01d7764ea0da400381b4877a686fb9de", "name": "Voting", "compiler": "0.8.10", "balance": "-", "txcount": 0, "settings": "", "date": "8/4/2022"}
+{"address": "0x4765887e4195fd4b6d824ea37af91c1fe4f7547b", "name": "JoyNFTMinter", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 0, "settings": "", "date": "8/4/2022"}
+{"address": "0xEE3584DcB0E2159d8c176375A02087fDbF256D76", "name": "TokenTransfer", "compiler": "0.8.15", "balance": "-", "txcount": 0, "settings": "", "date": "8/4/2022"}
+{"address": "0xaa41EFcB39488273800D6676d3BC7Bf0fde0B680", "name": "VestingWithAcceleration", "compiler": "0.8.15", "balance": "-", "txcount": 0, "settings": "", "date": "8/4/2022"}
+{"address": "0x1990Ca71650f5452f64be8007931DA71796d4A75", "name": "UnrestrictedGrant", "compiler": "0.8.15", "balance": "-", "txcount": 0, "settings": "", "date": "8/4/2022"}
+{"address": "0x11512fa562b9d6855a445B7bCFebD4f52EcCF332", "name": "Tags", "compiler": "0.8.15", "balance": "-", "txcount": 0, "settings": "", "date": "8/4/2022"}
+{"address": "0xe6282Fb1747d2796D0c1385De420b178144E17d9", "name": "Signatures", "compiler": "0.8.15", "balance": "-", "txcount": 0, "settings": "", "date": "8/4/2022"}
+{"address": "0x809166f58b9332f5dD63C9c175549fe3533a2CAE", "name": "RestrictedGrant", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 0, "settings": "", "date": "8/4/2022"}
+{"address": "0x4e9AE17672Afa196bCef1db1B36cEbB696E55485", "name": "PostMoneyFutureToken", "compiler": "0.8.15", "balance": "-", "txcount": 0, "settings": "", "date": "8/4/2022"}
+{"address": "0xE56c78EA015fF6dB06D56fAd751A044FBdc4e6B4", "name": "DelayedCancellation", "compiler": "0.8.15", "balance": "-", "txcount": 0, "settings": "", "date": "8/4/2022"}
+{"address": "0x399BE8783267ac4ed605323EFD92780D6b8EeF9D", "name": "StructuredCapitalRaise", "compiler": "0.8.15", "balance": "-", "txcount": 0, "settings": "", "date": "8/4/2022"}
+{"address": "0x8D81BFbBb4081490D5943c334f5A5cE4889A5BB2", "name": "PreferredShareTokenFactory", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 0, "settings": "", "date": "8/4/2022"}
+{"address": "0xf2cf7bee414b1b8654aef86b17aa57898ea374c8", "name": "PortalNFTMinter", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "8/4/2022"}
+{"address": "0x7E9324Fc3ACBD39d7a5C4e887B2476EBaaCCF675", "name": "StockPlanFactory", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 0, "settings": "", "date": "8/4/2022"}
+{"address": "0x11532B5EA91f465f70eE97BBaB385519e67233BF", "name": "ExercisableGrant", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 0, "settings": "", "date": "8/4/2022"}
