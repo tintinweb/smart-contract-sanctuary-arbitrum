@@ -5886,3 +5886,9 @@
 {"address": "0x864944816Be66A9e0789bD87c2656C5161a84e85", "name": "MultiChainAdapter", "compiler": "0.8.12", "balance": "0 ETH", "txcount": 0, "settings": "", "date": "8/4/2022"}
 {"address": "0x8f26fE44fEbAA77C3398342590e432E27A823f18", "name": "MultiChainSenderOrReceiver", "compiler": "0.8.12", "balance": "0 ETH", "txcount": 0, "settings": "", "date": "8/4/2022"}
 {"address": "0xFA9d7198ca7482c306dF78c8c9AD70C698631188", "name": "MultiChainNFT", "compiler": "0.8.12", "balance": "0 ETH", "txcount": 0, "settings": "", "date": "8/4/2022"}
+{"address": "0xB642058A41D414D9De3F36D14051623e557f1052", "name": "L2WethGateway", "compiler": "0.6.11", "balance": "-", "txcount": 0, "settings": "", "date": "8/5/2022"}
+{"address": "0xebb11Bbd7d72165FaC86bb5AB1B07A602540b286", "name": "L2CustomGateway", "compiler": "0.6.11", "balance": "-", "txcount": 0, "settings": "", "date": "8/5/2022"}
+{"address": "0x1DCf7D03574fbC7C205F41f2e116eE094a652e93", "name": "L2ERC20Gateway", "compiler": "0.6.11", "balance": "-", "txcount": 0, "settings": "", "date": "8/5/2022"}
+{"address": "0xe80eb0238029333e368e0bDDB7acDf1b9cb28278", "name": "L2GatewayRouter", "compiler": "0.6.11", "balance": "-", "txcount": 0, "settings": "", "date": "8/5/2022"}
+{"address": "0x4f268bfB109439D7c23A903c237cdBEbd7E987a1", "name": "Upgrader", "compiler": "0.8.13", "balance": "-", "txcount": 0, "settings": "", "date": "8/5/2022"}
+{"address": "0x33e3D5F29bDC2275103D13aCAB74afa619B13fFC", "name": "BrokerImplementation", "compiler": "0.8.10", "balance": "-", "txcount": 0, "settings": "", "date": "8/5/2022"}
