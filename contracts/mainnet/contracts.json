@@ -5905,3 +5905,4 @@
 {"address": "0x32C5Fc4dc4FE45A89aA55EAcbE6eE056e8274500", "name": "MultiChainSenderOrReceiver", "compiler": "0.8.12", "balance": "0 ETH", "txcount": 0, "settings": "", "date": "8/5/2022"}
 {"address": "0x573D0412D21e9308439d7EB53b180CE11F56D3b1", "name": "MultiChainAdapter", "compiler": "0.8.12", "balance": "0 ETH", "txcount": 0, "settings": "", "date": "8/5/2022"}
 {"address": "0xE95CEE79B87A2B436EEBD52080Bf43c27a5E4131", "name": "MultiChainSenderOrReceiver", "compiler": "0.8.12", "balance": "0 ETH", "txcount": 0, "settings": "", "date": "8/5/2022"}
+{"address": "0xe3c78d1d79cf1b326f376eB54F208CD2711685A2", "name": "TicksFeesReader", "compiler": "0.8.9", "balance": "-", "txcount": 0, "settings": "", "date": "8/6/2022"}
