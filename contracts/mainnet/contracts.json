@@ -5908,3 +5908,4 @@
 {"address": "0xe3c78d1d79cf1b326f376eB54F208CD2711685A2", "name": "TicksFeesReader", "compiler": "0.8.9", "balance": "-", "txcount": 0, "settings": "", "date": "8/6/2022"}
 {"address": "0x2152e6Eb113E7Cae97BbcBBDd72B165c03f6c71F", "name": "SmulipsFertilizersM1M2", "compiler": "0.8.15", "balance": "-", "txcount": 0, "settings": "", "date": "8/6/2022"}
 {"address": "0x1bfdFb9feaee081473d03cBa74bCe588E8154704", "name": "Exploit", "compiler": "0.8.14", "balance": "-", "txcount": 0, "settings": "-", "date": "8/6/2022"}
+{"address": "0x671b29e20d834dc27e2af3a717f2204d89af9cd7", "name": "MuonPresale", "compiler": "0.8.0", "balance": "-", "txcount": 0, "settings": "", "date": "8/6/2022"}
