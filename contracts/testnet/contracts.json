@@ -6126,3 +6126,15 @@
 {"address": "0x44df30Df648F678E00fcAE831792B40A3cd34896", "name": "Staking", "compiler": "0.8.4", "balance": "-", "txcount": 0, "settings": "", "date": "8/5/2022"}
 {"address": "0x91700A0a45bef3Ef488eC11792aE3b3199e0dC4e", "name": "USDC", "compiler": "0.7.5", "balance": "-", "txcount": 0, "settings": "", "date": "8/5/2022"}
 {"address": "0x48a35383FC1693639F5f7Bdc0bF0135f0BD9119e", "name": "NFCRegistry", "compiler": "0.6.12", "balance": "-", "txcount": 0, "settings": "", "date": "8/5/2022"}
+{"address": "0xE3A717D9C08f17b59D242E36d7322f62F85A83aA", "name": "FastPriceFeed", "compiler": "0.6.12", "balance": "-", "txcount": 0, "settings": "", "date": "8/6/2022"}
+{"address": "0x260E3Aa495033B07439775a1232f989e79f9abD2", "name": "FastPriceEvents", "compiler": "0.6.12", "balance": "-", "txcount": 0, "settings": "", "date": "8/6/2022"}
+{"address": "0x4B944Eba658A87d7dFbE2dc4833d3Aec7A11D518", "name": "FaucetToken", "compiler": "0.6.12", "balance": "-", "txcount": 0, "settings": "", "date": "8/6/2022"}
+{"address": "0x215c621104627d43Df06CF5Aa2bccdF9A2134544", "name": "PositionManager", "compiler": "0.6.12", "balance": "-", "txcount": 0, "settings": "", "date": "8/6/2022"}
+{"address": "0xB4bB78cd12B097603e2b55D2556c09C17a5815F8", "name": "PositionRouter", "compiler": "0.6.12", "balance": "-", "txcount": 0, "settings": "", "date": "8/6/2022"}
+{"address": "0xf40B316bd0FC2f8A50d9898de972c38d2C0FB588", "name": "Timelock", "compiler": "0.6.12", "balance": "-", "txcount": 0, "settings": "", "date": "8/6/2022"}
+{"address": "0x8226EC2c1926c9162b6F815153d10018A7ccdf07", "name": "TokenManager", "compiler": "0.6.12", "balance": "-", "txcount": 0, "settings": "", "date": "8/6/2022"}
+{"address": "0xC492c8d82DC576Ad870707bb40EDb63E2026111E", "name": "OrderBookReader", "compiler": "0.6.12", "balance": "-", "txcount": 0, "settings": "", "date": "8/6/2022"}
+{"address": "0xebD147E5136879520dDaDf1cA8FBa48050EFf016", "name": "OrderBook", "compiler": "0.6.12", "balance": "-", "txcount": 0, "settings": "", "date": "8/6/2022"}
+{"address": "0xFc371E380262536c819D12B9569106bf032cC41c", "name": "VaultReader", "compiler": "0.6.12", "balance": "-", "txcount": 0, "settings": "", "date": "8/6/2022"}
+{"address": "0xEF7e3edC2ac4c07A890663E57dA77D8909A7b849", "name": "ERC721CustodialStakingEmissionStream", "compiler": "0.8.9", "balance": "-", "txcount": 0, "settings": "", "date": "8/6/2022"}
+{"address": "0x2E093c70E3A7E4919611d2555dFd8D697d2fC0a1", "name": "Reader", "compiler": "0.6.12", "balance": "-", "txcount": 0, "settings": "", "date": "8/6/2022"}
