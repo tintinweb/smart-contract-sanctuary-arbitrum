@@ -5926,3 +5926,5 @@
 {"address": "0xE2e57da9fD9C31D999B6fcE8186c38f5b67bbc84", "name": "Exploit", "compiler": "0.8.7", "balance": "-", "txcount": 0, "settings": "-", "date": "8/7/2022"}
 {"address": "0x599B4dC9f0d267Ed76b9E2da9E4B3194A410C016", "name": "Layer2BridgeDelegateV2", "compiler": "0.6.12", "balance": "-", "txcount": 0, "settings": "", "date": "8/8/2022"}
 {"address": "0x20A3733909FcDA6C6B465916f5d9e2f6786075F5", "name": "OSEABridge", "compiler": "0.8.7", "balance": "-", "txcount": 0, "settings": "", "date": "8/7/2022"}
+{"address": "0x48d32ee631ebce01f2cd8f99b94911d5a059e9da", "name": "AaveV3View", "compiler": "0.8.10", "balance": "-", "txcount": 0, "settings": "", "date": "8/8/2022"}
+{"address": "0x20A3b0E3f7C41a1ccb70F856b8544C3683B3963F", "name": "StargateAdapter", "compiler": "0.8.15", "balance": "-", "txcount": 0, "settings": "", "date": "8/8/2022"}
