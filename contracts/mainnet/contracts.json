@@ -5924,3 +5924,5 @@
 {"address": "0x9ca17393cd608c09CfB546152d5603bC5114112a", "name": "BattleflyAtlasStakerV02", "compiler": "0.8.4", "balance": "-", "txcount": 0, "settings": "", "date": "8/6/2022"}
 {"address": "0xD1FD14799628B89f3012D8bed1D02FCaF76a1779", "name": "Exploit", "compiler": "0.8.7", "balance": "-", "txcount": 0, "settings": "-", "date": "8/7/2022"}
 {"address": "0xE2e57da9fD9C31D999B6fcE8186c38f5b67bbc84", "name": "Exploit", "compiler": "0.8.7", "balance": "-", "txcount": 0, "settings": "-", "date": "8/7/2022"}
+{"address": "0x599B4dC9f0d267Ed76b9E2da9E4B3194A410C016", "name": "Layer2BridgeDelegateV2", "compiler": "0.6.12", "balance": "-", "txcount": 0, "settings": "", "date": "8/8/2022"}
+{"address": "0x20A3733909FcDA6C6B465916f5d9e2f6786075F5", "name": "OSEABridge", "compiler": "0.8.7", "balance": "-", "txcount": 0, "settings": "", "date": "8/7/2022"}
