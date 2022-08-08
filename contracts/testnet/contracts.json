@@ -6138,3 +6138,8 @@
 {"address": "0xFc371E380262536c819D12B9569106bf032cC41c", "name": "VaultReader", "compiler": "0.6.12", "balance": "-", "txcount": 0, "settings": "", "date": "8/6/2022"}
 {"address": "0xEF7e3edC2ac4c07A890663E57dA77D8909A7b849", "name": "ERC721CustodialStakingEmissionStream", "compiler": "0.8.9", "balance": "-", "txcount": 0, "settings": "", "date": "8/6/2022"}
 {"address": "0x2E093c70E3A7E4919611d2555dFd8D697d2fC0a1", "name": "Reader", "compiler": "0.6.12", "balance": "-", "txcount": 0, "settings": "", "date": "8/6/2022"}
+{"address": "0x5F8B592bb1C66ce2cF740A90147ce27667162F50", "name": "Staking", "compiler": "0.8.4", "balance": "-", "txcount": 0, "settings": "", "date": "8/8/2022"}
+{"address": "0xE0E41444d6BB895eca3D259a1D6Bb6F5c2268F8a", "name": "Staking", "compiler": "0.8.4", "balance": "-", "txcount": 0, "settings": "", "date": "8/7/2022"}
+{"address": "0x25C7E3a8D6c4Ac82C18C1B983D98E2Cb7e920805", "name": "SaleFactory", "compiler": "0.8.4", "balance": "-", "txcount": 0, "settings": "", "date": "8/7/2022"}
+{"address": "0xD2943ff0DEE7c34Cb3A18eFF733F1EFC736E8b9e", "name": "Staking", "compiler": "0.8.4", "balance": "-", "txcount": 0, "settings": "", "date": "8/7/2022"}
+{"address": "0xae5b43cc4a6d0a85ffc09a11b2610b166e78dfef", "name": "AMEX", "compiler": "0.8.7", "balance": "-", "txcount": 0, "settings": "-", "date": "8/7/2022"}
