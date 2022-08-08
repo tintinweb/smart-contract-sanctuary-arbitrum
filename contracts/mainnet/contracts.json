@@ -5928,3 +5928,8 @@
 {"address": "0x20A3733909FcDA6C6B465916f5d9e2f6786075F5", "name": "OSEABridge", "compiler": "0.8.7", "balance": "-", "txcount": 0, "settings": "", "date": "8/7/2022"}
 {"address": "0x48d32ee631ebce01f2cd8f99b94911d5a059e9da", "name": "AaveV3View", "compiler": "0.8.10", "balance": "-", "txcount": 0, "settings": "", "date": "8/8/2022"}
 {"address": "0x20A3b0E3f7C41a1ccb70F856b8544C3683B3963F", "name": "StargateAdapter", "compiler": "0.8.15", "balance": "-", "txcount": 0, "settings": "", "date": "8/8/2022"}
+{"address": "0xCB65F3FB88887f85B0C152dBdECdabb8e1aAC82F", "name": "Holder", "compiler": "0.8.4", "balance": "-", "txcount": 0, "settings": "", "date": "8/8/2022"}
+{"address": "0xa90C156D2632d18F4EB20f96991609DAC5689288", "name": "Holder", "compiler": "0.8.4", "balance": "-", "txcount": 0, "settings": "", "date": "8/8/2022"}
+{"address": "0x2EE9D3e8e48735Ac1eFD6061E2Fc17165822378D", "name": "PortalFactory", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 0, "settings": "", "date": "8/8/2022"}
+{"address": "0xF7D66db0E9D63d044FF3515b96a48caEF86475cB", "name": "Portal", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 0, "settings": "", "date": "8/8/2022"}
+{"address": "0x2Fa1255383364F6e17Be6A6aC7A56C9aCD6850a3", "name": "OracleBTCEURChainlinkArbitrum", "compiler": "0.8.12", "balance": "-", "txcount": 0, "settings": "", "date": "8/8/2022"}
