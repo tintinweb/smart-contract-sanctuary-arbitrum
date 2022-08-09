@@ -6143,3 +6143,14 @@
 {"address": "0x25C7E3a8D6c4Ac82C18C1B983D98E2Cb7e920805", "name": "SaleFactory", "compiler": "0.8.4", "balance": "-", "txcount": 0, "settings": "", "date": "8/7/2022"}
 {"address": "0xD2943ff0DEE7c34Cb3A18eFF733F1EFC736E8b9e", "name": "Staking", "compiler": "0.8.4", "balance": "-", "txcount": 0, "settings": "", "date": "8/7/2022"}
 {"address": "0xae5b43cc4a6d0a85ffc09a11b2610b166e78dfef", "name": "AMEX", "compiler": "0.8.7", "balance": "-", "txcount": 0, "settings": "-", "date": "8/7/2022"}
+{"address": "0xEb4fa58031Cd8bF5001d4E31CF36bdaA068E6206", "name": "BrightIdUserRegistry", "compiler": "0.6.12", "balance": "-", "txcount": 0, "settings": "", "date": "8/8/2022"}
+{"address": "0x87817f710699Be76a5Fd8385f456ACb32445e6d4", "name": "Staking", "compiler": "0.8.4", "balance": "-", "txcount": 0, "settings": "", "date": "8/8/2022"}
+{"address": "0x5F2f5Cc9bF88252226E899771aE346Fe8f9E78Aa", "name": "PrimeConvergence", "compiler": "0.8.4", "balance": "-", "txcount": 0, "settings": "", "date": "8/8/2022"}
+{"address": "0xa98fb37b5C962ECe07305d858F9E77fB2dc64D40", "name": "BossCardERC1155", "compiler": "0.8.11", "balance": "-", "txcount": 0, "settings": "-", "date": "8/8/2022"}
+{"address": "0x5a3B00bF9D02D93B68E80B2C4272a8Cc7d882F3D", "name": "IngredientsERC11155", "compiler": "0.8.11", "balance": "-", "txcount": 0, "settings": "-", "date": "8/8/2022"}
+{"address": "0x18CB7c03805aA856ebFCBd1429b49f130558C6c4", "name": "SmolRings", "compiler": "0.8.11", "balance": "-", "txcount": 0, "settings": "", "date": "8/8/2022"}
+{"address": "0xD8961126147E082Ce711C91d9eaB71ADD3795dDF", "name": "SmolRingUtils", "compiler": "0.8.11", "balance": "-", "txcount": 0, "settings": "", "date": "8/8/2022"}
+{"address": "0x8964eeD6D85149ffE34c84F07f2f1d4b78E3B697", "name": "SmoloveActionsVault", "compiler": "0.8.11", "balance": "-", "txcount": 0, "settings": "", "date": "8/8/2022"}
+{"address": "0x0b45E343efCdb7cf78Fe58514F6a7e50a8a56C27", "name": "PowerPlinsGen0ERC721", "compiler": "0.8.11", "balance": "-", "txcount": 0, "settings": "", "date": "8/8/2022"}
+{"address": "0xA947cD2B77EF37183976DE3092bBe04AFAbc3327", "name": "Staking", "compiler": "0.8.4", "balance": "-", "txcount": 0, "settings": "", "date": "8/8/2022"}
+{"address": "0x5862e7f269b6ae972f78f64263f93eed6134e022", "name": "Fiat24Account", "compiler": "0.8.7", "balance": "-", "txcount": 0, "settings": "", "date": "8/8/2022"}
