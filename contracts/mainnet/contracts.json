@@ -5944,3 +5944,5 @@
 {"address": "0x838eA4314Fa7ab13a452f8D4fC7C7DC2D74Eb2Db", "name": "AssetSwapper", "compiler": "0.8.9", "balance": "-", "txcount": 0, "settings": "", "date": "8/8/2022"}
 {"address": "0x23c74Cb91085c4cB2B76Cea709AE50309f79DBBD", "name": "VolatilitySurfaceOracle", "compiler": "0.8.12", "balance": "-", "txcount": 0, "settings": "", "date": "8/8/2022"}
 {"address": "0x77BfEcce13B0E166146cc88D701FFAdb969c7D78", "name": "Multicall", "compiler": "0.8.4", "balance": "-", "txcount": 0, "settings": "", "date": "8/8/2022"}
+{"address": "0x0419CAa8b4984ceA4256D4F5da421A4156D9FC2A", "name": "L2Gateway", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "8/9/2022"}
+{"address": "0xDA3C460A55A71e7b47273C636107E1313d70e622", "name": "SgBridge", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "8/9/2022"}
