@@ -5936,3 +5936,11 @@
 {"address": "0x86382D3F09A073f6BdB06F730B84342a2a9c59E6", "name": "Treasury", "compiler": "0.8.9", "balance": "-", "txcount": 0, "settings": "", "date": "8/8/2022"}
 {"address": "0xbB069623EE651A20d57f06587b39Ed68D859A7df", "name": "BattleflyAtlasStakerV02", "compiler": "0.8.4", "balance": "-", "txcount": 0, "settings": "", "date": "8/8/2022"}
 {"address": "0x761b31B01f7c805d6404E3649d946ACe160F6985", "name": "PrimeConvergence", "compiler": "0.8.4", "balance": "-", "txcount": 0, "settings": "", "date": "8/8/2022"}
+{"address": "0xFA124Eb6bFbD61A71B3B63962634d6c587D10242", "name": "DestructFactory", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 0, "settings": "", "date": "8/8/2022"}
+{"address": "0x06cDF0619c9311ca890Fb10a0Aa9EF66eA336a90", "name": "SelfDestructPayment", "compiler": "0.8.7", "balance": "-", "txcount": 0, "settings": "", "date": "8/8/2022"}
+{"address": "0xe0FB2A10c5fF1032AA8F41d3E2A195eBc451b43C", "name": "WritePositionMinter", "compiler": "0.8.9", "balance": "-", "txcount": 0, "settings": "", "date": "8/8/2022"}
+{"address": "0x0f4a22977DF09f2A52BEC2D4f5722251d73664B5", "name": "StraddlePositionMinter", "compiler": "0.8.9", "balance": "-", "txcount": 0, "settings": "", "date": "8/8/2022"}
+{"address": "0x7745370DFcC3780DD7675995b529d4e24960c015", "name": "AtlanticStraddleVolatilityOracle", "compiler": "0.8.9", "balance": "-", "txcount": 0, "settings": "", "date": "8/8/2022"}
+{"address": "0x838eA4314Fa7ab13a452f8D4fC7C7DC2D74Eb2Db", "name": "AssetSwapper", "compiler": "0.8.9", "balance": "-", "txcount": 0, "settings": "", "date": "8/8/2022"}
+{"address": "0x23c74Cb91085c4cB2B76Cea709AE50309f79DBBD", "name": "VolatilitySurfaceOracle", "compiler": "0.8.12", "balance": "-", "txcount": 0, "settings": "", "date": "8/8/2022"}
+{"address": "0x77BfEcce13B0E166146cc88D701FFAdb969c7D78", "name": "Multicall", "compiler": "0.8.4", "balance": "-", "txcount": 0, "settings": "", "date": "8/8/2022"}
