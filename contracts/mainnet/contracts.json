@@ -5946,3 +5946,12 @@
 {"address": "0x77BfEcce13B0E166146cc88D701FFAdb969c7D78", "name": "Multicall", "compiler": "0.8.4", "balance": "-", "txcount": 0, "settings": "", "date": "8/8/2022"}
 {"address": "0x0419CAa8b4984ceA4256D4F5da421A4156D9FC2A", "name": "L2Gateway", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "8/9/2022"}
 {"address": "0xDA3C460A55A71e7b47273C636107E1313d70e622", "name": "SgBridge", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "8/9/2022"}
+{"address": "0xdd94018f54e565dbfc939f7c44a16e163faab331", "name": "OdosRouter", "compiler": "0.8.8", "balance": "0 ETH", "txcount": 2, "settings": "-", "date": "8/9/2022"}
+{"address": "0xDA4f3edd49153b20e510d4b130D0c5896b4a8074", "name": "AwalBitExchange", "compiler": "0.8.15", "balance": "0.000001 ETH", "txcount": 4, "settings": "-", "date": "8/9/2022"}
+{"address": "0x2c96e4dBA8cfac63c935AB3d74b222e74e49b50c", "name": "VestingVesta", "compiler": "0.8.11", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "8/9/2022"}
+{"address": "0x2759cDFA25FA6039368004Bc121D9693e68D9c60", "name": "Rewards", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "8/9/2022"}
+{"address": "0xA9506f15F98B3910Aa6c2fd47340E05f55ce826c", "name": "Treasury", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "8/9/2022"}
+{"address": "0x8677AFE7c2794F8fCc7954c5786d902A62dC442f", "name": "Oracle", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "8/9/2022"}
+{"address": "0xBEbbE763991eC99FF985A6C8f8f7A609e8c449e4", "name": "Trading", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 4, "settings": "", "date": "8/9/2022"}
+{"address": "0xb68be10cCB97e269cb5E296e616795e02aE7155E", "name": "Router", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 8, "settings": "", "date": "8/9/2022"}
+{"address": "0x4f0311E675fa8d767976CC45e3152a339F0F74DD", "name": "PoolToken", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "8/9/2022"}
