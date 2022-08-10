@@ -5977,3 +5977,7 @@
 {"address": "0x9D97c646CA304C6a3a4336CDD9b63d1F6F77717D", "name": "Middleman", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "8/9/2022"}
 {"address": "0x912A44A529527B82c1aAa862040cA8F7625fb315", "name": "NftHandler", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "8/9/2022"}
 {"address": "0xaDe7862c8955AbAaddC95Fa39B9cf5c828e529C0", "name": "Harvester", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "8/9/2022"}
+{"address": "0x3A40C8D175b1a389BE6744e54FC61cdaBf11c13e", "name": "MiniSales", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "8/10/2022"}
+{"address": "0xf34DF0e81AA107F7c015965673735B31e82BE178", "name": "MockBaseToken", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "8/10/2022"}
+{"address": "0x6574206d3106A98F920549f5eea3dE2FDA9CBEb7", "name": "PPO", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "8/10/2022"}
+{"address": "0x91c9D4373B077eF8082F468C7c97f2c499e36F5b", "name": "MultiSigWalletWithDailyLimit", "compiler": "0.4.19", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "8/10/2022"}
