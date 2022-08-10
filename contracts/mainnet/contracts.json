@@ -5981,3 +5981,6 @@
 {"address": "0xf34DF0e81AA107F7c015965673735B31e82BE178", "name": "MockBaseToken", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "8/10/2022"}
 {"address": "0x6574206d3106A98F920549f5eea3dE2FDA9CBEb7", "name": "PPO", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "8/10/2022"}
 {"address": "0x91c9D4373B077eF8082F468C7c97f2c499e36F5b", "name": "MultiSigWalletWithDailyLimit", "compiler": "0.4.19", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "8/10/2022"}
+{"address": "0x2E00E2C74A70B8B7573231e7ED063FEf065855Ab", "name": "TestRecipient", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "8/10/2022"}
+{"address": "0x69b678c8e02a23cc8f3b33cef339424245841439", "name": "FoodToken", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "8/10/2022"}
+{"address": "0xce2088797e30a89f881d307115129ce260cc3dd6", "name": "Narnia", "compiler": "0.4.24", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "8/10/2022"}
