@@ -5986,3 +5986,14 @@
 {"address": "0xce2088797e30a89f881d307115129ce260cc3dd6", "name": "Narnia", "compiler": "0.4.24", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "8/10/2022"}
 {"address": "0x61706d8e55A41Ef1a652c2Aba2D072D27Bf21B41", "name": "ChainLinkOracle", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "8/10/2022"}
 {"address": "0xaa604683c10eF6BE9fbA2add769442224Ef3cB20", "name": "CErc20Immutable", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "8/10/2022"}
+{"address": "0x60c0a5d66CbC9FC795a95Bb2E0960c8adAc74f9f", "name": "EpochStakingRewardsV2", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "8/11/2022"}
+{"address": "0x559844b1Df66e247F83Ba58bc39fa488A1AF1093", "name": "RouterHpsmHlpCurveV2", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "8/11/2022"}
+{"address": "0xaAea6c50b98cA40a270923F78bd03733125ca64D", "name": "LPToken", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "8/10/2022"}
+{"address": "0x6646A35e74e35585B0B02e5190445A324E5D4D01", "name": "AMMRouterV1", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "8/10/2022"}
+{"address": "0x1124E3ADe714a570Cdc609c0e152CB189C305bbe", "name": "AMMRegistry", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "8/10/2022"}
+{"address": "0x5B1a479E5D96E28161049900e6F2Dc03485cEdFE", "name": "FutureYieldToken", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "8/10/2022"}
+{"address": "0x66E5d8022876a3cE95281F2E14092a35F2b87a11", "name": "PT", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "8/10/2022"}
+{"address": "0x04cFa5Fb60e953E5eD466060a89839680C8dc8FB", "name": "TokensFactory", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "8/10/2022"}
+{"address": "0x72307D5A47666121F0AD125942E77C6F66C3d6f9", "name": "Treasury", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "8/10/2022"}
+{"address": "0xD365641c875eE9a1daC5eb8668Cc1e0F3dF093dc", "name": "Controller", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "8/10/2022"}
+{"address": "0x00B85d5CE764ad650c745F90dD2C16ecBC1D99A1", "name": "Registry", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "8/10/2022"}
