@@ -5997,3 +5997,5 @@
 {"address": "0x72307D5A47666121F0AD125942E77C6F66C3d6f9", "name": "Treasury", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "8/10/2022"}
 {"address": "0xD365641c875eE9a1daC5eb8668Cc1e0F3dF093dc", "name": "Controller", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "8/10/2022"}
 {"address": "0x00B85d5CE764ad650c745F90dD2C16ecBC1D99A1", "name": "Registry", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "8/10/2022"}
+{"address": "0x180555D4d45e67520adC7c0c51b512c7A50877f2", "name": "MetaAggregationRouter", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 3, "settings": "", "date": "8/11/2022"}
+{"address": "0xA75453c61AdEA4db0a52AEDa47880f055bD3aF12", "name": "STokensManager", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "8/11/2022"}
