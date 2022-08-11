@@ -6000,3 +6000,8 @@
 {"address": "0x180555D4d45e67520adC7c0c51b512c7A50877f2", "name": "MetaAggregationRouter", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 3, "settings": "", "date": "8/11/2022"}
 {"address": "0xA75453c61AdEA4db0a52AEDa47880f055bD3aF12", "name": "STokensManager", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "8/11/2022"}
 {"address": "0x50e9a780bDE93cCFa592ce9e981D5DBAF9cFC107", "name": "DeresyRequests", "compiler": "0.8.14", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "8/11/2022"}
+{"address": "0x61b7CE00112116660C59fdDb5CBF79489fF3E191", "name": "CErc20Immutable", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 3, "settings": "", "date": "8/11/2022"}
+{"address": "0x312A8E33d78d3Ab79E62971E86e5e8c9c5E28D64", "name": "FuroVestingRouter", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "8/11/2022"}
+{"address": "0xf30CF8D373D78D7964A2F7793b730BF7ae0970a8", "name": "FuroStreamRouter", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "8/11/2022"}
+{"address": "0x41aDAeA91d1E56808832aF065357b3b177b2C4B7", "name": "UkeToken", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "8/11/2022"}
+{"address": "0x61F4B1A0A94b15C3F9E1BBc72BB9f504379A9B1a", "name": "ChainLinkOracle", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "8/11/2022"}
