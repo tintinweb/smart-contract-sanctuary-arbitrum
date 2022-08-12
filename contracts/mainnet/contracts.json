@@ -6005,3 +6005,6 @@
 {"address": "0xf30CF8D373D78D7964A2F7793b730BF7ae0970a8", "name": "FuroStreamRouter", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "8/11/2022"}
 {"address": "0x41aDAeA91d1E56808832aF065357b3b177b2C4B7", "name": "UkeToken", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "8/11/2022"}
 {"address": "0x61F4B1A0A94b15C3F9E1BBc72BB9f504379A9B1a", "name": "ChainLinkOracle", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "8/11/2022"}
+{"address": "0xEb920EC52e49E259Ab11b2bE940136E32C2b8bfF", "name": "CErc20Immutable", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "8/12/2022"}
+{"address": "0x8aA402BFA7ec284dEcfa8bf5e7F8B65f568d7B81", "name": "ChainLinkOracle", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "8/11/2022"}
+{"address": "0xa57aa25fa568465d04327da7ad48bced13ca1a36", "name": "GameResources", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "8/11/2022"}
