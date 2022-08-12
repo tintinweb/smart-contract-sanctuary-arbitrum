@@ -6012,3 +6012,6 @@
 {"address": "0x226314996CDfa694A196ef5E3D9a26b35bb40EcA", "name": "KyberRewardLockerV2", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "8/12/2022"}
 {"address": "0xcf72978cF3f17a6194A394888A1d7a4E6EfFa405", "name": "MigrationNFT", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "8/12/2022"}
 {"address": "0x4b13006980aCB09645131b91D259eaA111eaF5Ba", "name": "ArbitrumTokenMigration", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "8/12/2022"}
+{"address": "0x1288D0bEd4F0a1381A0f63cbC97C7353908623be", "name": "StakingPools", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "8/12/2022"}
+{"address": "0x369eB8197062093a20402935D3a707b4aE414E9D", "name": "PanaERC20Token", "compiler": "0.7.5", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "8/12/2022"}
+{"address": "0xcc654fbB3C1B12Be82D36Bc9C7E1CE075A422F80", "name": "PanaAuthority", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 6, "settings": "", "date": "8/12/2022"}
