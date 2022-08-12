@@ -6015,3 +6015,8 @@
 {"address": "0x1288D0bEd4F0a1381A0f63cbC97C7353908623be", "name": "StakingPools", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "8/12/2022"}
 {"address": "0x369eB8197062093a20402935D3a707b4aE414E9D", "name": "PanaERC20Token", "compiler": "0.7.5", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "8/12/2022"}
 {"address": "0xcc654fbB3C1B12Be82D36Bc9C7E1CE075A422F80", "name": "PanaAuthority", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 6, "settings": "", "date": "8/12/2022"}
+{"address": "0xcB07Aa2C75a885DBC48CB489BD0d5F03CCEDB52D", "name": "BattleflyAtlasStakerV02", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "8/12/2022"}
+{"address": "0xdd1091206EcA48dfc08315242AE4a0b4b0AAA740", "name": "CErc20Immutable", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 4, "settings": "", "date": "8/12/2022"}
+{"address": "0x72270948A600a2ff8fd535e0ABe027324E539A5C", "name": "CErc20Immutable", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 5, "settings": "", "date": "8/12/2022"}
+{"address": "0xA0DAbEBAAd1b243BBb243f933013d560819eB66f", "name": "ChildChainGaugeRewardHelper", "compiler": "0.7.1", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "8/12/2022"}
+{"address": "0x4c250eC4858B32aA0e11E199C55922E63F41aF12", "name": "CEther", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "8/12/2022"}
