@@ -6020,3 +6020,5 @@
 {"address": "0x72270948A600a2ff8fd535e0ABe027324E539A5C", "name": "CErc20Immutable", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 5, "settings": "", "date": "8/12/2022"}
 {"address": "0xA0DAbEBAAd1b243BBb243f933013d560819eB66f", "name": "ChildChainGaugeRewardHelper", "compiler": "0.7.1", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "8/12/2022"}
 {"address": "0x4c250eC4858B32aA0e11E199C55922E63F41aF12", "name": "CEther", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "8/12/2022"}
+{"address": "0xE5Fca75B11789641300C642f9081a9a81F4C0e34", "name": "DefaultReserveInterestRateStrategy", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "8/13/2022"}
+{"address": "0x0b77346d72Bd4D88e71A47fDdA470828E67f1870", "name": "DefaultReserveInterestRateStrategy", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "8/13/2022"}
