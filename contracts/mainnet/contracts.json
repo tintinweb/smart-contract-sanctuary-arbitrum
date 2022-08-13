@@ -6022,3 +6022,6 @@
 {"address": "0x4c250eC4858B32aA0e11E199C55922E63F41aF12", "name": "CEther", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "8/12/2022"}
 {"address": "0xE5Fca75B11789641300C642f9081a9a81F4C0e34", "name": "DefaultReserveInterestRateStrategy", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "8/13/2022"}
 {"address": "0x0b77346d72Bd4D88e71A47fDdA470828E67f1870", "name": "DefaultReserveInterestRateStrategy", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "8/13/2022"}
+{"address": "0x68331ed73256F375e90d1B47bE96D9e16135df89", "name": "AssetViewer", "compiler": "0.8.14", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "8/13/2022"}
+{"address": "0x953e483731af26AF80c1EbC9a3D08D89f62F83aC", "name": "BorrowModule", "compiler": "0.8.14", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "8/13/2022"}
+{"address": "0xF12f54C28AE4748efdC431e5cDc829c6969DeE6E", "name": "ParametersStorage", "compiler": "0.8.14", "balance": "0 ETH", "txcount": 4, "settings": "", "date": "8/13/2022"}
