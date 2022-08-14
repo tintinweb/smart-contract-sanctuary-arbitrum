@@ -6259,3 +6259,8 @@
 {"address": "0x35dcf6852d6e5e387d90db3b2c6a14fb24429ac7", "name": "Deployer", "compiler": "0.8.12", "balance": "-", "txcount": 0, "settings": "", "date": "8/12/2022"}
 {"address": "0xa08aa8a95c8a70fec60c5d16cb3edae3a2c8774c", "name": "VaultFactory", "compiler": "0.8.12", "balance": "-", "txcount": 0, "settings": "", "date": "8/12/2022"}
 {"address": "0x09ee570e69d92af116e31b77f013260c3a5dc5d0", "name": "Vault", "compiler": "0.8.12", "balance": "-", "txcount": 0, "settings": "", "date": "8/12/2022"}
+{"address": "0x0fb4cef393a6e1289e215116b26d852492388b59", "name": "SweepSwapFacet", "compiler": "0.8.14", "balance": "-", "txcount": 0, "settings": "-", "date": "8/14/2022"}
+{"address": "0x4b934c29b551dd0e37c0442d6679f41c16d5213e", "name": "SweepFacet", "compiler": "0.8.14", "balance": "-", "txcount": 0, "settings": "-", "date": "8/14/2022"}
+{"address": "0xc04e3c0ad8bd665bc587f152889fdb1f4de87cfa", "name": "BaseSweepFacet", "compiler": "0.8.14", "balance": "-", "txcount": 0, "settings": "-", "date": "8/14/2022"}
+{"address": "0x5d6Cb0de9381eF40d096C9a9351dd7c94e48Add8", "name": "MCMXII_test2", "compiler": "0.8.4", "balance": "-", "txcount": 0, "settings": "-", "date": "8/14/2022"}
+{"address": "0xe2b613eb44d323e7b028b67274eabdc50dd523e3", "name": "StrategyTestApy", "compiler": "0.8.15", "balance": "-", "txcount": 0, "settings": "", "date": "8/13/2022"}
