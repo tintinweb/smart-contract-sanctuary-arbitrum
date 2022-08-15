@@ -6056,3 +6056,4 @@
 {"address": "0x84e695aAa4818c5E31e547541Ba7D6F3902315Da", "name": "SmolOwnersResolverAdapter", "compiler": "0.8.11", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "8/14/2022"}
 {"address": "0x778E48a87B2EE5120288f4e51e59305aeB527Ca2", "name": "CreatureOwnerResolverRegistry", "compiler": "0.8.11", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "8/14/2022"}
 {"address": "0x7777A1E652bD4Cd12947B8CBCae86FEA9025cAd7", "name": "SmoloveActionsVault", "compiler": "0.8.11", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "8/14/2022"}
+{"address": "0x71015226eadfd4ac887fb56556f64338e352439b", "name": "ToggleSub", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "8/15/2022"}
