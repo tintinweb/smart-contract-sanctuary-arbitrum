@@ -6264,3 +6264,16 @@
 {"address": "0xc04e3c0ad8bd665bc587f152889fdb1f4de87cfa", "name": "BaseSweepFacet", "compiler": "0.8.14", "balance": "-", "txcount": 0, "settings": "-", "date": "8/14/2022"}
 {"address": "0x5d6Cb0de9381eF40d096C9a9351dd7c94e48Add8", "name": "MCMXII_test2", "compiler": "0.8.4", "balance": "-", "txcount": 0, "settings": "-", "date": "8/14/2022"}
 {"address": "0xe2b613eb44d323e7b028b67274eabdc50dd523e3", "name": "StrategyTestApy", "compiler": "0.8.15", "balance": "-", "txcount": 0, "settings": "", "date": "8/13/2022"}
+{"address": "0xf7D4BD58944Fd8cC9174F86df723e89A2F3e2Fd9", "name": "MagicRefineryMinterV2", "compiler": "0.8.4", "balance": "-", "txcount": 0, "settings": "", "date": "8/14/2022"}
+{"address": "0xd647879031589a24da5638500f1a547f5069125a", "name": "BonesStaking", "compiler": "0.8.13", "balance": "-", "txcount": 0, "settings": "-", "date": "8/14/2022"}
+{"address": "0x6D591cE2E7b71523Da9b46dE7e6cD2745e8eFaC3", "name": "PanckaeNftERC11155", "compiler": "0.8.11", "balance": "-", "txcount": 0, "settings": "-", "date": "8/14/2022"}
+{"address": "0x1Fa4ff867CeB4BF7b995134Bb2A6352213032E1a", "name": "Gen1ERC1155", "compiler": "0.8.11", "balance": "-", "txcount": 0, "settings": "-", "date": "8/14/2022"}
+{"address": "0xb04eb26D700Bb003CE9D96F73f5363D2BFE0E241", "name": "Packs", "compiler": "0.8.9", "balance": "-", "txcount": 0, "settings": "", "date": "8/14/2022"}
+{"address": "0x49dD3fbCEbE906d00F3459f292880B18e82227a3", "name": "ItemSets", "compiler": "0.8.9", "balance": "-", "txcount": 0, "settings": "", "date": "8/14/2022"}
+{"address": "0xAb610bBf02376e095933b33bc1E566d88140677E", "name": "CharacterHealthManager", "compiler": "0.8.9", "balance": "-", "txcount": 0, "settings": "", "date": "8/14/2022"}
+{"address": "0xDbF04d8497DCeD3E22A536C7b5d175683c4BE6AE", "name": "Quests", "compiler": "0.8.9", "balance": "-", "txcount": 0, "settings": "", "date": "8/14/2022"}
+{"address": "0x66a2bFA1cDaDaA9b9A77d3CcB60Fa654d2199009", "name": "Items", "compiler": "0.8.9", "balance": "-", "txcount": 0, "settings": "", "date": "8/14/2022"}
+{"address": "0x5F781AeB614429aa2024A0D8e531c7D17b912091", "name": "MintMercenaries", "compiler": "0.8.9", "balance": "-", "txcount": 0, "settings": "", "date": "8/14/2022"}
+{"address": "0x85814da28b8b8755727bd930edEc99f0E39030dc", "name": "Mercenaries", "compiler": "0.8.9", "balance": "-", "txcount": 0, "settings": "", "date": "8/14/2022"}
+{"address": "0x04D7B80cE1bA893a5E9232655b3a8d5816326576", "name": "ReadONSoulBoundNFT", "compiler": "0.8.7", "balance": "-", "txcount": 0, "settings": "", "date": "8/14/2022"}
+{"address": "0x06c9Ee606adBe0427033fA35B78278bAB80aB5e4", "name": "AirdropSoulBound", "compiler": "0.8.7", "balance": "-", "txcount": 0, "settings": "", "date": "8/14/2022"}
