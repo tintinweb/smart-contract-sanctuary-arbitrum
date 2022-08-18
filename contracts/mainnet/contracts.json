@@ -6124,3 +6124,5 @@
 {"address": "0x65a8165f99e5bd1b4d98fe8cb6a1f9587fac1ab5", "name": "StrategySushiswap", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "8/16/2022"}
 {"address": "0x90da882144d063773a4586a83b277ce7a0ce68e0", "name": "VaultSushiLP", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "8/16/2022"}
 {"address": "0x7beb05cf5681f402e762f8569c2fc138a2172978", "name": "AnyswapV6ERC20", "compiler": "0.8.14", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "8/18/2022"}
+{"address": "0xe1e878364efc19712a2833c5c60b68d215f9a4ab", "name": "FYToken", "compiler": "0.8.14", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "8/18/2022"}
+{"address": "0x0fa29eeb169cde6c779326d7b16c54529eca1dd5", "name": "Pool", "compiler": "0.8.14", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "8/18/2022"}
