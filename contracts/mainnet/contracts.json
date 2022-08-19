@@ -6132,3 +6132,9 @@
 {"address": "0xd844B26dfAfB0776E70aF12C19189b740329A266", "name": "Autopay", "compiler": "0.8.3", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "8/18/2022"}
 {"address": "0x73B6715D9289bdfE5e758bB7ace782Cc7C933cfC", "name": "TellorFlex", "compiler": "0.8.3", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "8/18/2022"}
 {"address": "0x50075f151abc5b6b448b1272a0a1cfb5cfa25828", "name": "Multicall2", "compiler": "0.8.2", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "8/18/2022"}
+{"address": "0x7cfCbbD2AFDA3c656C909AA6bA9E372A1d2bA9A4", "name": "ArtOfShell", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "8/19/2022"}
+{"address": "0x2036e188b5fb51a86e6dcf6744c0215a862567c8", "name": "BorrowPositionProxy", "compiler": "0.5.16", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "8/19/2022"}
+{"address": "0x2f8273a626ced4b0023d998f2c7fa5c4b5bd18e7", "name": "MagicRefineryMinterV2", "compiler": "0.8.16", "balance": "0 ETH", "txcount": 7, "settings": "", "date": "8/18/2022"}
+{"address": "0xd906d69b24c521c1af18f716a940d150384717a5", "name": "RubberDuckZ", "compiler": "0.8.16", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "8/18/2022"}
+{"address": "0x69a17b4afe23edc670ef7237ae6f322cc7e43bfd", "name": "AccountList", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "8/18/2022"}
+{"address": "0xe6d6ec29907e08adfff3e4cf3b5de7350e84e96e", "name": "AllowlistPurchaseHook", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 4, "settings": "", "date": "8/18/2022"}
