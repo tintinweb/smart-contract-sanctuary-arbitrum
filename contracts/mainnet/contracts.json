@@ -6161,3 +6161,5 @@
 {"address": "0x875B5f3908E37367533b7D6c92535F9AB579B072", "name": "VaultUtils", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "8/19/2022"}
 {"address": "0xB000f7dF69d74a1F3b3cdb8ddEB3317a0823af2b", "name": "RewardDistributor", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 4, "settings": "", "date": "8/19/2022"}
 {"address": "0x57ff9294B05065b88CB3EC148beeDFB50EdA3127", "name": "FastPriceFeed", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 8431, "settings": "", "date": "8/19/2022"}
+{"address": "0x9A7fb57AEdCB8FEbd867483825d96d1c2e11b68d", "name": "UnstoppableFrog", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "8/19/2022"}
+{"address": "0x30eF476634374CDB07264C3D58c6B8c18e5FBf05", "name": "AtlasMineStakerUpgradeable", "compiler": "0.8.11", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "8/19/2022"}
