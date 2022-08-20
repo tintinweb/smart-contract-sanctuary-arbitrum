@@ -6163,3 +6163,10 @@
 {"address": "0x57ff9294B05065b88CB3EC148beeDFB50EdA3127", "name": "FastPriceFeed", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 8431, "settings": "", "date": "8/19/2022"}
 {"address": "0x9A7fb57AEdCB8FEbd867483825d96d1c2e11b68d", "name": "UnstoppableFrog", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "8/19/2022"}
 {"address": "0x30eF476634374CDB07264C3D58c6B8c18e5FBf05", "name": "AtlasMineStakerUpgradeable", "compiler": "0.8.11", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "8/19/2022"}
+{"address": "0x60b85c3ea78a33a07c88e5b492a41ebafe36ad7b", "name": "BadgerBridgeZeroControllerArb", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "8/20/2022"}
+{"address": "0x1EAb8B6B2f73239B01B20CAB5C2c9B7E80ac7743", "name": "AtlasMineStakerUpgradeable", "compiler": "0.8.11", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "8/20/2022"}
+{"address": "0x1D2e921f3516F4A3Fe387c5Ee10b8BA1bbD9913C", "name": "CErc20Delegator", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "8/20/2022"}
+{"address": "0xD0CE3A601173e28ba8FA429751D2DD852ae93DeD", "name": "CErc20Delegate", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "8/20/2022"}
+{"address": "0x1797dBaA28843876dEA6e76F86637EA8c61c3a0C", "name": "VestaFarming", "compiler": "0.8.11", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "8/19/2022"}
+{"address": "0xf54Ecc27f0976BE365d4F3aC78D095A27Fa1BFEc", "name": "VestaFarming", "compiler": "0.8.11", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "8/19/2022"}
+{"address": "0xA00d3be75E9CBb773b938CdAAbADd3C09828d7C0", "name": "VestaFarming", "compiler": "0.8.11", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "8/19/2022"}
