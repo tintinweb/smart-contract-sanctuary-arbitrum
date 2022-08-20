@@ -6473,3 +6473,12 @@
 {"address": "0xd1A3E18007EB7D699e8AFE2c3EC7E2ded5946865", "name": "MagicRefineryMinterV2", "compiler": "0.8.4", "balance": "-", "txcount": 0, "settings": "", "date": "8/18/2022"}
 {"address": "0x004256CFBA6B0d984cab089d24Dd4CaF77F32316", "name": "UtilityFactoryCollab", "compiler": "0.8.9", "balance": "-", "txcount": 0, "settings": "", "date": "8/18/2022"}
 {"address": "0xDfaFAeAfC53660E25AdD386035d180F37D4E234C", "name": "arbi", "compiler": "0.8.14", "balance": "-", "txcount": 0, "settings": "", "date": "8/18/2022"}
+{"address": "0x9cde24be5f83e2a6bf574b85bf7414ca5bf18900", "name": "NZCarbon", "compiler": "0.8.10", "balance": "-", "txcount": 0, "settings": "-", "date": "8/20/2022"}
+{"address": "0x491f10fc3f4ca24795997f7060ef40dc32a19f0c", "name": "NZDollars", "compiler": "0.8.10", "balance": "-", "txcount": 0, "settings": "-", "date": "8/20/2022"}
+{"address": "0x4e894c2B60214beC53B60D09F39544518296C07B", "name": "HomeGateway", "compiler": "0.8.9", "balance": "-", "txcount": 0, "settings": "", "date": "8/20/2022"}
+{"address": "0xf8A4a85e7153374A1b9BDA763a84252eC286843b", "name": "FastBridgeSender", "compiler": "0.8.9", "balance": "-", "txcount": 0, "settings": "", "date": "8/20/2022"}
+{"address": "0x67e8191F61466c57A17542A52F9f39f336A242fD", "name": "DisputeResolver", "compiler": "0.8.9", "balance": "-", "txcount": 0, "settings": "", "date": "8/20/2022"}
+{"address": "0xA2c538AA05BBCc44c213441f6f3777223D2BF9e5", "name": "DisputeKitClassic", "compiler": "0.8.9", "balance": "-", "txcount": 0, "settings": "", "date": "8/20/2022"}
+{"address": "0x79cBbfFB2883B2A251dEa39335D7E69A1b8319Ce", "name": "ONFTGateway", "compiler": "0.8.7", "balance": "-", "txcount": 0, "settings": "", "date": "8/19/2022"}
+{"address": "0xbFF6dF673F4ab039dC232FAab871f2F193C86dF3", "name": "ONFTGateway", "compiler": "0.8.7", "balance": "-", "txcount": 0, "settings": "", "date": "8/19/2022"}
+{"address": "0xc06e332e84AB56C5F32aD9e544bdfD3029696F90", "name": "Fiat24Buildings", "compiler": "0.8.7", "balance": "-", "txcount": 0, "settings": "", "date": "8/19/2022"}
