@@ -6170,3 +6170,11 @@
 {"address": "0x1797dBaA28843876dEA6e76F86637EA8c61c3a0C", "name": "VestaFarming", "compiler": "0.8.11", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "8/19/2022"}
 {"address": "0xf54Ecc27f0976BE365d4F3aC78D095A27Fa1BFEc", "name": "VestaFarming", "compiler": "0.8.11", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "8/19/2022"}
 {"address": "0xA00d3be75E9CBb773b938CdAAbADd3C09828d7C0", "name": "VestaFarming", "compiler": "0.8.11", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "8/19/2022"}
+{"address": "0x2DE28AB4827112Cd3F89E5353Ca5A8D80dB7018f", "name": "MlpManager", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 4, "settings": "", "date": "8/20/2022"}
+{"address": "0x971eC4Ad4695e95faEb830b22D89f394540E5e91", "name": "MycTimelock", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "8/20/2022"}
+{"address": "0x8DA386B8e9E3C27411ec5972C5D91399ad0b9D02", "name": "TokenManager", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "8/20/2022"}
+{"address": "0x7CEC785fba5ee648B48FBffc378d74C8671BB3cb", "name": "MintableBaseToken", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 22, "settings": "", "date": "8/20/2022"}
+{"address": "0xDffe2f49234001380119d89E9C965BEd4bf123f0", "name": "VaultPriceFeed", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 31, "settings": "", "date": "8/20/2022"}
+{"address": "0x3892b8cF646b17709C91E653319bA5504a5FEafe", "name": "PositionManager", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 67, "settings": "", "date": "8/20/2022"}
+{"address": "0x7aB8083F6eAAC244A5248D5a23F348f60e3CD57e", "name": "RewardManager", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 3, "settings": "", "date": "8/20/2022"}
+{"address": "0x752b746426b6D0c3188bb530660374f92FD9cf7c", "name": "MLP", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 4, "settings": "", "date": "8/20/2022"}
