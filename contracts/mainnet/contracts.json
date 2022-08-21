@@ -6180,3 +6180,4 @@
 {"address": "0x752b746426b6D0c3188bb530660374f92FD9cf7c", "name": "MLP", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 4, "settings": "", "date": "8/20/2022"}
 {"address": "0xdF88cb4604eDe354263B2Cd32CD8a76550372d87", "name": "Bayc_arb", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 116, "settings": "", "date": "8/20/2022"}
 {"address": "0x695DE871393b5aD58B9c729A360D09d5C78F719d", "name": "rakkudos_arb", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 113, "settings": "", "date": "8/20/2022"}
+{"address": "0x3934cA8b69D05533769B0D96d1A11C44c1D2fA3B", "name": "FastPriceEvents", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "8/20/2022"}
