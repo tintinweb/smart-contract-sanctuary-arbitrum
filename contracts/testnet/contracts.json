@@ -6482,3 +6482,14 @@
 {"address": "0x79cBbfFB2883B2A251dEa39335D7E69A1b8319Ce", "name": "ONFTGateway", "compiler": "0.8.7", "balance": "-", "txcount": 0, "settings": "", "date": "8/19/2022"}
 {"address": "0xbFF6dF673F4ab039dC232FAab871f2F193C86dF3", "name": "ONFTGateway", "compiler": "0.8.7", "balance": "-", "txcount": 0, "settings": "", "date": "8/19/2022"}
 {"address": "0xc06e332e84AB56C5F32aD9e544bdfD3029696F90", "name": "Fiat24Buildings", "compiler": "0.8.7", "balance": "-", "txcount": 0, "settings": "", "date": "8/19/2022"}
+{"address": "0xE0b84bC4e4b1Cdd2CA951641E59fFA57d8BFB6DB", "name": "VaultLibrary", "compiler": "0.8.16", "balance": "-", "txcount": 0, "settings": "", "date": "8/20/2022"}
+{"address": "0x55c64113E49c7Fbc4Ee99a7bE32F42630CB1e468", "name": "PerpdexMarket", "compiler": "0.8.16", "balance": "-", "txcount": 0, "settings": "", "date": "8/20/2022"}
+{"address": "0xa615f6507391A96dF3718aa780644f08cd075DC7", "name": "DebugPerpdexExchange", "compiler": "0.8.16", "balance": "-", "txcount": 0, "settings": "", "date": "8/20/2022"}
+{"address": "0x193e5b043477e11ce8e6390d6042bbFb224f1cC9", "name": "PancakeNftERC11155", "compiler": "0.8.11", "balance": "-", "txcount": 0, "settings": "-", "date": "8/20/2022"}
+{"address": "0x4620e09AfC05aA34d416bF84222147fC8e1DC7a4", "name": "Gen1ERC1155", "compiler": "0.8.11", "balance": "-", "txcount": 0, "settings": "-", "date": "8/20/2022"}
+{"address": "0x381cf95656A0da83465DCda2ef005b9541451436", "name": "PancakeNftERC11155", "compiler": "0.8.11", "balance": "-", "txcount": 0, "settings": "-", "date": "8/20/2022"}
+{"address": "0xe7054AE6fe33B116aBcdeD2a50e52c4Dc8a026Ff", "name": "PerpdexMarket", "compiler": "0.8.16", "balance": "-", "txcount": 0, "settings": "", "date": "8/20/2022"}
+{"address": "0xC9BF5892F8047bDf34a7F3A285B0D1F32d4a621f", "name": "DebugPerpdexExchange", "compiler": "0.8.16", "balance": "-", "txcount": 0, "settings": "", "date": "8/20/2022"}
+{"address": "0x126268755195b45136efDE418b0513632bda3eE6", "name": "MakerLibrary", "compiler": "0.8.16", "balance": "-", "txcount": 0, "settings": "", "date": "8/20/2022"}
+{"address": "0x6FA1DD7b8A37f278f1FB83Ad47b7E9322f65Ac67", "name": "AccountLibrary", "compiler": "0.8.16", "balance": "-", "txcount": 0, "settings": "", "date": "8/20/2022"}
+{"address": "0x828Df852655B17e3EB1075E4A07Ae76D4ABFFcf9", "name": "IngredientsERC11155", "compiler": "0.8.11", "balance": "-", "txcount": 0, "settings": "-", "date": "8/20/2022"}
