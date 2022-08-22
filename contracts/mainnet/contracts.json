@@ -6192,3 +6192,10 @@
 {"address": "0xD0fa115ED846916fE3f158f21dF598AcC2A1BCCA", "name": "HashBet", "compiler": "0.6.12", "balance": "12.&zwj;27 ETH", "txcount": 13, "settings": "-", "date": "8/22/2022"}
 {"address": "0x3bEd86c7c7769E4b2E063305b4142EEF1587Aac5", "name": "O3ArbitrumUniswapV3Aggregator", "compiler": "0.8.8", "balance": "0 ETH", "txcount": 9, "settings": "", "date": "8/22/2022"}
 {"address": "0x0878fD5d01968A3B64543f6581ed9c28CCc0c72D", "name": "OkOffChainExchangeAdapter", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "8/22/2022"}
+{"address": "0x13fc4319a30c76faaa42373b78ce6018082b5377", "name": "XChainStrategy", "compiler": "0.8.12", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "8/22/2022"}
+{"address": "0x4c88c6da30b54d5d3b6b33e0837f5719402c45cb", "name": "XChainHubSingle", "compiler": "0.8.12", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "8/22/2022"}
+{"address": "0x5f8b7d0991d1da32ef0df7aeaafcda1d9bae12b7", "name": "TransparentUpgradeableProxy", "compiler": "0.8.12", "balance": "0 ETH", "txcount": 0, "settings": "", "date": "8/22/2022"}
+{"address": "0xc488803586138bca293fcd8fbba0df9068679bfc", "name": "Vault", "compiler": "0.8.12", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "8/22/2022"}
+{"address": "0xef48a4e629daaa67c7b2f04111e4b8f80ea2a63f", "name": "MultiRolesAuthority", "compiler": "0.8.12", "balance": "0 ETH", "txcount": 23, "settings": "", "date": "8/22/2022"}
+{"address": "0x7461a28866eb4e2ee9806b311f6eca3ef5bffa7a", "name": "Deployer", "compiler": "0.8.12", "balance": "0 ETH", "txcount": 6, "settings": "", "date": "8/22/2022"}
+{"address": "0xe2118068cd8f0cb3edd61de0c1f464bb4916e043", "name": "VaultFactory", "compiler": "0.8.12", "balance": "0 ETH", "txcount": 3, "settings": "", "date": "8/22/2022"}
