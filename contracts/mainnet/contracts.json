@@ -6185,3 +6185,10 @@
 {"address": "0xA26E01Bf45bf31C52DAF1a6C6B3192BC611F64A6", "name": "CErc20Delegator", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 3, "settings": "", "date": "8/22/2022"}
 {"address": "0x39D3C99F3B8b86C44aAe49EAdaBab3b00f106FED", "name": "CEther", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "8/22/2022"}
 {"address": "0x1813554dc1F68cF54f71449db298DAf9Ab75F4F3", "name": "Unitroller", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 11, "settings": "", "date": "8/22/2022"}
+{"address": "0x0bE0905daFa89Dac8F26e9F96e04cfe3c5fA3E51", "name": "AtlanticStraddle", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 206, "settings": "", "date": "8/22/2022"}
+{"address": "0x7eBB8399768047AF810C3FD965Ce21fB2aE4F15F", "name": "Vyper_contract", "compiler": "vyper:0.3.1", "balance": "0 ETH", "txcount": 4, "settings": "", "date": "8/22/2022"}
+{"address": "0x70493f933e3701e7a7cc0ac0b4218ec5867afb9b", "name": "Vyper_contract", "compiler": "vyper:0.3.4", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "8/22/2022"}
+{"address": "0xac4ef9d6fc426f8ffd188771d9c688890b634462", "name": "Wrappr", "compiler": "0.8.16", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "8/22/2022"}
+{"address": "0xD0fa115ED846916fE3f158f21dF598AcC2A1BCCA", "name": "HashBet", "compiler": "0.6.12", "balance": "12.&zwj;27 ETH", "txcount": 13, "settings": "-", "date": "8/22/2022"}
+{"address": "0x3bEd86c7c7769E4b2E063305b4142EEF1587Aac5", "name": "O3ArbitrumUniswapV3Aggregator", "compiler": "0.8.8", "balance": "0 ETH", "txcount": 9, "settings": "", "date": "8/22/2022"}
+{"address": "0x0878fD5d01968A3B64543f6581ed9c28CCc0c72D", "name": "OkOffChainExchangeAdapter", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "8/22/2022"}
