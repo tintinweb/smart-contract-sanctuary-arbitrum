@@ -6493,3 +6493,10 @@
 {"address": "0x126268755195b45136efDE418b0513632bda3eE6", "name": "MakerLibrary", "compiler": "0.8.16", "balance": "-", "txcount": 0, "settings": "", "date": "8/20/2022"}
 {"address": "0x6FA1DD7b8A37f278f1FB83Ad47b7E9322f65Ac67", "name": "AccountLibrary", "compiler": "0.8.16", "balance": "-", "txcount": 0, "settings": "", "date": "8/20/2022"}
 {"address": "0x828Df852655B17e3EB1075E4A07Ae76D4ABFFcf9", "name": "IngredientsERC11155", "compiler": "0.8.11", "balance": "-", "txcount": 0, "settings": "-", "date": "8/20/2022"}
+{"address": "0x165bCe61c7d06B91E019B639de9AcfDaeAdeFA3C", "name": "MockAggregator", "compiler": "0.5.17", "balance": "-", "txcount": 0, "settings": "", "date": "8/22/2022"}
+{"address": "0x884ADfBFf8BFF8866622e0f34f97F16b9F941aBf", "name": "MockAggregator", "compiler": "0.5.17", "balance": "-", "txcount": 0, "settings": "", "date": "8/22/2022"}
+{"address": "0xbaad5d802be9f56406b45fe3636c596f5b97d418", "name": "MockDAI", "compiler": "0.8.7", "balance": "-", "txcount": 0, "settings": "", "date": "8/21/2022"}
+{"address": "0x45C985aDFD18f4E9a6A572434c4DD46A65353d8a", "name": "Treasury", "compiler": "0.8.7", "balance": "-", "txcount": 0, "settings": "", "date": "8/21/2022"}
+{"address": "0xd6ee20bee516920c606c60b8f9c823cd5902634f", "name": "Mugen", "compiler": "0.8.7", "balance": "-", "txcount": 0, "settings": "", "date": "8/21/2022"}
+{"address": "0xCb6E25d839E6c887d36328FD5eFF49f4EAAeF763", "name": "AaveVault", "compiler": "0.8.10", "balance": "-", "txcount": 0, "settings": "", "date": "8/21/2022"}
+{"address": "0x2C56aB6cbE87D02BF1207590C86fD338f6B38A39", "name": "MockFRAX", "compiler": "0.8.15", "balance": "-", "txcount": 0, "settings": "", "date": "8/21/2022"}
