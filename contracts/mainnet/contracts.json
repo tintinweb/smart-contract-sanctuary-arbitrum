@@ -6228,3 +6228,5 @@
 {"address": "0xe6d60D6A7d39d9435403e0993890D6B50B4B03BC", "name": "FeeDistributorReader", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "8/23/2022"}
 {"address": "0xc136c6a977af230B4F288dCE7f9432b0e91e4657", "name": "FeeDistributor", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "8/23/2022"}
 {"address": "0x30e72231189397265affef40808c76cf17d5b75c", "name": "MintableERC721New", "compiler": "0.5.16", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "8/23/2022"}
+{"address": "0x35d152cd86C455D08bB10cB1F36fe97b2C4127E3", "name": "L2DaiTeleportGateway", "compiler": "0.6.11", "balance": "0 ETH", "txcount": 4, "settings": "", "date": "8/23/2022"}
+{"address": "0x3335A88bb18fD3b6824b59Af62b50CE494143333", "name": "RubicProxy", "compiler": "0.8.16", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "8/23/2022"}
