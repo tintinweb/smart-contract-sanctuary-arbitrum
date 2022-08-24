@@ -1,0 +1,844 @@
+// SPDX-License-Identifier: GPLv2
+pragma solidity ^0.8.0;
+
+import "@openzeppelin/contracts/security/Pausable.sol";
+import "@openzeppelin/contracts/token/ERC721/IERC721.sol";
+
+import "./interfaces/IArbSys.sol";
+import "./interfaces/IMushrohmBridge.sol";
+import "./interfaces/IPixelMushrohmBridge.sol";
+import "./interfaces/IPixelMushrohmERC721.sol";
+import "./libraries/AddressAliasHelper.sol";
+import "./types/PixelMushrohmAccessControlled.sol";
+
+contract PixelMushrohmBridge is IPixelMushrohmBridge, Pausable, PixelMushrohmAccessControlled {
+    /* ========== CONSTANTS ========== */
+
+    IArbSys constant arbsys = IArbSys(address(100));
+
+    /* ========== STATE VARIABLES ========== */
+
+    address public l1Target;
+    IPixelMushrohmERC721 public pixelMushrohm;
+
+    /* ======== CONSTRUCTOR ======== */
+
+    constructor(address _authority) Pausable() PixelMushrohmAccessControlled(IPixelMushrohmAuthority(_authority)) {
+        _pause();
+    }
+
+    /* ======== ADMIN FUNCTIONS ======== */
+
+    function togglePause() external override onlyOwner {
+        if (!paused()) {
+            _pause();
+        } else {
+            _unpause();
+        }
+    }
+
+    function setPixelMushrohm(address _pixelMushrohm) external override onlyOwner {
+        pixelMushrohm = IPixelMushrohmERC721(_pixelMushrohm);
+    }
+
+    function setL1Target(address _l1Target) external override onlyOwner {
+        l1Target = _l1Target;
+    }
+
+    // Incase of a problem. Allows admin to transfer stuck NFT back to user
+    function transferStuckNFT(uint256 _tokenId) external override onlyPolicy {
+        IERC721(address(pixelMushrohm)).safeTransferFrom(address(this), msg.sender, _tokenId);
+    }
+
+    /* ======== MUTABLE FUNCTIONS ======== */
+
+    /*
+    @desc:
+        Function will initate a transcation to transfer the NFT from the L1 Contract to the user.
+
+    @security :
+        @impact: Critical : Should only be executed, after retrieving a PixelMushrohm from the user, that is in the range of 0-1500.
+ 
+    @args : 
+        token_id : uint256 : ID of the token, to be transfered from the L1 Contract to the user.
+        
+    @emits:
+        L2ToL1TxCreated(withdrawalId);
+    */
+    function transferPixelMushrohmtoL1(uint256 _tokenId) external override whenNotPaused returns (uint256) {
+        require(_tokenId <= 1500);
+
+        IERC721(address(pixelMushrohm)).safeTransferFrom(msg.sender, address(this), _tokenId);
+        bytes memory data = abi.encodeWithSelector(IMushrohmBridge.acceptTransferFromL2.selector, _tokenId, msg.sender);
+        uint256 withdrawalId = arbsys.sendTxToL1(l1Target, data);
+
+        emit L2ToL1TxCreated(withdrawalId);
+        return withdrawalId;
+    }
+
+    /*
+    @desc:
+        This function is the function that is targeted by the retryable ticket that is executed on L1 by the ETH Bridge Contract. 
+        Will send the target_user the NFT, stored in the contract.
+
+    @security :
+        Should only be able to be called by the L1 Target Address, if not then the NFTs stored in the contract can be stolen.
+
+    @args : 
+        _tokenId : uint256 : the token id of the NFT that the L1 contract is trying to send.
+        target_user : address : the address the L1 contract has been told to, send the NFT to.
+
+    @emits:
+        NFTSentToUser(tokenId, targetUser, msgSender);
+    */
+    function acceptTransferFromL1(uint256 _tokenId, address _targetUser) external override whenNotPaused {
+        // Need to make sure this actually stops, hash collisions on the L2 Contract PIN: Security
+        require(
+            msg.sender == AddressAliasHelper.applyL1ToL2Alias(l1Target),
+            "Only ETH side of the bridge can transfer NFTs"
+        );
+        require(_tokenId <= 1500);
+
+        if (pixelMushrohm.exists(_tokenId)) {
+            IERC721(address(pixelMushrohm)).safeTransferFrom(address(this), _targetUser, _tokenId);
+        } else {
+            pixelMushrohm.mintReserved(_targetUser, _tokenId);
+        }
+
+        emit NFTSentToUser(_tokenId, _targetUser, msg.sender);
+    }
+
+    /* ======== HELPER FUNCTIONS ======== */
+
+    function onERC721Received(
+        address,
+        address,
+        uint256,
+        bytes calldata
+    ) public pure override returns (bytes4) {
+        return bytes4(keccak256("onERC721Received(address,address,uint256,bytes)"));
+    }
+}
+
+// SPDX-License-Identifier: MIT
+// OpenZeppelin Contracts v4.4.1 (security/Pausable.sol)
+
+pragma solidity ^0.8.0;
+
+import "../utils/Context.sol";
+
+/**
+ * @dev Contract module which allows children to implement an emergency stop
+ * mechanism that can be triggered by an authorized account.
+ *
+ * This module is used through inheritance. It will make available the
+ * modifiers `whenNotPaused` and `whenPaused`, which can be applied to
+ * the functions of your contract. Note that they will not be pausable by
+ * simply including this module, only once the modifiers are put in place.
+ */
+abstract contract Pausable is Context {
+    /**
+     * @dev Emitted when the pause is triggered by `account`.
+     */
+    event Paused(address account);
+
+    /**
+     * @dev Emitted when the pause is lifted by `account`.
+     */
+    event Unpaused(address account);
+
+    bool private _paused;
+
+    /**
+     * @dev Initializes the contract in unpaused state.
+     */
+    constructor() {
+        _paused = false;
+    }
+
+    /**
+     * @dev Returns true if the contract is paused, and false otherwise.
+     */
+    function paused() public view virtual returns (bool) {
+        return _paused;
+    }
+
+    /**
+     * @dev Modifier to make a function callable only when the contract is not paused.
+     *
+     * Requirements:
+     *
+     * - The contract must not be paused.
+     */
+    modifier whenNotPaused() {
+        require(!paused(), "Pausable: paused");
+        _;
+    }
+
+    /**
+     * @dev Modifier to make a function callable only when the contract is paused.
+     *
+     * Requirements:
+     *
+     * - The contract must be paused.
+     */
+    modifier whenPaused() {
+        require(paused(), "Pausable: not paused");
+        _;
+    }
+
+    /**
+     * @dev Triggers stopped state.
+     *
+     * Requirements:
+     *
+     * - The contract must not be paused.
+     */
+    function _pause() internal virtual whenNotPaused {
+        _paused = true;
+        emit Paused(_msgSender());
+    }
+
+    /**
+     * @dev Returns to normal state.
+     *
+     * Requirements:
+     *
+     * - The contract must be paused.
+     */
+    function _unpause() internal virtual whenPaused {
+        _paused = false;
+        emit Unpaused(_msgSender());
+    }
+}
+
+// SPDX-License-Identifier: MIT
+// OpenZeppelin Contracts v4.4.1 (token/ERC721/IERC721.sol)
+
+pragma solidity ^0.8.0;
+
+import "../../utils/introspection/IERC165.sol";
+
+/**
+ * @dev Required interface of an ERC721 compliant contract.
+ */
+interface IERC721 is IERC165 {
+    /**
+     * @dev Emitted when `tokenId` token is transferred from `from` to `to`.
+     */
+    event Transfer(address indexed from, address indexed to, uint256 indexed tokenId);
+
+    /**
+     * @dev Emitted when `owner` enables `approved` to manage the `tokenId` token.
+     */
+    event Approval(address indexed owner, address indexed approved, uint256 indexed tokenId);
+
+    /**
+     * @dev Emitted when `owner` enables or disables (`approved`) `operator` to manage all of its assets.
+     */
+    event ApprovalForAll(address indexed owner, address indexed operator, bool approved);
+
+    /**
+     * @dev Returns the number of tokens in ``owner``'s account.
+     */
+    function balanceOf(address owner) external view returns (uint256 balance);
+
+    /**
+     * @dev Returns the owner of the `tokenId` token.
+     *
+     * Requirements:
+     *
+     * - `tokenId` must exist.
+     */
+    function ownerOf(uint256 tokenId) external view returns (address owner);
+
+    /**
+     * @dev Safely transfers `tokenId` token from `from` to `to`, checking first that contract recipients
+     * are aware of the ERC721 protocol to prevent tokens from being forever locked.
+     *
+     * Requirements:
+     *
+     * - `from` cannot be the zero address.
+     * - `to` cannot be the zero address.
+     * - `tokenId` token must exist and be owned by `from`.
+     * - If the caller is not `from`, it must be have been allowed to move this token by either {approve} or {setApprovalForAll}.
+     * - If `to` refers to a smart contract, it must implement {IERC721Receiver-onERC721Received}, which is called upon a safe transfer.
+     *
+     * Emits a {Transfer} event.
+     */
+    function safeTransferFrom(
+        address from,
+        address to,
+        uint256 tokenId
+    ) external;
+
+    /**
+     * @dev Transfers `tokenId` token from `from` to `to`.
+     *
+     * WARNING: Usage of this method is discouraged, use {safeTransferFrom} whenever possible.
+     *
+     * Requirements:
+     *
+     * - `from` cannot be the zero address.
+     * - `to` cannot be the zero address.
+     * - `tokenId` token must be owned by `from`.
+     * - If the caller is not `from`, it must be approved to move this token by either {approve} or {setApprovalForAll}.
+     *
+     * Emits a {Transfer} event.
+     */
+    function transferFrom(
+        address from,
+        address to,
+        uint256 tokenId
+    ) external;
+
+    /**
+     * @dev Gives permission to `to` to transfer `tokenId` token to another account.
+     * The approval is cleared when the token is transferred.
+     *
+     * Only a single account can be approved at a time, so approving the zero address clears previous approvals.
+     *
+     * Requirements:
+     *
+     * - The caller must own the token or be an approved operator.
+     * - `tokenId` must exist.
+     *
+     * Emits an {Approval} event.
+     */
+    function approve(address to, uint256 tokenId) external;
+
+    /**
+     * @dev Returns the account approved for `tokenId` token.
+     *
+     * Requirements:
+     *
+     * - `tokenId` must exist.
+     */
+    function getApproved(uint256 tokenId) external view returns (address operator);
+
+    /**
+     * @dev Approve or remove `operator` as an operator for the caller.
+     * Operators can call {transferFrom} or {safeTransferFrom} for any token owned by the caller.
+     *
+     * Requirements:
+     *
+     * - The `operator` cannot be the caller.
+     *
+     * Emits an {ApprovalForAll} event.
+     */
+    function setApprovalForAll(address operator, bool _approved) external;
+
+    /**
+     * @dev Returns if the `operator` is allowed to manage all of the assets of `owner`.
+     *
+     * See {setApprovalForAll}
+     */
+    function isApprovedForAll(address owner, address operator) external view returns (bool);
+
+    /**
+     * @dev Safely transfers `tokenId` token from `from` to `to`.
+     *
+     * Requirements:
+     *
+     * - `from` cannot be the zero address.
+     * - `to` cannot be the zero address.
+     * - `tokenId` token must exist and be owned by `from`.
+     * - If the caller is not `from`, it must be approved to move this token by either {approve} or {setApprovalForAll}.
+     * - If `to` refers to a smart contract, it must implement {IERC721Receiver-onERC721Received}, which is called upon a safe transfer.
+     *
+     * Emits a {Transfer} event.
+     */
+    function safeTransferFrom(
+        address from,
+        address to,
+        uint256 tokenId,
+        bytes calldata data
+    ) external;
+}
+
+// SPDX-License-Identifier: GPLv2
+pragma solidity ^0.8.0;
+
+/**
+ * @title Precompiled contract that exists in every Arbitrum chain at address(100), 0x0000000000000000000000000000000000000064. Exposes a variety of system-level functionality.
+ */
+interface IArbSys {
+    /**
+     * @notice Get internal version number identifying an ArbOS build
+     * @return version number as int
+     */
+    function arbOSVersion() external pure returns (uint256);
+
+    function arbChainID() external view returns (uint256);
+
+    /**
+     * @notice Get Arbitrum block number (distinct from L1 block number; Arbitrum genesis block has block number 0)
+     * @return block number as int
+     */
+    function arbBlockNumber() external view returns (uint256);
+
+    /**
+     * @notice Send given amount of Eth to dest from sender.
+     * This is a convenience function, which is equivalent to calling sendTxToL1 with empty calldataForL1.
+     * @param destination recipient address on L1
+     * @return unique identifier for this L2-to-L1 transaction.
+     */
+    function withdrawEth(address destination) external payable returns (uint256);
+
+    /**
+     * @notice Send a transaction to L1
+     * @param destination recipient address on L1
+     * @param calldataForL1 (optional) calldata for L1 contract call
+     * @return a unique identifier for this L2-to-L1 transaction.
+     */
+    function sendTxToL1(address destination, bytes calldata calldataForL1) external payable returns (uint256);
+
+    /**
+     * @notice get the number of transactions issued by the given external account or the account sequence number of the given contract
+     * @param account target account
+     * @return the number of transactions issued by the given external account or the account sequence number of the given contract
+     */
+    function getTransactionCount(address account) external view returns (uint256);
+
+    /**
+     * @notice get the value of target L2 storage slot
+     * This function is only callable from address 0 to prevent contracts from being able to call it
+     * @param account target account
+     * @param index target index of storage slot
+     * @return stotage value for the given account at the given index
+     */
+    function getStorageAt(address account, uint256 index) external view returns (uint256);
+
+    /**
+     * @notice check if current call is coming from l1
+     * @return true if the caller of this was called directly from L1
+     */
+    function isTopLevelCall() external view returns (bool);
+
+    /**
+     * @notice check if the caller (of this caller of this) is an aliased L1 contract address
+     * @return true iff the caller's address is an alias for an L1 contract address
+     */
+    function wasMyCallersAddressAliased() external view returns (bool);
+
+    /**
+     * @notice return the address of the caller (of this caller of this), without applying L1 contract address aliasing
+     * @return address of the caller's caller, without applying L1 contract address aliasing
+     */
+    function myCallersAddressWithoutAliasing() external view returns (address);
+
+    /**
+     * @notice map L1 sender contract address to its L2 alias
+     * @param sender sender address
+     * @param dest destination address
+     * @return aliased sender address
+     */
+    function mapL1SenderContractAddressToL2Alias(address sender, address dest) external pure returns (address);
+
+    /**
+     * @notice get the caller's amount of available storage gas
+     * @return amount of storage gas available to the caller
+     */
+    function getStorageGasAvailable() external view returns (uint256);
+
+    event L2ToL1Transaction(
+        address caller,
+        address indexed destination,
+        uint256 indexed uniqueId,
+        uint256 indexed batchNumber,
+        uint256 indexInBatch,
+        uint256 arbBlockNum,
+        uint256 ethBlockNum,
+        uint256 timestamp,
+        uint256 callvalue,
+        bytes data
+    );
+}
+
+// SPDX-License-Identifier: GPLv2
+pragma solidity ^0.8.0;
+
+import "@openzeppelin/contracts/token/ERC721/IERC721Receiver.sol";
+
+import "./IBaseBridge.sol";
+
+interface IMushrohmBridge is IERC721Receiver, IBaseBridge {
+    /* ========== EVENTS ========== */
+
+    event RetryableTicketCreated(uint256 indexed ticketId);
+
+    /* ======== ADMIN FUNCTIONS ======== */
+
+    function setInbox(address _inbox) external;
+
+    function setL2Target(address _l2Target) external;
+
+    function setMushrohmAddress(address _mushrohmAddr) external;
+
+    /* ======== MUTABLE FUNCTIONS ======== */
+
+    function transferMushrohmtoL2(
+        uint256 _tokenId,
+        uint256 _maxSubmissionCost,
+        uint256 _maxGas,
+        uint256 _gasPriceBid
+    ) external payable returns (uint256);
+
+    function acceptTransferFromL2(uint256 tokenId, address userAddress) external;
+}
+
+// SPDX-License-Identifier: GPLv2
+pragma solidity ^0.8.0;
+
+import "@openzeppelin/contracts/token/ERC721/IERC721Receiver.sol";
+
+import "./IBaseBridge.sol";
+
+interface IPixelMushrohmBridge is IERC721Receiver, IBaseBridge {
+    /* ========== EVENTS ========== */
+
+    event L2ToL1TxCreated(uint256 indexed withdrawalId);
+
+    /* ======== ADMIN FUNCTIONS ======== */
+
+    function setPixelMushrohm(address _pixelMushrohm) external;
+
+    function setL1Target(address _l1Target) external;
+
+    /* ======== MUTABLE FUNCTIONS ======== */
+
+    function transferPixelMushrohmtoL1(uint256 _tokenId) external returns (uint256);
+
+    function acceptTransferFromL1(uint256 _tokenId, address _targetUser) external;
+}
+
+// SPDX-License-Identifier: GPLv2
+pragma solidity ^0.8.0;
+
+import "@openzeppelin/contracts/interfaces/IERC721Enumerable.sol";
+
+interface IPixelMushrohmERC721 is IERC721Enumerable {
+    /* ========== EVENTS ========== */
+
+    event PixelMushrohmMint(address to, uint256 tokenId);
+    event RedeemSporePower(uint256 tokenId, uint256 amount);
+    event SporePowerCost(uint256 sporePowerCost);
+    event MaxSporePowerLevel(uint256 maxSporePowerLevel);
+    event LevelCost(uint256 levelCost);
+    event MaxLevel(uint256 maxLevel);
+    event LevelMultiplier(uint256 levelMultiplier);
+    event StakingSet(address staking);
+    event RedeemerAdded(address redeemer);
+    event RedeemerRemoved(address redeemer);
+    event BridgeSet(address bridge);
+    event Withdraw(address tokenAddr, uint256 amount, address to);
+
+    /* ========== STRUCTS ========== */
+
+    struct TokenData {
+        uint256 sporePower;
+        uint256 level;
+        uint256 rarityMultiplier;
+    }
+
+    /* ======== ADMIN FUNCTIONS ======== */
+
+    function setStaking(address _staking) external;
+
+    function addRedeemer(address _redeemer) external;
+
+    function removeRedeemer(address _redeemer) external;
+
+    function setBridge(address _bridge) external;
+
+    function setSporePowerCost(uint256 _sporePowerCost) external;
+
+    function setMaxSporePowerLevel(uint256 _maxSporePowerLevel) external;
+
+    function setLevelCost(uint256 _levelCost) external;
+
+    function setMaxLevel(uint256 _maxLevel) external;
+
+    function setLevelMultiplier(uint256 _levelMultiplier) external;
+
+    function setRarityMultiplier(uint256 _rarityMultiplier, uint256[] calldata _tokenIds) external;
+
+    function setBaseURI(string memory _baseURItoSet) external;
+
+    function setMintToken(address _tokenAddr) external;
+
+    function setMintTokenPrice(uint256 _price) external;
+
+    function setMaxMintPerWallet(uint256 _maxMintPerWallet) external;
+
+    function maxOutSporePower(uint256 _tokenId) external;
+
+    function togglePause() external;
+
+    function withdraw(
+        address _tokenAddr,
+        uint256 _amount,
+        address _to
+    ) external;
+
+    /* ======== MUTABLE FUNCTIONS ======== */
+
+    function mintUnreserved(uint256 _amount) external;
+
+    function mintReserved(address _to, uint256 _tokenId) external;
+
+    function updateSporePower(uint256 _tokenId, uint256 _sporePowerEarned) external;
+
+    function redeemSporePower(uint256 _tokenId, uint256 _amount) external;
+
+    function updateLevel(uint256 _tokenId) external;
+
+    /* ======== VIEW FUNCTIONS ======== */
+
+    function exists(uint256 _tokenId) external view returns (bool);
+
+    function getSporePower(uint256 _tokenId) external view returns (uint256 sporePower);
+
+    function averageSporePower() external view returns (uint256);
+
+    function getMaxSporePowerLevel() external view returns (uint256);
+
+    function getLevel(uint256 _tokenId) external view returns (uint256 level);
+
+    function getLevelCost() external view returns (uint256);
+
+    function getMaxLevel() external view returns (uint256);
+
+    function getTotalMultiplier(uint256 _tokenId) external view returns (uint256);
+
+    function getLevelMultiplier(uint256 _tokenId) external view returns (uint256);
+
+    function getRarityMultiplier(uint256 _tokenId) external view returns (uint256);
+
+    function getTokenURIsForOwner(address _owner) external view returns (string[] memory);
+}
+
+// SPDX-License-Identifier: GPLv2
+pragma solidity ^0.8.0;
+
+library AddressAliasHelper {
+    uint160 constant offset = uint160(0x1111000000000000000000000000000000001111);
+
+    /// @notice Utility function that converts the address in the L1 that submitted a tx to
+    /// the inbox to the msg.sender viewed in the L2
+    /// @param l1Address the address in the L1 that triggered the tx to L2
+    /// @return l2Address L2 address as viewed in msg.sender
+    function applyL1ToL2Alias(address l1Address) internal pure returns (address l2Address) {
+        l2Address = address(uint160(l1Address) + offset);
+    }
+
+    /// @notice Utility function that converts the msg.sender viewed in the L2 to the
+    /// address in the L1 that submitted a tx to the inbox
+    /// @param l2Address L2 address as viewed in msg.sender
+    /// @return l1Address the address in the L1 that triggered the tx to L2
+    function undoL1ToL2Alias(address l2Address) internal pure returns (address l1Address) {
+        l1Address = address(uint160(l2Address) - offset);
+    }
+}
+
+// SPDX-License-Identifier: GPLv2
+pragma solidity ^0.8.0;
+
+import "../interfaces/IPixelMushrohmAuthority.sol";
+
+abstract contract PixelMushrohmAccessControlled {
+    /* ========== EVENTS ========== */
+
+    event AuthorityUpdated(IPixelMushrohmAuthority indexed authority);
+
+    string UNAUTHORIZED = "UNAUTHORIZED"; // save gas
+
+    /* ========== STATE VARIABLES ========== */
+
+    IPixelMushrohmAuthority public authority;
+
+    /* ========== Constructor ========== */
+
+    constructor(IPixelMushrohmAuthority _authority) {
+        authority = _authority;
+        emit AuthorityUpdated(_authority);
+    }
+
+    /* ========== MODIFIERS ========== */
+
+    modifier onlyOwner() {
+        require(msg.sender == authority.owner(), UNAUTHORIZED);
+        _;
+    }
+
+    modifier onlyPolicy() {
+        require(msg.sender == authority.policy(), UNAUTHORIZED);
+        _;
+    }
+
+    modifier onlyVault() {
+        require(msg.sender == authority.vault(), UNAUTHORIZED);
+        _;
+    }
+
+    /* ========== OWNER ONLY ========== */
+
+    function setAuthority(IPixelMushrohmAuthority _newAuthority) external onlyOwner {
+        authority = _newAuthority;
+        emit AuthorityUpdated(_newAuthority);
+    }
+}
+
+// SPDX-License-Identifier: MIT
+// OpenZeppelin Contracts v4.4.1 (utils/Context.sol)
+
+pragma solidity ^0.8.0;
+
+/**
+ * @dev Provides information about the current execution context, including the
+ * sender of the transaction and its data. While these are generally available
+ * via msg.sender and msg.data, they should not be accessed in such a direct
+ * manner, since when dealing with meta-transactions the account sending and
+ * paying for execution may not be the actual sender (as far as an application
+ * is concerned).
+ *
+ * This contract is only required for intermediate, library-like contracts.
+ */
+abstract contract Context {
+    function _msgSender() internal view virtual returns (address) {
+        return msg.sender;
+    }
+
+    function _msgData() internal view virtual returns (bytes calldata) {
+        return msg.data;
+    }
+}
+
+// SPDX-License-Identifier: MIT
+// OpenZeppelin Contracts v4.4.1 (utils/introspection/IERC165.sol)
+
+pragma solidity ^0.8.0;
+
+/**
+ * @dev Interface of the ERC165 standard, as defined in the
+ * https://eips.ethereum.org/EIPS/eip-165[EIP].
+ *
+ * Implementers can declare support of contract interfaces, which can then be
+ * queried by others ({ERC165Checker}).
+ *
+ * For an implementation, see {ERC165}.
+ */
+interface IERC165 {
+    /**
+     * @dev Returns true if this contract implements the interface defined by
+     * `interfaceId`. See the corresponding
+     * https://eips.ethereum.org/EIPS/eip-165#how-interfaces-are-identified[EIP section]
+     * to learn more about how these ids are created.
+     *
+     * This function call must use less than 30 000 gas.
+     */
+    function supportsInterface(bytes4 interfaceId) external view returns (bool);
+}
+
+// SPDX-License-Identifier: MIT
+// OpenZeppelin Contracts v4.4.1 (token/ERC721/IERC721Receiver.sol)
+
+pragma solidity ^0.8.0;
+
+/**
+ * @title ERC721 token receiver interface
+ * @dev Interface for any contract that wants to support safeTransfers
+ * from ERC721 asset contracts.
+ */
+interface IERC721Receiver {
+    /**
+     * @dev Whenever an {IERC721} `tokenId` token is transferred to this contract via {IERC721-safeTransferFrom}
+     * by `operator` from `from`, this function is called.
+     *
+     * It must return its Solidity selector to confirm the token transfer.
+     * If any other value is returned or the interface is not implemented by the recipient, the transfer will be reverted.
+     *
+     * The selector can be obtained in Solidity with `IERC721.onERC721Received.selector`.
+     */
+    function onERC721Received(
+        address operator,
+        address from,
+        uint256 tokenId,
+        bytes calldata data
+    ) external returns (bytes4);
+}
+
+// SPDX-License-Identifier: GPLv2
+pragma solidity ^0.8.0;
+
+interface IBaseBridge {
+    /* ========== EVENTS ========== */
+
+    event NFTSentToUser(uint256 tokenId, address targetUser, address msgSender);
+
+    /* ======== ADMIN FUNCTIONS ======== */
+
+    function togglePause() external;
+
+    function transferStuckNFT(uint256 _tokenId) external;
+}
+
+// SPDX-License-Identifier: MIT
+// OpenZeppelin Contracts v4.4.1 (interfaces/IERC721Enumerable.sol)
+
+pragma solidity ^0.8.0;
+
+import "../token/ERC721/extensions/IERC721Enumerable.sol";
+
+// SPDX-License-Identifier: MIT
+// OpenZeppelin Contracts v4.4.1 (token/ERC721/extensions/IERC721Enumerable.sol)
+
+pragma solidity ^0.8.0;
+
+import "../IERC721.sol";
+
+/**
+ * @title ERC-721 Non-Fungible Token Standard, optional enumeration extension
+ * @dev See https://eips.ethereum.org/EIPS/eip-721
+ */
+interface IERC721Enumerable is IERC721 {
+    /**
+     * @dev Returns the total amount of tokens stored by the contract.
+     */
+    function totalSupply() external view returns (uint256);
+
+    /**
+     * @dev Returns a token ID owned by `owner` at a given `index` of its token list.
+     * Use along with {balanceOf} to enumerate all of ``owner``'s tokens.
+     */
+    function tokenOfOwnerByIndex(address owner, uint256 index) external view returns (uint256 tokenId);
+
+    /**
+     * @dev Returns a token ID at a given `index` of all the tokens stored by the contract.
+     * Use along with {totalSupply} to enumerate all tokens.
+     */
+    function tokenByIndex(uint256 index) external view returns (uint256);
+}
+
+// SPDX-License-Identifier: GPLv2
+pragma solidity ^0.8.0;
+
+interface IPixelMushrohmAuthority {
+    /* ========== EVENTS ========== */
+
+    event OwnerPushed(address indexed from, address indexed to, bool _effectiveImmediately);
+    event PolicyPushed(address indexed from, address indexed to, bool _effectiveImmediately);
+    event VaultPushed(address indexed from, address indexed to, bool _effectiveImmediately);
+
+    event OwnerPulled(address indexed from, address indexed to);
+    event PolicyPulled(address indexed from, address indexed to);
+    event VaultPulled(address indexed from, address indexed to);
+
+    /* ========== VIEW ========== */
+
+    function owner() external view returns (address);
+
+    function policy() external view returns (address);
+
+    function vault() external view returns (address);
+}
