@@ -6238,3 +6238,6 @@
 {"address": "0x75EEfA771Eb8A3478Cc9Cac9dc51460bDf7E0B42", "name": "Itemz", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "8/24/2022"}
 {"address": "0x289BA598056d44C7ef02D25139cf326dcEFc0479", "name": "MockPriceOracle", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 15, "settings": "", "date": "8/24/2022"}
 {"address": "0x2d6f21b68F8c56a86d25b4A80857c32322b2f63D", "name": "Unitroller", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 22, "settings": "", "date": "8/23/2022"}
+{"address": "0xf42D5B6e1506D8eB0Df97B491a913a1cfe8d003A", "name": "TransferSwapper", "compiler": "0.8.15", "balance": "0.000000000000033 ETH", "txcount": 4, "settings": "", "date": "8/24/2022"}
+{"address": "0xB9A42f2DCdCad5f737c44f15a99B8636423c9013", "name": "ArbitrumSushiScamCheckBot", "compiler": "0.8.16", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "8/24/2022"}
+{"address": "0x33e45976A859EB793bb296a0E16369DfDe4e41ea", "name": "AccountList", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "8/24/2022"}
