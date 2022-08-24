@@ -6241,3 +6241,6 @@
 {"address": "0xf42D5B6e1506D8eB0Df97B491a913a1cfe8d003A", "name": "TransferSwapper", "compiler": "0.8.15", "balance": "0.000000000000033 ETH", "txcount": 4, "settings": "", "date": "8/24/2022"}
 {"address": "0xB9A42f2DCdCad5f737c44f15a99B8636423c9013", "name": "ArbitrumSushiScamCheckBot", "compiler": "0.8.16", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "8/24/2022"}
 {"address": "0x33e45976A859EB793bb296a0E16369DfDe4e41ea", "name": "AccountList", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "8/24/2022"}
+{"address": "0xcCdb22C29f849C2c34380d64217cB8636DEA6b24", "name": "JonesFeeReceiver", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "8/24/2022"}
+{"address": "0x93B1e9930685e1b4e6b3db54fC061C29B89df061", "name": "Swap", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "8/24/2022"}
+{"address": "0x11e1251651bA36aD58B6bdaCaf11E5347a5D6e50", "name": "CurvedInterestRate", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 12, "settings": "", "date": "8/24/2022"}
