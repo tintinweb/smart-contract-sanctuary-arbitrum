@@ -6282,3 +6282,8 @@
 {"address": "0x093653bc6d47eae0743200f8c7156ef8d554f23b", "name": "LizardDistributor", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "8/25/2022"}
 {"address": "0x4D68A3480e22c21F3b2C2A32D4Ed2A2f4f36F680", "name": "GenericHandlerUpgradeable", "compiler": "0.8.2", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "8/25/2022"}
 {"address": "0xf52961C1320C045f40d285B389c73FddE40D30Ab", "name": "Fiat24Buildings", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "8/25/2022"}
+{"address": "0x523BB40F609f49E8Eab0199Fc09802A1a994D812", "name": "TroveManager", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "8/25/2022"}
+{"address": "0x2f6d2e9f51315dba63f0c2e1c54cf9fde287a1af", "name": "GMXStrategy", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "8/25/2022"}
+{"address": "0x64b34ad4c1bb4bfbf4c43b9b82ab245c3d58a1bf", "name": "MerkleClaim", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 44, "settings": "-", "date": "8/25/2022"}
+{"address": "0xfc1e77e21695fc8fc1b7a4e84765aaf5e9e3a533", "name": "UniswapV2Factory", "compiler": "0.5.16", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "8/25/2022"}
+{"address": "0x552e348082d32bedE7b0CA6A66C957beD7bA0006", "name": "YearnHarvest", "compiler": "0.6.12", "balance": "0.1995 ETH", "txcount": 3, "settings": "", "date": "8/25/2022"}
