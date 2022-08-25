@@ -6272,3 +6272,13 @@
 {"address": "0xcaDc599D3b7bf434C646C7823c20E753C2E55AF6", "name": "CErc20Delegate", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "8/25/2022"}
 {"address": "0xB28735D3f5C66078507eAfCea7928B33ee5FDd19", "name": "RouterHlpBalancer", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 3, "settings": "", "date": "8/25/2022"}
 {"address": "0x54541071E5A5760D7E60dDF3c43872C723a4a11f", "name": "CErc20Delegate", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "8/25/2022"}
+{"address": "0x90ECA544cC65AFaaE96E08266821eA3835D0ACE5", "name": "ERC1155OrdersFeature", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "8/25/2022"}
+{"address": "0x1352484a6D39a4b1c3e5A63103E7fF4E90A56DA7", "name": "ERC721OrdersFeature", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "8/25/2022"}
+{"address": "0xAAf1C1bDDBA90A77a58c68186E0CFfa645d6103E", "name": "ERC165Feature", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "8/25/2022"}
+{"address": "0x24760A755a4ffe4E44f661336fD0dc646fd6F723", "name": "FillQuoteTransformer", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 0, "settings": "", "date": "8/25/2022"}
+{"address": "0x4D3f1b8125909c1D9287d8EA59306E79A7faAe2E", "name": "ArbitrumBridgeAdapter", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "8/25/2022"}
+{"address": "0x09942B4fBe4DD6d8AB6440445Cdf1DE83c76112D", "name": "GenericHandlerUpgradeable", "compiler": "0.8.2", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "8/25/2022"}
+{"address": "0x4cD01eD221d6d198e2656c16c32803BF78134568", "name": "WrapEtherModule", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "8/25/2022"}
+{"address": "0x093653bc6d47eae0743200f8c7156ef8d554f23b", "name": "LizardDistributor", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "8/25/2022"}
+{"address": "0x4D68A3480e22c21F3b2C2A32D4Ed2A2f4f36F680", "name": "GenericHandlerUpgradeable", "compiler": "0.8.2", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "8/25/2022"}
+{"address": "0xf52961C1320C045f40d285B389c73FddE40D30Ab", "name": "Fiat24Buildings", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "8/25/2022"}
