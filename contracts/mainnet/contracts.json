@@ -6264,3 +6264,11 @@
 {"address": "0x87c1cc8db8C17CAC4741FE7BC130e6F2eF370a79", "name": "Comptroller", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "8/24/2022"}
 {"address": "0x5aDa4F2951d6BDc644605FF7241354c85AC5B7B1", "name": "Unitroller", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 20, "settings": "", "date": "8/24/2022"}
 {"address": "0x62e41b37EFf2539510397834388De58634eC2924", "name": "CErc20Delegate", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "8/24/2022"}
+{"address": "0x8C1dcF63c5B504eC5FC57dCcE907FADC72C5F04F", "name": "Fiat24Account", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "8/25/2022"}
+{"address": "0xd5E47a86C1D95Aa9Ef027319Be2Cda3c0204f2Dd", "name": "Fiat24CryptoTopUp", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "8/25/2022"}
+{"address": "0x03B5a111f53683CfEd3dc9b62cB7da8E3A74807D", "name": "Fiat24CryptoTopUp", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "8/25/2022"}
+{"address": "0x51e7F3D64424b0B19Db0FD317462Ceb4670b2CfE", "name": "F24TimeLock", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "8/25/2022"}
+{"address": "0x47834bB4D0AC3dB1d2d8f24C0A8B41791820549B", "name": "OKRoyaltyFeeManager", "compiler": "0.4.26", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "8/25/2022"}
+{"address": "0xcaDc599D3b7bf434C646C7823c20E753C2E55AF6", "name": "CErc20Delegate", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "8/25/2022"}
+{"address": "0xB28735D3f5C66078507eAfCea7928B33ee5FDd19", "name": "RouterHlpBalancer", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 3, "settings": "", "date": "8/25/2022"}
+{"address": "0x54541071E5A5760D7E60dDF3c43872C723a4a11f", "name": "CErc20Delegate", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "8/25/2022"}
