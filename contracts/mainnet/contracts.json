@@ -6254,3 +6254,13 @@
 {"address": "0xFb59622423084e642f3936de10D36D85a8afcaC7", "name": "Timelock", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "8/24/2022"}
 {"address": "0x23805449f91bB2d2054D9Ba288FdC8f09B5eAc79", "name": "UniswapV2Router02", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "8/24/2022"}
 {"address": "0x015e379Ce0Ff195228b3A9eBDFA13F9afC155Dd7", "name": "UniswapV2Factory", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "8/24/2022"}
+{"address": "0xD714B49428D9A05e2e5232e31918962b9545fA5d", "name": "CErc20Delegate", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "8/25/2022"}
+{"address": "0xfEb0bCdef6286c24856641319d25AE73E00de17A", "name": "KyberSwapV3", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "8/25/2022"}
+{"address": "0x7C0beDaF3aD27E50dF2810B4611B5222e12696Dc", "name": "CEther", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 8, "settings": "", "date": "8/25/2022"}
+{"address": "0x3a941e1094B9E33efABB26a9047a8ABb4b257907", "name": "BondingManager", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "8/25/2022"}
+{"address": "0x492ebE7816B6934cc55f3001E1Ac165A6c5AfaB0", "name": "SimpleRewarder", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "8/25/2022"}
+{"address": "0x03FCED65cdde966555dB96bF2A5E9A97564dBe05", "name": "CErc20Delegator", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 9, "settings": "", "date": "8/24/2022"}
+{"address": "0x4F6D68130140578d2C071f210b544c27923E133d", "name": "GMXPriceOracle", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "8/24/2022"}
+{"address": "0x87c1cc8db8C17CAC4741FE7BC130e6F2eF370a79", "name": "Comptroller", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "8/24/2022"}
+{"address": "0x5aDa4F2951d6BDc644605FF7241354c85AC5B7B1", "name": "Unitroller", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 20, "settings": "", "date": "8/24/2022"}
+{"address": "0x62e41b37EFf2539510397834388De58634eC2924", "name": "CErc20Delegate", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "8/24/2022"}
