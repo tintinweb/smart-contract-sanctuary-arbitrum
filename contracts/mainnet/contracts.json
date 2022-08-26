@@ -6318,3 +6318,7 @@
 {"address": "0x1fBB7821e5Ba6810Af225c60b38f8a5A4F384C11", "name": "DropERC20", "compiler": "0.8.12", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "8/25/2022"}
 {"address": "0xa2A4CEc0ec6B39299FCF36c9a6F4Bb21A15e5AbE", "name": "SignatureDrop", "compiler": "0.8.12", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "8/25/2022"}
 {"address": "0xEcCAECa08a6AD9D96A782B65c5e7F9834a5126c3", "name": "CErc20Delegator", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 8, "settings": "", "date": "8/25/2022"}
+{"address": "0x4e5526fe05BC09e186926e6286DD12cdE88968DE", "name": "StargateFacet", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 0, "settings": "", "date": "8/26/2022"}
+{"address": "0xE153E290EE9AE943b02F2d6563f8A4b8E69a5Ef3", "name": "DexManagerFacet", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 0, "settings": "", "date": "8/26/2022"}
+{"address": "0x26b7811dea412de7b4b0f7ffe14d6e62c282aa2c", "name": "BlockNumber", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "8/26/2022"}
+{"address": "0x29c74fefb4cebdadd5e9e153917ae769e597e3f7", "name": "Aggregate", "compiler": "0.8.16", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "8/26/2022"}
