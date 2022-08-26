@@ -6334,3 +6334,5 @@
 {"address": "0x13F0D29b5B83654A200E4540066713d50547606E", "name": "GlpDepositor", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 6, "settings": "", "date": "8/26/2022"}
 {"address": "0x5326E71Ff593Ecc2CF7AcaE5Fe57582D6e74CFF1", "name": "PlvGlpToken", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 3, "settings": "", "date": "8/26/2022"}
 {"address": "0x530F1CbB2ebD71bec58D351DCD3768148986A467", "name": "PlsGlpToken", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 4, "settings": "", "date": "8/26/2022"}
+{"address": "0x838E939abfE4fC481fC414Be54bb3B4d643f11c6", "name": "CErc20Delegator", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "8/26/2022"}
+{"address": "0x2DF9b4257c4828f7043350c7444cfc6392316143", "name": "CErc20Delegate", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "8/26/2022"}
