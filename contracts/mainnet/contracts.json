@@ -6346,3 +6346,9 @@
 {"address": "0x671D2E0E1a9c8E117A071bFC5763aF3fBe9bDF0b", "name": "LaunchToken", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "8/27/2022"}
 {"address": "0x42586Ef4495BB512A86cf7496f6eF85ae7D69a64", "name": "BuildToken", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "8/27/2022"}
 {"address": "0x12Ee75eb060021c2C0016D348Be04c0A1b856517", "name": "ShackToken", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "8/27/2022"}
+{"address": "0x38899c96f12cee66bbfe9b57f6768bab49706213", "name": "Frogs", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 4, "settings": "", "date": "8/27/2022"}
+{"address": "0x58ee50d72904c62aca4d712648f9edd85f63d056", "name": "DogelonIndex", "compiler": "0.7.5", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "8/27/2022"}
+{"address": "0xe49e425cb368bf2662d43a62bde07245c8949f34", "name": "SwordofThrone", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 4, "settings": "", "date": "8/27/2022"}
+{"address": "0x34ced9a27008004b25723a86aad3eec9b5886244", "name": "PPP", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 3, "settings": "", "date": "8/27/2022"}
+{"address": "0x1111111254fb6c44bAC0beD2854e76F90643097d", "name": "AggregationRouterV4", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 200356, "settings": "", "date": "8/27/2022"}
+{"address": "0xe56b9105eae9e327bf2d6f0a7d1be2c34262f4d1", "name": "RandomSchnitz", "compiler": "0.8.0", "balance": "0 ETH", "txcount": 2, "settings": "-", "date": "8/27/2022"}
