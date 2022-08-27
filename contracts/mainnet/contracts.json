@@ -6336,3 +6336,6 @@
 {"address": "0x530F1CbB2ebD71bec58D351DCD3768148986A467", "name": "PlsGlpToken", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 4, "settings": "", "date": "8/26/2022"}
 {"address": "0x838E939abfE4fC481fC414Be54bb3B4d643f11c6", "name": "CErc20Delegator", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "8/26/2022"}
 {"address": "0x2DF9b4257c4828f7043350c7444cfc6392316143", "name": "CErc20Delegate", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "8/26/2022"}
+{"address": "0x388731767b088EF6eE815A5797d48b6186BCc09f", "name": "QuixoticLaunchpadERC721", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 8, "settings": "-", "date": "8/27/2022"}
+{"address": "0x648d7ba7ca42fd03c978c32f8e569c19cfdd6798", "name": "GoodMindsArtDrops", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "8/27/2022"}
+{"address": "0xD7c49E589613430b0189ae62104edCAaE7E44b24", "name": "Prrot", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "8/26/2022"}
