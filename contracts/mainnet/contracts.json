@@ -6339,3 +6339,10 @@
 {"address": "0x388731767b088EF6eE815A5797d48b6186BCc09f", "name": "QuixoticLaunchpadERC721", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 8, "settings": "-", "date": "8/27/2022"}
 {"address": "0x648d7ba7ca42fd03c978c32f8e569c19cfdd6798", "name": "GoodMindsArtDrops", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "8/27/2022"}
 {"address": "0xD7c49E589613430b0189ae62104edCAaE7E44b24", "name": "Prrot", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "8/26/2022"}
+{"address": "0xa081301F02b29403e4D864CC535Ba76A33F32f9D", "name": "VestaFarming", "compiler": "0.8.11", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "8/27/2022"}
+{"address": "0xe00f5d6FF76F57B7f1dd8D0D4E5Cb13764A38b5e", "name": "MissingRewards", "compiler": "0.8.11", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "8/27/2022"}
+{"address": "0x986935d7b968908031ff9b1bf7cb885743933628", "name": "RandomSchnitz", "compiler": "0.6.6", "balance": "0 ETH", "txcount": 2, "settings": "-", "date": "8/27/2022"}
+{"address": "0x4E5Cf54FdE5E1237e80E87fcbA555d829e1307CE", "name": "PlutusChef", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "8/27/2022"}
+{"address": "0x671D2E0E1a9c8E117A071bFC5763aF3fBe9bDF0b", "name": "LaunchToken", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "8/27/2022"}
+{"address": "0x42586Ef4495BB512A86cf7496f6eF85ae7D69a64", "name": "BuildToken", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "8/27/2022"}
+{"address": "0x12Ee75eb060021c2C0016D348Be04c0A1b856517", "name": "ShackToken", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "8/27/2022"}
