@@ -6352,3 +6352,4 @@
 {"address": "0x34ced9a27008004b25723a86aad3eec9b5886244", "name": "PPP", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 3, "settings": "", "date": "8/27/2022"}
 {"address": "0x1111111254fb6c44bAC0beD2854e76F90643097d", "name": "AggregationRouterV4", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 200356, "settings": "", "date": "8/27/2022"}
 {"address": "0xe56b9105eae9e327bf2d6f0a7d1be2c34262f4d1", "name": "RandomSchnitz", "compiler": "0.8.0", "balance": "0 ETH", "txcount": 2, "settings": "-", "date": "8/27/2022"}
+{"address": "0xe743c1c553cb6473732df81524839bef11c67d10", "name": "Exchange", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 2423, "settings": "-", "date": "8/27/2022"}
