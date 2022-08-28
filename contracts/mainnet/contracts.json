@@ -6366,3 +6366,8 @@
 {"address": "0x9ce7f81a19f72902780e1c72243a6bcc0087c9e5", "name": "Solana", "compiler": "0.8.16", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "8/28/2022"}
 {"address": "0xd84bce96d72c48f92e0d928d463419e88212a0c1", "name": "BNB", "compiler": "0.8.16", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "8/28/2022"}
 {"address": "0x35edf6f4c36517a7b1f3262cfcdfdee06b59ab99", "name": "WETH", "compiler": "0.8.16", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "8/28/2022"}
+{"address": "0xC3E76D8829259f2A34541746de2F8A0509Dc1987", "name": "DapiServer", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "8/28/2022"}
+{"address": "0x33E6C2f5Fa6aA18254927F55b0C5b5B975Ec1358", "name": "AirnodeProtocol", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "8/28/2022"}
+{"address": "0xcB41fb6dC616D3b6134A3c5B7525b01492F13550", "name": "Vote", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 4, "settings": "", "date": "8/28/2022"}
+{"address": "0xFb7b4c7f7E6D10CdB97Ff5358a8107c92bd78Bc8", "name": "MerkleClaim2", "compiler": "0.8.11", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "8/28/2022"}
+{"address": "0x617fb73B8f81398F4c678B9D19E25949D10B495B", "name": "ArbitrumSushiScamCheckBot", "compiler": "0.8.16", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "8/28/2022"}
