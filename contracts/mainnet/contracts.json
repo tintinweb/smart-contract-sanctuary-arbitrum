@@ -6373,3 +6373,4 @@
 {"address": "0x617fb73B8f81398F4c678B9D19E25949D10B495B", "name": "ArbitrumSushiScamCheckBot", "compiler": "0.8.16", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "8/28/2022"}
 {"address": "0xE3E5ae751B35b985395d2d89C6475c75EeF67F19", "name": "AtlanticStraddle", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "8/28/2022"}
 {"address": "0x88dAA2b3a5EC5609DBEf336818E7bafdfED6c535", "name": "SelfServeDapiServerWhitelister", "compiler": "0.8.14", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "8/28/2022"}
+{"address": "0xa92556deb1Ce7cF6bB3078c1012cf66bAd82e4f6", "name": "DevconMintableSTD", "compiler": "0.8.12", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "8/29/2022"}
