@@ -6456,3 +6456,16 @@
 {"address": "0xe13f6925b0a648dc7546ea71b7115470a8e34f75", "name": "FunderFactory", "compiler": "0.8.16", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "8/31/2022"}
 {"address": "0xfc911338Ea7Be6f6ceA258AC1f94622e3aea66D4", "name": "AaveVault", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "8/31/2022"}
 {"address": "0x7414ac7402453a39cb50025dee974a8d4f084984", "name": "HelloWorld", "compiler": "0.8.16", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "8/31/2022"}
+{"address": "0xfa5b975273281386f568293762a88a943c52fc0d", "name": "HotfixMintRebaseIssueStakingRewards", "compiler": "0.7.5", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "8/31/2022"}
+{"address": "0xAb6E556046Bf9647f3E1ECB15FC7dB256b0b5188", "name": "FixedFeeModel", "compiler": "0.8.14", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "8/31/2022"}
+{"address": "0x62c66911af80994a7d3758cd77afd67098ac665e", "name": "ContangoYieldQuoter", "compiler": "0.8.14", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "8/31/2022"}
+{"address": "0x30e7348163016b3b6e1621a3cb40e8cf33ce97db", "name": "ERC1967Proxy", "compiler": "0.8.14", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "8/31/2022"}
+{"address": "0x48433487e46470cf1EB01DD3bF4c4E00E03b8Dc2", "name": "ContangoYield", "compiler": "0.8.14", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "8/31/2022"}
+{"address": "0xf2F7c33234160387e5Dc82B1412b522AB44876C7", "name": "Yield", "compiler": "0.8.14", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "8/31/2022"}
+{"address": "0x497931c260a6f76294465f7bbb5071802e97e109", "name": "ContangoPositionNFT", "compiler": "0.8.14", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "8/31/2022"}
+{"address": "0x0609306893ba9cb7b51be9847de955cce9653c08", "name": "MultiSigWallet", "compiler": "0.4.26", "balance": "0 ETH", "txcount": 3, "settings": "", "date": "8/31/2022"}
+{"address": "0x13b3e2a25c49c11de9dcfe0a890a259d42222d03", "name": "MultiSigWallet", "compiler": "0.4.26", "balance": "0 ETH", "txcount": 3, "settings": "", "date": "8/31/2022"}
+{"address": "0x53eae9236d6a909bf3598b95b2a541155129e304", "name": "MultiSigWallet", "compiler": "0.4.26", "balance": "0 ETH", "txcount": 5, "settings": "", "date": "8/31/2022"}
+{"address": "0xc179cc62713594d446215bead4d181708604c6f3", "name": "MultiSigWallet", "compiler": "0.4.26", "balance": "0 ETH", "txcount": 3, "settings": "", "date": "8/31/2022"}
+{"address": "0x799ea58de823d58dff5cd2dd1e3fa716f1615913", "name": "MultiSigWallet", "compiler": "0.4.25", "balance": "0 ETH", "txcount": 3, "settings": "", "date": "8/31/2022"}
+{"address": "0x5997bbb72db454db526bbfdbb06b69424e59938e", "name": "MultiSigWallet", "compiler": "0.4.26", "balance": "0 ETH", "txcount": 3, "settings": "", "date": "8/31/2022"}
