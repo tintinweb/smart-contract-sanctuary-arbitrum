@@ -6469,3 +6469,7 @@
 {"address": "0xc179cc62713594d446215bead4d181708604c6f3", "name": "MultiSigWallet", "compiler": "0.4.26", "balance": "0 ETH", "txcount": 3, "settings": "", "date": "8/31/2022"}
 {"address": "0x799ea58de823d58dff5cd2dd1e3fa716f1615913", "name": "MultiSigWallet", "compiler": "0.4.25", "balance": "0 ETH", "txcount": 3, "settings": "", "date": "8/31/2022"}
 {"address": "0x5997bbb72db454db526bbfdbb06b69424e59938e", "name": "MultiSigWallet", "compiler": "0.4.26", "balance": "0 ETH", "txcount": 3, "settings": "", "date": "8/31/2022"}
+{"address": "0xcf61bfb9e56bbf254c34e5836c6c29b5374d4db6", "name": "LentMyc", "compiler": "0.8.16", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "9/1/2022"}
+{"address": "0xEb8c86df0d57C653a58e71d6c7237ed4187AdC40", "name": "Vester", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "9/1/2022"}
+{"address": "0x92b9913912a0ed1f99798d2bbb48d51dffbe1f21", "name": "GlpPurchaser", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "9/1/2022"}
+{"address": "0x41144a60176c40a0074fb62dc5c48651cbc1fcac", "name": "GlpPriceUtils", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "9/1/2022"}
