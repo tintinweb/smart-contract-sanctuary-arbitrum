@@ -6544,3 +6544,9 @@
 {"address": "0x99999999999FcC662a7bF2B75eA160Bc4aa06359", "name": "G", "compiler": "0.4.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "9/2/2022"}
 {"address": "0x39E48491b3A182C3F6b699281d74aF9f8a620CFa", "name": "ImpossibleRouter", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "9/2/2022"}
 {"address": "0xCa08C76C3fbAF687C1f59F2618deDC045BA40a40", "name": "TimelockController", "compiler": "0.8.0", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "9/2/2022"}
+{"address": "0xCF6D92Fb2996287C67A3B9dA1728924CF096347A", "name": "NitroLion", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 112, "settings": "", "date": "9/2/2022"}
+{"address": "0xB7F24e34938d69d12F16bdBA0C81756a3464A43C", "name": "Consumable", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "9/2/2022"}
+{"address": "0x13519d3eb40F67E2D2FF5B964841EF2E4CE217C4", "name": "ArbitrumBridgeAdapter", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "9/2/2022"}
+{"address": "0x522b16af5a2de46124f622d1caf58503fcf80ce3", "name": "FeesManagerLogic", "compiler": "0.8.11", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "9/2/2022"}
+{"address": "0xD87602B660779619D7804Dc60D4CCa3bb889Dcb5", "name": "FeesManager", "compiler": "0.8.11", "balance": "0 ETH", "txcount": 6, "settings": "", "date": "9/2/2022"}
+{"address": "0xE5BC25FadBDA489aa84A582677E5CC95dD1A718D", "name": "nINU", "compiler": "0.8.11", "balance": "0 ETH", "txcount": 19, "settings": "", "date": "9/2/2022"}
