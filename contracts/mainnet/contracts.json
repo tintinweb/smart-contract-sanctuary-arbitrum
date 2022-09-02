@@ -6512,3 +6512,15 @@
 {"address": "0x1a9C125a4a6e3eC58dfDa2570a3f14114d857026", "name": "Oracle", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "9/1/2022"}
 {"address": "0x636701Dc64110328380B8CfbBfd4330884b3581B", "name": "GenericConsumer", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "9/1/2022"}
 {"address": "0x96639E534Fab26669049c6DE42558F77D2D79f48", "name": "Oracle", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "9/1/2022"}
+{"address": "0x57CeB3356300a624f78A28b780Af621661BC1F5d", "name": "AirdropReadVoucher", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "9/2/2022"}
+{"address": "0xdc891b323863da43a72ce8c9125cddbe940f5c78", "name": "MyceliumPoolPurchaser", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "9/2/2022"}
+{"address": "0x7ec1a18f44c822f84b63defb4dd6ebe24390475e", "name": "MyceliumPoolPurchaser", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "9/2/2022"}
+{"address": "0x5C7675E3F05c651a921CD6B6cE74d6073A85Bd36", "name": "Keeper", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "9/2/2022"}
+{"address": "0x8Ea59e19A3cd2C4c4958fF4126c94DbD559a79Eb", "name": "XSwapper", "compiler": "0.8.2", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "9/2/2022"}
+{"address": "0x5C6C12Fd8b1f7E60E5B60512712cFbE0192E795E", "name": "XYDexAggregator", "compiler": "0.8.2", "balance": "0 ETH", "txcount": 3, "settings": "", "date": "9/2/2022"}
+{"address": "0x796d1cb811fa06Ac315B8DC88a474b5Dd6CA6314", "name": "XYDexAggregatorAdaptor", "compiler": "0.8.2", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "9/2/2022"}
+{"address": "0xa2bd2f9aFce211f43D4a9865Ca3f29937A3319C6", "name": "GlpVaultAdapter", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 4, "settings": "", "date": "9/2/2022"}
+{"address": "0xce2045fd15be313b3d489c179f865ffcafc13ba5", "name": "MyceliumPoolPurchaser", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "9/2/2022"}
+{"address": "0x85A6ba7527a93F5175f1B5cf161Ea9Bc3D375F46", "name": "VaultManager", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 4, "settings": "", "date": "9/2/2022"}
+{"address": "0xA87671fe75A18E40c5fB88f06E4171101Eb17077", "name": "RewardRouter", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "9/2/2022"}
+{"address": "0xfBEe43ebf8654e5F32A3dB444D009A944AEBB26F", "name": "Zoo", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 12, "settings": "", "date": "9/2/2022"}
