@@ -6574,3 +6574,6 @@
 {"address": "0x9366e7FB61B628E01B7F4361bB794307Eab01252", "name": "Keeper", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "9/3/2022"}
 {"address": "0x65A932c72552231937887D6D5Dff4E949BEF83Bf", "name": "Oracle", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "9/3/2022"}
 {"address": "0xdF27DffF748Bb25491f0d678De10A48593B09702", "name": "AdvancedQuestingFix", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "9/3/2022"}
+{"address": "0xD86B15257c3508EE1b549Aa42134Bbe7289b60bd", "name": "MyMintplexProjectContract", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 3, "settings": "", "date": "9/3/2022"}
+{"address": "0x0ad06c5265c37df3cf04a363fbaeb25a104f03aa", "name": "GalaxyCoder", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "9/3/2022"}
+{"address": "0xcab1fff9ba25bd9eaf56e4a9e16716b298a21587", "name": "GalaxyCoder", "compiler": "0.8.16", "balance": "0.000002000000000044 ETH", "txcount": 5, "settings": "-", "date": "9/3/2022"}
