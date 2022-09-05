@@ -6666,3 +6666,9 @@
 {"address": "0xe8b6E90c73bDe6A7251fAC955827DEc0D53f406d", "name": "AcrossAdapter", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "9/5/2022"}
 {"address": "0x89343a24a217172A569A0bD68763Bf0671A3efd8", "name": "ContangoWitch", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "9/5/2022"}
 {"address": "0x62581168af33821163E682073d599a8B5e39Cc4c", "name": "PullToken", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "9/5/2022"}
+{"address": "0xdbbfbc254563b3bc3dd690512cd573fa9b91207b", "name": "SoulBoundFifty", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "9/5/2022"}
+{"address": "0x2920b72c891f26648c27374bf4e5c88f2fd709e7", "name": "SoulBoundHundred", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "9/5/2022"}
+{"address": "0x19b1a8157b7bc87c527f4df3982737a2968f2945", "name": "nitroTtweiller", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 39, "settings": "-", "date": "9/5/2022"}
+{"address": "0x848b3fd2568f9c97fe9b6bd49d2d5585143639ec", "name": "XDisperse", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "9/5/2022"}
+{"address": "0x21a2D6828d706b08E30B5c794ad5D9311B3dD32F", "name": "NitroINU", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 2, "settings": "-", "date": "9/5/2022"}
+{"address": "0xE0B31640B07E4BCFAFc190d7DDE951BA3286Dd63", "name": "PositionalMarketFactory", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "9/5/2022"}
