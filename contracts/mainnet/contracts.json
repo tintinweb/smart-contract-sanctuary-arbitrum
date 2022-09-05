@@ -6636,3 +6636,15 @@
 {"address": "0xf7bd2ed13bef9c27a2188f541dc5ed85c5325306", "name": "RewardTracker", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 9, "settings": "", "date": "9/5/2022"}
 {"address": "0xe81fd007f25c43a2bd6233bc2848cd8b0df46fae", "name": "Vyper_contract", "compiler": "vyper:0.2.16", "balance": "0 ETH", "txcount": 3, "settings": "-", "date": "9/5/2022"}
 {"address": "0x4e14a7daac5d9fd2ce0079f6f62d3d506f3c58c1", "name": "TokenTimelock", "compiler": "0.8.1", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "9/4/2022"}
+{"address": "0x6F58e7C2cBa734db4b12ddc9573484c18907968B", "name": "ContangoYieldQuoter", "compiler": "0.8.16", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "9/5/2022"}
+{"address": "0x8cAad37f67FAb806383F59048723A92B5Dc4581D", "name": "ContangoYield", "compiler": "0.8.16", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "9/5/2022"}
+{"address": "0x9abE93F7A70998f1836C2Ee0E21988Ca87072001", "name": "SsovV3Viewer", "compiler": "0.8.16", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "9/5/2022"}
+{"address": "0x2EeEf7852a306a580acF94F7c18C3FF124A59d4f", "name": "OrderBook", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "9/5/2022"}
+{"address": "0x587FeC62F116d4E68d7FFbDA5d7516192153A624", "name": "CBridgeAdapter", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "9/5/2022"}
+{"address": "0x0136f1579aD5baF0154f2Aa1e6C278d27341111a", "name": "StargateAdapter", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "9/5/2022"}
+{"address": "0x5B90F0D4d6cA7Fa63DAf4F702a83D9F2010222e5", "name": "AnyswapAdapter", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "9/5/2022"}
+{"address": "0x863C4136083731Ea89E25E9DB3505FB79304A0Ef", "name": "CurveMetaPoolCodec", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "9/5/2022"}
+{"address": "0x5F3cf896C1E18550389Ee4C6b298907649129F21", "name": "UniswapV3ExactInputCodec", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "9/5/2022"}
+{"address": "0x4effDb9bF554D6e4CBcD18513741C19e31Dda299", "name": "CurvePoolCodec", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "9/5/2022"}
+{"address": "0x2d37eb7A02474E7d2Cc1D5Da7507E6E39d4479A4", "name": "UniswapV2SwapExactTokensForTokensCodec", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "9/5/2022"}
+{"address": "0x40df53F12623F9397a2b7f6F8dBa990304e5Dc4c", "name": "TransferSwapper", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "9/5/2022"}
