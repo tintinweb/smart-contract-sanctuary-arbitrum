@@ -6692,3 +6692,13 @@
 {"address": "0x53Aa8Bc03B7Ac1d2E071536F14d757E060e1F217", "name": "PublicRound", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 4, "settings": "", "date": "9/6/2022"}
 {"address": "0xBa77533bAeAdcab53D0E6c72CD6A5408fEeEBf65", "name": "SBT", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 3, "settings": "", "date": "9/6/2022"}
 {"address": "0xb277Fc0AC7e86c4c5d4C542296C3519E6eb99A2A", "name": "BasicStakingStrategyV2", "compiler": "0.8.16", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "9/6/2022"}
+{"address": "0x94F305eFb496135fBeA348c888fEf233a099Bd94", "name": "FeesManagerLogic", "compiler": "0.8.11", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "9/6/2022"}
+{"address": "0x537987bC3c000BE4c624866b4F014622920d0f65", "name": "FeesManager", "compiler": "0.8.11", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "9/6/2022"}
+{"address": "0x71D273E931E6c3422e1ffA1cA5279F12ef632cD4", "name": "nitroSAMO", "compiler": "0.8.11", "balance": "0 ETH", "txcount": 13, "settings": "", "date": "9/6/2022"}
+{"address": "0x9e003778A118FE3456c4f2cc35b54d2eEe7E79fF", "name": "ArbitrumBridgeAdapter", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "9/6/2022"}
+{"address": "0xdc2952c40a498bfddb7c01bb6492788a464e3e5a", "name": "TokenAccess", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "9/6/2022"}
+{"address": "0x51da89dF572633d2BaF6a9260d3d5A1f0d146747", "name": "UniswapV3Helpers", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "9/6/2022"}
+{"address": "0x5f5b9455917d18b175Bc482effc0588165F8C71c", "name": "ThalesAMM", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "9/6/2022"}
+{"address": "0xe03311D30bdeb60511BAe8de135C6524B9576B2e", "name": "ArrakisV1Resolver", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "9/6/2022"}
+{"address": "0xd158CCfabef917ae2f01E454D07E1F2055e44c79", "name": "ArrakisV1RouterStaking", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "9/6/2022"}
+{"address": "0x336649aEb266f3182d63f4FAD7B3cF0dBa15f4c8", "name": "EIP173ProxyWithReceive", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "9/6/2022"}
