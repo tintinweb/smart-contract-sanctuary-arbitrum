@@ -6683,3 +6683,12 @@
 {"address": "0x31bC262F0C5A2E17329374A51D78fc29ce61A831", "name": "DragonTributeUpgradeable", "compiler": "0.8.14", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "9/6/2022"}
 {"address": "0xb9fd670E32B51188B9C44C2E2226Ec345F4debDc", "name": "OmnichainRouter", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 7, "settings": "", "date": "9/5/2022"}
 {"address": "0xa6f9e1d95988f6a3a02f3fa87761e01606fd4ca7", "name": "TokenTimelock", "compiler": "0.8.1", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "9/5/2022"}
+{"address": "0xF20345b0f83766A14626F783a17612dA6E5EAd3d", "name": "RewardRouter", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "9/6/2022"}
+{"address": "0xB5Ee21786D28c5Ba61661550879475976B707099", "name": "WrappedTokenGatewayV3", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "9/6/2022"}
+{"address": "0x78baa78f4502818c52497598fa548a9f42de0359", "name": "EGGItemsV1", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "9/6/2022"}
+{"address": "0xBdEc4a045446F583dc564C0A227FFd475b329bf0", "name": "KyberSwapElasticLM", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 4, "settings": "", "date": "9/6/2022"}
+{"address": "0x9bDc4094860C97d9e5f1C18C4602a4a907d0a916", "name": "RouterEthHlpBalancer", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "9/6/2022"}
+{"address": "0x219ac6dA971dE6d943cffD1BD62abde71525d382", "name": "FLAaveV3", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "9/6/2022"}
+{"address": "0x53Aa8Bc03B7Ac1d2E071536F14d757E060e1F217", "name": "PublicRound", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 4, "settings": "", "date": "9/6/2022"}
+{"address": "0xBa77533bAeAdcab53D0E6c72CD6A5408fEeEBf65", "name": "SBT", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 3, "settings": "", "date": "9/6/2022"}
+{"address": "0xb277Fc0AC7e86c4c5d4C542296C3519E6eb99A2A", "name": "BasicStakingStrategyV2", "compiler": "0.8.16", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "9/6/2022"}
