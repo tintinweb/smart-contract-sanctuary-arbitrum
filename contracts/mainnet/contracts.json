@@ -6738,3 +6738,4 @@
 {"address": "0xbb443d6740322293fcee4414d03978c7e4bf5d55", "name": "ERC4626Gate", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 20, "settings": "", "date": "9/7/2022"}
 {"address": "0x36b49ebf089be8860d7fc60f2553461e9cc8e9e2", "name": "YearnGate", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 4, "settings": "", "date": "9/7/2022"}
 {"address": "0xbd16088611054fce04711aa9509d1d86e04dce2c", "name": "Factory", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 5, "settings": "", "date": "9/7/2022"}
+{"address": "0xaBB58098A7B5172A9b0B38a1925A522dbf0b4FC3", "name": "UniswapV3StateMulticall", "compiler": "0.7.5", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "9/7/2022"}
