@@ -6739,3 +6739,21 @@
 {"address": "0x36b49ebf089be8860d7fc60f2553461e9cc8e9e2", "name": "YearnGate", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 4, "settings": "", "date": "9/7/2022"}
 {"address": "0xbd16088611054fce04711aa9509d1d86e04dce2c", "name": "Factory", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 5, "settings": "", "date": "9/7/2022"}
 {"address": "0xaBB58098A7B5172A9b0B38a1925A522dbf0b4FC3", "name": "UniswapV3StateMulticall", "compiler": "0.7.5", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "9/7/2022"}
+{"address": "0x6Cf2100b5162F0cC1D5bf1A0EcDAc34916756FA5", "name": "ClipperExchangeInterface", "compiler": "0.8.16", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "9/7/2022"}
+{"address": "0x617b2e3c10325c546533ecae277bcf9964ab3373", "name": "BlacklistAndTimeFilter", "compiler": "0.8.16", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "9/7/2022"}
+{"address": "0x92E94317594fC38A862136125b069121651970C3", "name": "GenericConsumer", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "9/7/2022"}
+{"address": "0x0831e940a1ffcd7a0ca158334f3ac0078ba7f2a4", "name": "TURBINE", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "9/7/2022"}
+{"address": "0x1b3a2e59ad1dfe35e3c07af875d6fc86cd234258", "name": "HUSKY", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 14, "settings": "", "date": "9/7/2022"}
+{"address": "0xEc5B0cCcae497389a2aCbDba2Def7eC53BDC7Fd1", "name": "ContangoYieldQuoter", "compiler": "0.8.16", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "9/7/2022"}
+{"address": "0x542c7dFC7959D8d03c5B738478213885Ab3f214e", "name": "FillQuoteTransformer", "compiler": "0.6.12", "balance": "-", "txcount": 0, "settings": "", "date": "9/7/2022"}
+{"address": "0x462F7eC57C6492B983a8C8322B4369a7f149B859", "name": "MPTValidator01", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "9/7/2022"}
+{"address": "0x4D73AdB72bC3DD368966edD0f0b2148401A178E2", "name": "UltraLightNodeV2", "compiler": "0.7.6", "balance": "0.241654776894805442 ETH", "txcount": 68, "settings": "", "date": "9/7/2022"}
+{"address": "0x7c00609A0E7Ae826A3a8A76c1cfa39B1eb2FE27f", "name": "KeeperRegistry1_3", "compiler": "0.8.6", "balance": "0 ETH", "txcount": 9, "settings": "", "date": "9/7/2022"}
+{"address": "0x8a640742b474a090ea716cd37bB9959C5203eFaF", "name": "KeeperRegistry1_3", "compiler": "0.8.6", "balance": "0 ETH", "txcount": 4, "settings": "", "date": "9/7/2022"}
+{"address": "0xcC04a72338586892ABdaD09cCfBF4dfB97166D84", "name": "KeeperRegistryLogic1_3", "compiler": "0.8.6", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "9/7/2022"}
+{"address": "0x0a4df7809f83e130d8ffa297f03b75318e37b461", "name": "BlackpoolLocker", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "9/7/2022"}
+{"address": "0x4B6E36fA9BE808293D3f8366256D1BFeD1De198a", "name": "BattleflyHarvesterEmissions", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "9/7/2022"}
+{"address": "0x0b01d40A03Db6e6fe21472e570DAe01A1B0A9989", "name": "BattleflyFounderVaultV08", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "9/7/2022"}
+{"address": "0x5e05d693e526fBF93F2fB425D4624cA614c5e7fa", "name": "BattleflyAtlasStakerV02", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "9/7/2022"}
+{"address": "0x256EB8fD707201456bc447aE18B1352D47b6774d", "name": "QuixoticLaunchpadERC721", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 3, "settings": "-", "date": "9/7/2022"}
+{"address": "0x04a518629EBa20C949F94636F75291607c9B9Ca8", "name": "ZeroxWrapper", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "9/7/2022"}
