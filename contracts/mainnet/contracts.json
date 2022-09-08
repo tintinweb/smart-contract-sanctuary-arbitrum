@@ -6794,3 +6794,13 @@
 {"address": "0xCB6ac1EacF498118f4609462c0979fFB3eBD1821", "name": "Vester", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 832, "settings": "", "date": "9/7/2022"}
 {"address": "0xb1870e647c4f7ee5dccfb3e4a98be9f888b184e0", "name": "LlamaPayBot", "compiler": "0.8.16", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "9/7/2022"}
 {"address": "0x8b7009b9636e5a10d0a4af83f952ad2dbcedf873", "name": "IPHONE14", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 15, "settings": "", "date": "9/7/2022"}
+{"address": "0xb7bEC6E207DA22330305a0D8bF5248F8Cca03Cff", "name": "BattleflyFlywheelVaultV02", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "9/8/2022"}
+{"address": "0x9a1c8A87c1838dc4c4aF4834CFF8fbACa7896871", "name": "SmolverseFlywheelVault", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "9/8/2022"}
+{"address": "0x3A1B0759942c0b36C1abf6dE24417a6D5850DD04", "name": "BattleflyFlywheelVaultV02", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "9/8/2022"}
+{"address": "0x2c9cdd149C3Bf72a82B6B5E094De3Ac50A4d8a54", "name": "BattleflyFoundersFlywheelVault", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "9/8/2022"}
+{"address": "0x49493B2d4F17C3Ea210a7720dCA7bA401549aA74", "name": "SmolverseFlywheelVault", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "9/8/2022"}
+{"address": "0x940CF6fFb10Bfe9F5a605F5cAaD1cDB07f7616Ba", "name": "BattleflyFlywheelVaultV02", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "9/8/2022"}
+{"address": "0x22A2d996547b5c2e3e1fd5a19a529a43d7C80264", "name": "BattleflyFoundersFlywheelVault", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "9/8/2022"}
+{"address": "0x0Cf75D33a3BbD0eFbbE126559B0d29781740CA52", "name": "Timelock", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "9/8/2022"}
+{"address": "0x7D4323F3E0ae0E8Dc5c3bFe673e81abeFc6Eb34e", "name": "TransferSwapper", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "9/8/2022"}
+{"address": "0xb40EEd68d7d6B3b6d6f4E93DE6239B7C53EFc786", "name": "ApolloxExchangeTreasury", "compiler": "0.8.16", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "9/8/2022"}
