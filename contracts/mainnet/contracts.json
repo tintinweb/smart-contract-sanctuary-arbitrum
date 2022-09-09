@@ -6837,3 +6837,8 @@
 {"address": "0x75c0530885F385721fddA23C539AF3701d6183D4", "name": "KeeperRegistry1_3", "compiler": "0.8.6", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "9/8/2022"}
 {"address": "0x4F3AF332A30973106Fe146Af0B4220bBBeA748eC", "name": "KeeperRegistrar", "compiler": "0.8.6", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "9/8/2022"}
 {"address": "0x395C8461299c9981E9D1A30d116F0c80a927d2A4", "name": "UpkeepTranscoder", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "9/8/2022"}
+{"address": "0xCA8B839F9662B15710B4F25E0A11710AaE799d2B", "name": "ControllerStock", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "9/9/2022"}
+{"address": "0xfCaB4F2Ca4156a1b2a2d1BcDe9ddE64dB7Bd6c43", "name": "SymbolImplementationOption", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "9/9/2022"}
+{"address": "0x4CfBa1102a28c1cb46eb2694117B6389f91Ad9d8", "name": "ActivePool", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "9/9/2022"}
+{"address": "0xc4F089424C371D39c249896Da8912D468C4C207B", "name": "VestaGLPStaking", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "9/8/2022"}
+{"address": "0x372FfB4c80E0afFD21025934B8aB9B6AF15B2778", "name": "GLPOracle", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "9/8/2022"}
