@@ -6886,3 +6886,11 @@
 {"address": "0xf43B4a996a11ED70DEc418baF1364FA2f53c2907", "name": "DPSChestV2", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 6, "settings": "", "date": "9/9/2022"}
 {"address": "0x86a889578e727972605274dd24b2560E485836A6", "name": "DPSCartographer", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 7, "settings": "", "date": "9/9/2022"}
 {"address": "0x2857E81aba1067fC3F158b7Bd0c01e48e58A575e", "name": "Token", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "9/9/2022"}
+{"address": "0x1Ce60E3950468bCF65cd71a8db7810d93Ff615dC", "name": "StabilityPoolReader", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "9/9/2022"}
+{"address": "0x4E3887E9A615f363618D539667C1dd39f1b4cBf8", "name": "LegionStakingRules", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "9/9/2022"}
+{"address": "0x2a4730B0Bd1Bb9E06F365C15403Fa264119d9a51", "name": "QuixoticLaunchpadERC721", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 4030, "settings": "-", "date": "9/9/2022"}
+{"address": "0xbf14B04dA2487aE13e50238FD5321224556d448a", "name": "MonumentMinter", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "9/9/2022"}
+{"address": "0x5712B609F59038CaEA3f6bBb2FFa659eb38A8f32", "name": "EntityTimer", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "9/9/2022"}
+{"address": "0xa56aa79EeF0651a0D04B00Da4f6263bcec841184", "name": "Monument", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "9/9/2022"}
+{"address": "0x99Ac110f6D006f8a0ec9eB305Fd1e3C7023666a5", "name": "StabilityPoolReader", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "9/9/2022"}
+{"address": "0xb2eeb93d778c364e7e2274d6299e2aa0c2bea090", "name": "PythUpgradable", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "9/9/2022"}
