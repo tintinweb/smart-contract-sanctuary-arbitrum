@@ -6927,3 +6927,5 @@
 {"address": "0x1922a6acda1087564ba519ff672470c7e3098bda", "name": "PerpPoolUtils", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "9/10/2022"}
 {"address": "0x55316a62e9d1aeb31f496f6adff8bd9c6eaed690", "name": "PerpPoolPositionManager", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "9/10/2022"}
 {"address": "0xe508745a5865cded5aed7156467f202e29af805f", "name": "PriceUtils", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "9/10/2022"}
+{"address": "0xee46ac7e7fad9c4cfc8bbb2cbb0f52774ccdf27c", "name": "PepeJoke", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 8, "settings": "", "date": "9/10/2022"}
+{"address": "0x5a7c4d059eB9f83a31308d7BfdC5F8dA0eAC7A23", "name": "ONFTGateway", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 9, "settings": "", "date": "9/10/2022"}
