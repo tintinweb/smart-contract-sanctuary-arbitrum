@@ -6912,3 +6912,18 @@
 {"address": "0x7f00a3Cd4590009C349192510D51F8e6312E08CB", "name": "Counter", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "9/9/2022"}
 {"address": "0xF63035eF5C2187c7BC2d11655b92812390Fae8d4", "name": "MithicalPFPNFT", "compiler": "0.8.9", "balance": "9.2 ETH", "txcount": 117, "settings": "", "date": "9/9/2022"}
 {"address": "0xbc96FA20803dE37f07a3f747250152E9a078C3F5", "name": "TokenFactory", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 11, "settings": "", "date": "9/9/2022"}
+{"address": "0xd1b5325aadc5073a169a8c5512e0c11ae369cded", "name": "DogeJoker", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 3, "settings": "", "date": "9/10/2022"}
+{"address": "0x5c1088A7a30D34CE8A649D5b36D50f87FBd84A40", "name": "SetToken", "compiler": "0.6.10", "balance": "-", "txcount": 0, "settings": "", "date": "9/10/2022"}
+{"address": "0xec486F7a62bab5C1273417Aa798E104f276f6188", "name": "TradeModule", "compiler": "0.6.10", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "9/10/2022"}
+{"address": "0xb87A0e5D008afb7c13452BA2914C1f247653F6Df", "name": "StreamingFeeModule", "compiler": "0.6.10", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "9/10/2022"}
+{"address": "0xFDA0Dab9958B5F4f246F045E19fBb487EC2cbD1C", "name": "BasicIssuanceModule", "compiler": "0.6.10", "balance": "0 ETH", "txcount": 5, "settings": "", "date": "9/10/2022"}
+{"address": "0xfAb7d93a9057A3f9251d076e49E9650510e9ef6f", "name": "SetTokenCreator", "compiler": "0.6.10", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "9/10/2022"}
+{"address": "0xBD158a959cc63e8f98c461c1c0df886584cf5aA4", "name": "ActivePool", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "9/10/2022"}
+{"address": "0xb0E4E32eb6E7187CCA362c08FF0489BD5fCBAf4F", "name": "Controller", "compiler": "0.6.10", "balance": "0 ETH", "txcount": 3, "settings": "", "date": "9/10/2022"}
+{"address": "0xd5358e7d1bc6564266ddf9a38cecb31579bb8149", "name": "PerpPoolPositionManager", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "9/10/2022"}
+{"address": "0xe4b047a5e1d66908de445c6d8b2562614c0229d9", "name": "PerpPoolUtils", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "9/10/2022"}
+{"address": "0x4553c17ac6b21be655ccbab59c7a9d760fdf999b", "name": "PerpPoolUtils", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "9/10/2022"}
+{"address": "0x5c1a2a483db095857503848713136dc4dff19805", "name": "PerpPoolUtils", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "9/10/2022"}
+{"address": "0x1922a6acda1087564ba519ff672470c7e3098bda", "name": "PerpPoolUtils", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "9/10/2022"}
+{"address": "0x55316a62e9d1aeb31f496f6adff8bd9c6eaed690", "name": "PerpPoolPositionManager", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "9/10/2022"}
+{"address": "0xe508745a5865cded5aed7156467f202e29af805f", "name": "PriceUtils", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "9/10/2022"}
