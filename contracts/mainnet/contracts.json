@@ -6961,3 +6961,10 @@
 {"address": "0x5d070c40a0f4523d926009d18ac65981965047df", "name": "DpxEthStorage", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "9/11/2022"}
 {"address": "0x51eb377a88ff32c9f22ce1f911890e758958ed04", "name": "SsovAdapter", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "9/11/2022"}
 {"address": "0x337b5d90abc56b2b18899c4249a3b5bebed152ee", "name": "NitroTest", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 7, "settings": "", "date": "9/11/2022"}
+{"address": "0x59B3D5dDf93A3782F7B7A4bE1214722fc6Fecd45", "name": "mSpellReporter", "compiler": "0.8.10", "balance": "1 ETH", "txcount": 2, "settings": "", "date": "9/12/2022"}
+{"address": "0x00000000bbe723D51C3980cDBc84b1F94d700119", "name": "RoundIdFetcher", "compiler": "0.8.14", "balance": "-", "txcount": 0, "settings": "", "date": "9/12/2022"}
+{"address": "0xC7eea3a6192Ae58547f28803EF4fe323F102c182", "name": "CollectionsRepository", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 3, "settings": "", "date": "9/12/2022"}
+{"address": "0xBe7D6De0ecF427c0F81553989b4078EC80EE8C3f", "name": "CollectionFactory", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "9/12/2022"}
+{"address": "0x1C515CfC6239358cFC29517132aE70138F8998B4", "name": "Greeter", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "9/12/2022"}
+{"address": "0xc0d6696aB0c51bD72a96B172DF0BeCe8230F44a2", "name": "TokenFactory", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 3, "settings": "", "date": "9/11/2022"}
+{"address": "0xfE852479c2F367fF084348B2F932013B32b81A80", "name": "Unitroller", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 4, "settings": "", "date": "9/11/2022"}
