@@ -6968,3 +6968,6 @@
 {"address": "0x1C515CfC6239358cFC29517132aE70138F8998B4", "name": "Greeter", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "9/12/2022"}
 {"address": "0xc0d6696aB0c51bD72a96B172DF0BeCe8230F44a2", "name": "TokenFactory", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 3, "settings": "", "date": "9/11/2022"}
 {"address": "0xfE852479c2F367fF084348B2F932013B32b81A80", "name": "Unitroller", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 4, "settings": "", "date": "9/11/2022"}
+{"address": "0xf00e777562097f5cc7f904b7f4e9c95c5cfde47d", "name": "OneSplit", "compiler": "0.8.2", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "9/12/2022"}
+{"address": "0x888B54Ee4eD8D1B699F19F89146842147F16cA89", "name": "SignatureHelper", "compiler": "0.8.11", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "9/12/2022"}
+{"address": "0xd553810a1AF6E27043c19cF5d67f3Cf4178D83fB", "name": "BrokerProxy", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "9/12/2022"}
