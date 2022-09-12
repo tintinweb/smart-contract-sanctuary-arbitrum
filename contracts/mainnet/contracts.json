@@ -6971,3 +6971,10 @@
 {"address": "0xf00e777562097f5cc7f904b7f4e9c95c5cfde47d", "name": "OneSplit", "compiler": "0.8.2", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "9/12/2022"}
 {"address": "0x888B54Ee4eD8D1B699F19F89146842147F16cA89", "name": "SignatureHelper", "compiler": "0.8.11", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "9/12/2022"}
 {"address": "0xd553810a1AF6E27043c19cF5d67f3Cf4178D83fB", "name": "BrokerProxy", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "9/12/2022"}
+{"address": "0x53E2B5fFF5FfA2DB80C56D808e07Cd27E7baD5A5", "name": "OtokenFactory", "compiler": "0.6.10", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "9/12/2022"}
+{"address": "0xB63c3065b114493F4A7961b66613b85F1E259c32", "name": "AddressBook", "compiler": "0.6.10", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "9/12/2022"}
+{"address": "0x6b8E9E5dC5c63118FaeA89E9cDd3f6601Db9a205", "name": "KeeperRegistryCheckUpkeepGasUsageWrapper1_2", "compiler": "0.8.6", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "9/12/2022"}
+{"address": "0x341a7d746a35244570f32eca7620c360a802c37d", "name": "FrameDataStoreOwnable", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 23, "settings": "-", "date": "9/12/2022"}
+{"address": "0xAda6a41e69164969C8C74C320E6419B13Cc9366e", "name": "LiquidityManager", "compiler": "0.8.16", "balance": "0 ETH", "txcount": 3, "settings": "", "date": "9/12/2022"}
+{"address": "0x20CB52832F35C61CCdBe5c336e405FE979de9430", "name": "mSpellReporter", "compiler": "0.8.10", "balance": "0.5 ETH", "txcount": 2, "settings": "", "date": "9/12/2022"}
+{"address": "0xa17dd70ba7d1006eba8d3f84a87c3ac86a27fdd4", "name": "NitroTest", "compiler": "0.8.8", "balance": "1 wei", "txcount": 9, "settings": "-", "date": "9/12/2022"}
