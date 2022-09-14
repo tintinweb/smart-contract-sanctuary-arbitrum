@@ -7054,3 +7054,6 @@
 {"address": "0xA2978262f9754Eaed273bB9C0D5d4b0568D6D67e", "name": "ZapfolioFactory", "compiler": "0.5.16", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "9/14/2022"}
 {"address": "0x519be81e24404afe3745ab4c8675aabdb2ea1282", "name": "EGGSGIVING", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 10, "settings": "", "date": "9/14/2022"}
 {"address": "0x82bb972b4761598707a22f9452fc9b5ceb11472c", "name": "Fidance", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 46, "settings": "", "date": "9/14/2022"}
+{"address": "0x76480A8C5A74B1A6AD887FDA633B0C3777a599F4", "name": "nitroYETI", "compiler": "0.8.11", "balance": "0 ETH", "txcount": 21, "settings": "", "date": "9/14/2022"}
+{"address": "0x0EA9B8b2124f7545c343725c2029099e627B6f9D", "name": "Holder", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 404, "settings": "", "date": "9/14/2022"}
+{"address": "0xA4c8832EBBF07F47f950CA04F99E6D49f39eB593", "name": "MockWETH", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "9/14/2022"}
