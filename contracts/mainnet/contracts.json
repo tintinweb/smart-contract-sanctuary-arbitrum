@@ -7047,3 +7047,10 @@
 {"address": "0x7b8b331a3290d4eff73cc02d178b213d1e3ebf8c", "name": "NitroTest", "compiler": "0.8.8", "balance": "0 ETH", "txcount": 2, "settings": "-", "date": "9/13/2022"}
 {"address": "0x1e769ee4470103aebfbfbcaacf90b95c70edad54", "name": "NitroTest", "compiler": "0.8.5", "balance": "0 ETH", "txcount": 7, "settings": "-", "date": "9/13/2022"}
 {"address": "0xad5451166b5f9b646566b1d865eeb9c56721cb7a", "name": "CoinToken", "compiler": "0.8.2", "balance": "0 ETH", "txcount": 28, "settings": "", "date": "9/13/2022"}
+{"address": "0x2f62d3bb682e367802c275cdc98a14829cd6c53f", "name": "ZapfolioFeeSetter", "compiler": "0.5.16", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "9/14/2022"}
+{"address": "0x778c056ef6d5bd72c9624b3e654b7576004e75ea", "name": "ZapfolioFeeReceiver", "compiler": "0.5.16", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "9/14/2022"}
+{"address": "0xdaf0ea58a439d1648aa7f9cde218b2bc09011e22", "name": "ZapfolioERC20StakingRewardsDistributionFactory", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "9/14/2022"}
+{"address": "0x338f990f6642e1A7f3DEBd73538439daDFEfD16f", "name": "ZapfolioRouter", "compiler": "0.6.6", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "9/14/2022"}
+{"address": "0xA2978262f9754Eaed273bB9C0D5d4b0568D6D67e", "name": "ZapfolioFactory", "compiler": "0.5.16", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "9/14/2022"}
+{"address": "0x519be81e24404afe3745ab4c8675aabdb2ea1282", "name": "EGGSGIVING", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 10, "settings": "", "date": "9/14/2022"}
+{"address": "0x82bb972b4761598707a22f9452fc9b5ceb11472c", "name": "Fidance", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 46, "settings": "", "date": "9/14/2022"}
