@@ -7062,3 +7062,9 @@
 {"address": "0x7965b83f30bDa84b965C57Cedf5d67066B1CB270", "name": "StrategyCurveLP", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "9/14/2022"}
 {"address": "0xb5AAa74CbA960D9Cbb6beE05e5435299308C682c", "name": "ShipyardVault", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "9/14/2022"}
 {"address": "0x3B6d0714C1Fe0319FD5EbcB04D7A8364dBE45359", "name": "ShipyardOneClickCurve", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 7, "settings": "", "date": "9/14/2022"}
+{"address": "0x9527e8301b43db94a923d381f383d58310d4d4c7", "name": "Spacesuit", "compiler": "0.8.0", "balance": "0 ETH", "txcount": 9, "settings": "-", "date": "9/15/2022"}
+{"address": "0x42c466ccF141A8EBE0Aa2ECEF06A4f4BE9a9B526", "name": "BatchConversionPayments", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 4, "settings": "", "date": "9/15/2022"}
+{"address": "0x3e562590e96f445b5A9609C9c515fb2Ed7CAeC28", "name": "H2SOFA", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 3, "settings": "", "date": "9/15/2022"}
+{"address": "0x3aADB631aB9EF0458A8A32449a1E765F42B33Ea1", "name": "H2SOFA", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 3, "settings": "", "date": "9/15/2022"}
+{"address": "0xDDed222297B3d08DAFDAc8f65eeB799B2674C78F", "name": "PodToken", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 3, "settings": "", "date": "9/15/2022"}
+{"address": "0x865087F1f095489A1CB1e542d12bca15EA61E2a2", "name": "TransparentUpgradeableProxy", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 667, "settings": "", "date": "9/15/2022", "err": "Exception('unable to find source-code. rate limited? retry..')"}
