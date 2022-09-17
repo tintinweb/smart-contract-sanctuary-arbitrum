@@ -7151,3 +7151,9 @@
 {"address": "0x865087F1f095489A1CB1e542d12bca15EA61E2a2", "name": "TransparentUpgradeableProxy", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 667, "settings": "", "date": "9/15/2022", "err": "Exception('unable to find source-code. rate limited? retry..')"}
 {"address": "0x7d28ef69bd63557ef61e96404f27cadd6c2832fd", "name": "Vyper_contract", "compiler": "vyper:0.2.16", "balance": "0 ETH", "txcount": 4, "settings": "", "date": "9/17/2022"}
 {"address": "0x865087F1f095489A1CB1e542d12bca15EA61E2a2", "name": "TransparentUpgradeableProxy", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 667, "settings": "", "date": "9/15/2022", "err": "Exception('unable to find source-code. rate limited? retry..')"}
+{"address": "0x1b47846758456e24e865d6A1aD16A6c540d4AE4e", "name": "GNSPriceAggregatorV6_2", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 9, "settings": "", "date": "9/17/2022"}
+{"address": "0xf89c7b6413ed0b5e2a2c53cea32ffe61185e5e5b", "name": "GNSDaiTokenV5", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 6, "settings": "", "date": "9/17/2022"}
+{"address": "0x46d97751A3Fa99bcF5CABB07f35A1eEB72Bb0DF0", "name": "GNSTradingStorageV5", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 97, "settings": "", "date": "9/17/2022"}
+{"address": "0x2688ddab2c291f98C1f79Cd682f35E41900ED407", "name": "GNSTradingCallbacksV6_2", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "9/17/2022"}
+{"address": "0x370A2802A7EEf99647308c0822AFA1B577D6536E", "name": "GNSTradingV6_2", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 4, "settings": "", "date": "9/17/2022"}
+{"address": "0x865087F1f095489A1CB1e542d12bca15EA61E2a2", "name": "TransparentUpgradeableProxy", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 667, "settings": "", "date": "9/15/2022", "err": "Exception('unable to find source-code. rate limited? retry..')"}
