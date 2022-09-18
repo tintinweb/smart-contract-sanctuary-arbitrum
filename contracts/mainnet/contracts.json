@@ -7178,3 +7178,6 @@
 {"address": "0xB90F5554Ad65F581fCeDc3d744cE605BbfC0785F", "name": "GNSPriceAggregatorV6_2", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "9/18/2022"}
 {"address": "0x66aF8513bC7B7f07b299755fa53afb9A7185E20B", "name": "GNSPriceAggregatorV6_2", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "9/18/2022"}
 {"address": "0x865087F1f095489A1CB1e542d12bca15EA61E2a2", "name": "TransparentUpgradeableProxy", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 667, "settings": "", "date": "9/15/2022", "err": "Exception('unable to find source-code. rate limited? retry..')"}
+{"address": "0x96F9E61207B4093A72b3F07b1ae8de68D1A3223a", "name": "Solvency", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "9/18/2022"}
+{"address": "0xb445135159eea6765dce7121d857a2d103b56251", "name": "StableSociety", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 20, "settings": "-", "date": "9/18/2022"}
+{"address": "0x865087F1f095489A1CB1e542d12bca15EA61E2a2", "name": "TransparentUpgradeableProxy", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 667, "settings": "", "date": "9/15/2022", "err": "Exception('unable to find source-code. rate limited? retry..')"}
