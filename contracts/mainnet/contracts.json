@@ -7340,3 +7340,11 @@
 {"address": "0x9AEC0005D69041d57f018e9fE037bbDdED1239B5", "name": "IngredientsERC11155", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "9/21/2022"}
 {"address": "0x6c3f78Ff845CAF1662c19a1B335E553E35dE3Bd9", "name": "BossCardERC1155", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "9/21/2022"}
 {"address": "0x865087F1f095489A1CB1e542d12bca15EA61E2a2", "name": "TransparentUpgradeableProxy", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 671, "settings": "", "date": "9/15/2022", "err": "Exception('unable to find source-code. rate limited? retry..')"}
+{"address": "0xb4fc05e083890bfb68a5da59f26c89c3499da49a", "name": "GasPrice", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "9/21/2022"}
+{"address": "0xebb543bb81be5bc5a3425b3bdebb92132f7122e7", "name": "KintsugiRewardPool", "compiler": "0.5.16", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "9/21/2022"}
+{"address": "0x978fb702bce7ab97825543b5dbc040a493836e97", "name": "OpenSeaArbitrumbyLayer2DaoContract", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 495, "settings": "", "date": "9/21/2022"}
+{"address": "0x3a3207b4a33a93fa84ac9b04440a05e6d029a1db", "name": "KintsugiFinance", "compiler": "0.5.16", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "9/21/2022"}
+{"address": "0x3d4d40ae801fbfd8d470bf562c4dbc7dbe1f51e1", "name": "Kitsugi", "compiler": "0.5.16", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "9/21/2022"}
+{"address": "0xd7b915a3f8d2b4acb7b86f401a4fd672b5e48d70", "name": "Multicall", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "9/21/2022"}
+{"address": "0x2d2ca61e6e5fa9c55d603cd3aa9fbeb61707ba92", "name": "KintsugiTreasury", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "9/21/2022"}
+{"address": "0x865087F1f095489A1CB1e542d12bca15EA61E2a2", "name": "TransparentUpgradeableProxy", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 671, "settings": "", "date": "9/15/2022", "err": "Exception('unable to find source-code. rate limited? retry..')"}
