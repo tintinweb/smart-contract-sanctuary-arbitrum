@@ -7348,3 +7348,13 @@
 {"address": "0xd7b915a3f8d2b4acb7b86f401a4fd672b5e48d70", "name": "Multicall", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "9/21/2022"}
 {"address": "0x2d2ca61e6e5fa9c55d603cd3aa9fbeb61707ba92", "name": "KintsugiTreasury", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "9/21/2022"}
 {"address": "0x865087F1f095489A1CB1e542d12bca15EA61E2a2", "name": "TransparentUpgradeableProxy", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 671, "settings": "", "date": "9/15/2022", "err": "Exception('unable to find source-code. rate limited? retry..')"}
+{"address": "0x0e8e96ce350ce4ddc146ab6fbd52a9d8b6d9a4e9", "name": "TsuFeeRouter", "compiler": "0.8.2", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "9/22/2022"}
+{"address": "0x3f7b74458fef0179660ce5ad6d7854bcc956de85", "name": "ProxyAdmin", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 4, "settings": "", "date": "9/22/2022"}
+{"address": "0xa7ddf95d08ad19d1e7fc3fd33b757de1a0a7eecb", "name": "TransparentUpgradeableProxy", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "9/22/2022"}
+{"address": "0xce8ffcf831d5c3fc635e0a41e7a18c1c8b491fe9", "name": "KintsugiHarvester", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "9/21/2022"}
+{"address": "0x6bd0612ab21b2d068e3d3b6777729cf560b01867", "name": "KintsugiRegistry", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "9/21/2022"}
+{"address": "0xdb5c6673254e74070409c180c8df390dc365754b", "name": "KintsugiFeeBatchV3", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "9/21/2022"}
+{"address": "0xca4aa14ab258d8f71d3094743d6af9c797fd2a40", "name": "KintsugiFeeConfigurator", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "9/21/2022"}
+{"address": "0xaf7ad7cd572c87fe37f3d77a590d8043e186cdb0", "name": "KintsugiFeeBatchV3SolidlyRouter", "compiler": "0.8.2", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "9/21/2022"}
+{"address": "0x0a5402d47252139500923e81d8c301bac1c6994c", "name": "TsuFeeBatch", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "9/21/2022"}
+{"address": "0x865087F1f095489A1CB1e542d12bca15EA61E2a2", "name": "TransparentUpgradeableProxy", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 672, "settings": "", "date": "9/15/2022", "err": "Exception('unable to find source-code. rate limited? retry..')"}
