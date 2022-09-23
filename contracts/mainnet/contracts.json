@@ -7592,3 +7592,25 @@
 {"address": "0xeb17888748c5bf217330a3000Bc6D1be615da79a", "name": "AutoMinterERC721", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "9/23/2022"}
 {"address": "0x927D66f6a69BA4C7D6C2bEAA00306e082D711E35", "name": "AutoMinterERC721A", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "9/23/2022"}
 {"address": "0x865087F1f095489A1CB1e542d12bca15EA61E2a2", "name": "TransparentUpgradeableProxy", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 672, "settings": "", "date": "9/15/2022", "err": "Exception('unable to find source-code. rate limited? retry..')"}
+{"address": "0x775d4d8C4751bAe18EbdbA4EbaA46A1ff54d0C9d", "name": "DCAHubSwapper", "compiler": "0.8.16", "balance": "-", "txcount": 0, "settings": "", "date": "9/23/2022"}
+{"address": "0x49c590F6a2dfB0f809E82B9e2BF788C0Dd1c31f9", "name": "DCAHubCompanion", "compiler": "0.8.16", "balance": "-", "txcount": 0, "settings": "", "date": "9/23/2022"}
+{"address": "0xFF0BC9128290019b4F0c03038275c36F88f4D201", "name": "DCAFeeManager", "compiler": "0.8.16", "balance": "-", "txcount": 0, "settings": "", "date": "9/23/2022"}
+{"address": "0xca341351FA4D98a3EE7eb688796B796603128d85", "name": "SwapProxy", "compiler": "0.8.16", "balance": "-", "txcount": 0, "settings": "", "date": "9/23/2022"}
+{"address": "0xd6C8fd8100252F0a314407C26e7A47286F7Fda24", "name": "SwapperRegistry", "compiler": "0.8.16", "balance": "-", "txcount": 0, "settings": "", "date": "9/23/2022"}
+{"address": "0x20bdAE1413659f47416f769a4B27044946bc9923", "name": "DCAPermissionsManager", "compiler": "0.8.16", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "9/23/2022"}
+{"address": "0xA5AdC5484f9997fBF7D405b9AA62A7d88883C345", "name": "DCAHub", "compiler": "0.8.16", "balance": "-", "txcount": 0, "settings": "", "date": "9/23/2022"}
+{"address": "0xEb5D9d327f2Dd438494ef07D6437f495C8dD563c", "name": "TimelockController", "compiler": "0.8.9", "balance": "-", "txcount": 0, "settings": "", "date": "9/23/2022"}
+{"address": "0x4ACd4BC402bc8e6BA8aBDdcA639d8011ef0b8a4b", "name": "DCAHubPositionDescriptor", "compiler": "0.8.16", "balance": "-", "txcount": 0, "settings": "", "date": "9/23/2022", "err": "Exception('HTML IN OUTPUT!! - BeautifulSoup messed up..')"}
+{"address": "0xEB8615cF5bf0f851aEFa894307aAe2b595628148", "name": "TransformerOracle", "compiler": "0.8.16", "balance": "-", "txcount": 0, "settings": "", "date": "9/23/2022"}
+{"address": "0x9e1ca4Cd00ED059C5d34204DCe622549583545d9", "name": "OracleAggregator", "compiler": "0.8.16", "balance": "-", "txcount": 0, "settings": "", "date": "9/23/2022"}
+{"address": "0xD741623299413d02256aAC2101f8B30873fED1d2", "name": "UniswapV3Adapter", "compiler": "0.8.16", "balance": "-", "txcount": 0, "settings": "", "date": "9/23/2022"}
+{"address": "0x5587d300d41E418B3F4DC7c273351748a116d78B", "name": "StatefulChainlinkOracle", "compiler": "0.8.16", "balance": "-", "txcount": 0, "settings": "", "date": "9/23/2022"}
+{"address": "0x0171C3D8315159d771f4A4e09840b1747b7f7364", "name": "IdentityOracle", "compiler": "0.8.16", "balance": "-", "txcount": 0, "settings": "", "date": "9/23/2022"}
+{"address": "0xe46F105427e9A0f6Dc6E90649FCc19a70C6D809e", "name": "ChainlinkRegistry", "compiler": "0.8.16", "balance": "-", "txcount": 0, "settings": "", "date": "9/23/2022"}
+{"address": "0xC0136591Df365611B1452B5F8823dEF69Ff3A685", "name": "TransformerRegistry", "compiler": "0.8.16", "balance": "-", "txcount": 0, "settings": "", "date": "9/23/2022"}
+{"address": "0xfd55b5A6F61f22c70f4A1d8e63d181c6D0a290c6", "name": "ProtocolTokenWrapperTransformer", "compiler": "0.8.16", "balance": "-", "txcount": 0, "settings": "", "date": "9/23/2022"}
+{"address": "0x7CbdcA3c992953bdd536BE234973686D758DAabc", "name": "ERC4626Transformer", "compiler": "0.8.16", "balance": "-", "txcount": 0, "settings": "", "date": "9/23/2022"}
+{"address": "0x38e1c40b8625c26204f90812881652e406148c3c", "name": "KaliDAOcrowdsale", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "9/23/2022"}
+{"address": "0x25FB92E505F752F730cAD0Bd4fa17ecE4A384266", "name": "L2_ArbitrumBridge", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 3, "settings": "", "date": "9/23/2022"}
+{"address": "0xdb28fE77709D88badC86868B27937428C3F48E73", "name": "FLBalancer", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "9/23/2022"}
+{"address": "0x1af09ae228c9daa44193053c2049c9930f47e04a", "name": "Arbitrum", "compiler": "0.8.17", "balance": "0.00000000001 ETH", "txcount": 2, "settings": "-", "date": "9/23/2022"}
