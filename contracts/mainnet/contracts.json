@@ -7625,3 +7625,7 @@
 {"address": "0x4ACd4BC402bc8e6BA8aBDdcA639d8011ef0b8a4b", "name": "DCAHubPositionDescriptor", "compiler": "0.8.16", "balance": "-", "txcount": 0, "settings": "", "date": "9/23/2022", "err": "Exception('HTML IN OUTPUT!! - BeautifulSoup messed up..')"}
 {"address": "0x4ACd4BC402bc8e6BA8aBDdcA639d8011ef0b8a4b", "name": "DCAHubPositionDescriptor", "compiler": "0.8.16", "balance": "-", "txcount": 0, "settings": "", "date": "9/23/2022", "err": "Exception('HTML IN OUTPUT!! - BeautifulSoup messed up..')"}
 {"address": "0x4ACd4BC402bc8e6BA8aBDdcA639d8011ef0b8a4b", "name": "DCAHubPositionDescriptor", "compiler": "0.8.16", "balance": "-", "txcount": 0, "settings": "", "date": "9/23/2022", "err": "Exception('HTML IN OUTPUT!! - BeautifulSoup messed up..')"}
+{"address": "0xE7242eC271daBE41d3CeeCE31E0BE8E9A1A068f5", "name": "ElleriaHeroBridge", "compiler": "0.8.0", "balance": "0 ETH", "txcount": 4, "settings": "-", "date": "9/25/2022"}
+{"address": "0x9eefcbdcc369a29d66922cd69b11cfc2babefd92", "name": "BoredApe", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 14, "settings": "-", "date": "9/25/2022"}
+{"address": "0xb1df986448fb650bf6f30772000bad459c7a89fc", "name": "WineProtocol", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 15, "settings": "", "date": "9/24/2022"}
+{"address": "0x4ACd4BC402bc8e6BA8aBDdcA639d8011ef0b8a4b", "name": "DCAHubPositionDescriptor", "compiler": "0.8.16", "balance": "-", "txcount": 0, "settings": "", "date": "9/23/2022", "err": "Exception('HTML IN OUTPUT!! - BeautifulSoup messed up..')"}
