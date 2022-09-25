@@ -7630,3 +7630,8 @@
 {"address": "0xb1df986448fb650bf6f30772000bad459c7a89fc", "name": "WineProtocol", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 15, "settings": "", "date": "9/24/2022"}
 {"address": "0x4ACd4BC402bc8e6BA8aBDdcA639d8011ef0b8a4b", "name": "DCAHubPositionDescriptor", "compiler": "0.8.16", "balance": "-", "txcount": 0, "settings": "", "date": "9/23/2022", "err": "Exception('HTML IN OUTPUT!! - BeautifulSoup messed up..')"}
 {"address": "0x4ACd4BC402bc8e6BA8aBDdcA639d8011ef0b8a4b", "name": "DCAHubPositionDescriptor", "compiler": "0.8.16", "balance": "-", "txcount": 0, "settings": "", "date": "9/23/2022", "err": "Exception('HTML IN OUTPUT!! - BeautifulSoup messed up..')"}
+{"address": "0x51be09bfa08f1d91d37b96552241fe38e4640f88", "name": "vToken", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "9/25/2022"}
+{"address": "0xc6ce54ce0c287e1e09161f0c580457b5b9d9f8b8", "name": "Vault", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "9/25/2022"}
+{"address": "0x00bd8f02ec3f20818281fb9e78b00102331e86f3", "name": "ActionExecutor", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 6, "settings": "", "date": "9/25/2022"}
+{"address": "0x3fe1114b21b5cb3d11da46e43eadb1373150bf2e", "name": "Interact", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 2, "settings": "-", "date": "9/25/2022"}
+{"address": "0x4ACd4BC402bc8e6BA8aBDdcA639d8011ef0b8a4b", "name": "DCAHubPositionDescriptor", "compiler": "0.8.16", "balance": "-", "txcount": 0, "settings": "", "date": "9/23/2022", "err": "Exception('HTML IN OUTPUT!! - BeautifulSoup messed up..')"}
