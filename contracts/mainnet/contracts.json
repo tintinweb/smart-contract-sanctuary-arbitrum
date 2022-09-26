@@ -7653,3 +7653,11 @@
 {"address": "0x712cABaE569B54222BfB8E02A83AD98cc6D2Fb30", "name": "TeaVaultV2", "compiler": "0.8.16", "balance": "-", "txcount": 0, "settings": "", "date": "9/26/2022"}
 {"address": "0xd552b86c8985be05fa934379aba3f44c001e3f0a", "name": "BeefyPairFeeDataSource", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "9/26/2022"}
 {"address": "0x4ACd4BC402bc8e6BA8aBDdcA639d8011ef0b8a4b", "name": "DCAHubPositionDescriptor", "compiler": "0.8.16", "balance": "-", "txcount": 0, "settings": "", "date": "9/23/2022", "err": "Exception('HTML IN OUTPUT!! - BeautifulSoup messed up..')"}
+{"address": "0x83d0870C6E61be0bb8C5FFDf05c283a78078815B", "name": "Whitelist", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "9/26/2022"}
+{"address": "0x5d52609faa9ef701307c0847560291ec272e1008", "name": "OneSplit", "compiler": "0.8.2", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "9/26/2022"}
+{"address": "0xff3010e3355b592bdb0642f9c4e9bf41a011afe5", "name": "NFT", "compiler": "0.8.6", "balance": "0.099 ETH", "txcount": 18, "settings": "", "date": "9/26/2022"}
+{"address": "0x37Cdbe3063002383B2018240bdAFE05127d36c3C", "name": "BufferBinaryIBFRPoolBinary", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 4, "settings": "", "date": "9/26/2022"}
+{"address": "0x314215b08cbC14396B11De9B0246013777c9a92b", "name": "RewardRouterV2", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 26, "settings": "", "date": "9/26/2022"}
+{"address": "0x06395FCF9AC6ED827f9dD6e776809cEF1Be0d21B", "name": "SignatureDrop", "compiler": "0.8.12", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "9/26/2022"}
+{"address": "0xcabd23df0472d4bb90c5ab543c57745dfea53849", "name": "KintsugiZapSushi", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "9/26/2022"}
+{"address": "0x4ACd4BC402bc8e6BA8aBDdcA639d8011ef0b8a4b", "name": "DCAHubPositionDescriptor", "compiler": "0.8.16", "balance": "-", "txcount": 0, "settings": "", "date": "9/23/2022", "err": "Exception('HTML IN OUTPUT!! - BeautifulSoup messed up..')"}
