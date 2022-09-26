@@ -7639,3 +7639,11 @@
 {"address": "0xE11c615e11CCd06A2A874C842799b1aFe6cC8868", "name": "ReactorManager", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "9/25/2022"}
 {"address": "0xf8C9B338D5d7Cb42435b338060c7516FC27Cd879", "name": "CapybaraBirthdayBadgeContract", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "9/25/2022"}
 {"address": "0x4ACd4BC402bc8e6BA8aBDdcA639d8011ef0b8a4b", "name": "DCAHubPositionDescriptor", "compiler": "0.8.16", "balance": "-", "txcount": 0, "settings": "", "date": "9/23/2022", "err": "Exception('HTML IN OUTPUT!! - BeautifulSoup messed up..')"}
+{"address": "0x4Ac11aff0B1EABB739c30E67388b0E74F685FB6f", "name": "HyphenAdapter", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "9/26/2022"}
+{"address": "0x237950bbECAe0dc7C001adFB69002ba6bcF18162", "name": "Crafting", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "9/26/2022"}
+{"address": "0xbeec773C4A942d315B77cc9feA45793B5dc01473", "name": "CollectibleProducer", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 9, "settings": "", "date": "9/26/2022"}
+{"address": "0x5C740B7ed295b6B3d2B41C62b23A39483550bE77", "name": "LegionMetadataStore", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "9/25/2022"}
+{"address": "0xB04CbE8F91771Df4751F96E5E80A14aEE9125A50", "name": "Legion", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "9/25/2022"}
+{"address": "0x10cb4f9ca491ed807d1af55c456bb93b034de32e", "name": "Beacon", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 3, "settings": "", "date": "9/25/2022"}
+{"address": "0xe63bf72d94b330ac5fbb9630f2634ec45bd7ae33", "name": "SingleBeacon", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 3, "settings": "", "date": "9/25/2022"}
+{"address": "0x4ACd4BC402bc8e6BA8aBDdcA639d8011ef0b8a4b", "name": "DCAHubPositionDescriptor", "compiler": "0.8.16", "balance": "-", "txcount": 0, "settings": "", "date": "9/23/2022", "err": "Exception('HTML IN OUTPUT!! - BeautifulSoup messed up..')"}
