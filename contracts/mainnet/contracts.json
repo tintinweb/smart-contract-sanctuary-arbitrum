@@ -7663,3 +7663,17 @@
 {"address": "0x4ACd4BC402bc8e6BA8aBDdcA639d8011ef0b8a4b", "name": "DCAHubPositionDescriptor", "compiler": "0.8.16", "balance": "-", "txcount": 0, "settings": "", "date": "9/23/2022", "err": "Exception('HTML IN OUTPUT!! - BeautifulSoup messed up..')"}
 {"address": "0x6f81e9D51Bf482EC3f3724B28eEFE9f9fBe4Fe04", "name": "DPSBlackspot", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "9/26/2022"}
 {"address": "0x4ACd4BC402bc8e6BA8aBDdcA639d8011ef0b8a4b", "name": "DCAHubPositionDescriptor", "compiler": "0.8.16", "balance": "-", "txcount": 0, "settings": "", "date": "9/23/2022", "err": "Exception('HTML IN OUTPUT!! - BeautifulSoup messed up..')"}
+{"address": "0x3BEbc3a0a97F7de155c978CA76954Ad9C284Bab9", "name": "HyphenAdapter", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "9/27/2022"}
+{"address": "0x36C2732f1B2ED69CF17133aB01f2876B614a2F27", "name": "RevestAddressRegistry", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 5, "settings": "", "date": "9/27/2022"}
+{"address": "0x962e129C2f16a44E88178da2C83C269a108Bdc86", "name": "RevestA4", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "9/27/2022"}
+{"address": "0x209F3F7750d4CC52776e3e243717b3A8aDE413eB", "name": "TokenVaultV2", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "9/27/2022"}
+{"address": "0xc33265419A43E3E66DAed094FD847405030457DB", "name": "AdminTimeLock", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "9/27/2022"}
+{"address": "0x6DbF479682914F1dac61C5e7b8aCc07EAb457d40", "name": "SupplyLock", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "9/27/2022"}
+{"address": "0xfDc8fb38727650c76c47630F0941099f79870E2c", "name": "BinaryComboLock", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "9/27/2022"}
+{"address": "0xB64bad341F3A8dd2eDFd3D1Dc3F47dA8BdDD19b1", "name": "AddressRegistryController", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 20, "settings": "", "date": "9/27/2022"}
+{"address": "0x780CE455bc835127182809Bc8fF36fFfE55Bc4B8", "name": "MetadataHandler", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "9/27/2022"}
+{"address": "0xA682CfD4b4a5cf662D58181Cb42fC498E8a2f5cE", "name": "LockManager", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "9/27/2022"}
+{"address": "0xd90D465631a1718FDB3eA64C39F41290Addf70da", "name": "FNFTHandler", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "9/27/2022"}
+{"address": "0xA002Dc3E3C163732F4F5e6F941C87b61B5Afca74", "name": "RewardsHandlerSimplified", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "9/27/2022"}
+{"address": "0xc5102fE9359FD9a28f877a67E36B0F050d81a3CC", "name": "L2_HOPToken", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 6, "settings": "-", "date": "9/26/2022"}
+{"address": "0x4ACd4BC402bc8e6BA8aBDdcA639d8011ef0b8a4b", "name": "DCAHubPositionDescriptor", "compiler": "0.8.16", "balance": "-", "txcount": 0, "settings": "", "date": "9/23/2022", "err": "Exception('HTML IN OUTPUT!! - BeautifulSoup messed up..')"}
