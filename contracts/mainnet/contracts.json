@@ -7714,3 +7714,15 @@
 {"address": "0x68D11bcf0e8266842D1cB28C62d61E4Ab970e4B1", "name": "EnsoShortcutsHelper", "compiler": "0.8.13", "balance": "-", "txcount": 0, "settings": "", "date": "9/27/2022"}
 {"address": "0x8b8dcb133a482a40d36add2c02ab1c72681a6481", "name": "iZiSwapPool", "compiler": "0.8.4", "balance": "-", "txcount": 0, "settings": "", "date": "9/27/2022"}
 {"address": "0x4ACd4BC402bc8e6BA8aBDdcA639d8011ef0b8a4b", "name": "DCAHubPositionDescriptor", "compiler": "0.8.16", "balance": "-", "txcount": 0, "settings": "", "date": "9/23/2022", "err": "Exception('HTML IN OUTPUT!! - BeautifulSoup messed up..')"}
+{"address": "0xEF32e8c6C1D5aF0212308B03E777869408856521", "name": "UniswapFarmV1Deployer", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "9/27/2022"}
+{"address": "0xbc42CbdDDe1c451a4027e332f8b42c72B6F8156B", "name": "KintsugiRewardPool", "compiler": "0.5.5", "balance": "0 ETH", "txcount": 4, "settings": "", "date": "9/27/2022"}
+{"address": "0x1acf58D681883ee4beC36921bE9Aa3a4a09B95bd", "name": "DP2Mint", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 5, "settings": "", "date": "9/27/2022"}
+{"address": "0xD91D0d52D6e09f0b93db80E1A8935aA47CFFd075", "name": "DuelPepes", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "9/27/2022"}
+{"address": "0x6362864e14a96aC86AFc78986951f4D460005200", "name": "FarmFactory", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "9/27/2022"}
+{"address": "0xf9b33e51e0a1782c9a13f2d73ef678bf47d65353", "name": "LiquidationHelper", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "9/27/2022"}
+{"address": "0x73112022b59125C0277a1E11352A259696d7282B", "name": "LiquidityManager", "compiler": "0.8.16", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "9/27/2022"}
+{"address": "0x4c648de9b166c5040c5f521f50433aecf91261b3", "name": "StrategyUniswapV3", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "9/27/2022"}
+{"address": "0xB3bBb464485F159B839E1699A352cE6D542c9433", "name": "ArkenStopLimit", "compiler": "0.8.16", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "9/27/2022"}
+{"address": "0xeB293c53A81aEC1D285A6777c3aF87ee534feedc", "name": "VaultReader", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "9/27/2022"}
+{"address": "0x61f386f5cfd44f5e437347c32292627a34e367eb", "name": "TransparentUpgradeableProxy", "compiler": "0.8.16", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "9/27/2022"}
+{"address": "0x4ACd4BC402bc8e6BA8aBDdcA639d8011ef0b8a4b", "name": "DCAHubPositionDescriptor", "compiler": "0.8.16", "balance": "-", "txcount": 0, "settings": "", "date": "9/23/2022", "err": "Exception('HTML IN OUTPUT!! - BeautifulSoup messed up..')"}
