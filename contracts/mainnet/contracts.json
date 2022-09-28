@@ -7733,3 +7733,10 @@
 {"address": "0xE3dB9E62387e827Efe45BdCf0E346fE20A6520Cf", "name": "VaultReader", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "9/27/2022"}
 {"address": "0x22fD18ed8F512FB4c768212fDaFC4d2D24c2E8c9", "name": "LendingPool", "compiler": "0.8.11", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "9/27/2022"}
 {"address": "0x4ACd4BC402bc8e6BA8aBDdcA639d8011ef0b8a4b", "name": "DCAHubPositionDescriptor", "compiler": "0.8.16", "balance": "-", "txcount": 0, "settings": "", "date": "9/23/2022", "err": "Exception('HTML IN OUTPUT!! - BeautifulSoup messed up..')"}
+{"address": "0x37d5206DaF6BbEdEe5B9237b8472e8395746a2de", "name": "DP2", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 4, "settings": "", "date": "9/28/2022"}
+{"address": "0x0d3f3409fc36098497191f38529293d01781ef8d", "name": "Atest", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "9/28/2022"}
+{"address": "0x044a7A6a9A68052f1C8f06354986137DBB388Dc9", "name": "DP2Mint", "compiler": "0.8.7", "balance": "1.68 ETH", "txcount": 5, "settings": "", "date": "9/28/2022"}
+{"address": "0x2e04ee843e71D12d52309e78797200E11E9A4DCb", "name": "DuelPepes", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 16, "settings": "", "date": "9/28/2022"}
+{"address": "0xe9094ba84388e09e5d25188df6fa0e93557f890a", "name": "UniswapFarmV1", "compiler": "0.8.10", "balance": "-", "txcount": 0, "settings": "", "date": "9/28/2022"}
+{"address": "0xf9818978Ae3261CD0FC6585079D724cd73ec21B2", "name": "VaultReader", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "9/28/2022"}
+{"address": "0x4ACd4BC402bc8e6BA8aBDdcA639d8011ef0b8a4b", "name": "DCAHubPositionDescriptor", "compiler": "0.8.16", "balance": "-", "txcount": 0, "settings": "", "date": "9/23/2022", "err": "Exception('HTML IN OUTPUT!! - BeautifulSoup messed up..')"}
