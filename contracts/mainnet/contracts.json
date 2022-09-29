@@ -7764,3 +7764,5 @@
 {"address": "0x98A0dB68D5f72CD1e6f141DEA6048236f45310bb", "name": "Consumable", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "9/28/2022"}
 {"address": "0x6d52a7c2c03130c8988456fea93880d79b377392", "name": "Address", "compiler": "0.8.1", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "9/28/2022"}
 {"address": "0x4ACd4BC402bc8e6BA8aBDdcA639d8011ef0b8a4b", "name": "DCAHubPositionDescriptor", "compiler": "0.8.16", "balance": "-", "txcount": 0, "settings": "", "date": "9/23/2022", "err": "Exception('HTML IN OUTPUT!! - BeautifulSoup messed up..')"}
+{"address": "0xb130a49065178465931d4f887056328CeA5D723f", "name": "WooRouterV3", "compiler": "0.8.14", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "9/29/2022"}
+{"address": "0x4ACd4BC402bc8e6BA8aBDdcA639d8011ef0b8a4b", "name": "DCAHubPositionDescriptor", "compiler": "0.8.16", "balance": "-", "txcount": 0, "settings": "", "date": "9/23/2022", "err": "Exception('HTML IN OUTPUT!! - BeautifulSoup messed up..')"}
