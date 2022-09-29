@@ -7776,3 +7776,8 @@
 {"address": "0x00f516c4e810Fe235827AAc792455AbBC707b1A0", "name": "StrategyArbSushiMimLP", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "9/29/2022"}
 {"address": "0x7ea43b42e8faae85209f3c8e819fd5dcbc503456", "name": "Address", "compiler": "0.8.1", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "9/29/2022"}
 {"address": "0x4ACd4BC402bc8e6BA8aBDdcA639d8011ef0b8a4b", "name": "DCAHubPositionDescriptor", "compiler": "0.8.16", "balance": "-", "txcount": 0, "settings": "", "date": "9/23/2022", "err": "Exception('HTML IN OUTPUT!! - BeautifulSoup messed up..')"}
+{"address": "0xc33958d518aa8625374bacde8f903c2042f3c0cd", "name": "SmulipsMutants", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "9/29/2022"}
+{"address": "0x4e7783a6a0ae808e956b5c71df8f58c069a5394e", "name": "PythUpgradable", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "9/29/2022"}
+{"address": "0xc23cf2762094a4dd8dc3d4aaaafdb38704b0f484", "name": "PbCrvArbTri", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "9/29/2022"}
+{"address": "0x14dcfeff5ce62777f34a801270ddafb044645c37", "name": "PbCrvArb2p", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "9/29/2022"}
+{"address": "0x4ACd4BC402bc8e6BA8aBDdcA639d8011ef0b8a4b", "name": "DCAHubPositionDescriptor", "compiler": "0.8.16", "balance": "-", "txcount": 0, "settings": "", "date": "9/23/2022", "err": "Exception('HTML IN OUTPUT!! - BeautifulSoup messed up..')"}
