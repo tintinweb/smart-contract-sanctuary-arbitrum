@@ -7804,3 +7804,10 @@
 {"address": "0xe135Ef65C2B2213C3fD56d0Bd6500A2cA147aC10", "name": "DropERC20", "compiler": "0.8.12", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "9/30/2022"}
 {"address": "0x902Dd246e66d8C3CE652375a723F2a52b43b9AAE", "name": "SignatureDrop", "compiler": "0.8.12", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "9/30/2022"}
 {"address": "0x4ACd4BC402bc8e6BA8aBDdcA639d8011ef0b8a4b", "name": "DCAHubPositionDescriptor", "compiler": "0.8.16", "balance": "-", "txcount": 0, "settings": "", "date": "9/23/2022", "err": "Exception('HTML IN OUTPUT!! - BeautifulSoup messed up..')"}
+{"address": "0x675CA5708c8dB099F3Db9Cdff06995c7653278FC", "name": "DP2", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 114, "settings": "", "date": "9/30/2022"}
+{"address": "0x8896CA8B4a26b66207eA9D0B803DAd3FB7207310", "name": "DuelPepesLogic", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 2, "settings": "-", "date": "9/30/2022"}
+{"address": "0x360E68Dc597B75eBCF68b3b859513E8dF3412E55", "name": "DuelPepes", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 51, "settings": "", "date": "9/30/2022"}
+{"address": "0x11DF7310313c29a51C48ab0b41F2Cb5775F4B6DB", "name": "DP2Mint", "compiler": "0.8.7", "balance": "1.68 ETH", "txcount": 6, "settings": "", "date": "9/30/2022"}
+{"address": "0x13561F4AF9EF7064039CBa7C9aaA6d1Acf238025", "name": "HopAdapter", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "9/30/2022"}
+{"address": "0x5063bba14071113858A4ec5Ac99429D1489ef820", "name": "HopAdapter", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "9/30/2022"}
+{"address": "0x4ACd4BC402bc8e6BA8aBDdcA639d8011ef0b8a4b", "name": "DCAHubPositionDescriptor", "compiler": "0.8.16", "balance": "-", "txcount": 0, "settings": "", "date": "9/23/2022", "err": "Exception('HTML IN OUTPUT!! - BeautifulSoup messed up..')"}
