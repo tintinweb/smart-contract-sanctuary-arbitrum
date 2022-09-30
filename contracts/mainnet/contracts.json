@@ -7824,3 +7824,9 @@
 {"address": "0x4350e283db040921c5872819FbFBABDC484115BD", "name": "SwapProxy", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "9/30/2022"}
 {"address": "0x1DAd18B3C7A640a540F25A8f5e9169cBbe565Cd6", "name": "KintsugiUniV2Zap", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 4, "settings": "", "date": "9/30/2022"}
 {"address": "0x4ACd4BC402bc8e6BA8aBDdcA639d8011ef0b8a4b", "name": "DCAHubPositionDescriptor", "compiler": "0.8.16", "balance": "-", "txcount": 0, "settings": "", "date": "9/23/2022", "err": "Exception('HTML IN OUTPUT!! - BeautifulSoup messed up..')"}
+{"address": "0x50a0b5c7cF924B4FFEF20408492399685A677628", "name": "Crowdsale", "compiler": "0.8.0", "balance": "0 ETH", "txcount": 9, "settings": "", "date": "9/30/2022"}
+{"address": "0x230717ef072EBb3B8b1f5054B9F56f2385104D8D", "name": "Caifus", "compiler": "0.8.0", "balance": "0 ETH", "txcount": 4, "settings": "-", "date": "9/30/2022"}
+{"address": "0x1879822678f5d295bc76dda858c781a113cdc058", "name": "ArbitrumGuildRolesTokenBundle", "compiler": "0.8.16", "balance": "0.54 ETH", "txcount": 59, "settings": "-", "date": "9/30/2022"}
+{"address": "0x3c0e4180e76f1c7d0f24abf2d0986b1988eb2aba", "name": "ArbitrumGuildRolesTokenBundle", "compiler": "0.8.16", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "9/30/2022"}
+{"address": "0xf42df2dccd49e201722aa2f930c665c23983978a", "name": "Address", "compiler": "0.8.16", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "9/30/2022"}
+{"address": "0x4ACd4BC402bc8e6BA8aBDdcA639d8011ef0b8a4b", "name": "DCAHubPositionDescriptor", "compiler": "0.8.16", "balance": "-", "txcount": 0, "settings": "", "date": "9/23/2022", "err": "Exception('HTML IN OUTPUT!! - BeautifulSoup messed up..')"}
