@@ -7781,3 +7781,26 @@
 {"address": "0xc23cf2762094a4dd8dc3d4aaaafdb38704b0f484", "name": "PbCrvArbTri", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "9/29/2022"}
 {"address": "0x14dcfeff5ce62777f34a801270ddafb044645c37", "name": "PbCrvArb2p", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "9/29/2022"}
 {"address": "0x4ACd4BC402bc8e6BA8aBDdcA639d8011ef0b8a4b", "name": "DCAHubPositionDescriptor", "compiler": "0.8.16", "balance": "-", "txcount": 0, "settings": "", "date": "9/23/2022", "err": "Exception('HTML IN OUTPUT!! - BeautifulSoup messed up..')"}
+{"address": "0x96BcD222370ba8a8e1D0372dC2BC58fEfAB7AFC3", "name": "EthStakingStrategyV1", "compiler": "0.8.16", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "9/30/2022"}
+{"address": "0xC59836FEC63Cfb2E48b0aa00515056436D74Dc03", "name": "EthMonthlyCallsSsovV3", "compiler": "0.8.16", "balance": "0 ETH", "txcount": 3, "settings": "", "date": "9/30/2022"}
+{"address": "0xE802a9f707e6b9187eccC64D02Dc0f6A716d6485", "name": "GovernanceController", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 9, "settings": "", "date": "9/30/2022"}
+{"address": "0x3CEaF680A98155acDAfa14FdA047B42825BBC643", "name": "ChainlinkPriceOracle", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 7, "settings": "", "date": "9/30/2022"}
+{"address": "0x3Bf38B338c5c45AB8068827f3bF92Cbca951B87F", "name": "MetadataHandler", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 3, "settings": "", "date": "9/30/2022"}
+{"address": "0x80CA847618030Bc3e26aD2c444FD007279DaF50A", "name": "Resonate", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 4, "settings": "", "date": "9/30/2022"}
+{"address": "0x0F89ba3F140Ea9370aB05d434B8e32fDf41a6093", "name": "PriceProvider", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 10, "settings": "", "date": "9/30/2022"}
+{"address": "0xEDb07875051B26b56747e738efB3d7a271d9145e", "name": "SandwichBotProxy", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 10, "settings": "", "date": "9/30/2022"}
+{"address": "0x8f74c989252B94Fd2d08a668884D303D57c91422", "name": "OutputReceiverProxy", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 4, "settings": "", "date": "9/30/2022"}
+{"address": "0x00fD2c29CF3AA4880A4C05e7CA1382bF987B3495", "name": "DevWallet", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "9/30/2022"}
+{"address": "0xbfacb56e0Ab0dc99E80a95B0412c8DC9C035cD2D", "name": "AddressLockProxy", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 4, "settings": "", "date": "9/30/2022"}
+{"address": "0x331f8A5c6236C76EEA6c194102dBe2f86D72F09F", "name": "PoolSmartWallet", "compiler": "0.8.13", "balance": "-", "txcount": 0, "settings": "", "date": "9/30/2022"}
+{"address": "0xbdaf965FCfE4730707424a71389F742696985311", "name": "ResonateSmartWallet", "compiler": "0.8.13", "balance": "-", "txcount": 0, "settings": "", "date": "9/30/2022"}
+{"address": "0x492CbB6217D34d68f0abb77a9D9781C8CcbfdFE8", "name": "SmartWalletWhitelistV2", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 5, "settings": "", "date": "9/30/2022"}
+{"address": "0x878eaD7f8162224e162493FD10B97B998f4B0434", "name": "UniswapV2LPPriceOracle", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "9/30/2022"}
+{"address": "0x50dE622Fd34d95Dc91094e1E250412eD704d338e", "name": "CurveLPOracle", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 3, "settings": "", "date": "9/30/2022"}
+{"address": "0xA384C9CCA28CC7A58093e4E9A0acaCF8C20072fD", "name": "BeefyWrapper", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "9/30/2022"}
+{"address": "0x69876c61DBB276F82C84D2F9a3Dd8be52b69DF68", "name": "YearnWrapper", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "9/30/2022"}
+{"address": "0x0148b28a38efaaC31b6aa0a6D9FEb70FE7C91FFa", "name": "DropERC721", "compiler": "0.8.12", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "9/30/2022"}
+{"address": "0x2A396b2D90BAcEF19cDa973586B2633d22710fC2", "name": "DropERC1155", "compiler": "0.8.12", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "9/30/2022"}
+{"address": "0xe135Ef65C2B2213C3fD56d0Bd6500A2cA147aC10", "name": "DropERC20", "compiler": "0.8.12", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "9/30/2022"}
+{"address": "0x902Dd246e66d8C3CE652375a723F2a52b43b9AAE", "name": "SignatureDrop", "compiler": "0.8.12", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "9/30/2022"}
+{"address": "0x4ACd4BC402bc8e6BA8aBDdcA639d8011ef0b8a4b", "name": "DCAHubPositionDescriptor", "compiler": "0.8.16", "balance": "-", "txcount": 0, "settings": "", "date": "9/23/2022", "err": "Exception('HTML IN OUTPUT!! - BeautifulSoup messed up..')"}
