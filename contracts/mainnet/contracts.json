@@ -7844,3 +7844,12 @@
 {"address": "0x5c205BEF6Cdf3e8Ac174DC3a81064b4a9524731a", "name": "ToadzOneOfOneExchange", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "9/30/2022"}
 {"address": "0x6011Ac96AFeF0eA3eDF57Ed5fe628f6fec6b2515", "name": "ToadHousezMinter", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "9/30/2022"}
 {"address": "0x4ACd4BC402bc8e6BA8aBDdcA639d8011ef0b8a4b", "name": "DCAHubPositionDescriptor", "compiler": "0.8.16", "balance": "-", "txcount": 0, "settings": "", "date": "9/23/2022", "err": "Exception('HTML IN OUTPUT!! - BeautifulSoup messed up..')"}
+{"address": "0xf27e099071a6673fc6e7cfe26951e79751c41a4e", "name": "Address", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "10/1/2022"}
+{"address": "0x16f4f56dad3900e3a56adf3afa42ab7f2c0e62de", "name": "Address", "compiler": "0.8.0", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "10/1/2022"}
+{"address": "0x17d1b6750a6a2be7fb95701cb4bd3c15f96534c4", "name": "Address", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "10/1/2022"}
+{"address": "0x764713bd3ec1c980b8c2da2ca956e75d21331793", "name": "MinimaxMain", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "10/1/2022"}
+{"address": "0x5edfC6DcdB1402faA9CAcF99C4c2547A04369104", "name": "VaultFactory", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "10/1/2022"}
+{"address": "0xF22C81a29ff5f6c5dbA7c0D155d83758a525AB80", "name": "LPTokenProcessorV1", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 7, "settings": "", "date": "10/1/2022"}
+{"address": "0xA3581551842Cdf04D31B433E91b413Fe62a6E9a7", "name": "PaymentModuleV1", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 3, "settings": "", "date": "10/1/2022"}
+{"address": "0xc94A320B1eb3808d25BEDaf2Fa2BC81958683e7A", "name": "VaultKey", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 10, "settings": "", "date": "10/1/2022"}
+{"address": "0x4ACd4BC402bc8e6BA8aBDdcA639d8011ef0b8a4b", "name": "DCAHubPositionDescriptor", "compiler": "0.8.16", "balance": "-", "txcount": 0, "settings": "", "date": "9/23/2022", "err": "Exception('HTML IN OUTPUT!! - BeautifulSoup messed up..')"}
