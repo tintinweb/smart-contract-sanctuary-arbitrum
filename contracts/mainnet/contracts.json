@@ -7860,3 +7860,5 @@
 {"address": "0xc9882ABa54B2273B4Abf161C55C42DE133e39a07", "name": "ArbitrumGuildRolesTokenBundle", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "10/1/2022"}
 {"address": "0x1AEc4d73C98E9bf3F253F2d5Aa6C2C402cd433F9", "name": "ArbitrumGuildRolesTokenBundle", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 3, "settings": "-", "date": "10/1/2022"}
 {"address": "0x4ACd4BC402bc8e6BA8aBDdcA639d8011ef0b8a4b", "name": "DCAHubPositionDescriptor", "compiler": "0.8.16", "balance": "-", "txcount": 0, "settings": "", "date": "9/23/2022", "err": "Exception('HTML IN OUTPUT!! - BeautifulSoup messed up..')"}
+{"address": "0x0fadf281e2da1f692b8e84018ad72e112b183c42", "name": "ArbitrumGuildRolesTokenBundle", "compiler": "0.8.15", "balance": "0.005 ETH", "txcount": 6, "settings": "", "date": "10/1/2022"}
+{"address": "0x4ACd4BC402bc8e6BA8aBDdcA639d8011ef0b8a4b", "name": "DCAHubPositionDescriptor", "compiler": "0.8.16", "balance": "-", "txcount": 0, "settings": "", "date": "9/23/2022", "err": "Exception('HTML IN OUTPUT!! - BeautifulSoup messed up..')"}
