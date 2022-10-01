@@ -7853,3 +7853,10 @@
 {"address": "0xA3581551842Cdf04D31B433E91b413Fe62a6E9a7", "name": "PaymentModuleV1", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 3, "settings": "", "date": "10/1/2022"}
 {"address": "0xc94A320B1eb3808d25BEDaf2Fa2BC81958683e7A", "name": "VaultKey", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 10, "settings": "", "date": "10/1/2022"}
 {"address": "0x4ACd4BC402bc8e6BA8aBDdcA639d8011ef0b8a4b", "name": "DCAHubPositionDescriptor", "compiler": "0.8.16", "balance": "-", "txcount": 0, "settings": "", "date": "9/23/2022", "err": "Exception('HTML IN OUTPUT!! - BeautifulSoup messed up..')"}
+{"address": "0xDbb6D732287926Ffb5Fd15dd184Fe82746389e3E", "name": "QuixoticLaunchpadERC721", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 6, "settings": "-", "date": "10/1/2022"}
+{"address": "0xba0563ffe3c7abe915d3dc404f1667682bc1f1dc", "name": "JonesEthCallStrategy", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "10/1/2022"}
+{"address": "0x929B521357c0d006E055890ae2Be417493B9C716", "name": "LiquidityManager", "compiler": "0.8.16", "balance": "0 ETH", "txcount": 3, "settings": "", "date": "10/1/2022"}
+{"address": "0x23eE07e59958f68Bcb58939a1f50CbB9c95827b8", "name": "ArbitrumGuildRolesTokenBundle", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 3, "settings": "-", "date": "10/1/2022"}
+{"address": "0xc9882ABa54B2273B4Abf161C55C42DE133e39a07", "name": "ArbitrumGuildRolesTokenBundle", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "10/1/2022"}
+{"address": "0x1AEc4d73C98E9bf3F253F2d5Aa6C2C402cd433F9", "name": "ArbitrumGuildRolesTokenBundle", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 3, "settings": "-", "date": "10/1/2022"}
+{"address": "0x4ACd4BC402bc8e6BA8aBDdcA639d8011ef0b8a4b", "name": "DCAHubPositionDescriptor", "compiler": "0.8.16", "balance": "-", "txcount": 0, "settings": "", "date": "9/23/2022", "err": "Exception('HTML IN OUTPUT!! - BeautifulSoup messed up..')"}
