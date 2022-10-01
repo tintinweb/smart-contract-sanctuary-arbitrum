@@ -7640,3 +7640,5 @@
 {"address": "0xB8e14388d6AAd4A4490b5D027A959D1fc17A7703", "name": "SubscriptionData", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 7, "settings": "", "date": "9/29/2022"}
 {"address": "0x61428e511Eb17D0467862e74399e3C245d0812A1", "name": "Eip1155Impl", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 3, "settings": "", "date": "9/29/2022"}
 {"address": "0x70D6a3367A149e34FdFafa892483A2922d940A8c", "name": "Eip1155Impl", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "9/29/2022"}
+{"address": "0x291c878b01a7a555eb3aB1Ce53A885Ec7662687f", "name": "ToadHousezMinter", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "9/30/2022"}
+{"address": "0x141919320DcD5CF96b4e0Cf3dDfd7c6ba899cC2E", "name": "PriceOracleProxyETH", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 3, "settings": "", "date": "9/30/2022"}
