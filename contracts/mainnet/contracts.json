@@ -7830,3 +7830,17 @@
 {"address": "0x3c0e4180e76f1c7d0f24abf2d0986b1988eb2aba", "name": "ArbitrumGuildRolesTokenBundle", "compiler": "0.8.16", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "9/30/2022"}
 {"address": "0xf42df2dccd49e201722aa2f930c665c23983978a", "name": "Address", "compiler": "0.8.16", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "9/30/2022"}
 {"address": "0x4ACd4BC402bc8e6BA8aBDdcA639d8011ef0b8a4b", "name": "DCAHubPositionDescriptor", "compiler": "0.8.16", "balance": "-", "txcount": 0, "settings": "", "date": "9/23/2022", "err": "Exception('HTML IN OUTPUT!! - BeautifulSoup messed up..')"}
+{"address": "0xB843a9371c5634697BFff10cfbA918110F1B3F44", "name": "Price8Decimal", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "10/1/2022"}
+{"address": "0x1eFdE86E1D1587BA76170c462D64F214ff9d4282", "name": "Parameters", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "10/1/2022"}
+{"address": "0x3607d68D44D42B9F0b89e0794E57636ced997cc2", "name": "Timelock", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "10/1/2022"}
+{"address": "0x88c1811e1b57921a47968a04e6e05119ef8191bd", "name": "Token", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "10/1/2022"}
+{"address": "0x4abaff9aecb2bce4c1f76bbfda5b0e54ebd6bda4", "name": "Swap", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "10/1/2022"}
+{"address": "0x305d6d3CE76B65D473b144366EA088BcB605C762", "name": "VestaParameters", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "10/1/2022"}
+{"address": "0xA1324cdF7De6aBea52eF8c49356d24D372b25cAc", "name": "TroveManager", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "10/1/2022"}
+{"address": "0xc07cf70d597bA93D52369806D3F72890915658c1", "name": "VestaParameters", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "10/1/2022"}
+{"address": "0xf9A0e641c98f964b1c732661FaB9D5B96af28D49", "name": "Redeemer", "compiler": "0.6.11", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "9/30/2022"}
+{"address": "0x0ec6aB4AD7Ff136B9020E105f78fCc25a1997F6a", "name": "DPXArb", "compiler": "0.6.11", "balance": "0 ETH", "txcount": 6, "settings": "", "date": "9/30/2022"}
+{"address": "0x52240a92c0542e28d63da9f95c27146523cd0adb", "name": "MegaArb", "compiler": "0.6.11", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "9/30/2022"}
+{"address": "0x5c205BEF6Cdf3e8Ac174DC3a81064b4a9524731a", "name": "ToadzOneOfOneExchange", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "9/30/2022"}
+{"address": "0x6011Ac96AFeF0eA3eDF57Ed5fe628f6fec6b2515", "name": "ToadHousezMinter", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "9/30/2022"}
+{"address": "0x4ACd4BC402bc8e6BA8aBDdcA639d8011ef0b8a4b", "name": "DCAHubPositionDescriptor", "compiler": "0.8.16", "balance": "-", "txcount": 0, "settings": "", "date": "9/23/2022", "err": "Exception('HTML IN OUTPUT!! - BeautifulSoup messed up..')"}
