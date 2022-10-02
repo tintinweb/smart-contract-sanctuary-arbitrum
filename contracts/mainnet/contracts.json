@@ -7862,3 +7862,22 @@
 {"address": "0x4ACd4BC402bc8e6BA8aBDdcA639d8011ef0b8a4b", "name": "DCAHubPositionDescriptor", "compiler": "0.8.16", "balance": "-", "txcount": 0, "settings": "", "date": "9/23/2022", "err": "Exception('HTML IN OUTPUT!! - BeautifulSoup messed up..')"}
 {"address": "0x0fadf281e2da1f692b8e84018ad72e112b183c42", "name": "ArbitrumGuildRolesTokenBundle", "compiler": "0.8.15", "balance": "0.005 ETH", "txcount": 6, "settings": "", "date": "10/1/2022"}
 {"address": "0x4ACd4BC402bc8e6BA8aBDdcA639d8011ef0b8a4b", "name": "DCAHubPositionDescriptor", "compiler": "0.8.16", "balance": "-", "txcount": 0, "settings": "", "date": "9/23/2022", "err": "Exception('HTML IN OUTPUT!! - BeautifulSoup messed up..')"}
+{"address": "0xc2bc78eb86d1eea90e378e235f405c00e0659d59", "name": "ArbitrumGuildRolesTokenFullBundle", "compiler": "0.8.16", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "10/2/2022"}
+{"address": "0x06e31Ad70174D7dB1Eb06fCDa75Aa254E311BC3f", "name": "GLPPrice", "compiler": "0.8.12", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "10/2/2022"}
+{"address": "0x8dd8446e72db4928f25e458ad5a38df87f3732d1", "name": "ArbitrumGuildRolesTokenFullBundle", "compiler": "0.8.16", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "10/2/2022"}
+{"address": "0x51dfd3e29fabb7ab87f082b518532936ed1e1544", "name": "Address", "compiler": "0.8.16", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "10/2/2022"}
+{"address": "0x28DB114018576cF6c9A523C17903455A161d18C4", "name": "InterchainAccountRouter", "compiler": "0.8.16", "balance": "0 ETH", "txcount": 6, "settings": "-", "date": "10/2/2022"}
+{"address": "0xBC3cFeca7Df5A45d61BC60E7898E63670e1654aE", "name": "TestRecipient", "compiler": "0.8.16", "balance": "-", "txcount": 0, "settings": "", "date": "10/2/2022"}
+{"address": "0xc97D8e6f57b0d64971453dDc6EB8483fec9d163a", "name": "Create2Factory", "compiler": "0.8.16", "balance": "0 ETH", "txcount": 3, "settings": "", "date": "10/2/2022"}
+{"address": "0x5558e81f9154b6404fc020af00141f5a208904f1", "name": "ArbitrumGuildRolesTokenBundle", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 11, "settings": "-", "date": "10/2/2022"}
+{"address": "0x93580e1c76bD5e3355C32d77d0053B22Ac3c3721", "name": "TimelockController", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "10/1/2022"}
+{"address": "0xe5Cf58A0BB78dc62F034164dDDAbe32D26c0c766", "name": "CaskTreasury", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "10/1/2022"}
+{"address": "0x3b2b4b547dAEEbf3A703288CB43650f0F287b9ff", "name": "CaskVault", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "10/1/2022"}
+{"address": "0xD054F8866fc45c4387d56D2340dCA08d83E14A5e", "name": "CaskSubscriptions", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "10/1/2022"}
+{"address": "0xD252A4C836C75063867f0193325b328CCe6B7306", "name": "CaskSubscriptionPlans", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "10/1/2022"}
+{"address": "0x331979A83644574E56035E4b43d3ca68Ce793918", "name": "CaskSubscriptionManager", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "10/1/2022"}
+{"address": "0xb8A52a086262E1d6c7494bDCb824f884f41FC5f8", "name": "CaskP2PManager", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "10/1/2022"}
+{"address": "0xccB54bF4171bc8C11e78ca40f3a3bd3B721EF361", "name": "CaskP2P", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "10/1/2022"}
+{"address": "0x83aA6a992Ff3ef3766679Cc90E8C60a04afcC171", "name": "CaskDCAManager", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "10/1/2022"}
+{"address": "0x96d59127cCD1c0e3749E733Ee04F0DfbD2f808c8", "name": "CaskDCA", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "10/1/2022"}
+{"address": "0x4ACd4BC402bc8e6BA8aBDdcA639d8011ef0b8a4b", "name": "DCAHubPositionDescriptor", "compiler": "0.8.16", "balance": "-", "txcount": 0, "settings": "", "date": "9/23/2022", "err": "Exception('HTML IN OUTPUT!! - BeautifulSoup messed up..')"}
