@@ -7901,3 +7901,16 @@
 {"address": "0x83a197367E31d4dEa3699b29A5D2e924e8956D4C", "name": "QuickUnstake", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 40, "settings": "", "date": "10/2/2022"}
 {"address": "0x09e631c763e51e6d24485783f20393a48b71333d", "name": "Hashing", "compiler": "0.6.11", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "10/2/2022"}
 {"address": "0x4ACd4BC402bc8e6BA8aBDdcA639d8011ef0b8a4b", "name": "DCAHubPositionDescriptor", "compiler": "0.8.16", "balance": "-", "txcount": 0, "settings": "", "date": "9/23/2022", "err": "Exception('HTML IN OUTPUT!! - BeautifulSoup messed up..')"}
+{"address": "0x388962A3d2D571607C86C0d5e4B03daA0Eb252f2", "name": "DCAStrategy", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 5, "settings": "", "date": "10/2/2022"}
+{"address": "0x881d551384130e05cc39a010aba4fdb703e6afb6", "name": "Picker", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 6, "settings": "", "date": "10/2/2022"}
+{"address": "0xc2866ab59932e53a6c82979b6c7c38d742a49941", "name": "Hashing", "compiler": "0.6.11", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "10/2/2022"}
+{"address": "0xca1703CB55d608212668aD4CA7A67CE34AB0B677", "name": "DCAStrategy", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 6, "settings": "", "date": "10/2/2022"}
+{"address": "0xA70765C0428d1f9BE926e2C64b93823aa1646Efe", "name": "TokenLockerV1", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "10/2/2022"}
+{"address": "0x016c1D8cf86f60A5382BA5c42D4be960CBd1b868", "name": "TokenLockerManagerV1", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "10/2/2022"}
+{"address": "0x77110f67C0EF3c98c43570BADe06046eF6549876", "name": "Util", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "10/2/2022"}
+{"address": "0x13c2910c06f6f8648cb01d4f20ad8fa1d3868a17", "name": "ArbitrumGuildTokenBundle", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 3, "settings": "", "date": "10/2/2022"}
+{"address": "0x3e93c1a3dfcce88e36ed6468ab7685aa0209d335", "name": "Hashing", "compiler": "0.6.11", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "10/2/2022"}
+{"address": "0x272b57411da1fe43dbcb3d5639405629ead4b4aa", "name": "Hashing", "compiler": "0.6.11", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "10/2/2022"}
+{"address": "0x55673afa675aebc305bd400f0fb42cbfb53a4eaa", "name": "Hashing", "compiler": "0.6.11", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "10/2/2022"}
+{"address": "0x7b99fc5c64202fad80c27c2727a8fcc1a49a2eaf", "name": "Hashing", "compiler": "0.6.11", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "10/2/2022"}
+{"address": "0x4ACd4BC402bc8e6BA8aBDdcA639d8011ef0b8a4b", "name": "DCAHubPositionDescriptor", "compiler": "0.8.16", "balance": "-", "txcount": 0, "settings": "", "date": "9/23/2022", "err": "Exception('HTML IN OUTPUT!! - BeautifulSoup messed up..')"}
