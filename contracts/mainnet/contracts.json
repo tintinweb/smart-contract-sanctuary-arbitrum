@@ -7940,3 +7940,14 @@
 {"address": "0xc2566feCE70C46085FD50013dDd2408311dE99D4", "name": "Operator", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "10/3/2022"}
 {"address": "0xee6aa6bd357a9d72a13cf2437957b2d3be8fcb45", "name": "SpaStaker", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "10/3/2022"}
 {"address": "0x4ACd4BC402bc8e6BA8aBDdcA639d8011ef0b8a4b", "name": "DCAHubPositionDescriptor", "compiler": "0.8.16", "balance": "-", "txcount": 0, "settings": "", "date": "9/23/2022", "err": "Exception('HTML IN OUTPUT!! - BeautifulSoup messed up..')"}
+{"address": "0x53c8d89a6f378b330238e8088f4798dabc3e40d1", "name": "Hashing", "compiler": "0.6.11", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "10/3/2022"}
+{"address": "0x8470d4dcbff2dbbcd83ac5a8b34557151bbf1c7b", "name": "Hashing", "compiler": "0.6.11", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "10/3/2022"}
+{"address": "0xb4c7c0bf7ad002b88f8f5554385fff2a4873ea18", "name": "Greeting", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "10/3/2022"}
+{"address": "0x315c61cd183fc8daa7b3e30036d8907a57371121", "name": "ArbitrumGuildRolesTokenBundle", "compiler": "0.8.15", "balance": "0.005 ETH", "txcount": 4, "settings": "-", "date": "10/3/2022"}
+{"address": "0xa7bff08cadebfc239aa6a127064af4a05ea61fcb", "name": "VaultSushiWethUsdt", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "10/3/2022"}
+{"address": "0x21e098dcd8603d1cba53f2c16c298bacbbfdb675", "name": "StrategySushiWethUsdt", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "10/3/2022"}
+{"address": "0x8c55e9d918b2315eb3192c2baff07c2e9cf55e01", "name": "VaultSushiWethUsdc", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "10/3/2022"}
+{"address": "0x3e4e3b4ef1edc3c4703f5bc063912d7da45857e3", "name": "StrategySushiWethUsdc", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "10/3/2022"}
+{"address": "0xf5c4753A716F8B9f2a817f5c376eF2c29601639C", "name": "QuixoticLaunchpadERC721", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 6816, "settings": "-", "date": "10/3/2022"}
+{"address": "0x215Ab3c884A91a3292567e6b5284e27456d8493D", "name": "DCAStrategy", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 6, "settings": "", "date": "10/3/2022"}
+{"address": "0x4ACd4BC402bc8e6BA8aBDdcA639d8011ef0b8a4b", "name": "DCAHubPositionDescriptor", "compiler": "0.8.16", "balance": "-", "txcount": 0, "settings": "", "date": "9/23/2022", "err": "Exception('HTML IN OUTPUT!! - BeautifulSoup messed up..')"}
