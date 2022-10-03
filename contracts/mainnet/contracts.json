@@ -7914,3 +7914,8 @@
 {"address": "0x55673afa675aebc305bd400f0fb42cbfb53a4eaa", "name": "Hashing", "compiler": "0.6.11", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "10/2/2022"}
 {"address": "0x7b99fc5c64202fad80c27c2727a8fcc1a49a2eaf", "name": "Hashing", "compiler": "0.6.11", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "10/2/2022"}
 {"address": "0x4ACd4BC402bc8e6BA8aBDdcA639d8011ef0b8a4b", "name": "DCAHubPositionDescriptor", "compiler": "0.8.16", "balance": "-", "txcount": 0, "settings": "", "date": "9/23/2022", "err": "Exception('HTML IN OUTPUT!! - BeautifulSoup messed up..')"}
+{"address": "0x44a953acb71f6b933866caca5812ae46f9b68b1f", "name": "ArbipunksReboot", "compiler": "0.8.8", "balance": "0.05 ETH", "txcount": 2, "settings": "-", "date": "10/3/2022"}
+{"address": "0x9fbb3df7c40da2e5a0de984ffe2ccb7c47cd0abf", "name": "CREATE3Factory", "compiler": "0.8.16", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "10/3/2022"}
+{"address": "0x61002c9d3a332a9958d0c1c76fd9e185d79645cc", "name": "ArbitrumGuildRolesTokenBundle", "compiler": "0.8.16", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "10/2/2022"}
+{"address": "0x517d5245b64e91caf3c766974bb2fee82c5a7ad0", "name": "ArbitrumContractSRTWideBodyHellcat", "compiler": "0.8.17", "balance": "0.014 ETH", "txcount": 2, "settings": "-", "date": "10/2/2022"}
+{"address": "0x4ACd4BC402bc8e6BA8aBDdcA639d8011ef0b8a4b", "name": "DCAHubPositionDescriptor", "compiler": "0.8.16", "balance": "-", "txcount": 0, "settings": "", "date": "9/23/2022", "err": "Exception('HTML IN OUTPUT!! - BeautifulSoup messed up..')"}
