@@ -7919,3 +7919,24 @@
 {"address": "0x61002c9d3a332a9958d0c1c76fd9e185d79645cc", "name": "ArbitrumGuildRolesTokenBundle", "compiler": "0.8.16", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "10/2/2022"}
 {"address": "0x517d5245b64e91caf3c766974bb2fee82c5a7ad0", "name": "ArbitrumContractSRTWideBodyHellcat", "compiler": "0.8.17", "balance": "0.014 ETH", "txcount": 2, "settings": "-", "date": "10/2/2022"}
 {"address": "0x4ACd4BC402bc8e6BA8aBDdcA639d8011ef0b8a4b", "name": "DCAHubPositionDescriptor", "compiler": "0.8.16", "balance": "-", "txcount": 0, "settings": "", "date": "9/23/2022", "err": "Exception('HTML IN OUTPUT!! - BeautifulSoup messed up..')"}
+{"address": "0xeBF3D63b7edA27dD472d4842E2235f3C83A1B428", "name": "CSMRouter", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 5, "settings": "", "date": "10/3/2022"}
+{"address": "0x557278364B136a8D7686016b1930c8C7136d8af9", "name": "PoolCrossChain", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 7, "settings": "", "date": "10/3/2022"}
+{"address": "0x4cE2F92Ca85ac7f665220756f354F72ce4B2490c", "name": "Asset", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "10/3/2022"}
+{"address": "0x8EdB69919835e98b5a4f751FAdB78d66C880475C", "name": "ERC20MockWithDecimalsAndSymbol", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "10/3/2022"}
+{"address": "0x6C26792e2953A589C68B3b7f3705E9ceeB221834", "name": "DummyFeeCollector", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "10/3/2022"}
+{"address": "0xF484ca938Af7165d0A8D99746939b1B60A26F0af", "name": "PriceOraclePlaceholder", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "10/3/2022"}
+{"address": "0xe297Adfd7C515fc7bc265c7054BA1A2aF3B8917d", "name": "PgSpaToken", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "10/3/2022"}
+{"address": "0x18a1e6775a4ff6f07c4b9aa46f82d13c593c17d2", "name": "AaveV3Supply", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "10/3/2022"}
+{"address": "0xbE49C33A64300Ba925F3D719C4fdB545657fa8B2", "name": "PlsSpaPlutusChef", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "10/3/2022"}
+{"address": "0x49917FbabBcd8a9B48061338D6416d26E6d6A96B", "name": "SpaFeeClaimer", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "10/3/2022"}
+{"address": "0x662b36Ee1272C0b222668737aa6Bb4Bc0C34b464", "name": "Counter", "compiler": "0.8.16", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "10/3/2022"}
+{"address": "0xF99c73455a92Bd88FD18726De1869060943D0a7f", "name": "CounterERC2771", "compiler": "0.8.16", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "10/3/2022"}
+{"address": "0xEEeBe2F778AA186e88dCf2FEb8f8231565769C27", "name": "EIP173ProxyWithReceive", "compiler": "0.8.10", "balance": "0.01999327048 ETH", "txcount": 3, "settings": "", "date": "10/3/2022"}
+{"address": "0x8c12e3C9b26Ee2e43A1a71cd974e6bF250472129", "name": "SpaDepositor", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 5, "settings": "", "date": "10/3/2022"}
+{"address": "0x0D111e482146fE9aC9cA3A65D92E65610BBC1Ba6", "name": "PlsSpaToken", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "10/3/2022"}
+{"address": "0x0325d080Fe94341Cb4882F9eBF9bF7B042A02f50", "name": "SpaStaker", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "10/3/2022"}
+{"address": "0xef847c4d7893c4598f234638cebe25b4c9ea32b3", "name": "Oracle", "compiler": "0.6.6", "balance": "0 ETH", "txcount": 15, "settings": "", "date": "10/3/2022"}
+{"address": "0x2283a77dDfa1e53780e8f3F1F4aD56696F6601a3", "name": "vault", "compiler": "0.8.12", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "10/3/2022"}
+{"address": "0xc2566feCE70C46085FD50013dDd2408311dE99D4", "name": "Operator", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "10/3/2022"}
+{"address": "0xee6aa6bd357a9d72a13cf2437957b2d3be8fcb45", "name": "SpaStaker", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "10/3/2022"}
+{"address": "0x4ACd4BC402bc8e6BA8aBDdcA639d8011ef0b8a4b", "name": "DCAHubPositionDescriptor", "compiler": "0.8.16", "balance": "-", "txcount": 0, "settings": "", "date": "9/23/2022", "err": "Exception('HTML IN OUTPUT!! - BeautifulSoup messed up..')"}
