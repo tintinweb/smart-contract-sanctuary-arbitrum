@@ -7652,3 +7652,14 @@
 {"address": "0xd31523aa990db86Ddd41B69aD29005Ee31922315", "name": "SubscriptionDePay", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 6, "settings": "", "date": "10/1/2022"}
 {"address": "0x46144a2198CB94973a42Dd7143f3D8Cc2cEcECD4", "name": "SubscriptionDePay", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 4, "settings": "", "date": "10/1/2022"}
 {"address": "0xFF621aBbd03060Ca6A85111601049E3E71D57307", "name": "SubscriptionData", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 7, "settings": "", "date": "10/1/2022"}
+{"address": "0x59eEc2Eb74B26c8083E60b221299bD88729c2145", "name": "FeedV1", "compiler": "0.8.11", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "10/3/2022"}
+{"address": "0x99dDc5F643910344b8aDB9cd3130c990eB626D55", "name": "Quests", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 7, "settings": "", "date": "10/2/2022"}
+{"address": "0x23D52602Bb50691E96d49BbBc0F19f21F00a236e", "name": "Packs", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 3, "settings": "", "date": "10/2/2022"}
+{"address": "0x40f263c38c068882C986a0f09A88142816365FAa", "name": "ItemSets", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "10/2/2022"}
+{"address": "0x1D60f81fc92DCfC829197deAE557c577805E2Ea8", "name": "MintMercenaries", "compiler": "0.8.9", "balance": "0.001 ETH", "txcount": 4, "settings": "", "date": "10/2/2022"}
+{"address": "0x2B7a1f178DF16a1D36403D887263323995a4A5A2", "name": "Mercenaries", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 7, "settings": "", "date": "10/2/2022"}
+{"address": "0x50783eb507dB0D27D3C30a774271Fbd8B098BFa7", "name": "CharacterHealthManager", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "10/2/2022"}
+{"address": "0xDCF976a6F9c343fe8eD6F1C37a4FCC5CDCa9906B", "name": "Quests", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 4, "settings": "", "date": "10/2/2022"}
+{"address": "0xeBa4BB26Ec822422bEaFB249FA01743DD14AEB69", "name": "Packs", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 3, "settings": "", "date": "10/2/2022"}
+{"address": "0xa7BAc3A9E47ca827f152C1ee7F70B4DCe3c86925", "name": "ItemSets", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 44, "settings": "", "date": "10/2/2022"}
+{"address": "0xCBf8E996Bccc3EDC102d3a78F4C17AF6D2B6612a", "name": "Items", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 62, "settings": "", "date": "10/2/2022"}
