@@ -7663,3 +7663,8 @@
 {"address": "0xeBa4BB26Ec822422bEaFB249FA01743DD14AEB69", "name": "Packs", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 3, "settings": "", "date": "10/2/2022"}
 {"address": "0xa7BAc3A9E47ca827f152C1ee7F70B4DCe3c86925", "name": "ItemSets", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 44, "settings": "", "date": "10/2/2022"}
 {"address": "0xCBf8E996Bccc3EDC102d3a78F4C17AF6D2B6612a", "name": "Items", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 62, "settings": "", "date": "10/2/2022"}
+{"address": "0x25a30B4586316328d91e1AdBa36043d4EB24e52a", "name": "MagicVault", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 9, "settings": "", "date": "10/4/2022"}
+{"address": "0x88dCAdBc3f6C5B28796e2880Cf658D62286804fd", "name": "MagicVault", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "10/4/2022"}
+{"address": "0xeDa327C72316C735AA708412BE0cB20fD471dc66", "name": "TwoInch", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "10/4/2022"}
+{"address": "0x3f40780a9076254e61cc565676247d7d507980f2", "name": "NFTMarketResell", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "10/3/2022"}
+{"address": "0xbc16c10A7a20294306bAC35368132feb7B98E212", "name": "Collection", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 2, "settings": "-", "date": "10/3/2022"}
