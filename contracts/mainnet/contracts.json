@@ -8033,3 +8033,6 @@
 {"address": "0x562579c54a9EC56C1C3A014Be29a28b899daAF28", "name": "DopexLongPerpStrategyArbitrum", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 9, "settings": "", "date": "10/3/2022"}
 {"address": "0x3550efb60993a0861ed0c52e7b3c1ca9d36e5346", "name": "Address", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "10/3/2022"}
 {"address": "0x4ACd4BC402bc8e6BA8aBDdcA639d8011ef0b8a4b", "name": "DCAHubPositionDescriptor", "compiler": "0.8.16", "balance": "-", "txcount": 0, "settings": "", "date": "9/23/2022", "err": "Exception('HTML IN OUTPUT!! - BeautifulSoup messed up..')"}
+{"address": "0x066afd12313b84b8d98f7ed180de60fe6a126185", "name": "Address", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "10/5/2022"}
+{"address": "0xc140Cf08e5f0551855d6e0C209aAd70d7A7e4b01", "name": "QuixoticLaunchpadERC721", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 32, "settings": "-", "date": "10/5/2022"}
+{"address": "0x4ACd4BC402bc8e6BA8aBDdcA639d8011ef0b8a4b", "name": "DCAHubPositionDescriptor", "compiler": "0.8.16", "balance": "-", "txcount": 0, "settings": "", "date": "9/23/2022", "err": "Exception('HTML IN OUTPUT!! - BeautifulSoup messed up..')"}
