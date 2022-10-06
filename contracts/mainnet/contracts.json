@@ -8061,3 +8061,20 @@
 {"address": "0xDbcD16e622c95AcB2650b38eC799f76BFC557a0b", "name": "Vyper_contract", "compiler": "vyper:0.2.16", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "10/6/2022"}
 {"address": "0x6eB2dc694eB516B16Dc9FBc678C60052BbdD7d80", "name": "Vyper_contract", "compiler": "vyper:0.3.1", "balance": "0.108884468806920389 ETH", "txcount": 2, "settings": "", "date": "10/6/2022"}
 {"address": "0x4ACd4BC402bc8e6BA8aBDdcA639d8011ef0b8a4b", "name": "DCAHubPositionDescriptor", "compiler": "0.8.16", "balance": "-", "txcount": 0, "settings": "", "date": "9/23/2022", "err": "Exception('HTML IN OUTPUT!! - BeautifulSoup messed up..')"}
+{"address": "0x4064b5d85f6C9c70E13750c25184F442D7B88a9b", "name": "BeefyVaultV6", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "10/6/2022"}
+{"address": "0xd5579a2ced791ae4747745170b7b43baa6a6dda0", "name": "StrategyCap", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "10/6/2022"}
+{"address": "0x5E76743f04c56B31A3ea477ff063cF8EB4DbD8C3", "name": "StrategyArbiBifiMaxi", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "10/6/2022"}
+{"address": "0x8231cF2a1960B50d4Ba5E64DC1295e5BCF50004A", "name": "F24TimeLock", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "10/6/2022"}
+{"address": "0xB14BAF697418473Ca3EdD1e519dF395d078F9960", "name": "Fiat24CryptoTopUp", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "10/6/2022"}
+{"address": "0x3ea16dd7C6679CaA3c9656F65F57c420174Ba3CB", "name": "F24TimeLock", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "10/6/2022"}
+{"address": "0xc1235881D69a60c3F3a0E83D700F243feb5593BD", "name": "StrategyBifiMaxiV4", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "10/6/2022"}
+{"address": "0xa3E1709b48d77c13096d18575BddFeC952F87DEf", "name": "Fiat24Buildings", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "10/6/2022"}
+{"address": "0x09A3506A3d13fa15fEBFd6e68E71BEdd58365Fc8", "name": "Fiat24CryptoTopUp", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "10/6/2022"}
+{"address": "0x3BC74bf4B453f60aA77cB962362931723A252B90", "name": "Fiat24ClientApplication", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "10/6/2022"}
+{"address": "0x8742f36B4C689915b507e08f81ecAA91021839A2", "name": "StrategyCap", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "10/6/2022"}
+{"address": "0x1e8E245bBC463887F64771E86b3C5Bb96521a96C", "name": "DysonVault", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "10/6/2022"}
+{"address": "0x786C748cC0C88bc571A3e559e1D73C23eB4Ed150", "name": "CSMCrossChainRouter", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 5, "settings": "", "date": "10/6/2022"}
+{"address": "0xb81B0d17FA4BF00e37dbBE2A03F718ED3CF1373e", "name": "PoolCrossChain", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 7, "settings": "", "date": "10/6/2022"}
+{"address": "0x82d3b3f1fe36057eeebe0d921e7833644e87eb53", "name": "NitroElon", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "10/6/2022"}
+{"address": "0x93fec2c00bfe902f733b57c5a6ceed7cd1384ae1", "name": "CREATE3Factory", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "10/6/2022"}
+{"address": "0x4ACd4BC402bc8e6BA8aBDdcA639d8011ef0b8a4b", "name": "DCAHubPositionDescriptor", "compiler": "0.8.16", "balance": "-", "txcount": 0, "settings": "", "date": "9/23/2022", "err": "Exception('HTML IN OUTPUT!! - BeautifulSoup messed up..')"}
