@@ -8051,3 +8051,13 @@
 {"address": "0x8a9262C7C6eC9bb143Eb68798AdB377c95F47138", "name": "FYToken", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "10/6/2022"}
 {"address": "0xec8B5420E6A1eB645655Fb9096C6001F5ED4322b", "name": "PlsSpaPlutusChef", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "10/5/2022"}
 {"address": "0x4ACd4BC402bc8e6BA8aBDdcA639d8011ef0b8a4b", "name": "DCAHubPositionDescriptor", "compiler": "0.8.16", "balance": "-", "txcount": 0, "settings": "", "date": "9/23/2022", "err": "Exception('HTML IN OUTPUT!! - BeautifulSoup messed up..')"}
+{"address": "0x8d1a17A3A4504aEB17515645BA8098f1D75237f7", "name": "AuthoredEscrow", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "10/6/2022"}
+{"address": "0x95928ee73573f5a99d5d8efc6e86303c93a2825e", "name": "NitroElon", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "10/6/2022"}
+{"address": "0x69883Edb709DD6a383ab80C132bE388bde824aD3", "name": "AnbotoExecV1", "compiler": "0.8.12", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "10/6/2022"}
+{"address": "0xb2FF2EAE969075a350bCAfB3E359a5bF33134145", "name": "QuixoticLaunchpadERC721", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 3, "settings": "-", "date": "10/6/2022"}
+{"address": "0x2f5703539d5Cf1342B2E13e905A6D1b2E0C7313b", "name": "CompositeOrder", "compiler": "0.8.12", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "10/6/2022"}
+{"address": "0xE69980c5d22D2D0b100E1312595e7f10B0DBc5dE", "name": "Race2Uranus", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "10/6/2022"}
+{"address": "0x757fd6171b2e08236e34a64646ce247f5b0a9809", "name": "NitroElon", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 3, "settings": "", "date": "10/6/2022"}
+{"address": "0xDbcD16e622c95AcB2650b38eC799f76BFC557a0b", "name": "Vyper_contract", "compiler": "vyper:0.2.16", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "10/6/2022"}
+{"address": "0x6eB2dc694eB516B16Dc9FBc678C60052BbdD7d80", "name": "Vyper_contract", "compiler": "vyper:0.3.1", "balance": "0.108884468806920389 ETH", "txcount": 2, "settings": "", "date": "10/6/2022"}
+{"address": "0x4ACd4BC402bc8e6BA8aBDdcA639d8011ef0b8a4b", "name": "DCAHubPositionDescriptor", "compiler": "0.8.16", "balance": "-", "txcount": 0, "settings": "", "date": "9/23/2022", "err": "Exception('HTML IN OUTPUT!! - BeautifulSoup messed up..')"}
