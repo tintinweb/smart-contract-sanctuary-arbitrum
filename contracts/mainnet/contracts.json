@@ -8134,3 +8134,14 @@
 {"address": "0xA1E4E6618E8d52517A357D51Ca8772833377cE55", "name": "Pool", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 7, "settings": "", "date": "10/7/2022"}
 {"address": "0x2dd9dDD1988A18A4E687494E6C06FE65eae1D62e", "name": "PoolCrossChain", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 8, "settings": "", "date": "10/7/2022"}
 {"address": "0x4ACd4BC402bc8e6BA8aBDdcA639d8011ef0b8a4b", "name": "DCAHubPositionDescriptor", "compiler": "0.8.16", "balance": "-", "txcount": 0, "settings": "", "date": "9/23/2022", "err": "Exception('HTML IN OUTPUT!! - BeautifulSoup messed up..')"}
+{"address": "0x499287C138Aed9A107d748dDfd53668d104378B1", "name": "StrategyGMX", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "10/7/2022"}
+{"address": "0x3c2918430dbFc84960F554377d9D1248ab1977F0", "name": "TransparentUpgradeableProxy", "compiler": "0.7.0", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "10/7/2022"}
+{"address": "0x683927Eb874937a7B0b7c76fB7Ef4aD226D08785", "name": "Settlement", "compiler": "0.7.0", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "10/7/2022"}
+{"address": "0x0544645E3cE1878d3fA7d993A1f90Eb92A6381B3", "name": "BeefyVaultV6", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "10/7/2022"}
+{"address": "0xF568023f13621879ea42f7B1F32170851981aE9D", "name": "StrategyBifiMaxiV4", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 3, "settings": "", "date": "10/7/2022"}
+{"address": "0x575173C8ec3550074C9D9dBD2800050AD150CF3C", "name": "LiquidityLocker", "compiler": "0.8.0", "balance": "0 ETH", "txcount": 5, "settings": "", "date": "10/7/2022"}
+{"address": "0x56f2f79494c14ad347587c456fba7ce792adea01", "name": "ScimitArb", "compiler": "0.8.1", "balance": "0 ETH", "txcount": 34, "settings": "-", "date": "10/7/2022"}
+{"address": "0x9c5b65f8d43cbc140cebb2f6ad240ced3d449028", "name": "LiquidityLockerScimitArb", "compiler": "0.8.0", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "10/7/2022"}
+{"address": "0xF60604E7a05E34C8e3A966874c83Ffe25c9Ba813", "name": "Asset", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 3, "settings": "", "date": "10/7/2022"}
+{"address": "0xb2a3A414C95e013FeF63ED89A1BdeED80bAB07dd", "name": "ParticleMinter", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 15, "settings": "", "date": "10/7/2022"}
+{"address": "0x4ACd4BC402bc8e6BA8aBDdcA639d8011ef0b8a4b", "name": "DCAHubPositionDescriptor", "compiler": "0.8.16", "balance": "-", "txcount": 0, "settings": "", "date": "9/23/2022", "err": "Exception('HTML IN OUTPUT!! - BeautifulSoup messed up..')"}
