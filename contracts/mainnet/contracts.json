@@ -8112,3 +8112,25 @@
 {"address": "0x34Be3e153Bb78f5829FAD734F1F5Ef63D9258b61", "name": "TupleHelpers", "compiler": "0.8.16", "balance": "-", "txcount": 0, "settings": "", "date": "10/7/2022"}
 {"address": "0x9bb7304Df40BcBF966D22A2d5Cb258Bbd2c82B70", "name": "vault", "compiler": "0.8.12", "balance": "0 ETH", "txcount": 6, "settings": "", "date": "10/7/2022"}
 {"address": "0x4ACd4BC402bc8e6BA8aBDdcA639d8011ef0b8a4b", "name": "DCAHubPositionDescriptor", "compiler": "0.8.16", "balance": "-", "txcount": 0, "settings": "", "date": "9/23/2022", "err": "Exception('HTML IN OUTPUT!! - BeautifulSoup messed up..')"}
+{"address": "0xf159c79077001e2a2c1a178be68db7f69a6da486", "name": "AaveV3Supply", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "10/7/2022"}
+{"address": "0xda30af810A523AF16Db064463b262401e9e7C725", "name": "Questing", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "10/7/2022"}
+{"address": "0x7058749cca365D76414792Ebe4f715da62eaeD45", "name": "Lock", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 6, "settings": "-", "date": "10/7/2022"}
+{"address": "0x95AcC7fA93574Da443C97bcdb69362A5c9aB8f09", "name": "QuixoticLaunchpadERC721", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 268, "settings": "-", "date": "10/7/2022"}
+{"address": "0xF74b468b196Fe175Cd0E87a9a6af63de9505A67c", "name": "Lock", "compiler": "0.8.17", "balance": "0.0001 ETH", "txcount": 2, "settings": "-", "date": "10/7/2022"}
+{"address": "0xF7506abC9653f31ff00f0B754a77Eb995efa94A2", "name": "CSMCrossChainRouter", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 11, "settings": "", "date": "10/7/2022"}
+{"address": "0x49143e21d1725Cb8F36c917A9C761CCBD3a91eE2", "name": "PoolCrossChain", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 11, "settings": "", "date": "10/7/2022"}
+{"address": "0x12Cd324c63D2CAF3B6e853343b546b90aEA4ffFF", "name": "Lock", "compiler": "0.8.17", "balance": "0.0001 ETH", "txcount": 2, "settings": "-", "date": "10/7/2022"}
+{"address": "0xF73296Fb3FA8dE73F2121299dD826a5cDd6ae949", "name": "Lock", "compiler": "0.8.17", "balance": "0.0001 ETH", "txcount": 2, "settings": "-", "date": "10/7/2022"}
+{"address": "0x36c4C53242144ed4C082a846028c742f07E3caac", "name": "BeefyVaultV6", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "10/7/2022"}
+{"address": "0xeD1D1Fc7D78CdA1F2A9B51Be5DcEe89091B2cFeB", "name": "Lock", "compiler": "0.8.17", "balance": "0.0001 ETH", "txcount": 2, "settings": "-", "date": "10/7/2022"}
+{"address": "0x0F1f878661121758921f9B4d83e07590b8C452DB", "name": "UniswapV2Router02", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 3, "settings": "", "date": "10/7/2022"}
+{"address": "0x4CC25D5a6474c8500342C77d5f8bdc6D3e715eE4", "name": "UniswapV2Factory", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "10/7/2022"}
+{"address": "0xfe0401bFFBeECE5d9FaE7f1b9a8f1e03FA1c3184", "name": "WithdrawInbox", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "10/7/2022"}
+{"address": "0x71b8853d95c0E3a4DC7bFB48A0B0ABA88656C78f", "name": "ContangoYield", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "10/7/2022"}
+{"address": "0xE5147a6f6170b5c1232F6Ae5645179B835f59ecC", "name": "Yield", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "10/7/2022"}
+{"address": "0xa85c9d83C2eb3e95293dadF4409574f9102e6c4F", "name": "ContangoYieldQuoter", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "10/7/2022"}
+{"address": "0xb3f3005ec42CF89a0510E3c01652B01c5bb3f40b", "name": "Asset", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 3, "settings": "", "date": "10/7/2022"}
+{"address": "0x569cba22A0eC782Bc683065C939B6138b210d0Bc", "name": "CSMCrossChainRouter", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 10, "settings": "", "date": "10/7/2022"}
+{"address": "0xA1E4E6618E8d52517A357D51Ca8772833377cE55", "name": "Pool", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 7, "settings": "", "date": "10/7/2022"}
+{"address": "0x2dd9dDD1988A18A4E687494E6C06FE65eae1D62e", "name": "PoolCrossChain", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 8, "settings": "", "date": "10/7/2022"}
+{"address": "0x4ACd4BC402bc8e6BA8aBDdcA639d8011ef0b8a4b", "name": "DCAHubPositionDescriptor", "compiler": "0.8.16", "balance": "-", "txcount": 0, "settings": "", "date": "9/23/2022", "err": "Exception('HTML IN OUTPUT!! - BeautifulSoup messed up..')"}
