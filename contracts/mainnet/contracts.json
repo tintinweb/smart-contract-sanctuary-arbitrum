@@ -8167,3 +8167,6 @@
 {"address": "0x7ccb80d6aa785fc0e918c4a2ce02f161811a6cea", "name": "BunniMigrator", "compiler": "0.8.15", "balance": "-", "txcount": 0, "settings": "", "date": "10/7/2022"}
 {"address": "0xdF1251486F7F894eA521A6e9584A2683C16487f0", "name": "StrategyGMX", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 6, "settings": "", "date": "10/7/2022"}
 {"address": "0xDcb3D0b4ABeE1BA4987439cBfCbA08172fe9fe6e", "name": "DeNftBridge", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "10/7/2022"}
+{"address": "0xB195f6724e3B9d9D1A53Bd80f10f74D753568397", "name": "N2W", "compiler": "0.8.17", "balance": "0.051 ETH", "txcount": 6, "settings": "-", "date": "10/8/2022"}
+{"address": "0xFB59b46D6D7Ae88d985651975C05e2783884c951", "name": "Pool", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 7, "settings": "", "date": "10/8/2022"}
+{"address": "0xf11AE6fB091Fe4bf88Ec9B62393fab32aEDfCF25", "name": "PoolCrossChain", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 14, "settings": "", "date": "10/8/2022"}
