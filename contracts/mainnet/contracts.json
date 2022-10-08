@@ -8175,3 +8175,4 @@
 {"address": "0x560237104b5F2c4dD8712f835AE65dD1e583494B", "name": "StrategyArbSushiDualLP", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 6, "settings": "", "date": "10/8/2022"}
 {"address": "0xf9B0F866C276B68407A1CCAB6fBd5332Ed3ac643", "name": "CurvePortalIn", "compiler": "0.8.11", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "10/8/2022"}
 {"address": "0x08ae8eB3Ff29215f200FCbDc0b28010F3e425884", "name": "StrategyArbSushiLP", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 5, "settings": "", "date": "10/8/2022"}
+{"address": "0xF6b478dE66f6051A68A5f1C9168544281d54c897", "name": "BuyBullContract", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "10/8/2022"}
