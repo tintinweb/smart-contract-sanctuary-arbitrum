@@ -8170,3 +8170,8 @@
 {"address": "0xB195f6724e3B9d9D1A53Bd80f10f74D753568397", "name": "N2W", "compiler": "0.8.17", "balance": "0.051 ETH", "txcount": 6, "settings": "-", "date": "10/8/2022"}
 {"address": "0xFB59b46D6D7Ae88d985651975C05e2783884c951", "name": "Pool", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 7, "settings": "", "date": "10/8/2022"}
 {"address": "0xf11AE6fB091Fe4bf88Ec9B62393fab32aEDfCF25", "name": "PoolCrossChain", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 14, "settings": "", "date": "10/8/2022"}
+{"address": "0xAcc327EeE39541319fF5431ae04f0339535233f3", "name": "BeefyVaultV6", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "10/8/2022"}
+{"address": "0x4eca7C042C63d2785c27A2c26A5f1278b41F379e", "name": "StrategyRadiantChefLP", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 5, "settings": "", "date": "10/8/2022"}
+{"address": "0x560237104b5F2c4dD8712f835AE65dD1e583494B", "name": "StrategyArbSushiDualLP", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 6, "settings": "", "date": "10/8/2022"}
+{"address": "0xf9B0F866C276B68407A1CCAB6fBd5332Ed3ac643", "name": "CurvePortalIn", "compiler": "0.8.11", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "10/8/2022"}
+{"address": "0x08ae8eB3Ff29215f200FCbDc0b28010F3e425884", "name": "StrategyArbSushiLP", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 5, "settings": "", "date": "10/8/2022"}
