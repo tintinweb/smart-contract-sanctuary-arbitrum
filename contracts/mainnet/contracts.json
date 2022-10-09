@@ -8176,3 +8176,9 @@
 {"address": "0xf9B0F866C276B68407A1CCAB6fBd5332Ed3ac643", "name": "CurvePortalIn", "compiler": "0.8.11", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "10/8/2022"}
 {"address": "0x08ae8eB3Ff29215f200FCbDc0b28010F3e425884", "name": "StrategyArbSushiLP", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 5, "settings": "", "date": "10/8/2022"}
 {"address": "0xF6b478dE66f6051A68A5f1C9168544281d54c897", "name": "BuyBullContract", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "10/8/2022"}
+{"address": "0x52c9698663f30b3d8ad866c2c1ce53c3daca96e2", "name": "ArbitrumGuildRolesTokenBundle", "compiler": "0.8.17", "balance": "0.005 ETH", "txcount": 2, "settings": "-", "date": "10/9/2022"}
+{"address": "0x6de4d882a84a98f4ccd5d33ea6b3c99a07babeb1", "name": "FeeRateDIP3Impl", "compiler": "0.6.9", "balance": "0 ETH", "txcount": 4, "settings": "", "date": "10/9/2022"}
+{"address": "0xD30dD0A7750C261c7FF175DCB9A06979e3dcAE48", "name": "VendorLicenseEngine", "compiler": "0.8.11", "balance": "0 ETH", "txcount": 3, "settings": "", "date": "10/9/2022"}
+{"address": "0x9EbF060717672a8Eb9EBb0c9939510255F323544", "name": "SimpleVault", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "10/8/2022"}
+{"address": "0x1C775234d92E2372E94b0f908d714C800a589DC3", "name": "V3LiqManagerHelperLib", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "10/8/2022"}
+{"address": "0xF13CAad02238223b0D73F51eAFD92a252B4c3f9E", "name": "OrderRouter", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "10/8/2022"}
