@@ -8242,3 +8242,6 @@
 {"address": "0x87C8D333C7b11177Fd0b56F467a7EA78df0e3228", "name": "HumanboundRetractLogic", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "10/10/2022"}
 {"address": "0xEEadD34ce99E8091eAed8a2e24c4a52C27dF62C0", "name": "HumanboundExtendLogic", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "10/10/2022"}
 {"address": "0x7Db4de78E6b9A98752B56959611e4cfdA52269D2", "name": "DevconSuveneer", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "10/10/2022"}
+{"address": "0xB45bc75fd9812BD0bc25042Bfed46e487cB141ed", "name": "WETH9", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "10/10/2022"}
+{"address": "0xFD8FF9748b0C67BD49624a53413ECe5daC16229A", "name": "Arb", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "10/10/2022"}
+{"address": "0xF3878d4DAe15257e4071805DF6f5B475390D4D4b", "name": "Arb", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "10/10/2022"}
