@@ -8263,3 +8263,16 @@
 {"address": "0xBC738AB57ba8b6fB4a4Ebf65db692e02fBCD8476", "name": "vault", "compiler": "0.8.12", "balance": "0 ETH", "txcount": 5, "settings": "", "date": "10/11/2022"}
 {"address": "0xf66EB47bD0271f3135123e5aA1dDC44f2CF65E90", "name": "Sounds", "compiler": "0.8.7", "balance": "0.1 ETH", "txcount": 11, "settings": "", "date": "10/11/2022"}
 {"address": "0xd127b6e2137284d84F799817CC4E7173020156dd", "name": "KeyboardOZ", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 11, "settings": "", "date": "10/11/2022"}
+{"address": "0x9F29DFB7BC82d1b02F4C4d63d30C846eDBde82fe", "name": "QuixoticLaunchpadERC721", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 4, "settings": "-", "date": "10/11/2022"}
+{"address": "0xbcd9c5C6cA2713FEe61A2403917e4fA88502F7C1", "name": "QuixoticLaunchpadERC721", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 2, "settings": "-", "date": "10/11/2022"}
+{"address": "0x8CE7bB64486EA8BEC389d9bebD63AE10Cb1BD5bC", "name": "QuixoticLaunchpadERC721", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 4, "settings": "-", "date": "10/11/2022"}
+{"address": "0xF3739DA615A8C116Cb3eA340d68E701B85788B6A", "name": "QuixoticLaunchpadERC721", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 4, "settings": "-", "date": "10/11/2022"}
+{"address": "0x3DcE29F13E0d433890ef4Fcc2a31b60a2048C46a", "name": "HumanboundMintLogic", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "10/11/2022"}
+{"address": "0x80B87FDF733C4ACd1Fc885E233596DdFC51f7d49", "name": "QuixoticLaunchpadERC721", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 2, "settings": "-", "date": "10/11/2022"}
+{"address": "0xb2073792F28b0Aa552063094eAC37276Bf424EC0", "name": "QuixoticLaunchpadERC721", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 7, "settings": "-", "date": "10/11/2022"}
+{"address": "0x366083AF6a0E16C1A2BE44377f7f07782097ed9A", "name": "QuixoticLaunchpadERC721", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 6, "settings": "-", "date": "10/11/2022"}
+{"address": "0xf00a03368523ee007fd593e4907e84db41b8e080", "name": "Greeter", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "10/11/2022"}
+{"address": "0x1C3c143D0073E8A84cAb91EAB3Ae97c5ff6a84A6", "name": "QuixoticLaunchpadERC721", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 7, "settings": "-", "date": "10/11/2022"}
+{"address": "0xae2262c6ed576b2a25b0e2d71054a530169b7075", "name": "StrategyBalancerMultiRewardGaugeUniV3", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 7, "settings": "", "date": "10/11/2022"}
+{"address": "0x225555f86f6b0fa4f418f41a4865c66096b7452e", "name": "BeefyVaultV6", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 10, "settings": "", "date": "10/11/2022"}
+{"address": "0x55Dd65993cB918cdA55eA02FCc6D417A364833d9", "name": "StrategyBalancerComposableMultiRewardGaugeUniV3", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 10, "settings": "", "date": "10/11/2022"}
