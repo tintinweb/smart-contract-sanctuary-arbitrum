@@ -8245,3 +8245,11 @@
 {"address": "0xB45bc75fd9812BD0bc25042Bfed46e487cB141ed", "name": "WETH9", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "10/10/2022"}
 {"address": "0xFD8FF9748b0C67BD49624a53413ECe5daC16229A", "name": "Arb", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "10/10/2022"}
 {"address": "0xF3878d4DAe15257e4071805DF6f5B475390D4D4b", "name": "Arb", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "10/10/2022"}
+{"address": "0x2210917F6c69804b7D4f21f4097103A8E6a9430f", "name": "TokenLocker", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 6, "settings": "-", "date": "10/10/2022"}
+{"address": "0x59Be5Dc2fCCC23dA29707D08898d64c3376a1126", "name": "GMXPriceOracle", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "10/10/2022"}
+{"address": "0x06Cf0f5DdeeBf4556E105754754CAb16D956840B", "name": "CErc20DelegatorGmx", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "10/10/2022"}
+{"address": "0x8f42A75AFfB4c3d30c3423F7BdA2095D68B16232", "name": "StrategyBalancerComposableMultiRewardGaugeUniV3", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 7, "settings": "", "date": "10/10/2022"}
+{"address": "0x9106b946abb83c8f44980d54513c224bd948a773", "name": "OrbitalLocker", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "10/10/2022"}
+{"address": "0x346967B0C7D9Fd394Cc7b3a9a7F10a6729C6dEbE", "name": "StrategyBalancerMultiRewardGaugeUniV3", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 4, "settings": "", "date": "10/10/2022"}
+{"address": "0x587c3e2e17c59b09b120fc2d27e0ead6edd2c71d", "name": "StrategyBalancerMultiRewardGaugeUniV3", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 3, "settings": "", "date": "10/10/2022"}
+{"address": "0x6964B445AfE0B30f7fF91C132Cf3035cc272a161", "name": "WETH9", "compiler": "0.8.7", "balance": "0.005 ETH", "txcount": 2, "settings": "-", "date": "10/10/2022"}
