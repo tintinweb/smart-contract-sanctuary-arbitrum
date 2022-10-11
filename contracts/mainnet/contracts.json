@@ -8253,3 +8253,13 @@
 {"address": "0x346967B0C7D9Fd394Cc7b3a9a7F10a6729C6dEbE", "name": "StrategyBalancerMultiRewardGaugeUniV3", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 4, "settings": "", "date": "10/10/2022"}
 {"address": "0x587c3e2e17c59b09b120fc2d27e0ead6edd2c71d", "name": "StrategyBalancerMultiRewardGaugeUniV3", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 3, "settings": "", "date": "10/10/2022"}
 {"address": "0x6964B445AfE0B30f7fF91C132Cf3035cc272a161", "name": "WETH9", "compiler": "0.8.7", "balance": "0.005 ETH", "txcount": 2, "settings": "-", "date": "10/10/2022"}
+{"address": "0x5b644CD6B5282e6523c6627df27eB9352B1d7F4B", "name": "Runners", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 2, "settings": "-", "date": "10/11/2022"}
+{"address": "0xDa651685b5dc1B5d18aE7fAbe7D43666Ed12c696", "name": "GMXPriceOracle", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "10/11/2022"}
+{"address": "0xd8214047d8190e601D789D30A1229BFc2a8Ab229", "name": "QuixoticLaunchpadERC721", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 8, "settings": "-", "date": "10/11/2022"}
+{"address": "0x14091A36631B1b3234216d947240E49bA922Cf8b", "name": "QuixoticLaunchpadERC721", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 8, "settings": "-", "date": "10/11/2022"}
+{"address": "0x5b544522ebfd0AD248B03ba0B43e18Fd775ffaCa", "name": "GMXPriceOracle", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "10/11/2022"}
+{"address": "0xfEbb6dD6D8ACeb00B2b51cfe89e89618Ef2008d6", "name": "QuixoticLaunchpadERC721", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 6, "settings": "-", "date": "10/11/2022"}
+{"address": "0x6d2606ebdD9aAF4A2D434a00380aB24Fe3C13387", "name": "vault", "compiler": "0.8.12", "balance": "0 ETH", "txcount": 10, "settings": "", "date": "10/11/2022"}
+{"address": "0xBC738AB57ba8b6fB4a4Ebf65db692e02fBCD8476", "name": "vault", "compiler": "0.8.12", "balance": "0 ETH", "txcount": 5, "settings": "", "date": "10/11/2022"}
+{"address": "0xf66EB47bD0271f3135123e5aA1dDC44f2CF65E90", "name": "Sounds", "compiler": "0.8.7", "balance": "0.1 ETH", "txcount": 11, "settings": "", "date": "10/11/2022"}
+{"address": "0xd127b6e2137284d84F799817CC4E7173020156dd", "name": "KeyboardOZ", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 11, "settings": "", "date": "10/11/2022"}
