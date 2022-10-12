@@ -8283,3 +8283,8 @@
 {"address": "0x177AE3fBfF075cbC333C1d196AF4a6ca85F8b76e", "name": "AovAdminMinter", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "10/11/2022"}
 {"address": "0xbC2E674dFe0d885081f429b296D7aE2B784D1198", "name": "LASM", "compiler": "0.8.11", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "10/11/2022"}
 {"address": "0x7d9EeE2e678f3e6fEcED061D85CC45f649621996", "name": "LasmVesting", "compiler": "0.8.11", "balance": "0 ETH", "txcount": 3, "settings": "", "date": "10/11/2022"}
+{"address": "0x7A3d75EB67C21a1a57afADB99821C135c6Ba79a7", "name": "QuixoticLaunchpadERC721", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 4, "settings": "-", "date": "10/12/2022"}
+{"address": "0x9ff3141b86406c0ac2edb3b41f402f570bf61104", "name": "T", "compiler": "0.8.0", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "10/12/2022"}
+{"address": "0xF60f5d4E46d05031c0F3cf98Ac0e546Cc32D3bE1", "name": "QuixoticLaunchpadERC721", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 4, "settings": "-", "date": "10/12/2022"}
+{"address": "0x06a0B5e632A166152679ce2a5dB2C06A60acB1fB", "name": "QuixoticLaunchpadERC721", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 23, "settings": "-", "date": "10/12/2022"}
+{"address": "0xC6Da5Fee70AA6A606E4FfD748108C52E16C07444", "name": "theArchitect", "compiler": "0.8.12", "balance": "0 ETH", "txcount": 2, "settings": "-", "date": "10/11/2022"}
