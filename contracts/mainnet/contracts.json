@@ -8313,3 +8313,14 @@
 {"address": "0x5A6C716826eC22bB414c63Fca9b3A9eecD28D798", "name": "SwitchCelerReceiver", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "10/12/2022"}
 {"address": "0x652073F67C83096eB2A5052C35e1A9fa1D3550f5", "name": "SwitchNxtp", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "10/12/2022"}
 {"address": "0x4BBd6D583eE4940e75b221C903ffFA9eA86924DB", "name": "Switch", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "10/12/2022"}
+{"address": "0xE917Dc6fDbea80E60DD688dF9448945e11101129", "name": "Boardroom", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "10/12/2022"}
+{"address": "0xbaBd9b01f73b7B7eA13453c8E288f02436eF618b", "name": "ShareRewardPool", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "10/12/2022"}
+{"address": "0x1d19c9b131d5Fe6846F9953b0f28923f6dA86447", "name": "HyperTomb", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "10/12/2022"}
+{"address": "0xCfdb8c370257Fe7278df9660e005E637171e433C", "name": "HyperShare", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "10/12/2022"}
+{"address": "0x64cc4edc322aa234b66bb460993fe12bc63e0d88", "name": "HyperBond", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "10/12/2022"}
+{"address": "0x423d1ECc8D5fd3c6B1b32767C849F9E7618716f0", "name": "MiniCrafting", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "10/12/2022"}
+{"address": "0x75Ac3d8f8D008B1b2dDFe1d3AAFB3b3DD91fcaf2", "name": "Crafting", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "10/12/2022"}
+{"address": "0xcfd5bc58c0fd7bc778929b946a9aa2e18d12158c", "name": "ArbitrumGuildRolesTokenBundle", "compiler": "0.8.12", "balance": "0 ETH", "txcount": 2, "settings": "-", "date": "10/12/2022"}
+{"address": "0xfE6F852bBA61773EB864772B763762114F44F3E1", "name": "Crafting", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "10/12/2022"}
+{"address": "0x5054c41B8Ee426feF0d18fd7b362F478f36D2Dd5", "name": "PositionManager", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 5, "settings": "", "date": "10/12/2022"}
+{"address": "0x25877b9413cc7832a6d142891b50bd53935fef82", "name": "Vyper_contract", "compiler": "vyper:0.3.7", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "10/12/2022"}
