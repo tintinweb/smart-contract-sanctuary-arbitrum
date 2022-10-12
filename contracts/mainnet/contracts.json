@@ -8299,3 +8299,17 @@
 {"address": "0x91e9d9c055f411d1a626b479a6182abb8269be8b", "name": "vault", "compiler": "0.8.12", "balance": "0 ETH", "txcount": 15, "settings": "", "date": "10/12/2022"}
 {"address": "0xc5abb12d76c8E62D970Db56a508432028dcfC080", "name": "QuixoticLaunchpadERC721", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 4, "settings": "-", "date": "10/12/2022"}
 {"address": "0x598a74fe7c2545062327f4673384f2e77a30ae71", "name": "ArbitrumGuildRolesTokenBundle", "compiler": "0.8.12", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "10/12/2022"}
+{"address": "0x2CB6E1Adf22Af1A38d7C3370441743a123991EC3", "name": "Vyper_contract", "compiler": "vyper:0.3.7", "balance": "-", "txcount": 0, "settings": "-", "date": "10/12/2022"}
+{"address": "0x5ccbB27FB594c5cF6aC0670bbcb360c0072F6839", "name": "Vyper_contract", "compiler": "vyper:0.3.7", "balance": "-", "txcount": 0, "settings": "-", "date": "10/12/2022"}
+{"address": "0xb7b0FF38E0A01D798B5cd395BbA6Ddb56A323830", "name": "Vyper_contract", "compiler": "vyper:0.3.7", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "10/12/2022"}
+{"address": "0x0Bc5c583217961493663A963E9b7b48774BDC2A3", "name": "FYTokenHandler", "compiler": "0.8.16", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "10/12/2022"}
+{"address": "0x5da65e0d457836af3eb4d3fc33a5821ce3ef53e7", "name": "YieldLiquidator", "compiler": "0.8.16", "balance": "0 ETH", "txcount": 12, "settings": "", "date": "10/12/2022"}
+{"address": "0x5a2bf760384f4bbda14676bbc4a99191c3d8fde7", "name": "Multiplexer", "compiler": "0.4.26", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "10/12/2022"}
+{"address": "0x35c21622aFACf85343A6cbC2DddC8c570097F1aA", "name": "FiveOceansEpochSettler", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "10/12/2022"}
+{"address": "0xF80C3D97e8352e51BA340f16E95D8aB0ac88d64B", "name": "SwitchCelerSender", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "10/12/2022"}
+{"address": "0x0f80eF226ccc9F324a40d8f2edEbC8D55ca4cDE3", "name": "QuixoticLaunchpadERC721", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 5, "settings": "-", "date": "10/12/2022"}
+{"address": "0xBBa132Fa47cae8678aF27Da837a15Cd698eb6478", "name": "QuixoticLaunchpadERC721", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 5, "settings": "-", "date": "10/12/2022"}
+{"address": "0xb2c3D4493a7929967a73B3a17Ec2C11aB81D0486", "name": "HumanboundMintLogic", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "10/12/2022"}
+{"address": "0x5A6C716826eC22bB414c63Fca9b3A9eecD28D798", "name": "SwitchCelerReceiver", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "10/12/2022"}
+{"address": "0x652073F67C83096eB2A5052C35e1A9fa1D3550f5", "name": "SwitchNxtp", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "10/12/2022"}
+{"address": "0x4BBd6D583eE4940e75b221C903ffFA9eA86924DB", "name": "Switch", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "10/12/2022"}
