@@ -8288,3 +8288,14 @@
 {"address": "0xF60f5d4E46d05031c0F3cf98Ac0e546Cc32D3bE1", "name": "QuixoticLaunchpadERC721", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 4, "settings": "-", "date": "10/12/2022"}
 {"address": "0x06a0B5e632A166152679ce2a5dB2C06A60acB1fB", "name": "QuixoticLaunchpadERC721", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 23, "settings": "-", "date": "10/12/2022"}
 {"address": "0xC6Da5Fee70AA6A606E4FfD748108C52E16C07444", "name": "theArchitect", "compiler": "0.8.12", "balance": "0 ETH", "txcount": 2, "settings": "-", "date": "10/11/2022"}
+{"address": "0xD6E79063E71a5d5365fc888a611c77e25b662cFE", "name": "SwitchView", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "10/12/2022"}
+{"address": "0xf63ba6b9d09431f1ddb82394d119e166678481c6", "name": "ArbitrumGuildRolesTokenBundle", "compiler": "0.8.12", "balance": "0 ETH", "txcount": 2, "settings": "-", "date": "10/12/2022"}
+{"address": "0x544d3C5FCA894CE724ea148A44d35C7Aa415EfC4", "name": "QuixoticLaunchpadERC721", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 4, "settings": "-", "date": "10/12/2022"}
+{"address": "0x4F60c2FE80c653E50e7d945c4be5D856f22D410D", "name": "ArbitrumGuildRolesTokenBundle", "compiler": "0.8.12", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "10/12/2022"}
+{"address": "0x29dE49Df8e7352702a855aC6D4F4314464dB10cb", "name": "QuixoticLaunchpadERC721", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 5, "settings": "-", "date": "10/12/2022"}
+{"address": "0x7731F8Df999a9441AE10519617C24568Dc82F697", "name": "WethUnwrapper", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "10/12/2022"}
+{"address": "0xc9D2510c0C897BD08A893208783F8EDd00dB6d16", "name": "TransferSwapper", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 6, "settings": "", "date": "10/12/2022"}
+{"address": "0x452030a5D962d37D97A9D65487663cD5fd9C2B32", "name": "Vyper_contract", "compiler": "vyper:0.3.7", "balance": "-", "txcount": 0, "settings": "-", "date": "10/12/2022"}
+{"address": "0x91e9d9c055f411d1a626b479a6182abb8269be8b", "name": "vault", "compiler": "0.8.12", "balance": "0 ETH", "txcount": 15, "settings": "", "date": "10/12/2022"}
+{"address": "0xc5abb12d76c8E62D970Db56a508432028dcfC080", "name": "QuixoticLaunchpadERC721", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 4, "settings": "-", "date": "10/12/2022"}
+{"address": "0x598a74fe7c2545062327f4673384f2e77a30ae71", "name": "ArbitrumGuildRolesTokenBundle", "compiler": "0.8.12", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "10/12/2022"}
