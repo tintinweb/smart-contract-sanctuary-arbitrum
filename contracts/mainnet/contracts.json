@@ -8423,3 +8423,4 @@
 {"address": "0x77fe110716e6b5d1904c7e3d1c49ab3c58ef678b", "name": "Controller", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "10/13/2022"}
 {"address": "0x3dcf49d27388e4bcf7ae74d75afa987034bd7ce0", "name": "VaultFactory", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 8, "settings": "", "date": "10/13/2022"}
 {"address": "0x206ef1553e47af66f592d468ee51d0e1511c3598", "name": "WETH", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 10, "settings": "", "date": "10/13/2022"}
+{"address": "0xbeb2b37d6f2ddb463e2154bd34c5229386960ac0", "name": "CrosschainForwarder", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "10/15/2022"}
