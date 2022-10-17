@@ -8491,3 +8491,13 @@
 {"address": "0x2327f3fbec98b836012639545be35e6e8f83892a", "name": "OwnershipFacet", "compiler": "0.8.17", "balance": "-", "txcount": 0, "settings": "", "date": "10/17/2022"}
 {"address": "0xf5ba8db6fea7af820de35c8d0c294e17dbc1b9d2", "name": "DiamondLoupeFacet", "compiler": "0.8.17", "balance": "-", "txcount": 0, "settings": "", "date": "10/17/2022"}
 {"address": "0xf7993a8df974ad022647e63402d6315137c58abf", "name": "DiamondCutFacet", "compiler": "0.8.17", "balance": "-", "txcount": 0, "settings": "", "date": "10/17/2022"}
+{"address": "0x73996AD8908d60B9004C4cD2948e901CB1599ACe", "name": "GovNFTBridged", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 4, "settings": "", "date": "10/17/2022"}
+{"address": "0x28529fec439cfF6d7D1D5917e956dEE62Cd3BE5c", "name": "StakingRewards", "compiler": "0.5.16", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "10/17/2022"}
+{"address": "0x86D4269Ef2995c1ACE557bC320d706F54523fDe8", "name": "LPTokenProcessorV1", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 5, "settings": "", "date": "10/17/2022"}
+{"address": "0x6beF3353cd4dE97AF0B6ECa10921ef0F03b2fc51", "name": "PaymentModuleV1", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 3, "settings": "", "date": "10/17/2022"}
+{"address": "0x38884d036842377A6f882f8fc1A633A0Cd2E72D0", "name": "VaultDpxWethRdpx", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "10/17/2022"}
+{"address": "0x5Ddaf569ad9F732EA36229C0605288613e4C3887", "name": "StrategyDpxWethRdpx", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "10/17/2022"}
+{"address": "0x3b48BE434B3D13d90E9e0cDbc550BF31D0451f66", "name": "VaultDpxWethDpx", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "10/17/2022"}
+{"address": "0x19390136f374A1Ef3CD15C97d8a430eDa26596cC", "name": "DPXController", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "10/17/2022"}
+{"address": "0x0b49675c4b5af56a3929ff00cc8143a1b88c434c", "name": "StrategyDpxWethDpx", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "10/17/2022"}
+{"address": "0xd4d2f4110878a33ea5b97f0665e518253446161a", "name": "ArbGovToken", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 6, "settings": "", "date": "10/17/2022"}
