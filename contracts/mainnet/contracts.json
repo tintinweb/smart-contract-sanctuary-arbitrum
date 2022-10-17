@@ -8467,3 +8467,27 @@
 {"address": "0x6b71a2Ac483AE8Af0A3221425bc3fBa620b5DB6a", "name": "PublicLock", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "10/17/2022"}
 {"address": "0x9321785D257b3f0eF7Ff75436a87141C683DC99d", "name": "WooStakingVault", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 3, "settings": "", "date": "10/17/2022"}
 {"address": "0x830b291dCa6aaF90476b5b777Adb25599FB83B1B", "name": "QuixoticLaunchpadERC721", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 5, "settings": "-", "date": "10/17/2022"}
+{"address": "0xe71726ED76CB92c2103F4E0e443d57cc5F527cfA", "name": "NasalisGenesis", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 2269, "settings": "", "date": "10/17/2022"}
+{"address": "0x52f541764e6e90eebc5c21ff570de0e2d63766b6", "name": "CurveProxyXChain", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "10/17/2022"}
+{"address": "0xe7AD04691c298baDC3A6EC029a87176c0e4e7EF8", "name": "Greeter1", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "10/17/2022"}
+{"address": "0x7d60f21072b585351dfd5e8b17109458d97ec120", "name": "CommonRegistryXChain", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "10/17/2022"}
+{"address": "0x353a5303dd2a39ab59aed09fb971d359b94658c7", "name": "FeeCollector", "compiler": "0.8.17", "balance": "-", "txcount": 0, "settings": "", "date": "10/17/2022"}
+{"address": "0x1b107dfdd93b8a8d305f043543766eaa160e0a0b", "name": "Receiver", "compiler": "0.8.17", "balance": "-", "txcount": 0, "settings": "", "date": "10/17/2022"}
+{"address": "0x4f6a9caca8cd1e6025972bcaf6bfd8504de69b52", "name": "Executor", "compiler": "0.8.17", "balance": "-", "txcount": 0, "settings": "", "date": "10/17/2022"}
+{"address": "0x856ff421d9b354ba1e909e26655e159f5bd04f2e", "name": "ERC20Proxy", "compiler": "0.8.17", "balance": "-", "txcount": 0, "settings": "", "date": "10/17/2022"}
+{"address": "0x8e4097ecfcc60f25ff2d7ee4d472eca4a28a8425", "name": "PeripheryRegistryFacet", "compiler": "0.8.17", "balance": "-", "txcount": 0, "settings": "", "date": "10/17/2022"}
+{"address": "0x353268a8eb912be2079876bc1faca109e89e5308", "name": "StargateFacet", "compiler": "0.8.17", "balance": "-", "txcount": 0, "settings": "", "date": "10/17/2022"}
+{"address": "0x26cdc2c58bdc2d3028a7a37f5d7e479eb7bf025c", "name": "NXTPFacet", "compiler": "0.8.17", "balance": "-", "txcount": 0, "settings": "", "date": "10/17/2022"}
+{"address": "0x6444cc208fb4f9059813ad795fad0c07db8793a2", "name": "MultichainFacet", "compiler": "0.8.17", "balance": "-", "txcount": 0, "settings": "", "date": "10/17/2022"}
+{"address": "0x2f7f1a1c392e58012b84cfa673df73101666314d", "name": "HyphenFacet", "compiler": "0.8.17", "balance": "-", "txcount": 0, "settings": "", "date": "10/17/2022"}
+{"address": "0x031b8a761d66a97786655ebfac6476dbf0f71fa5", "name": "HopFacet", "compiler": "0.8.17", "balance": "-", "txcount": 0, "settings": "", "date": "10/17/2022"}
+{"address": "0x7db3e450d818ce91cec519425385bcf8c4cffda9", "name": "GenericSwapFacet", "compiler": "0.8.17", "balance": "-", "txcount": 0, "settings": "", "date": "10/17/2022"}
+{"address": "0x3b2b473b2e390aaeb76ff00a4278045da25e2bfb", "name": "CBridgeFacet", "compiler": "0.8.17", "balance": "-", "txcount": 0, "settings": "", "date": "10/17/2022"}
+{"address": "0x6622d02754559bf2a6a4f5cc3469846900dcd395", "name": "AcrossFacet", "compiler": "0.8.17", "balance": "-", "txcount": 0, "settings": "", "date": "10/17/2022"}
+{"address": "0x1231deb6f5749ef6ce6943a275a1d3e7486f4eae", "name": "LiFiDiamond", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 16, "settings": "", "date": "10/17/2022"}
+{"address": "0x756061f9c646a755233c63f5bc6e7ad0d3b54fc3", "name": "WithdrawFacet", "compiler": "0.8.17", "balance": "-", "txcount": 0, "settings": "", "date": "10/17/2022"}
+{"address": "0x8f1f3113dbf717a53edfddf3a7e4168e45fd62f5", "name": "AccessManagerFacet", "compiler": "0.8.17", "balance": "-", "txcount": 0, "settings": "", "date": "10/17/2022"}
+{"address": "0x4f90dc98674a7bc597e70d1d4b8d72d75be09732", "name": "DexManagerFacet", "compiler": "0.8.17", "balance": "-", "txcount": 0, "settings": "", "date": "10/17/2022"}
+{"address": "0x2327f3fbec98b836012639545be35e6e8f83892a", "name": "OwnershipFacet", "compiler": "0.8.17", "balance": "-", "txcount": 0, "settings": "", "date": "10/17/2022"}
+{"address": "0xf5ba8db6fea7af820de35c8d0c294e17dbc1b9d2", "name": "DiamondLoupeFacet", "compiler": "0.8.17", "balance": "-", "txcount": 0, "settings": "", "date": "10/17/2022"}
+{"address": "0xf7993a8df974ad022647e63402d6315137c58abf", "name": "DiamondCutFacet", "compiler": "0.8.17", "balance": "-", "txcount": 0, "settings": "", "date": "10/17/2022"}
