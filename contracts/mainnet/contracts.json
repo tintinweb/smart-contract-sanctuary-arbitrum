@@ -8458,3 +8458,12 @@
 {"address": "0xAB76bBAFe7B3cdC99c19cdb6512c9C9D0Ad08B1f", "name": "QuixoticLaunchpadERC721", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 5, "settings": "-", "date": "10/17/2022"}
 {"address": "0xA704F3f5ccf4188FD7eCEaf5C830Aa9926C8372D", "name": "QuixoticLaunchpadERC721", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 4, "settings": "-", "date": "10/16/2022"}
 {"address": "0x3C6d9450ea603B4d48866599b6ffdc3115737B38", "name": "Segsysmol", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 44, "settings": "", "date": "10/16/2022"}
+{"address": "0xC0CD6347f6993313f8D40CF64Bf7D9Bc6658e51a", "name": "QuixoticLaunchpadERC721", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 507, "settings": "-", "date": "10/17/2022"}
+{"address": "0x1927d180e66cF627168ef2029136a772abFCe8C8", "name": "TreasuryMigrator", "compiler": "0.7.5", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "10/17/2022"}
+{"address": "0x92EBD1AD7b699B9Abe11d38a8f8062A05251Cb0e", "name": "ProportionalSupplyController", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "10/17/2022"}
+{"address": "0x1875794551585d349b916deA2F45e0c14cF4929d", "name": "PanaTreasuryV2", "compiler": "0.7.5", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "10/17/2022"}
+{"address": "0x2470AFe23390EdD072479F0A2d610AcE1b39EABa", "name": "PanaBondDepository", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "10/17/2022"}
+{"address": "0x008D2f11DC03F39A67eD149ee4558490D6595220", "name": "DistributorV2", "compiler": "0.7.5", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "10/17/2022"}
+{"address": "0x6b71a2Ac483AE8Af0A3221425bc3fBa620b5DB6a", "name": "PublicLock", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "10/17/2022"}
+{"address": "0x9321785D257b3f0eF7Ff75436a87141C683DC99d", "name": "WooStakingVault", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 3, "settings": "", "date": "10/17/2022"}
+{"address": "0x830b291dCa6aaF90476b5b777Adb25599FB83B1B", "name": "QuixoticLaunchpadERC721", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 5, "settings": "-", "date": "10/17/2022"}
