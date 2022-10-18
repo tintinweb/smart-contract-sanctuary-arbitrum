@@ -8506,3 +8506,7 @@
 {"address": "0xD8eED1C6e4eFe4CC62A2156990858ffB39251cB9", "name": "Games", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 6, "settings": "-", "date": "10/17/2022"}
 {"address": "0x4b271a31eCA9dFFae41B95777cb4e284BFD93D9B", "name": "BattleSpells", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 13, "settings": "-", "date": "10/17/2022"}
 {"address": "0xdf9a3296520e1EbC970ac1374751b66c5bb92e71", "name": "Battle", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 4, "settings": "-", "date": "10/17/2022"}
+{"address": "0xa73b1ea466c18d166b718de5af269ae177128cee", "name": "Join", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "10/18/2022"}
+{"address": "0x360E41201597A82007046329c021Abc9D4AE0b6E", "name": "StrategyAave", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 5, "settings": "", "date": "10/18/2022"}
+{"address": "0xD3d86C94a8D468Bd1328e6491ED8aCa58D850AE7", "name": "WOOFiVaultV2", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 3, "settings": "", "date": "10/18/2022"}
+{"address": "0x696c91CdC3e79a74785c2CDD07Ccc1bf0bc7b788", "name": "TransferSwapper", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 4, "settings": "", "date": "10/18/2022"}
