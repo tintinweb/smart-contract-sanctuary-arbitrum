@@ -8501,3 +8501,8 @@
 {"address": "0x19390136f374A1Ef3CD15C97d8a430eDa26596cC", "name": "DPXController", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "10/17/2022"}
 {"address": "0x0b49675c4b5af56a3929ff00cc8143a1b88c434c", "name": "StrategyDpxWethDpx", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "10/17/2022"}
 {"address": "0xd4d2f4110878a33ea5b97f0665e518253446161a", "name": "ArbGovToken", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 6, "settings": "", "date": "10/17/2022"}
+{"address": "0xa2F156bc04329f9D0C71804a5B56f130674F44c9", "name": "CErc20Delegator", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "10/18/2022"}
+{"address": "0xb45913337aca4988b08a61388c25e48ba5f6227c", "name": "UniswapV3Swapper", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 11, "settings": "", "date": "10/17/2022"}
+{"address": "0xD8eED1C6e4eFe4CC62A2156990858ffB39251cB9", "name": "Games", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 6, "settings": "-", "date": "10/17/2022"}
+{"address": "0x4b271a31eCA9dFFae41B95777cb4e284BFD93D9B", "name": "BattleSpells", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 13, "settings": "-", "date": "10/17/2022"}
+{"address": "0xdf9a3296520e1EbC970ac1374751b66c5bb92e71", "name": "Battle", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 4, "settings": "-", "date": "10/17/2022"}
