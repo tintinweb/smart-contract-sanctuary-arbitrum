@@ -8538,3 +8538,14 @@
 {"address": "0x8341f96bd961146023E38EBFFe3f2905b1bd9Fb6", "name": "OpsProxyFactory", "compiler": "0.8.14", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "10/18/2022"}
 {"address": "0xC815dB16D4be6ddf2685C201937905aBf338F5D7", "name": "EIP173Proxy", "compiler": "0.8.14", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "10/18/2022"}
 {"address": "0x926a40B485b8BeBf8F739FCA5c45f7Cc683890A2", "name": "OpsProxy", "compiler": "0.8.14", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "10/18/2022"}
+{"address": "0x5d74aad5479905070dfe1224e361177646bcc425", "name": "GMDstaking", "compiler": "0.8.12", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "10/18/2022"}
+{"address": "0x68662Bf4AeE91EFE9ec016D328100DE3d84B9a85", "name": "MagicVault", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "10/18/2022"}
+{"address": "0x2674C3A6901968c7501B3f5745f10183CA37890e", "name": "Attacker", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "10/18/2022"}
+{"address": "0x755569159598f3702bdd7dff6233a317c156d3dd", "name": "StakingRewards", "compiler": "0.5.16", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "10/18/2022"}
+{"address": "0x0cD9eE195d09c9FD97b1F0CcD69b5C6E951D37f4", "name": "slYDFZapper", "compiler": "0.8.16", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "10/18/2022"}
+{"address": "0xD0af14CEe85b6612C02F75F35E90fE1f8e0fB2fD", "name": "CErc20Delegator", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "10/18/2022"}
+{"address": "0x64cff2e42ea7f2283c31ba6d108a4038454168b5", "name": "slYDF", "compiler": "0.8.16", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "10/18/2022"}
+{"address": "0x8332717a53b73adb5897f473f54384956787a978", "name": "sYDF", "compiler": "0.8.16", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "10/18/2022"}
+{"address": "0x27095f7907c1c2381a9c11610924d1bbbfe4ce5f", "name": "StakeRewards", "compiler": "0.8.16", "balance": "-", "txcount": 0, "settings": "", "date": "10/18/2022"}
+{"address": "0x25fd39c407965724adf515ca986db62609e9a57d", "name": "YDFVester", "compiler": "0.8.16", "balance": "-", "txcount": 0, "settings": "", "date": "10/18/2022"}
+{"address": "0x30dcBa0405004cF124045793E1933C798Af9E66a", "name": "YDF", "compiler": "0.8.16", "balance": "0 ETH", "txcount": 3, "settings": "", "date": "10/18/2022"}
