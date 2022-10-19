@@ -8549,3 +8549,12 @@
 {"address": "0x27095f7907c1c2381a9c11610924d1bbbfe4ce5f", "name": "StakeRewards", "compiler": "0.8.16", "balance": "-", "txcount": 0, "settings": "", "date": "10/18/2022"}
 {"address": "0x25fd39c407965724adf515ca986db62609e9a57d", "name": "YDFVester", "compiler": "0.8.16", "balance": "-", "txcount": 0, "settings": "", "date": "10/18/2022"}
 {"address": "0x30dcBa0405004cF124045793E1933C798Af9E66a", "name": "YDF", "compiler": "0.8.16", "balance": "0 ETH", "txcount": 3, "settings": "", "date": "10/18/2022"}
+{"address": "0x2D57FB598c31Db8988A451eEbf1118b42C468E9B", "name": "StakedErc20", "compiler": "0.8.3", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "10/19/2022"}
+{"address": "0xd006cEecDFf776796A16bD90bAe05ca9D662FF5C", "name": "RewardPool", "compiler": "0.8.3", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "10/19/2022"}
+{"address": "0x7E3e15E3D5905381127BC07aA392E6C720C04cBe", "name": "CurvePortalOut", "compiler": "0.8.11", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "10/19/2022"}
+{"address": "0x1BAcC2205312534375c8d1801C27D28370656cFf", "name": "TokenBridge", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 11, "settings": "", "date": "10/19/2022"}
+{"address": "0x56Be31Fd85320fBc24f14068196F4Da858BC129E", "name": "QuixoticLaunchpadERC721", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 4, "settings": "-", "date": "10/19/2022"}
+{"address": "0xD36d1495B887eA3cC2bc345004Bb5D338977DFEB", "name": "QuixoticLaunchpadERC721", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 4, "settings": "-", "date": "10/19/2022"}
+{"address": "0xa2FBf3CF32c1D229e3F018d886fEe3629A4d348C", "name": "StrategyGLP", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 3, "settings": "", "date": "10/18/2022"}
+{"address": "0x3586DaCe267C48436ED12BFdF665C2E63DEeb199", "name": "StrategyGLP", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "10/18/2022"}
+{"address": "0xa8fd81A0ec43841b64cDAE13F1F6816108fD37FF", "name": "StrategyGLP", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "10/18/2022"}
