@@ -8596,3 +8596,11 @@
 {"address": "0x7c3da197314eA6885F54FbF6Bee2A8e329fE88d1", "name": "MarketManager", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "10/19/2022"}
 {"address": "0x8a7589758b0ceb63e9f4c8415199ce8ee88e575c", "name": "EASY", "compiler": "0.8.1", "balance": "0 ETH", "txcount": 4, "settings": "-", "date": "10/19/2022"}
 {"address": "0x9E233DD6a90678BaaCd89c05ce5C48f43fCc106E", "name": "ClipperCove", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "10/19/2022"}
+{"address": "0x46CF09C537E1b05935a094f9a9809B7351019caa", "name": "QuixoticLaunchpadERC721", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 5, "settings": "-", "date": "10/20/2022"}
+{"address": "0xe10e16dc09016bd2e4715df44783cd6492e39e79", "name": "PerpPoolPositionManager", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "10/20/2022"}
+{"address": "0x73d73789fdfbf481a053b32ff0b62fe0937f76a7", "name": "PerpPoolUtils", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "10/20/2022"}
+{"address": "0xbe1da1480f2ddd9f57c8469681c4fa71428dec1d", "name": "GlpPositionManager", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "10/20/2022"}
+{"address": "0xd64fddf52e5a8e5c4be23dbdcb62f6e8505c6dfd", "name": "PriceUtils", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "10/20/2022"}
+{"address": "0xe31eb4eb8bb97dca98dc49ff7c3681cee82a70ba", "name": "GlpUtils", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "10/20/2022"}
+{"address": "0xc85075ca7811b649647d85bb3051ee4f5c7a341f", "name": "DeltaNeutralRebalancer", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "10/20/2022"}
+{"address": "0x25Ab6D7aD7E39c14Ae4C5c27557D18022560814a", "name": "PriceFeedConverter", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "10/19/2022"}
