@@ -8609,3 +8609,8 @@
 {"address": "0xd45ef94226d3556C08632A24F4cEA94341BCd0B9", "name": "QuixoticLaunchpadERC721", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "10/20/2022"}
 {"address": "0x6c9F62b7977480a01F9612e0e0CF94058c60d844", "name": "VNFTP", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "10/20/2022"}
 {"address": "0xc379a0f0091c1c35e945a39c28f6ba34b7596355", "name": "ArbitrumGuildRolesTokenBundle", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 3, "settings": "-", "date": "10/20/2022"}
+{"address": "0xb9e7e907b4011dAc7AA28E035F88B8dF10fB2199", "name": "Bridge", "compiler": "0.8.16", "balance": "0.04 ETH", "txcount": 23, "settings": "", "date": "10/20/2022"}
+{"address": "0xd4Aa471BA7Ebd7b31D174e7E04eA34244b234214", "name": "Bridge", "compiler": "0.8.16", "balance": "0 ETH", "txcount": 4, "settings": "", "date": "10/20/2022"}
+{"address": "0xbf737F1114aE67FABCDa606a0A8ac1eCBd4c3214", "name": "pfYDF", "compiler": "0.8.16", "balance": "-", "txcount": 0, "settings": "", "date": "10/20/2022"}
+{"address": "0x32EF81D6b048dF4B080999B0a5c4F70A2881434f", "name": "PerpetualFutures", "compiler": "0.8.16", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "10/20/2022"}
+{"address": "0x0fD49d410fB50Dc1f308975E5D19B5c4551B0041", "name": "BatchConversionPayments", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 7, "settings": "", "date": "10/20/2022"}
