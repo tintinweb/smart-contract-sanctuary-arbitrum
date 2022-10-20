@@ -8614,3 +8614,7 @@
 {"address": "0xbf737F1114aE67FABCDa606a0A8ac1eCBd4c3214", "name": "pfYDF", "compiler": "0.8.16", "balance": "-", "txcount": 0, "settings": "", "date": "10/20/2022"}
 {"address": "0x32EF81D6b048dF4B080999B0a5c4F70A2881434f", "name": "PerpetualFutures", "compiler": "0.8.16", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "10/20/2022"}
 {"address": "0x0fD49d410fB50Dc1f308975E5D19B5c4551B0041", "name": "BatchConversionPayments", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 7, "settings": "", "date": "10/20/2022"}
+{"address": "0xD02E51a58994ddd0226fB3AbAba6337BBbcA454a", "name": "RecruitLevel", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "10/20/2022"}
+{"address": "0x197f4d712d0544e6ae1417867e1f066fc54dcff8", "name": "MoxieToken", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "10/20/2022"}
+{"address": "0x03bC03409638e6309F2B72443a33A0801b1bFBF6", "name": "Smoloween", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "10/20/2022"}
+{"address": "0xcc4E2bC1a3178E755b015D13260901dfBf50CCE4", "name": "ERC1155", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "10/20/2022"}
