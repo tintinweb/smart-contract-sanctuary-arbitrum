@@ -8627,3 +8627,17 @@
 {"address": "0x67f89cA8E3f9Db643e067d849490a3756586BE7B", "name": "RewardPool", "compiler": "0.8.3", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "10/21/2022"}
 {"address": "0xB8a409C428C9f757543CD89058B2D8f01Bf89503", "name": "UniswapFlashQuery", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "10/21/2022"}
 {"address": "0x0920BEcbc26A84444eFaD02137F8c14D22332D5d", "name": "CErc20Delegator", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "10/21/2022"}
+{"address": "0xC0EeFDCF5A815ed7ac1ef1b8Ae8302AC502f3005", "name": "RangedMarketsAMM", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "10/21/2022"}
+{"address": "0x011754d9a4661d914141a96a03684f147e5b2a06", "name": "CrossDelegateV4", "compiler": "0.4.26", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "10/21/2022"}
+{"address": "0x7677b78e15952485bf8ddc267003778a79405bb7", "name": "PickleJarUniV3Arbitrum", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "10/21/2022"}
+{"address": "0x2e7f3ce85eed0e97ef0c64ed8d6e27b6f7b0cd2b", "name": "StrategyGmxEthUniV3Arbi", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "10/21/2022"}
+{"address": "0x1212ddd66c8eb227183fce794c4c13d1c5a87b88", "name": "PickleJarUniV3Arbitrum", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "10/21/2022"}
+{"address": "0x075732f56f2fa4232fc8950e576f7d791b4d0496", "name": "StrategyUsdcEthUniV3Arbi", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "10/21/2022"}
+{"address": "0xf968f18512a9bddd9c3a166dd253b24c27a455dd", "name": "ControllerV7", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 3, "settings": "", "date": "10/21/2022"}
+{"address": "0x2d92a8501a9764D3976c461646948C2Dc1218161", "name": "JustPandaNFT", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 11, "settings": "", "date": "10/21/2022"}
+{"address": "0xA4B686B11cb6dD7E69a723f892409d5E83AeEd7a", "name": "WooSuperChargerVault", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 4, "settings": "", "date": "10/21/2022"}
+{"address": "0x1dDd225ef26714Bb8055dDCEaEE2589ba09c89ed", "name": "WooWithdrawManager", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "10/21/2022"}
+{"address": "0x632626840c40942Dff36BFB68A6Eb8064f7d603E", "name": "WooLendingManager", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 6, "settings": "", "date": "10/21/2022"}
+{"address": "0x23044115a7Cb387052c73f65C6f2F7f575F7D718", "name": "WooSuperChargerVault", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 4, "settings": "", "date": "10/21/2022"}
+{"address": "0x6b2E3020130D3dcA1caA4d2d6594C5ccF2724118", "name": "Vault", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 8, "settings": "", "date": "10/21/2022"}
+{"address": "0x8D9C11c9d86f3D7a470f7F980Bec4B20dC80C950", "name": "JustPandaNFT", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 16, "settings": "", "date": "10/21/2022"}
