@@ -8772,3 +8772,9 @@
 {"address": "0x14656b60da71f4d18f899681df0faf5dcac5d3d8", "name": "DeltaNeutralRebalancer", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 11, "settings": "", "date": "10/22/2022"}
 {"address": "0xecf430e5953d530ff99a7798026a8b16fe4885f1", "name": "PerpPoolPositionManager", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "10/22/2022"}
 {"address": "0xc14288df4796916dbbc21e6054f9aaff2852ad7a", "name": "PerpPoolUtils", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "10/22/2022"}
+{"address": "0xDe40393D557182Ba20665b6c7E98EAD67797a026", "name": "DynamicArbitrumGuildRolesTokenBundlePurchaserV6", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "10/22/2022"}
+{"address": "0x70199A1C081c4203C1F964f817838801cd8404AC", "name": "DynamicArbitrumGuildRolesTokenBundlePurchaserV5", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "10/22/2022"}
+{"address": "0x47BBC1A1B450542f79a2b9De208c48692De678Dc", "name": "DynamicArbitrumGuildRolesTokenBundlePurchaserV4", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "10/22/2022"}
+{"address": "0x82C0528ADE05fA80F4F9E23f4757A62B7D3432eA", "name": "DynamicArbitrumGuildRolesTokenBundlePurchaserV3", "compiler": "0.8.16", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "10/22/2022"}
+{"address": "0x883A0d82b3e2A5166c066fBEBa7044c5B351EEaA", "name": "GilgameshContract", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "10/22/2022"}
+{"address": "0x7e39576c1a049c4f1782897dc45a4b32dbb2b28f", "name": "DynamicArbitrumGuildRolesTokenBundlePurchaserV2", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 23, "settings": "", "date": "10/22/2022"}
