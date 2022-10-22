@@ -8778,3 +8778,7 @@
 {"address": "0x82C0528ADE05fA80F4F9E23f4757A62B7D3432eA", "name": "DynamicArbitrumGuildRolesTokenBundlePurchaserV3", "compiler": "0.8.16", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "10/22/2022"}
 {"address": "0x883A0d82b3e2A5166c066fBEBa7044c5B351EEaA", "name": "GilgameshContract", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "10/22/2022"}
 {"address": "0x7e39576c1a049c4f1782897dc45a4b32dbb2b28f", "name": "DynamicArbitrumGuildRolesTokenBundlePurchaserV2", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 23, "settings": "", "date": "10/22/2022"}
+{"address": "0x50bAaeF896763a97B7708d953388dedB067D13aD", "name": "ArbitrumGuild", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 4, "settings": "", "date": "10/22/2022"}
+{"address": "0x41cBfC1e09d324B844ce096b4b44cCAA04E7349C", "name": "ArbitrumGuildRolesV1", "compiler": "0.8.16", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "10/22/2022"}
+{"address": "0x5388F82DCbe46258613d9904cec318c4a01db346", "name": "DynamicArbitrumGuildRolesTokenBundlePurchaserV8", "compiler": "0.8.16", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "10/22/2022"}
+{"address": "0x5dd56211336a0639ffb36e0c7c8098c2fada4939", "name": "ArbitrumGuild", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 6, "settings": "", "date": "10/22/2022"}
