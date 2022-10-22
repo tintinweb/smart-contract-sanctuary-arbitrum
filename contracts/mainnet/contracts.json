@@ -8758,3 +8758,8 @@
 {"address": "0x0ddb1ea478f8ef0e22c7706d2903a41e94b1299b", "name": "Proxy", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 29, "settings": "", "date": "10/21/2022"}
 {"address": "0x2285dbd3390c121db7a69b7a570c6ada6afc3570", "name": "CurveTriCryptoOracle", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "10/21/2022"}
 {"address": "0x94c105b8927333b7fa45d60418061d5a3b9a2faf", "name": "ArbiChainlinkOracle", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 7, "settings": "", "date": "10/21/2022"}
+{"address": "0xcf04aB98496cc179712c61bC61bB2820b4A65D6E", "name": "StakedGlp", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "10/22/2022"}
+{"address": "0x5e0af015166ba2576845886a2cacc3a3f76cd285", "name": "PerpPoolPositionManager", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "10/22/2022"}
+{"address": "0x25ee9db57c61902c415e85f8a76a7f978873ef99", "name": "DeltaNeutralRebalancer", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 4, "settings": "", "date": "10/22/2022"}
+{"address": "0x670813d02c37a7843edd7b2161b48a620ce445c3", "name": "PerpPoolPositionManager", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "10/22/2022"}
+{"address": "0x98E169390d29e4Df1bA2eE8Ff75C233bAd99318c", "name": "SamuRise", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "10/22/2022"}
