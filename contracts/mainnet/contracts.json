@@ -8782,3 +8782,13 @@
 {"address": "0x41cBfC1e09d324B844ce096b4b44cCAA04E7349C", "name": "ArbitrumGuildRolesV1", "compiler": "0.8.16", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "10/22/2022"}
 {"address": "0x5388F82DCbe46258613d9904cec318c4a01db346", "name": "DynamicArbitrumGuildRolesTokenBundlePurchaserV8", "compiler": "0.8.16", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "10/22/2022"}
 {"address": "0x5dd56211336a0639ffb36e0c7c8098c2fada4939", "name": "ArbitrumGuild", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 6, "settings": "", "date": "10/22/2022"}
+{"address": "0x024f99c6ed7be7966c3feD0dA39c72ad0c00c864", "name": "QuixoticLaunchpadERC721", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 6, "settings": "-", "date": "10/23/2022"}
+{"address": "0x44035220Ac8ec7e128B7db3221E8A58679f78D29", "name": "QuixoticLaunchpadERC721", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 5, "settings": "-", "date": "10/23/2022"}
+{"address": "0xbefaf22975ef9b8943d7de0580fe2a41a57c8350", "name": "GlpPositionManager", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 3, "settings": "", "date": "10/23/2022"}
+{"address": "0x0e269c58dfd1488e3ba50a7567c39ee2bb1e33df", "name": "GlpPositionManager", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "10/23/2022"}
+{"address": "0x17110fbc068eeb7d603b71fb59891eb214519a5c", "name": "GlpPositionManager", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "10/23/2022"}
+{"address": "0xc14706614b843128b82b843bd3380a9ea0e52c01", "name": "GlpPositionManager", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "10/23/2022"}
+{"address": "0xae6726f7091e54174fa7d07d8a78dbf08104d81e", "name": "GlpPositionManager", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "10/23/2022"}
+{"address": "0x0489a1c126c82c3ce3fe67fa90fb346fd86a5068", "name": "GlpPositionManager", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "10/23/2022"}
+{"address": "0x6b3b65de8687e2e4d3e98d8b0d940f61a5b09fdd", "name": "GlpPositionManager", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "10/23/2022"}
+{"address": "0x360774f70e601d953b4b025bf581fbec0b82acc9", "name": "GlpPositionManager", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "10/23/2022"}
