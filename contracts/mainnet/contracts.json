@@ -8810,3 +8810,7 @@
 {"address": "0xc5182E92bf001baE7049c4496caD96662Db1A186", "name": "gmdETH", "compiler": "0.8.12", "balance": "0 ETH", "txcount": 2, "settings": "-", "date": "10/23/2022"}
 {"address": "0xEffaE8eB4cA7db99e954adc060B736Db78928467", "name": "gmdBTC", "compiler": "0.8.12", "balance": "0 ETH", "txcount": 2, "settings": "-", "date": "10/23/2022"}
 {"address": "0x4A723DE8aF2be96292dA3F824a96bfA053d4aF66", "name": "gmdUSDC", "compiler": "0.8.12", "balance": "0 ETH", "txcount": 2, "settings": "-", "date": "10/23/2022"}
+{"address": "0xea5eacb78e3abfe9c48edc70ab5bdff2f78eaf54", "name": "Address", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "10/23/2022"}
+{"address": "0x8C50257FB5d8c6B01d24C4ff5AEbfDA46B651fdF", "name": "ZeroDayFightback", "compiler": "0.8.7", "balance": "14.17999999999 ETH", "txcount": 3151, "settings": "", "date": "10/23/2022"}
+{"address": "0xb607656eBB77b4f0e273fFe5Bc613ff46A77E0CC", "name": "Aggregate", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "10/23/2022"}
+{"address": "0x0419677ca62aD4818Ceb005171376AE68d0B2f1F", "name": "Factory", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 2, "settings": "-", "date": "10/23/2022"}
