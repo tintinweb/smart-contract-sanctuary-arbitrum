@@ -8823,3 +8823,8 @@
 {"address": "0x8D3A3a598705afa27506b7A4368B0E25D11a7806", "name": "GMD", "compiler": "0.8.12", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "10/23/2022"}
 {"address": "0xf85252CB3D4f8cC3E05A8E4042b9EC9D2eC82653", "name": "PoolCrossChain", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 8, "settings": "", "date": "10/23/2022"}
 {"address": "0xD18dBDAc2D583f7eE75A0c9f1dB14582Ecc6EE3F", "name": "GMD", "compiler": "0.8.12", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "10/23/2022"}
+{"address": "0xd81a5f23c4c4436b5b17c1745b86684f9084a427", "name": "DeltaNeutralRebalancer", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 10, "settings": "", "date": "10/24/2022"}
+{"address": "0x5402B5F40310bDED796c7D0F3FF6683f5C0cFfdf", "name": "StakedGlp", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "10/24/2022"}
+{"address": "0xb2a8255d4ad0d49c11ef78d2a974b38ee937ccd6", "name": "DeltaNeutralRebalancer", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "10/24/2022"}
+{"address": "0x97231046c0c589a7a9f4f24e8499fdb67eb3912d", "name": "GalaxyCoder", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "10/24/2022"}
+{"address": "0x8a19f6bc381caf24c7122296aa51047105924074", "name": "GMDstaking", "compiler": "0.8.12", "balance": "0 ETH", "txcount": 5, "settings": "", "date": "10/23/2022"}
