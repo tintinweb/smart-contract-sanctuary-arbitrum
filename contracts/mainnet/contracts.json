@@ -9046,3 +9046,23 @@
 {"address": "0xc6DcD7c5aa2096a67E24bB51856366Ac42C87966", "name": "QuixoticLaunchpadERC721", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 8, "settings": "-", "date": "10/24/2022"}
 {"address": "0xCCe56742e17A010074b5DCb30eFcD6d1adcf93Eb", "name": "LSR", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "10/24/2022"}
 {"address": "0xbf5E391D247C45E1A2582c3354D49126C3E2413e", "name": "LSRFactory", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "10/24/2022"}
+{"address": "0xb9e504ac52fc409771e89427eb3dad7853cf8ee0", "name": "KintsugiCompatibleContract", "compiler": "0.8.16", "balance": "0 ETH", "txcount": 3, "settings": "", "date": "10/27/2022"}
+{"address": "0x006ba484da20c3985bab7c5c5fbe6daec84abf95", "name": "UniswapFarmV1", "compiler": "0.8.10", "balance": "-", "txcount": 0, "settings": "", "date": "10/27/2022"}
+{"address": "0xe9426fCF504D448CC2e39783f1D1111DC0d8E4E0", "name": "UniswapFarmV1Deployer", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "10/27/2022"}
+{"address": "0x82a37666fce47723dde5d0864afee3dda103a3d9", "name": "ArbitrumGuildRolesTokenFullBundle", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "10/27/2022"}
+{"address": "0xcd8d6f76c9289cddb72528a31ab917c243229acb", "name": "Address", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "10/27/2022"}
+{"address": "0x3585b507d5ccf0607127c0765729958ac9448d3a", "name": "ArbitrumGuild", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "10/27/2022"}
+{"address": "0xFD0DE56308da8a5818A291E6AaF85DBBd8C2f325", "name": "BalancerVaultUpgradable", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "10/27/2022"}
+{"address": "0x26c613f6b5ff90718f04a96b7e1c90cdb146c89d", "name": "Address", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "10/27/2022"}
+{"address": "0xed472F3ccD91CA418013C5C177c9bdeDEDBc09B4", "name": "YearnPortalOut", "compiler": "0.8.11", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "10/27/2022"}
+{"address": "0x6b65A79E00868b458349ab04138D0D3ff2ce0e6b", "name": "YearnPartnerPortalIn", "compiler": "0.8.11", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "10/27/2022"}
+{"address": "0xb82D04EDc0BB383AE7C51d3458ce84Ce577Eb491", "name": "DopexInsuredLongsStrategy", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 14, "settings": "", "date": "10/27/2022"}
+{"address": "0xb1c51534e837890548b2fc53fa8d21142231c4b1", "name": "Minter", "compiler": "0.8.16", "balance": "0 ETH", "txcount": 9, "settings": "", "date": "10/27/2022"}
+{"address": "0x112B7Df49646e224F13b673b1CB3C83450fbAA63", "name": "HedgerRelayer", "compiler": "0.8.16", "balance": "0.09995122932 ETH", "txcount": 2, "settings": "", "date": "10/27/2022"}
+{"address": "0xf4AFb4a31034531A021f730de492DbfBC728e99f", "name": "HedgerRelayer", "compiler": "0.8.16", "balance": "0 ETH", "txcount": 3, "settings": "", "date": "10/27/2022"}
+{"address": "0xabD891bd4875F3DA761fdD50ABA6b24DE7673d6a", "name": "HedgerRelayer", "compiler": "0.8.16", "balance": "0 ETH", "txcount": 3, "settings": "", "date": "10/27/2022"}
+{"address": "0x333b8881485fB8dE9af05d0B259a7f3f032B3333", "name": "MultichainProxy", "compiler": "0.8.16", "balance": "0 ETH", "txcount": 3, "settings": "", "date": "10/27/2022"}
+{"address": "0x4046d8ec92a6E2702b600deeC2a0A9C3FA2AD5bc", "name": "LiquidityLocker", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 2, "settings": "-", "date": "10/27/2022"}
+{"address": "0x8073600F2Aba6d5FA496e3826E0B46b7EA6Fe2ba", "name": "Burnitrum", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 47, "settings": "", "date": "10/27/2022"}
+{"address": "0x68A3019129a6D9A95D619186ECb8DEdC9321413F", "name": "QuixoticLaunchpadERC721", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 3, "settings": "-", "date": "10/27/2022"}
+{"address": "0x7251CE9C84aFC96c20CA1b89F8e5fF8EE593dB8f", "name": "NonTransferrableNFTs", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "10/27/2022"}
