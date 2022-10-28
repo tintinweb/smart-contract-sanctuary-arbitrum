@@ -9157,3 +9157,17 @@
 {"address": "0x22FF4a2F8A95f4D8A9135E71bAa1ADD1eb12DC9b", "name": "MockWETH", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "10/28/2022"}
 {"address": "0x96568bF35abeeb6C39910f6672f8e3fbEB1dB303", "name": "StargateFacet", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "10/28/2022"}
 {"address": "0xA09bD72050C70b57Ed3aEc74b6b8A237b9363277", "name": "MockWETH", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "10/28/2022"}
+{"address": "0xcFB5415FCD8e0cb4C321308F076B521bD2EECfB7", "name": "Smoloween", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "10/28/2022"}
+{"address": "0xA8503345A18EF77C21F5eE0Fcf587B115A4bBbe4", "name": "Whitelist", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "10/28/2022"}
+{"address": "0xaA8f27dA5e73deF9ffc1CfedD90BCaD9FeA36B20", "name": "Holder", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 13, "settings": "", "date": "10/28/2022"}
+{"address": "0xF26f4400d0F3Eae37Ae4752E4d8a287eFfa8957f", "name": "Whitelist", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "10/28/2022"}
+{"address": "0xed7A84293B7adda0a74a121BE7ae8a93802FEd1c", "name": "Holder", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "10/28/2022"}
+{"address": "0xBB502b20a72b161F98cFdFD012374a7957ea958B", "name": "Coin", "compiler": "0.8.6", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "10/28/2022"}
+{"address": "0x28418B0AB2C00142a865971dcC6a4b1154DaD19E", "name": "CaskSubscriptions", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "10/28/2022"}
+{"address": "0xbf6E17f9A48c0033F2211ffA39B7E58772150ace", "name": "CaskSubscriptionPlans", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "10/28/2022"}
+{"address": "0x2De86BBa43005d512576a321A4d6D86dd37D5B03", "name": "CaskSubscriptionManager", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "10/28/2022"}
+{"address": "0x5758fcD697b745a668CC770815a47D68AeD23842", "name": "FraxswapRouter", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 4, "settings": "", "date": "10/28/2022"}
+{"address": "0x3425eab279f8a84bfad84952de3a7fca2a2c2594", "name": "FraxswapPair", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "10/28/2022"}
+{"address": "0x5963d4C8eDb1C378F73Daa2c0435Aca02736C750", "name": "FraxswapFactory", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 3, "settings": "", "date": "10/28/2022"}
+{"address": "0xf8f284bf57068db1088486b0e7c7e970468e4b45", "name": "NitroFloki", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 80, "settings": "", "date": "10/28/2022"}
+{"address": "0x8a14C26C33247eAAbC356659333059D1c4e49e62", "name": "Coin", "compiler": "0.8.6", "balance": "0 ETH", "txcount": 10, "settings": "-", "date": "10/28/2022"}
