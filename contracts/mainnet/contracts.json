@@ -9175,3 +9175,8 @@
 {"address": "0x8F2698F66951806f9ea4bE6c4Fa09500278EAE9b", "name": "QuixoticLaunchpadERC721", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 4, "settings": "-", "date": "10/29/2022"}
 {"address": "0xF99200ca53a2FD81079272B6D9d596E3fFa4df63", "name": "Coin", "compiler": "0.8.6", "balance": "0 ETH", "txcount": 30, "settings": "-", "date": "10/28/2022"}
 {"address": "0xc08e5d39fdd7f11415c5ce165a02664b25e5c7a0", "name": "Counters", "compiler": "0.8.0", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "10/28/2022"}
+{"address": "0x1897fee1d9da8794fc26e5e1d88d82749555abf2", "name": "Counters", "compiler": "0.8.0", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "10/29/2022"}
+{"address": "0xfe2db2446aa8d4bab3cdc5c19b905734da46c613", "name": "Counters", "compiler": "0.8.0", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "10/29/2022"}
+{"address": "0x1e8134421394Aeb0da227A204391F97528d14dAC", "name": "ArbitrumBundle", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 3, "settings": "-", "date": "10/29/2022"}
+{"address": "0x96b8d51f25865d1E6dee2e94Bf88860ad3cdE740", "name": "ArbitrumBundle", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 7, "settings": "-", "date": "10/29/2022"}
+{"address": "0x06d8D3D6979aE5Af7ADE0ea426bBae622F46288D", "name": "QuixoticLaunchpadERC721", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 6, "settings": "-", "date": "10/29/2022"}
