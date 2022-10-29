@@ -9171,3 +9171,7 @@
 {"address": "0x5963d4C8eDb1C378F73Daa2c0435Aca02736C750", "name": "FraxswapFactory", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 3, "settings": "", "date": "10/28/2022"}
 {"address": "0xf8f284bf57068db1088486b0e7c7e970468e4b45", "name": "NitroFloki", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 80, "settings": "", "date": "10/28/2022"}
 {"address": "0x8a14C26C33247eAAbC356659333059D1c4e49e62", "name": "Coin", "compiler": "0.8.6", "balance": "0 ETH", "txcount": 10, "settings": "-", "date": "10/28/2022"}
+{"address": "0x9C94e723D1caCA41dBD1BE06B1D1A0707A191f7d", "name": "QuixoticLaunchpadERC721", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 4, "settings": "-", "date": "10/29/2022"}
+{"address": "0x8F2698F66951806f9ea4bE6c4Fa09500278EAE9b", "name": "QuixoticLaunchpadERC721", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 4, "settings": "-", "date": "10/29/2022"}
+{"address": "0xF99200ca53a2FD81079272B6D9d596E3fFa4df63", "name": "Coin", "compiler": "0.8.6", "balance": "0 ETH", "txcount": 30, "settings": "-", "date": "10/28/2022"}
+{"address": "0xc08e5d39fdd7f11415c5ce165a02664b25e5c7a0", "name": "Counters", "compiler": "0.8.0", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "10/28/2022"}
