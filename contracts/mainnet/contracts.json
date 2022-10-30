@@ -9209,3 +9209,4 @@
 {"address": "0x87794d2f64e076694a153aFdb12cA62eb9C2ea5B", "name": "FPValidator", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "10/29/2022"}
 {"address": "0xF0D775E5eC3647024f4144c853fed63f99D8511f", "name": "Coin", "compiler": "0.8.6", "balance": "0 ETH", "txcount": 23, "settings": "-", "date": "10/29/2022"}
 {"address": "0xac35a1e014517eab2b6b9de7ec1a89761d86df05", "name": "Counters", "compiler": "0.8.0", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "10/29/2022"}
+{"address": "0xCf93f08a47932a3Eab3863B87fB2FeBD9646Cd09", "name": "Coin", "compiler": "0.8.6", "balance": "0 ETH", "txcount": 13, "settings": "-", "date": "10/29/2022"}
