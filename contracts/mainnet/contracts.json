@@ -9263,3 +9263,17 @@
 {"address": "0x17c77F02263EE851DfdFf19a83de0387f80caE0e", "name": "DCAStrategy", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 4, "settings": "", "date": "10/31/2022"}
 {"address": "0xb462c40c4C14ae7689a6DcA8BE122C7124C8885c", "name": "DxStandardToken", "compiler": "0.8.7", "balance": "-", "txcount": 0, "settings": "", "date": "10/31/2022"}
 {"address": "0xfA7F98079fa31BF6b55692d36Ff9957E5813F7f0", "name": "MOON", "compiler": "0.8.6", "balance": "0 ETH", "txcount": 49, "settings": "-", "date": "10/31/2022"}
+{"address": "0x8a0dd3203a9F1cf66c7201e4A8Ab4762D09f0B3a", "name": "EthQuarterlyPutsSsovV3", "compiler": "0.8.16", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "10/31/2022"}
+{"address": "0x2C8b21dBeAFB11E92C41b3E7bC1A16c5dBf843Da", "name": "CurveStakingStrategyV1", "compiler": "0.8.16", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "10/31/2022"}
+{"address": "0x8aFf09e2259cacbF4Fc4e3E53F3bf799EfEEab36", "name": "MasterMinter", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "10/31/2022"}
+{"address": "0x0f4fb9474303d10905AB86aA8d5A65FE44b6E04A", "name": "FiatTokenV2_1", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "10/31/2022"}
+{"address": "0xaf88d065e77c8cC2239327C5EDb3A432268e5831", "name": "FiatTokenProxy", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 9, "settings": "", "date": "10/31/2022"}
+{"address": "0x39ab948869BfB48ede26036e7ed2AB0a5E655E09", "name": "MoonHeadsMultiverse", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 56, "settings": "-", "date": "10/31/2022"}
+{"address": "0xb190214d5ebac7755899f2d96e519aa7a5776bec", "name": "Proxy", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 12, "settings": "", "date": "10/31/2022"}
+{"address": "0xcb3703f47a547347b515a463968d03e0fd0b8228", "name": "LEther", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "10/31/2022"}
+{"address": "0xBf24Bb15f547D3855E9c6561a6100c6b0dB22222", "name": "Coin", "compiler": "0.8.6", "balance": "0 ETH", "txcount": 20, "settings": "-", "date": "10/31/2022"}
+{"address": "0x8BdEb4b51B8f71f01e657A1A39fAA10d34F49834", "name": "VendingMachine", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "10/31/2022"}
+{"address": "0x11976D208e1F86e26c3A8c5C97d1DB42eF5b44b2", "name": "Settlement", "compiler": "0.7.0", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "10/31/2022"}
+{"address": "0xc888cf5d58d168b91171149427b4a715f9304a21", "name": "SaleMultiLock", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 4, "settings": "", "date": "10/31/2022"}
+{"address": "0x53f416f782Ded95285C179F6cEEcA80324Bf4Cf7", "name": "Settlement", "compiler": "0.7.0", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "10/31/2022"}
+{"address": "0x2f1E7afc9BA1f467D05c06B8F053b4773FB12C68", "name": "nitropumpkin", "compiler": "0.8.11", "balance": "0 ETH", "txcount": 56, "settings": "", "date": "10/31/2022"}
