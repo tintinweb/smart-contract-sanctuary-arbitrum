@@ -9254,3 +9254,6 @@
 {"address": "0xa90BCD7b2822082DF4810214bCC1D4805b03aEd9", "name": "Coin", "compiler": "0.8.6", "balance": "0 ETH", "txcount": 4, "settings": "-", "date": "10/30/2022"}
 {"address": "0xC1bE52d91070213C92cB4E9dc341db033BE4C976", "name": "Coin", "compiler": "0.8.6", "balance": "0 ETH", "txcount": 3, "settings": "-", "date": "10/30/2022"}
 {"address": "0x64ff6310546b05d76e9488aa4284437912b7f659", "name": "PumpkInu", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 132, "settings": "-", "date": "10/30/2022"}
+{"address": "0x8bC549b4C088a151D438e43150D7AAdC40fFFD40", "name": "Fiat24CrossChainBooking", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "10/31/2022"}
+{"address": "0x3475dD05053d8233eAc01229953DC4F22Fe2AfB2", "name": "SinisterPumpkins", "compiler": "0.8.7", "balance": "0.0217 ETH", "txcount": 10, "settings": "", "date": "10/31/2022"}
+{"address": "0x733C1e24cC27C6f575ff1F1D957f0E67456460b4", "name": "ChaingeGmxCallback", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "10/31/2022"}
