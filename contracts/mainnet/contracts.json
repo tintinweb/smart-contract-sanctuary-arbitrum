@@ -9257,3 +9257,9 @@
 {"address": "0x8bC549b4C088a151D438e43150D7AAdC40fFFD40", "name": "Fiat24CrossChainBooking", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "10/31/2022"}
 {"address": "0x3475dD05053d8233eAc01229953DC4F22Fe2AfB2", "name": "SinisterPumpkins", "compiler": "0.8.7", "balance": "0.0217 ETH", "txcount": 10, "settings": "", "date": "10/31/2022"}
 {"address": "0x733C1e24cC27C6f575ff1F1D957f0E67456460b4", "name": "ChaingeGmxCallback", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "10/31/2022"}
+{"address": "0x2180BfBC4B271F51FeAF507adD827900f67bB725", "name": "ARRA", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 2, "settings": "-", "date": "10/31/2022"}
+{"address": "0xB4249Cb75A356Ac2a6ba47DD2f66A33Fa00fFE0e", "name": "Coin", "compiler": "0.8.6", "balance": "0 ETH", "txcount": 27, "settings": "-", "date": "10/31/2022"}
+{"address": "0xc187C2a831e2ca617c479B773a5a290B499B3b08", "name": "PlutusWrapper", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "10/31/2022"}
+{"address": "0x17c77F02263EE851DfdFf19a83de0387f80caE0e", "name": "DCAStrategy", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 4, "settings": "", "date": "10/31/2022"}
+{"address": "0xb462c40c4C14ae7689a6DcA8BE122C7124C8885c", "name": "DxStandardToken", "compiler": "0.8.7", "balance": "-", "txcount": 0, "settings": "", "date": "10/31/2022"}
+{"address": "0xfA7F98079fa31BF6b55692d36Ff9957E5813F7f0", "name": "MOON", "compiler": "0.8.6", "balance": "0 ETH", "txcount": 49, "settings": "-", "date": "10/31/2022"}
