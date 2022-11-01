@@ -9349,3 +9349,13 @@
 {"address": "0xC1E95d7B2D4c4Fc8A6fc925C3bcF2f6E92904572", "name": "QuixoticLaunchpadERC721", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 4, "settings": "-", "date": "11/1/2022"}
 {"address": "0x7e1C8D131aa3F9b3928f4B2Eb66DBa1F1312AFB9", "name": "QuixoticLaunchpadERC721", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 4, "settings": "-", "date": "11/1/2022"}
 {"address": "0x89B0D71873F695c795E08f794528d1f8f7B7AA55", "name": "QuixoticLaunchpadERC721", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 4, "settings": "-", "date": "11/1/2022"}
+{"address": "0xe0ccf550f5038633cb56ab4da28809a38bf1a54e", "name": "MOON", "compiler": "0.8.6", "balance": "0 ETH", "txcount": 2, "settings": "-", "date": "11/1/2022"}
+{"address": "0x9a0c9ed7d847e8611ab4ec510376504336c4bc8c", "name": "BoredApeArbitrumClub", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 3, "settings": "", "date": "11/1/2022"}
+{"address": "0xf297deEAab8795A05A56467E31964CFC04540C61", "name": "Coin", "compiler": "0.8.6", "balance": "0 ETH", "txcount": 7, "settings": "-", "date": "11/1/2022"}
+{"address": "0x843D0AAD40295f2198ef528ad747CDF6AB9000e4", "name": "SushiXSwap", "compiler": "0.8.11", "balance": "0 ETH", "txcount": 11, "settings": "", "date": "11/1/2022"}
+{"address": "0xCD4F0aa2b17Aa51Ae4dDB67AE9c38a8546EDfaCd", "name": "SwapTest", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/1/2022"}
+{"address": "0xa0BEd274709E85007514eeaeB8e84BA22d70C9e4", "name": "MockERC20", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/1/2022"}
+{"address": "0xb1bDd421c1baC7B065091a48eAf8f004a7Bf3C6c", "name": "HyperLPool", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/1/2022"}
+{"address": "0x7E8C335b22a37070a9B70B8AaAe6a57390BCb704", "name": "HyperLPRouter", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/1/2022"}
+{"address": "0xAd0725ACDc660E1599bE3d735E0AC03141b668c8", "name": "HyperLPFactory", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/1/2022"}
+{"address": "0xb8D498f025c45A8A7a63277CB1cCa36c2599bBD7", "name": "EIP173Proxy", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/1/2022"}
