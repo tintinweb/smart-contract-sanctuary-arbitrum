@@ -9359,3 +9359,26 @@
 {"address": "0x7E8C335b22a37070a9B70B8AaAe6a57390BCb704", "name": "HyperLPRouter", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/1/2022"}
 {"address": "0xAd0725ACDc660E1599bE3d735E0AC03141b668c8", "name": "HyperLPFactory", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/1/2022"}
 {"address": "0xb8D498f025c45A8A7a63277CB1cCa36c2599bBD7", "name": "EIP173Proxy", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/1/2022"}
+{"address": "0x898753f894719560e1Ed1a5B497E0ebd26D854A9", "name": "QuixoticLaunchpadERC721", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 5, "settings": "-", "date": "11/2/2022"}
+{"address": "0x849adFA185C8ba712eb252aa457010638dC9cAf1", "name": "RealmName", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/2/2022"}
+{"address": "0xD05Ba680f34047f0E89023f54D0b2108976e9b75", "name": "RealmName", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "11/2/2022"}
+{"address": "0x93105b2fe07BA27E29FF79430D4D25958154b09e", "name": "Coin", "compiler": "0.8.6", "balance": "0 ETH", "txcount": 5, "settings": "-", "date": "11/2/2022"}
+{"address": "0x7745d489DC858D07313Bc18Ba48930066C019590", "name": "AvaultRouter_ARBITRUM", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "11/2/2022"}
+{"address": "0xFDc700D0BEBaC29DA38DBAb80178145dB33f84f8", "name": "Coin", "compiler": "0.8.6", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "11/2/2022"}
+{"address": "0x095F9cd025c63ba9C9Fd70705eF82eE934e5e924", "name": "ElonChain", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 6, "settings": "-", "date": "11/2/2022"}
+{"address": "0x5F5210F212542fbd6f9471774184DC391DBf199f", "name": "LiquidityLocker", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 2, "settings": "-", "date": "11/2/2022"}
+{"address": "0x38325f901a698aF88D855f061d0FEA70825856c5", "name": "UOExecutorL2", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/2/2022"}
+{"address": "0x3937C6f8120c206646bf616FF62eB2631D0D9d6A", "name": "UOExecutorL2", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/2/2022"}
+{"address": "0xcf98fdc9c980ed898bf1fbb25746c0c434329b42", "name": "Address", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "11/2/2022"}
+{"address": "0xf671AD7AB9a0A23b9C1200734d5D30fc39D2Af50", "name": "Proteus", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/2/2022"}
+{"address": "0x99c192D657D3827A8BDe853aEcDa24cD41D53eb9", "name": "AVaultForAave", "compiler": "0.8.9", "balance": "-", "txcount": 0, "settings": "", "date": "11/2/2022"}
+{"address": "0x96C7dC9d473e621a1e3968Cb862803EAEDe21888", "name": "LiquidityPoolProxy", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "11/2/2022"}
+{"address": "0xda7d88fdd62f9a21b8c7743c408930177edf88d5", "name": "Address", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "11/2/2022"}
+{"address": "0x603B5383d1F701C120D4A8E24F2DAccEF30b80b4", "name": "AVaultForAave", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "11/2/2022"}
+{"address": "0xb2d69b9166a8e7dc615868aba662bc49704d76fc", "name": "FOMMES", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 2, "settings": "-", "date": "11/2/2022"}
+{"address": "0x4572A35ac92B095175000231f121D7aB9E70F141", "name": "fDOGE", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 3, "settings": "", "date": "11/1/2022"}
+{"address": "0xA3ed59978e84C53Ec1db7190f3f6Cb8c78727e75", "name": "Coin", "compiler": "0.8.6", "balance": "0 ETH", "txcount": 19, "settings": "-", "date": "11/1/2022"}
+{"address": "0xf00716Ee11BB46398e7cd18c1c7f684799E2761b", "name": "QuixoticLaunchpadERC721", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 36, "settings": "-", "date": "11/1/2022"}
+{"address": "0x58EA7917F74834dbE6b57D0a2a74fb68C1e94c55", "name": "ArbTribe", "compiler": "0.8.16", "balance": "0.004274735519851632 ETH", "txcount": 147, "settings": "-", "date": "11/1/2022"}
+{"address": "0xfdbac1d2deedad3c57b380ef2dcb0b484ad1e0a7", "name": "ArbitrumGuildTokenBundleV3", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 32, "settings": "", "date": "11/1/2022"}
+{"address": "0xFa6c03e758c0bb5Af3B2919E125527774A50b3D1", "name": "Coin", "compiler": "0.8.6", "balance": "0 ETH", "txcount": 2, "settings": "-", "date": "11/1/2022"}
