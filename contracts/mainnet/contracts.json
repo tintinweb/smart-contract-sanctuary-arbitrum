@@ -9448,3 +9448,11 @@
 {"address": "0xBF839f4dfF854F7a363A033D57ec872dC8556693", "name": "StargateIpml", "compiler": "0.8.14", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/2/2022"}
 {"address": "0xb87EeB80C6bC83Dcf19499E61d4dAFE3fea26c3F", "name": "Unlock", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/2/2022"}
 {"address": "0xd741c3ce6c32d11db7eeceb1fcc0dba8b60cee94", "name": "PublicLock", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/2/2022"}
+{"address": "0x641cc26467c2e503cc8ccf71e215be5fb2b7a871", "name": "MasterChief", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "11/2/2022"}
+{"address": "0xFb3350a1C58AE5125E175fcCa14f3c82fD469e04", "name": "Coin", "compiler": "0.8.6", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "11/2/2022"}
+{"address": "0x7010Fed4e8D27c6859f4FFe806e890D05E9EDA76", "name": "FluxAggregatorDigiDaigaku", "compiler": "0.6.6", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "11/2/2022"}
+{"address": "0x5cda7d64aebaf2c8babd2e04685ffbda7f78b2f0", "name": "MDinu", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 13, "settings": "-", "date": "11/2/2022"}
+{"address": "0x9a10bbf2e542d77e253bacc99465034499a36ff1", "name": "Minu", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 9, "settings": "-", "date": "11/2/2022"}
+{"address": "0xe9b62ee6b2b4c51601a7bc3bfad15b19fab3a155", "name": "PARTYHATPASTA", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 2, "settings": "-", "date": "11/2/2022"}
+{"address": "0x9D611b12a3F6C320fCF8EA9a1BBbC4FB7f1d2DFF", "name": "Coin", "compiler": "0.8.6", "balance": "0 ETH", "txcount": 5, "settings": "-", "date": "11/2/2022"}
+{"address": "0xCfaD74Ae8c5E4f173B4b930D6f5004b933db1563", "name": "Coin", "compiler": "0.8.6", "balance": "0 ETH", "txcount": 6, "settings": "-", "date": "11/2/2022"}
