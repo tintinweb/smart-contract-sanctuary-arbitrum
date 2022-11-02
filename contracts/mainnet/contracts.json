@@ -9416,3 +9416,35 @@
 {"address": "0x6433E4ae3df2f68076F00867873B5960325F6cf1", "name": "Focus", "compiler": "0.8.1", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/2/2022"}
 {"address": "0x9c944b82ab5b2882e7ce4b6805b43f50889e8fb9", "name": "MultichainPortal", "compiler": "0.8.14", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "11/2/2022"}
 {"address": "0xef2B07C7189c4F448e827128C34FD63A1F0417d4", "name": "Coin", "compiler": "0.8.6", "balance": "0 ETH", "txcount": 19, "settings": "-", "date": "11/2/2022"}
+{"address": "0x05cdcdf465c3a1ff45be25742b98c328d986671b", "name": "ETdoge", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 4, "settings": "-", "date": "11/2/2022"}
+{"address": "0x211343a6c30f8f1ec0fd81cd930e856f646f6f03", "name": "BarnGovernancePolicy", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/2/2022"}
+{"address": "0xcf767edd6a7664bb1a3469da02127d4860102a5d", "name": "BarnStakingPolicy", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/2/2022"}
+{"address": "0x52ba44a44401c7f5032e33861b620d092aaa1c3b", "name": "StakedBarnBridgeToken", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/2/2022"}
+{"address": "0xc6510b2d9dbd85d35a437db599adcbfe8ba0ae75", "name": "BarnTreasury", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/2/2022"}
+{"address": "0x3c12d30112ca2a49a27506ab16fec69ddca02e57", "name": "Instructions", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/2/2022"}
+{"address": "0x510ede04d99732ca6964556df94b1bc508c8c423", "name": "Kernel", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 7, "settings": "", "date": "11/2/2022"}
+{"address": "0x874e06013E5360a1f139BB750c0576A630dEEC44", "name": "FluxAggregatorTheSaudis", "compiler": "0.6.6", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/2/2022"}
+{"address": "0x3ce2f985d3b32c681c9790e659a2a22a628e6244", "name": "MintPass", "compiler": "0.8.11", "balance": "0 ETH", "txcount": 4, "settings": "", "date": "11/2/2022"}
+{"address": "0x4c9b1d3a572fd5a118034d881f921acb4a88db85", "name": "Edoge", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 16, "settings": "-", "date": "11/2/2022"}
+{"address": "0x58dcd4E05be89ba00e1915Ba580141d15B4Ecca0", "name": "DogeLeverage", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 6, "settings": "", "date": "11/2/2022"}
+{"address": "0x4c7c7CE9d42740413F7999f4c1914741A666F36f", "name": "BToken", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/2/2022"}
+{"address": "0xe8868a069a685747d9bdb0c444116be03c67bb0c", "name": "DXswapFeeReceiver", "compiler": "0.5.16", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/2/2022"}
+{"address": "0x17e21Cfb1c7B2E6f6740D675e565809D357E38E9", "name": "CLPUniswapV2", "compiler": "0.8.9", "balance": "-", "txcount": 0, "settings": "", "date": "11/2/2022"}
+{"address": "0x6C7Cd683949Dcd5A39486390c7F7C59a55309ce1", "name": "CSwapCurve", "compiler": "0.8.9", "balance": "-", "txcount": 0, "settings": "", "date": "11/2/2022"}
+{"address": "0x8b9cE67DC4367EbC13025cA352277b2b4A1B30Ee", "name": "CSwapUniswapV3", "compiler": "0.8.9", "balance": "-", "txcount": 0, "settings": "", "date": "11/2/2022"}
+{"address": "0x094FcB456687382c836aD61c46DcEcC3C2b88911", "name": "CSwapUniswapV2", "compiler": "0.8.9", "balance": "-", "txcount": 0, "settings": "", "date": "11/2/2022"}
+{"address": "0x03E64b667B0DDdABb2972dF49C318E96D414E87f", "name": "CMove", "compiler": "0.8.9", "balance": "-", "txcount": 0, "settings": "", "date": "11/2/2022"}
+{"address": "0x805337bC5195f2BfEa531665eDa46516fa493949", "name": "Invoker", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 8, "settings": "", "date": "11/2/2022"}
+{"address": "0x26af80926e9e94983ee95e40423e48eca9b5cf09", "name": "Rich", "compiler": "0.8.1", "balance": "0 ETH", "txcount": 3, "settings": "", "date": "11/2/2022"}
+{"address": "0xD4F99EA0D4eD9B3bD2dBFDD0Ca350E346DC42CB7", "name": "SLA", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 32, "settings": "", "date": "11/2/2022"}
+{"address": "0x634F6921BdA259834e2b6400aA6ac57338B8B968", "name": "QuixoticLaunchpadERC721", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 12, "settings": "-", "date": "11/2/2022"}
+{"address": "0xfFC6DC11002A688F7995Fb1CA85232c939b0139D", "name": "MessengerRegistry", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/2/2022"}
+{"address": "0xfcc8114f6da7e3c9e88f75ffacabb3c4eb17a608", "name": "Kanil", "compiler": "0.8.1", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/2/2022"}
+{"address": "0x9dB0B1692a56789603BaEE953635b4eC631a7399", "name": "PeriodRegistry", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 5, "settings": "", "date": "11/2/2022"}
+{"address": "0x837Def7a9AA8FC9480d3f5bC1D61aF276eEEfE73", "name": "SLORegistry", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/2/2022"}
+{"address": "0x38b0cd8BB4C4608E32EE75b25A8846459cEAd513", "name": "SLARegistry", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 3, "settings": "", "date": "11/2/2022"}
+{"address": "0x834B065cf4Ac904E4bFfd983Ec2b2A6c8Af8AD7E", "name": "StakeRegistry", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 6, "settings": "", "date": "11/2/2022"}
+{"address": "0x833c41108399c3f71ce8c0504e308df357498ac8", "name": "Dolgy", "compiler": "0.8.1", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/2/2022"}
+{"address": "0xBF839f4dfF854F7a363A033D57ec872dC8556693", "name": "StargateIpml", "compiler": "0.8.14", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/2/2022"}
+{"address": "0xb87EeB80C6bC83Dcf19499E61d4dAFE3fea26c3F", "name": "Unlock", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/2/2022"}
+{"address": "0xd741c3ce6c32d11db7eeceb1fcc0dba8b60cee94", "name": "PublicLock", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/2/2022"}
