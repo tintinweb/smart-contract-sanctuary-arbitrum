@@ -9456,3 +9456,22 @@
 {"address": "0xe9b62ee6b2b4c51601a7bc3bfad15b19fab3a155", "name": "PARTYHATPASTA", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 2, "settings": "-", "date": "11/2/2022"}
 {"address": "0x9D611b12a3F6C320fCF8EA9a1BBbC4FB7f1d2DFF", "name": "Coin", "compiler": "0.8.6", "balance": "0 ETH", "txcount": 5, "settings": "-", "date": "11/2/2022"}
 {"address": "0xCfaD74Ae8c5E4f173B4b930D6f5004b933db1563", "name": "Coin", "compiler": "0.8.6", "balance": "0 ETH", "txcount": 6, "settings": "-", "date": "11/2/2022"}
+{"address": "0xE4b2EfFAe893233f2fA5b1148504a84F1eDA517f", "name": "Coin", "compiler": "0.8.6", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "11/3/2022"}
+{"address": "0x0Aaf347F50b766cA85dB70f9e2B0E178E9a16F4D", "name": "SigValidationModule", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/3/2022"}
+{"address": "0xCA9b609b7a0Bc46CcF744B2e0261B9Afd14f81C0", "name": "AvaultRouter_ARBITRUM", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/3/2022"}
+{"address": "0x61908Ca53c12D9e7F934896dE9CF07A181a6c044", "name": "Seaport", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/3/2022"}
+{"address": "0x59113EB55EA6cA9F43691e624845C41f496D12aA", "name": "Conduit", "compiler": "0.8.13", "balance": "-", "txcount": 0, "settings": "", "date": "11/3/2022"}
+{"address": "0xBcF41a302F05D630118A2550bbF1C7a730a0a57e", "name": "QuixoticLaunchpadERC721", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 4, "settings": "-", "date": "11/3/2022"}
+{"address": "0x06bf713cc31f672ac22c118fbe71f87e143dcf8d", "name": "Guild", "compiler": "0.8.1", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "11/3/2022"}
+{"address": "0xADCC868A7b640cC36e08Ca442F359B9F435b7Df8", "name": "ClearingHouse", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/3/2022"}
+{"address": "0x1360ade57a3c0a9cf6d012432b953fa378566e6d", "name": "Watch", "compiler": "0.8.1", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "11/3/2022"}
+{"address": "0xa406447871c0a2587d098d6122786026664bf6ef", "name": "ArBetRoom", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 3, "settings": "", "date": "11/3/2022"}
+{"address": "0xEf9C09F01BDeCb515C389e4b9DcAe28AeAe18744", "name": "QuixoticLaunchpadERC721", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 4, "settings": "-", "date": "11/3/2022"}
+{"address": "0xeF1C0B40016d0EA08e4F409f48e618B41eDF66D9", "name": "LodestarNft", "compiler": "0.8.6", "balance": "0 ETH", "txcount": 724, "settings": "", "date": "11/3/2022"}
+{"address": "0x91d059110435931b828926a473FEE9177E82f934", "name": "Coin", "compiler": "0.8.6", "balance": "0 ETH", "txcount": 13, "settings": "-", "date": "11/3/2022"}
+{"address": "0xBcdaB29129534f5cfCD54Fd2f6e489026Bd88e9E", "name": "SeasonalAxolittles", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 140, "settings": "", "date": "11/2/2022"}
+{"address": "0xC06010d6E36D493E983A978D640179DcEea20CAc", "name": "DefiiFactory", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "11/2/2022"}
+{"address": "0xe850eF920613f6fd4aF3B842aDa6495EC9350743", "name": "RadiantArbitrumDAI", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "11/2/2022"}
+{"address": "0xD69DC54a93b6d62bC9867f50484e969CC373F754", "name": "Interrogation", "compiler": "0.8.11", "balance": "0 ETH", "txcount": 31, "settings": "", "date": "11/2/2022"}
+{"address": "0x8b84CAE3ec8E9481cCBb41f92CBDb8422bBadf4F", "name": "ZigZagExchange", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/2/2022"}
+{"address": "0xe94afed947a845c7190a32a950002d61875cf0e6", "name": "Coin", "compiler": "0.8.6", "balance": "0 ETH", "txcount": 24, "settings": "-", "date": "11/2/2022"}
