@@ -9475,3 +9475,11 @@
 {"address": "0xD69DC54a93b6d62bC9867f50484e969CC373F754", "name": "Interrogation", "compiler": "0.8.11", "balance": "0 ETH", "txcount": 31, "settings": "", "date": "11/2/2022"}
 {"address": "0x8b84CAE3ec8E9481cCBb41f92CBDb8422bBadf4F", "name": "ZigZagExchange", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/2/2022"}
 {"address": "0xe94afed947a845c7190a32a950002d61875cf0e6", "name": "Coin", "compiler": "0.8.6", "balance": "0 ETH", "txcount": 24, "settings": "-", "date": "11/2/2022"}
+{"address": "0xc29abF52c1Cc97F1f6308d5d54404c5a847497B0", "name": "StargateIpml", "compiler": "0.8.14", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/3/2022"}
+{"address": "0xBd3409FD509e9F1Ef613f93090A24529ef54F000", "name": "ApebitrumRaffle", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "11/3/2022"}
+{"address": "0xe487ab3c212415a31b322742401e415bde3d8f23", "name": "ArbitrumDie", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 8, "settings": "-", "date": "11/3/2022"}
+{"address": "0x017fe2c041925aebdca4f9eefd4be3f87757fb24", "name": "EIGHT", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 5, "settings": "-", "date": "11/3/2022"}
+{"address": "0x8aac8192ef6dc6bf9294d4ad6c86668258ddd746", "name": "RickandMortyCopyPasta", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 11, "settings": "-", "date": "11/3/2022"}
+{"address": "0xdc051e3e857661af8b4ef18001ec1f926dc07ce8", "name": "Coin", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 2, "settings": "-", "date": "11/3/2022"}
+{"address": "0x0972A0fa37984E7FF2aEFA53A0Bb10dCE535aa73", "name": "WooCrossChainRouter", "compiler": "0.8.14", "balance": "0 ETH", "txcount": 6, "settings": "", "date": "11/3/2022"}
+{"address": "0xf9224bbf7e9bdca4417f6360d8a371cf393292c0", "name": "Apepe", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 16, "settings": "-", "date": "11/3/2022"}
