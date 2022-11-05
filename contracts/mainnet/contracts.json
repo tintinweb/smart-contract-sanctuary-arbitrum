@@ -9677,3 +9677,17 @@
 {"address": "0xDED79501442546f376849c544A4235b129c9e01F", "name": "Coin", "compiler": "0.8.6", "balance": "0 ETH", "txcount": 21, "settings": "-", "date": "11/5/2022"}
 {"address": "0x71a1f99D5156781FA079c67E86E9FEad90004B18", "name": "QuixoticLaunchpadERC721", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 5, "settings": "-", "date": "11/5/2022"}
 {"address": "0xC41185949Cb05481Cd17826d59BfFFF87BD9EC79", "name": "StargatePortalIn", "compiler": "0.8.11", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/5/2022"}
+{"address": "0x24E95176f7B1776FEEed616153951300ed39b85d", "name": "QuixoticLaunchpadERC721", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 5, "settings": "-", "date": "11/5/2022"}
+{"address": "0xcc3685a50c67d7f8f51b8f4caf4e98bd83f3c555", "name": "ARBISEASON", "compiler": "0.8.16", "balance": "0 ETH", "txcount": 6, "settings": "-", "date": "11/5/2022"}
+{"address": "0x86192Db423A27952f8DaE368bAfe71D2f608c824", "name": "QuixoticLaunchpadERC721", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 6, "settings": "-", "date": "11/5/2022"}
+{"address": "0x0CC23BF1761C85e010D257F02fd638d4E4221579", "name": "Trading", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 16, "settings": "", "date": "11/5/2022"}
+{"address": "0xab59586a62a1a5ad6dffe64e3bc583261b16e0d2", "name": "VolatilityOracle", "compiler": "0.8.14", "balance": "0 ETH", "txcount": 3, "settings": "", "date": "11/5/2022"}
+{"address": "0x4f6f43554Bd9D26083Af85A71bDe74Fa3E7027F8", "name": "QuixoticLaunchpadERC721", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 5, "settings": "-", "date": "11/5/2022"}
+{"address": "0xaCD4FE965e53CEb419A0104a5b547ea5a797c20A", "name": "Blacklistable", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/5/2022"}
+{"address": "0xbc395dcc3d446ae3ef157acbee5dbde1ac1c8cf8", "name": "HelloWorld", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 3, "settings": "", "date": "11/5/2022"}
+{"address": "0xf397073BF8AA624271EFcF01952f448BD82bf1C4", "name": "MockCRV", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/5/2022"}
+{"address": "0xf96a0C0d32C0c2a6ACBf87dD962EfE0eaA6E5C26", "name": "GaugeRegistry", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/5/2022"}
+{"address": "0xB37F44B90F017a45f14F0Bb65dbA13f3b26534c2", "name": "EIP173Proxy", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/5/2022"}
+{"address": "0x5c00BE319ECF60Ec35D00094d192e97BeCB4d06c", "name": "V3FeesResolver", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/5/2022"}
+{"address": "0xf4315aa77302be6ae971510315127c2bddf1b7a7", "name": "Arbitrummeta", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 9, "settings": "-", "date": "11/5/2022"}
+{"address": "0xefa4bdf566ae50537a507863612638680420645c", "name": "RigoblockPoolProxy", "compiler": "0.8.17", "balance": "-", "txcount": 0, "settings": "", "date": "11/5/2022"}
