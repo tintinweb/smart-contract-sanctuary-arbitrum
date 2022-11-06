@@ -9740,3 +9740,15 @@
 {"address": "0xdeA8b46303e7dd011fa1f3583153942944CcfEa2", "name": "DemoERC20", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/6/2022"}
 {"address": "0xc4e19d89d38fb22b2e1302e7bd1e84f1f752a879", "name": "WagmiSers", "compiler": "0.8.5", "balance": "0.001219519648251445 ETH", "txcount": 14, "settings": "-", "date": "11/6/2022"}
 {"address": "0xd570E5d37b5040E3cb924A1466C0841f4FCA71e1", "name": "GelatoERC20", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/6/2022"}
+{"address": "0xccf26d62273dbccc5bfeabf324736d23f384c307", "name": "ArbiSquid", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 6, "settings": "-", "date": "11/6/2022"}
+{"address": "0x2fcd365de5d1572abc63e87a404057d483ee45a7", "name": "ArbiSquid", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 7, "settings": "-", "date": "11/6/2022"}
+{"address": "0x11f0dcc95dcb2e6fb6b385b84db89c1fe705ba90", "name": "PegasusLiquidityLocker", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "11/6/2022"}
+{"address": "0x6167e9DED10F88Eca42A402138635d678385d089", "name": "Arbingo", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 25, "settings": "", "date": "11/6/2022"}
+{"address": "0xae6b51f30e865cc59952c9d5BCbad9E7fe406014", "name": "Arbingo", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "11/6/2022"}
+{"address": "0x036bdce824c8abcb680cde5377c0828786feff59", "name": "PigeonPoop", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 7, "settings": "", "date": "11/6/2022"}
+{"address": "0x7e9a7d3e1d4a262a732279038348ea26dcb0fd69", "name": "Pigeon", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 75, "settings": "", "date": "11/6/2022"}
+{"address": "0x2d278dbc69fb20f08b1cf15edce88c6827a6c290", "name": "ArbitInu", "compiler": "0.8.9", "balance": "0.127637700932064227 ETH", "txcount": 78, "settings": "-", "date": "11/6/2022"}
+{"address": "0xcE2f7F728F5425816C1F4cC570Bc26f51969e684", "name": "QuixoticLaunchpadERC721", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 8, "settings": "-", "date": "11/6/2022"}
+{"address": "0xB5802d3D9862e5a5B1561700502d8B9ef713Cc50", "name": "Coin", "compiler": "0.8.6", "balance": "0 ETH", "txcount": 12, "settings": "-", "date": "11/6/2022"}
+{"address": "0x2ab669da732daa4943d2363a6a6bb35d49dea1d1", "name": "ArbitrumTokenBundles", "compiler": "0.8.7", "balance": "0.0095 ETH", "txcount": 14, "settings": "-", "date": "11/6/2022"}
+{"address": "0xf23c4dd8cb7b4264720f1700328e99cfd2d21f4f", "name": "HelloWorld", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "11/6/2022"}
