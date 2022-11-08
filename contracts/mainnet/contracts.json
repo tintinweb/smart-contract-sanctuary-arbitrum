@@ -9840,3 +9840,17 @@
 {"address": "0x0c8f76ae6b3636643c912dbace26f3b65acfbc87", "name": "RdpxEthStorage", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "11/7/2022"}
 {"address": "0x5f722fef5355ada0615b4c30a0f779ba859c2f99", "name": "Arbitest", "compiler": "0.8.0", "balance": "0.000000631916466602 ETH", "txcount": 9, "settings": "", "date": "11/7/2022"}
 {"address": "0xb47ea0c0333ff8eed9be6ef7df7ff9f4d99422ee", "name": "XCAT", "compiler": "0.5.16", "balance": "0 ETH", "txcount": 4, "settings": "-", "date": "11/7/2022"}
+{"address": "0x872b6ff825Da431C941d12630754036278AD7049", "name": "WooSuperChargerVault", "compiler": "0.8.14", "balance": "0 ETH", "txcount": 12, "settings": "", "date": "11/8/2022"}
+{"address": "0x2711ccebC7207c2cCB368d87d7FB3745Aa066Fa1", "name": "WooWithdrawManager", "compiler": "0.8.14", "balance": "0 ETH", "txcount": 3, "settings": "", "date": "11/8/2022"}
+{"address": "0x21886db0657700aE32821b824098bD06a5636103", "name": "WooLendingManager", "compiler": "0.8.14", "balance": "0 ETH", "txcount": 8, "settings": "", "date": "11/8/2022"}
+{"address": "0x81ab3492BACFfF639dDE60763Ccf9E348117075d", "name": "WooSuperChargerVault", "compiler": "0.8.14", "balance": "0 ETH", "txcount": 19, "settings": "", "date": "11/8/2022"}
+{"address": "0xeeb828bd879b3ed35c88b9ff472ff57eadb3443c", "name": "Coin", "compiler": "0.8.6", "balance": "0 ETH", "txcount": 7, "settings": "-", "date": "11/8/2022"}
+{"address": "0xb1c8194b8e0a0cda2f16c286cb34aa2e9cb2bafb", "name": "QAtar", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 6, "settings": "-", "date": "11/8/2022"}
+{"address": "0xb5c1464c311d7aa854adf9f923e2ac49202068d4", "name": "BeerAndRum", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 6, "settings": "-", "date": "11/8/2022"}
+{"address": "0xdc074a07729750f988cda18008a41facb43ce7e7", "name": "AllahMedaInu", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 9, "settings": "-", "date": "11/8/2022"}
+{"address": "0x4e0436682f3b0a6d778520b2d407d1ecd15e00b8", "name": "LiquidityLockerNFT", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 3, "settings": "", "date": "11/8/2022"}
+{"address": "0x8Aa91fa9C95DFe361E7d58B1abc4b8b0FcF4385E", "name": "QuixoticLaunchpadERC721", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 113, "settings": "-", "date": "11/8/2022"}
+{"address": "0x69a206eB593b9890b89339057b5c3b69fF66FbBC", "name": "Hedge", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 58, "settings": "", "date": "11/8/2022"}
+{"address": "0x10f252a9ac295eff2dc32fe10fa366a4249177e7", "name": "cARBs", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 36, "settings": "", "date": "11/7/2022"}
+{"address": "0xa18ee3d7d8ae27358f6851af72eb3e5f9fdb5486", "name": "Verba", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 2, "settings": "-", "date": "11/7/2022"}
+{"address": "0xe94682bca9a03c5f675afc4644dfacb3888674eb", "name": "IHateFatPeople", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 50, "settings": "-", "date": "11/7/2022"}
