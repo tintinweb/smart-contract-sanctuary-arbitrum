@@ -9954,3 +9954,13 @@
 {"address": "0xeb136f74ed08dfad811671d2751842f6a37b9e2c", "name": "ARBPAD", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 13, "settings": "", "date": "11/9/2022"}
 {"address": "0xf3479750f04f89e034f4045766f6ddbb0fe4b31e", "name": "contracter", "compiler": "0.4.26", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/8/2022"}
 {"address": "0xaE662a91cd2B68251A0f89a58b13cDfEC997F4Ed", "name": "RING", "compiler": "0.8.12", "balance": "0.000013172280589415 ETH", "txcount": 37, "settings": "", "date": "11/8/2022"}
+{"address": "0x4a5a70a850de75b1a7d90cc25e52cf5c02a9d218", "name": "niza", "compiler": "0.4.26", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "11/9/2022"}
+{"address": "0x948c1512eb159bd0c9197498310d789666ddba98", "name": "goodwin", "compiler": "0.4.26", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "11/9/2022"}
+{"address": "0x11d789b34bf7122158af89b321c8c96d823f9bd9", "name": "ArbitrumBatchTransfer", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/9/2022"}
+{"address": "0x6898C258D74C7c969d09fAa7DBdEDF82b8F625E1", "name": "AirdropPToken", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 12, "settings": "", "date": "11/9/2022"}
+{"address": "0xe37940607666f6991b5ca4d806973ce962f1430e", "name": "ZN_DAO_ZN", "compiler": "0.4.26", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "11/9/2022"}
+{"address": "0xd2daf85a5d48d3d1787077b7c1ee0b43a2cd4939", "name": "LiquidStakedArbitrum", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "11/9/2022"}
+{"address": "0x89d7c27d21586240a1bedd02a78e6df296eb212f", "name": "RektPal", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 2, "settings": "-", "date": "11/9/2022"}
+{"address": "0x7d99c049312c7bd4154b1aeb3aa9ed63ae39041b", "name": "BABYDOGE", "compiler": "0.8.5", "balance": "0 ETH", "txcount": 3, "settings": "-", "date": "11/9/2022"}
+{"address": "0x273d37d6db5e560bf8f547bb1d1f90d98b8fc815", "name": "BABYSHIB", "compiler": "0.8.5", "balance": "0 ETH", "txcount": 4, "settings": "-", "date": "11/9/2022"}
+{"address": "0xccfee3f82a5a2b15a7ca896e7fb19a76d00f5192", "name": "FreeMoney", "compiler": "0.8.17", "balance": "-", "txcount": 0, "settings": "-", "date": "11/9/2022"}
