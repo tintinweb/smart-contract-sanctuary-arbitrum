@@ -9964,3 +9964,18 @@
 {"address": "0x7d99c049312c7bd4154b1aeb3aa9ed63ae39041b", "name": "BABYDOGE", "compiler": "0.8.5", "balance": "0 ETH", "txcount": 3, "settings": "-", "date": "11/9/2022"}
 {"address": "0x273d37d6db5e560bf8f547bb1d1f90d98b8fc815", "name": "BABYSHIB", "compiler": "0.8.5", "balance": "0 ETH", "txcount": 4, "settings": "-", "date": "11/9/2022"}
 {"address": "0xccfee3f82a5a2b15a7ca896e7fb19a76d00f5192", "name": "FreeMoney", "compiler": "0.8.17", "balance": "-", "txcount": 0, "settings": "-", "date": "11/9/2022"}
+{"address": "0x1afb1b8628db29b8d9627878ae0c959ee5694c78", "name": "Deposit", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 3, "settings": "-", "date": "11/9/2022"}
+{"address": "0xed411e856fc65d3a7acbf62a5cab46b76a980795", "name": "NestedFactory", "compiler": "0.8.14", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/9/2022"}
+{"address": "0xf83bf5aad8df8d77e1bf0659c210699b0cb1c9e3", "name": "NitroZilla", "compiler": "0.8.5", "balance": "0 ETH", "txcount": 6, "settings": "-", "date": "11/9/2022"}
+{"address": "0xeD347C555cAd6699A88D70c0733C3E492C460CDd", "name": "TransparentUpgradeableProxy", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 7, "settings": "", "date": "11/9/2022"}
+{"address": "0xA06e69f15D85EBd5BBeC337887bf33910aAd2ecd", "name": "DnGmxJuniorVault", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/9/2022"}
+{"address": "0x362D31179A22e4c39D178dED4e2991c3aC803027", "name": "WithdrawPeriphery", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 3, "settings": "", "date": "11/9/2022"}
+{"address": "0x200D29689954bE3fbc7Ae3AbEc8Bee8d19d34253", "name": "ProxyAdmin", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/9/2022"}
+{"address": "0xb567cB49a947BCE3b465dB149d255941310A8314", "name": "DnGmxSeniorVault", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/9/2022"}
+{"address": "0x350E47a7Cf4f13e6dB38dA7e1BCbb730236DE60D", "name": "DnGmxJuniorVaultManager", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/9/2022"}
+{"address": "0x5cd5af9a9814b4D598A32715d21f58444796A4f0", "name": "DnGmxBatchingManager", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/9/2022"}
+{"address": "0xc6AD80Ed934029d4a0cDE4fc496F7953c29D09cb", "name": "BatchingManagerBypass", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 3, "settings": "", "date": "11/9/2022"}
+{"address": "0xf8dc5f6d2E8D209BA4Ca2f90105226B40A40A184", "name": "MasterChef", "compiler": "0.8.11", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/9/2022"}
+{"address": "0xD429BdAc510859B887f730C8Aad0A3421f23C58B", "name": "Fiat24CardApplication", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/9/2022"}
+{"address": "0x4ace4b3eb96bd7b3136ab7e14f070717a8137be8", "name": "Vyper_contract", "compiler": "vyper:0.2.16", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "11/9/2022"}
+{"address": "0x5d335da79612c6c005a1976f8c2b5ccc13c2fa6b", "name": "CryptoSchool", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 3, "settings": "-", "date": "11/9/2022"}
