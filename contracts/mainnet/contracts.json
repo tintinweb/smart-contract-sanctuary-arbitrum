@@ -9979,3 +9979,8 @@
 {"address": "0xD429BdAc510859B887f730C8Aad0A3421f23C58B", "name": "Fiat24CardApplication", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/9/2022"}
 {"address": "0x4ace4b3eb96bd7b3136ab7e14f070717a8137be8", "name": "Vyper_contract", "compiler": "vyper:0.2.16", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "11/9/2022"}
 {"address": "0x5d335da79612c6c005a1976f8c2b5ccc13c2fa6b", "name": "CryptoSchool", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 3, "settings": "-", "date": "11/9/2022"}
+{"address": "0xDa3b98AA0239800BF7141a210f209A3A1eF11235", "name": "Sedn", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/9/2022"}
+{"address": "0xAcfa671d49057628D74fef690B5A9bC7CE0F5C93", "name": "CErc20Delegate", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/9/2022"}
+{"address": "0xA6a505Eeb4e1e93052c48126f2d42ef6694A651D", "name": "LayerZeroBridgeTokenERC20", "compiler": "0.8.12", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/9/2022"}
+{"address": "0x03C2d2014795EE8cA78B62738433B457AB19F4b3", "name": "TokenSideChainMultiBridge", "compiler": "0.8.12", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/9/2022"}
+{"address": "0x656B80B667a46869144047E6e6C0000C81610253", "name": "TransparentUpgradeableProxy", "compiler": "0.8.12", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "11/9/2022"}
