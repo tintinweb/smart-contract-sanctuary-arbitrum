@@ -9944,3 +9944,13 @@
 {"address": "0xfb643f867ea607d95e1d69caf1ffb3475834f37c", "name": "bunkerdao", "compiler": "0.4.26", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/8/2022"}
 {"address": "0x688c353b62dd810433fa2f7ef415ee4c3fc5a22e", "name": "ARBITEST", "compiler": "0.4.26", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "11/8/2022"}
 {"address": "0x8e7faed8be0481529d12a60487162233635ab77a", "name": "arbit", "compiler": "0.4.26", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/8/2022"}
+{"address": "0x7710bad9d55b3182b360416446cacc951c6b624a", "name": "BatchSender", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 2, "settings": "-", "date": "11/9/2022"}
+{"address": "0x5c1e6bd6d5b774caae572626fa7c5db8777736f4", "name": "BatchSender", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "11/9/2022"}
+{"address": "0x38c0307f00c78733bacf7ceae23a265dfe616a00", "name": "engi", "compiler": "0.4.26", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/9/2022"}
+{"address": "0xd450603d6f6fcb2e1935f628837fdc279731493a", "name": "TestToken", "compiler": "0.8.2", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "11/9/2022"}
+{"address": "0x4739607026518d5E4F71d1D5C909062d5C0cb7bc", "name": "Whitelist", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 76, "settings": "", "date": "11/9/2022"}
+{"address": "0x963AED24f70DFE2c2fb419ae6c99b092C696F991", "name": "CErc20Delegate", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/9/2022"}
+{"address": "0xfbc607f59e659e2b6e44978715a4a6684c260326", "name": "Nitrophat", "compiler": "0.7.4", "balance": "0.000016839092585529 ETH", "txcount": 28, "settings": "", "date": "11/9/2022"}
+{"address": "0xeb136f74ed08dfad811671d2751842f6a37b9e2c", "name": "ARBPAD", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 13, "settings": "", "date": "11/9/2022"}
+{"address": "0xf3479750f04f89e034f4045766f6ddbb0fe4b31e", "name": "contracter", "compiler": "0.4.26", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/8/2022"}
+{"address": "0xaE662a91cd2B68251A0f89a58b13cDfEC997F4Ed", "name": "RING", "compiler": "0.8.12", "balance": "0.000013172280589415 ETH", "txcount": 37, "settings": "", "date": "11/8/2022"}
