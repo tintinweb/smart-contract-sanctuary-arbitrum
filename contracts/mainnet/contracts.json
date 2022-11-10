@@ -9999,3 +9999,7 @@
 {"address": "0x459e20457a0923eaC278AC8733Cf83DeAc66aCb0", "name": "LL", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 30, "settings": "", "date": "11/9/2022"}
 {"address": "0xd86f7F0fAd95a82fdDBE78C97C13707f499D8e6E", "name": "CErc20Delegator", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/9/2022"}
 {"address": "0xA23c391f05a19aF6704f1d48C49727f41136caA1", "name": "FTTCLASSISAL", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "11/9/2022"}
+{"address": "0xC6597b975Eb33D578aaD65bF477AF0d04626f721", "name": "MasterChef", "compiler": "0.8.11", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "11/10/2022"}
+{"address": "0x9ac1307c3fe593011ba745b98bb2e11ec750600e", "name": "SPBGUDAO", "compiler": "0.4.26", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/10/2022"}
+{"address": "0xa79f8cE76fb7cD466Cfe13316cC146a328Eb0A55", "name": "CErc20Delegator", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "11/10/2022"}
+{"address": "0xA945D5834eE733b156d11b2443900F116CAf0113", "name": "OpenOceanAdaptor", "compiler": "0.8.2", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "11/10/2022"}
