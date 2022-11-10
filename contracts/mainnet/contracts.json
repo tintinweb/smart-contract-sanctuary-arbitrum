@@ -10003,3 +10003,14 @@
 {"address": "0x9ac1307c3fe593011ba745b98bb2e11ec750600e", "name": "SPBGUDAO", "compiler": "0.4.26", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/10/2022"}
 {"address": "0xa79f8cE76fb7cD466Cfe13316cC146a328Eb0A55", "name": "CErc20Delegator", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "11/10/2022"}
 {"address": "0xA945D5834eE733b156d11b2443900F116CAf0113", "name": "OpenOceanAdaptor", "compiler": "0.8.2", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "11/10/2022"}
+{"address": "0x27757e76e48ed3110E7C01e26064e8b98D76018A", "name": "LegendOfEros", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 6, "settings": "", "date": "11/10/2022"}
+{"address": "0x52f0525b288aab336f7564606323d6ab87f14e3b", "name": "ASHIB", "compiler": "0.8.5", "balance": "0 ETH", "txcount": 5, "settings": "-", "date": "11/10/2022"}
+{"address": "0x87f346864c5936137a665f6f365494f5cd37e03f", "name": "ttbtc", "compiler": "0.4.26", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "11/10/2022"}
+{"address": "0xd16ca8cbf803818614893e94a9bcff2a0968a3e7", "name": "HeavenInu", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 14, "settings": "", "date": "11/10/2022"}
+{"address": "0x5baa684e95ec7b07ba6ef7d6bb85db4460e72901", "name": "linaMalina", "compiler": "0.4.26", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "11/10/2022"}
+{"address": "0x78a3a54ee6a8e206b78376ce83e3e400ace37a26", "name": "TokenTimelock", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/10/2022"}
+{"address": "0x92B82372672676AEb11197e5AD61Cfe72102Dd84", "name": "anndao", "compiler": "0.4.26", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/10/2022"}
+{"address": "0x39EE2867D842D728bD4e6248A41C50d63Ed14577", "name": "VaultAggregator", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/10/2022"}
+{"address": "0x8b4b5957F9B696E55843d30213013bbc4DF5Ab6F", "name": "activeDAOFar", "compiler": "0.4.26", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/10/2022"}
+{"address": "0x632cdea127f0c1df7260928a4279f8db2090a55a", "name": "Address", "compiler": "0.6.2", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/10/2022"}
+{"address": "0x678255bcadb71013d2cbaa1a6e5121703ec1d70d", "name": "Bottom", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 5, "settings": "-", "date": "11/10/2022"}
