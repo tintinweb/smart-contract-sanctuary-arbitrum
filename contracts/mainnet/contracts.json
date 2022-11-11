@@ -10041,3 +10041,10 @@
 {"address": "0xD8574857913a8Fe453cc574EC83238a4BAaab516", "name": "elnurdao", "compiler": "0.4.26", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/10/2022"}
 {"address": "0xf1d1bcbda0a7240b4273284a1fecbbf5a2ce432f", "name": "ProofOfGnome", "compiler": "0.8.1", "balance": "0 ETH", "txcount": 54, "settings": "-", "date": "11/10/2022"}
 {"address": "0x3DdFb0Ad9B5B0738588c9798FDbe585b9793589C", "name": "MasterChef", "compiler": "0.8.11", "balance": "0 ETH", "txcount": 154, "settings": "", "date": "11/10/2022"}
+{"address": "0xa2ef0e22a61649468c02700e1b2b0adb09506149", "name": "diondao", "compiler": "0.4.26", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/11/2022"}
+{"address": "0xa42f40Eda32D37107773F31298a64e0caDcf5469", "name": "ChanelDAO", "compiler": "0.4.24", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "11/11/2022"}
+{"address": "0x13587b138f3d23a2bc907f33d07998270e4c139e", "name": "CoS", "compiler": "0.4.26", "balance": "0 ETH", "txcount": 3, "settings": "", "date": "11/11/2022"}
+{"address": "0x90356c24c1f95cf29543d45122f2554b6a74f201", "name": "MCDEXLemma", "compiler": "0.8.3", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/11/2022"}
+{"address": "0x88a647a8cea572ad61f792d854c0c937a0cb8ec7", "name": "NitroSushi", "compiler": "0.8.5", "balance": "0 ETH", "txcount": 6, "settings": "-", "date": "11/11/2022"}
+{"address": "0x5f8093f617cfc029b917133c20e2ffaf4482b07d", "name": "ArbiSHIB", "compiler": "0.8.5", "balance": "0 ETH", "txcount": 6, "settings": "-", "date": "11/11/2022"}
+{"address": "0xE6A43faf69a357AC746c62b31C5dae6ac7eDb5d7", "name": "EsBFR_IOU", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "11/11/2022"}
