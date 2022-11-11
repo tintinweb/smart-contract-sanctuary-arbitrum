@@ -10048,3 +10048,12 @@
 {"address": "0x88a647a8cea572ad61f792d854c0c937a0cb8ec7", "name": "NitroSushi", "compiler": "0.8.5", "balance": "0 ETH", "txcount": 6, "settings": "-", "date": "11/11/2022"}
 {"address": "0x5f8093f617cfc029b917133c20e2ffaf4482b07d", "name": "ArbiSHIB", "compiler": "0.8.5", "balance": "0 ETH", "txcount": 6, "settings": "-", "date": "11/11/2022"}
 {"address": "0xE6A43faf69a357AC746c62b31C5dae6ac7eDb5d7", "name": "EsBFR_IOU", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "11/11/2022"}
+{"address": "0xc0f3429a78248dd88fe0c4ac085ac7ce9c24363c", "name": "QuadVoteTallyVerifierBatch64", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/11/2022"}
+{"address": "0xe4a35f1c20e8ffb65017226a6f648f6db55adcaa", "name": "BatchUpdateStateTreeVerifierBatch64", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/11/2022"}
+{"address": "0xB8FF29435f13dB8b572b66b27E0BCA252CD13921", "name": "MACI", "compiler": "0.6.12", "balance": "-", "txcount": 0, "settings": "", "date": "11/11/2022"}
+{"address": "0x4A2d90844EB9C815eF10dB0371726F0ceb2848B0", "name": "FundingRound", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 6364, "settings": "", "date": "11/11/2022"}
+{"address": "0xD7936052D1e096d48C81Ef3918F9Fd6384108480", "name": "SeriesNonceManager", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/11/2022"}
+{"address": "0xc138550d5ce04229c66be750e033f82515f18979", "name": "ArbiSHIB", "compiler": "0.8.5", "balance": "0 ETH", "txcount": 4, "settings": "-", "date": "11/11/2022"}
+{"address": "0xfb4eb4bdb193bd2da7161404e465fbdcaa19e38d", "name": "NuclearShiba", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 8, "settings": "", "date": "11/11/2022"}
+{"address": "0xd838C92900Af78EA81a34365973A3D09492e214A", "name": "rezadao", "compiler": "0.4.26", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/11/2022"}
+{"address": "0xf5454e6da76e2af9824b8d88f2af103159a396aa", "name": "Simulator", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/11/2022"}
