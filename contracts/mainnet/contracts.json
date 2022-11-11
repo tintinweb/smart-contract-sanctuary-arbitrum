@@ -10029,3 +10029,15 @@
 {"address": "0x9514e70a28683b4958d232c4758f8007bf98174b", "name": "xalidDao", "compiler": "0.4.26", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/10/2022"}
 {"address": "0x0b4EB2A5EB8A2eB329eDd303e62ad93d84C2E64d", "name": "YieldLiquidator", "compiler": "0.8.16", "balance": "0 ETH", "txcount": 3, "settings": "", "date": "11/10/2022"}
 {"address": "0xa92cf7b97eec24722f7d10c8a8ffef2bbc94d57c", "name": "Golfeder", "compiler": "0.8.5", "balance": "0 ETH", "txcount": 2, "settings": "-", "date": "11/10/2022"}
+{"address": "0x40107F542c6D7d9d9C9F7c46FB8874eF59fD3C65", "name": "AnteArbitrumUSDCPegTest", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/11/2022"}
+{"address": "0xc52235381abd5255b89761960ee3b8648a8b8f6d", "name": "Bungee", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 5, "settings": "", "date": "11/11/2022"}
+{"address": "0xCcddcec1831646Beff2753249f1B9C580327E89F", "name": "DropERC1155", "compiler": "0.8.12", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/10/2022"}
+{"address": "0x1b5947e1a2d5a29D0df20931DeAB0B87818209B9", "name": "DropERC20", "compiler": "0.8.12", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/10/2022"}
+{"address": "0xC4903c1Ff5367b9ac2c349B63DC2409421AaEE2a", "name": "DropERC721", "compiler": "0.8.12", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/10/2022"}
+{"address": "0x2dF9851af45dd41C8584ac55D983C604da985Bc7", "name": "SignatureDrop", "compiler": "0.8.12", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/10/2022"}
+{"address": "0x4c365db5be0fc2cdf5030f3c4cb2914ed97bcd75", "name": "Tipq1337", "compiler": "0.4.26", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/10/2022"}
+{"address": "0xd7d1debfca08e37d1679c189f93148ffe4f655f3", "name": "SBFFart", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 7, "settings": "-", "date": "11/10/2022"}
+{"address": "0x1fe8de63a17e5243be3d61c815b5717fbb1a7764", "name": "ARBINU", "compiler": "0.8.7", "balance": "0.000000251610184588 ETH", "txcount": 12, "settings": "", "date": "11/10/2022"}
+{"address": "0xD8574857913a8Fe453cc574EC83238a4BAaab516", "name": "elnurdao", "compiler": "0.4.26", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/10/2022"}
+{"address": "0xf1d1bcbda0a7240b4273284a1fecbbf5a2ce432f", "name": "ProofOfGnome", "compiler": "0.8.1", "balance": "0 ETH", "txcount": 54, "settings": "-", "date": "11/10/2022"}
+{"address": "0x3DdFb0Ad9B5B0738588c9798FDbe585b9793589C", "name": "MasterChef", "compiler": "0.8.11", "balance": "0 ETH", "txcount": 154, "settings": "", "date": "11/10/2022"}
