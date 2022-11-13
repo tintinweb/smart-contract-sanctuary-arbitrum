@@ -10128,3 +10128,13 @@
 {"address": "0x053106fca1742681ae4b79d8097ff2f530985f79", "name": "REARB", "compiler": "0.4.26", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/13/2022"}
 {"address": "0x85085a588884475E48dFcfd919289dfb1fd162aE", "name": "QuixoticLaunchpadERC721", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 6, "settings": "-", "date": "11/13/2022"}
 {"address": "0xeFc7deE89dcB7ad26002Ed3d07aAc8271633797b", "name": "TEST", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 3, "settings": "-", "date": "11/13/2022"}
+{"address": "0x5a9BEf8CEa603aAc78a523fb245C1A9264D50706", "name": "Fraxferry", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 6, "settings": "", "date": "11/13/2022"}
+{"address": "0xdde0146b608cadc1345fa80d6cd881c859747547", "name": "ShieldToken", "compiler": "0.8.11", "balance": "0 ETH", "txcount": 3, "settings": "", "date": "11/13/2022"}
+{"address": "0x19dcf9cf0b800975ee68c147767f4fa2bd6dc7db", "name": "MasterChef", "compiler": "0.8.11", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/13/2022"}
+{"address": "0x5a051907b472cbba88e1ecb4286b8426f16ccf6c", "name": "TreasuryHub", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "11/13/2022"}
+{"address": "0x3D1d8587C83b8C9b80a97E51DBe60463Ac5CE91A", "name": "ReferralSystem", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "11/13/2022"}
+{"address": "0xfb14ED30D1a405C82b097e4D2968B6561e268Dbd", "name": "KTNBond", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 106, "settings": "", "date": "11/13/2022"}
+{"address": "0x46ca8ed5465cb859bb3c3364078912c25f4d74de", "name": "KTN", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 95, "settings": "", "date": "11/13/2022"}
+{"address": "0x84F4584E21ef422Fc103805403533Ef8Bf1f2484", "name": "niadao3", "compiler": "0.4.26", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/13/2022"}
+{"address": "0x7291E1f16c64b72a0A9b64648e8cDE02C3CEe21c", "name": "VariantDispenser", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "11/13/2022"}
+{"address": "0xB83955DB692F85AFEC83fD2e19DfF13592CA1eCE", "name": "VxPremia", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/13/2022"}
