@@ -10119,3 +10119,12 @@
 {"address": "0x1D090332329a30b85107fc3C907C9fD50c26589B", "name": "DopexPositionManagerFactory", "compiler": "0.8.14", "balance": "0 ETH", "txcount": 34, "settings": "", "date": "11/13/2022"}
 {"address": "0xa0bE277a7e17A7864c4E03972fcC110e84B58af3", "name": "QuixoticLaunchpadERC721", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 5, "settings": "-", "date": "11/13/2022"}
 {"address": "0x6264837924Ba6089EeeD7E28a78c2F075EB0cC6b", "name": "QuixoticLaunchpadERC721", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 17, "settings": "-", "date": "11/13/2022"}
+{"address": "0x3992690E5405b69d50812470B0250c878bFA9322", "name": "VxPremiaProxy", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/13/2022"}
+{"address": "0xEA9CB63810bDb021480195f0c68dbC6E34CA76B6", "name": "VariantDispenser", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/13/2022"}
+{"address": "0x8DC32778b81f7C2A537647CCf7fac2F8BC713f9C", "name": "Sedn", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/13/2022"}
+{"address": "0x2bb54499078d73b1f1e43de5c127f5a7dccf9aa6", "name": "trump", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 5, "settings": "-", "date": "11/13/2022"}
+{"address": "0x77183b55Ba34bF5A4da4D362085A68A67b78cCDA", "name": "MinimalForwarder", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/13/2022"}
+{"address": "0x3bb2b5547087ae8aeaa23ca371b6c42472cf9012", "name": "WEAR", "compiler": "0.4.26", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/13/2022"}
+{"address": "0x053106fca1742681ae4b79d8097ff2f530985f79", "name": "REARB", "compiler": "0.4.26", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/13/2022"}
+{"address": "0x85085a588884475E48dFcfd919289dfb1fd162aE", "name": "QuixoticLaunchpadERC721", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 6, "settings": "-", "date": "11/13/2022"}
+{"address": "0xeFc7deE89dcB7ad26002Ed3d07aAc8271633797b", "name": "TEST", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 3, "settings": "-", "date": "11/13/2022"}
