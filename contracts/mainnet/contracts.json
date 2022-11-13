@@ -10108,3 +10108,9 @@
 {"address": "0x39655597fEA9fc21D55171953217974eF70F7DCb", "name": "est2dao", "compiler": "0.4.26", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/12/2022"}
 {"address": "0xe9db419577f0d1c45854b9120e0eec6aecb90366", "name": "estondao", "compiler": "0.4.26", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/12/2022"}
 {"address": "0x46218c902e5bcc6e3f8e0a49e902c34682aac717", "name": "HFT", "compiler": "0.4.26", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/12/2022"}
+{"address": "0x95CBD9523FbBc091B2e4572830C4a18d582EBC92", "name": "TokenLocker", "compiler": "0.8.17", "balance": "0.06 ETH", "txcount": 6, "settings": "-", "date": "11/13/2022"}
+{"address": "0x9DA757abb665933Cd6BC3475D8DA2abc641DC8f2", "name": "QuixoticLaunchpadERC721", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 5, "settings": "-", "date": "11/13/2022"}
+{"address": "0x619F1f68a9a3cF939327801012E12f95B0312bB9", "name": "Booty", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 4, "settings": "", "date": "11/12/2022"}
+{"address": "0x3a4621e2A7F67377EFc3eB1AAA81F910E5EBD5B2", "name": "YS", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 24, "settings": "", "date": "11/12/2022"}
+{"address": "0xf7afb217c64b9de8cf843d1039508551da3ae12a", "name": "Mixarb", "compiler": "0.4.26", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/12/2022"}
+{"address": "0x75105a9378295f68271176aa4816083c30d61cb6", "name": "CloverProtocol", "compiler": "0.8.1", "balance": "0 ETH", "txcount": 27, "settings": "-", "date": "11/12/2022"}
