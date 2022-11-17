@@ -10432,3 +10432,14 @@
 {"address": "0x06E8bF5490D021c397e7EEE714E4BE8c2DDf0911", "name": "LeviDog", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 3, "settings": "", "date": "11/16/2022"}
 {"address": "0x2A2349aBD6443468Ee85CE4f4acB8A213aB703D5", "name": "LeviDog", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/16/2022"}
 {"address": "0x39901A1dFCBd07937F398C10f456AC16888C3814", "name": "LeviERC1155", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 2, "settings": "-", "date": "11/16/2022"}
+{"address": "0x20B817eBe4520d9E65814b835BAb55BFDFb4C46c", "name": "TenderSwapFactoryV1", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/17/2022"}
+{"address": "0xdc1fd15188b4cdbae30db2b2a92330cece63710f", "name": "ChowChow", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "11/17/2022"}
+{"address": "0x5ffa481ebba3696746171cef26032d82bb0eedc7", "name": "Yannitale", "compiler": "0.8.14", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "11/17/2022"}
+{"address": "0x4475194218d12ab9af4a949027ae16225c8ae44b", "name": "Rearsha", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "11/17/2022"}
+{"address": "0xb28b8291f4d7380f7ecf81347df66d8a445b7607", "name": "Bundy", "compiler": "0.4.24", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "11/17/2022"}
+{"address": "0xFbd213073FC4f597C840B1ee202678d210d765fb", "name": "FLAction", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/17/2022"}
+{"address": "0x9109F34AB28D369cF894aF45C50E976B8E312a82", "name": "DFSSell", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/17/2022"}
+{"address": "0x79E126A21aE6aDC845602Af9D9D14a9d0CC9689A", "name": "CErc20Delegator", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 4, "settings": "", "date": "11/17/2022"}
+{"address": "0x31c91d8fb96bff40955dd2dbc909b36e8b104dde", "name": "Poison", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "11/17/2022"}
+{"address": "0xa7aa8a2631397f8c76d4791bb2a7ccb92b1ed4a5", "name": "pToken", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "11/17/2022"}
+{"address": "0x39fd76446d2aaf1b81cbb987075424a1c1572128", "name": "trusnik", "compiler": "0.8.16", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "11/17/2022"}
