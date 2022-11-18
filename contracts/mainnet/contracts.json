@@ -10496,3 +10496,15 @@
 {"address": "0x202fB0cBaBD1bA4e4dCcc4b2b99814EFd960acbD", "name": "OpenMarketSingleFacet", "compiler": "0.8.16", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/17/2022"}
 {"address": "0x3304Ce5Ec1C6890Fa44643Ddb232f1a402B3Ef6E", "name": "MasterFacet", "compiler": "0.8.16", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/17/2022"}
 {"address": "0x9C0f76d16b73C459633A3bDE43355092604c6043", "name": "LiquidationFacet", "compiler": "0.8.16", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/17/2022"}
+{"address": "0x06b167eB5c1917ABf1bF8eE9EF6Eb2FC8b8625E6", "name": "JumpRateModelV2", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/18/2022"}
+{"address": "0x6b228619834913e7cbe98340DeCb182e2D8A0fD1", "name": "QuixoticLaunchpadERC721", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 4, "settings": "-", "date": "11/18/2022"}
+{"address": "0x2AFEee955f88831815D6FBaBF62Df5cf2d2Cb9FD", "name": "CErc20DelegatorGmx", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/18/2022"}
+{"address": "0xDbc82B074Fd5f750549FF398d0e213c36Dd1639b", "name": "CErc20Delegator", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "11/18/2022"}
+{"address": "0xF8FdA6F61f26F8de49F9742946Be3AD6B7fcC909", "name": "CEther", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/18/2022"}
+{"address": "0xA3223ed45c880f2BeA8E8327d58c635DBA462CC8", "name": "JumpRateModelV2", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/18/2022"}
+{"address": "0x6a7aa5dB479651da89f20fc134256861F82912F2", "name": "GMXPriceOracle", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/18/2022"}
+{"address": "0x4213135A86e01dFa62125b6aD17d96D302596E8E", "name": "Comptroller", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "11/18/2022"}
+{"address": "0xaEaE92590Cda2f5E61f6007A8e083A42DC578230", "name": "Unitroller", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 11, "settings": "", "date": "11/18/2022"}
+{"address": "0x5004A9B62A2f94F4d21AfD15F82C2a908677d346", "name": "Liquidator", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "11/17/2022"}
+{"address": "0x8D1776dc9c6188F23112D665b006CEd16E67812C", "name": "AssetManager", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 9, "settings": "", "date": "11/17/2022"}
+{"address": "0x1Fe5547FAD5224a1F97E8d19104bB1595AAdEaf4", "name": "BalanceSheet", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 3, "settings": "", "date": "11/17/2022"}
