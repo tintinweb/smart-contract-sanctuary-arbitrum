@@ -10524,3 +10524,13 @@
 {"address": "0x2083130d4b5a9fccb6611f4c0dea44c851964ae6", "name": "ShihTzu", "compiler": "0.8.5", "balance": "0.000055959240978086 ETH", "txcount": 19, "settings": "-", "date": "11/18/2022"}
 {"address": "0xe3a5643a0b4db34316312d0ba43413e1373ec37c", "name": "ShihTzu", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "11/18/2022"}
 {"address": "0x95ae7a15813b1a3c154d8f8e5a22d208a24fffb5", "name": "ArbitrumToxicBundle", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 5, "settings": "-", "date": "11/18/2022"}
+{"address": "0xb7a4a0c973c050b9b6336f6403d44708c4f55f18", "name": "Nitropill", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 192, "settings": "", "date": "11/18/2022"}
+{"address": "0xc79577f7b8aFE451C607C559ED615FeB0860615e", "name": "NitroPill", "compiler": "0.5.5", "balance": "0 ETH", "txcount": 16, "settings": "-", "date": "11/18/2022"}
+{"address": "0xfd2791173fe9fc1d87c55d4cc5412c40e3513c58", "name": "ArbitrumBatchTransfer", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "11/18/2022"}
+{"address": "0x1a53c42EE8F75129DD149484F80D4D0EfBC350Df", "name": "DefiiFactory", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "11/18/2022"}
+{"address": "0xb8Cde7f697474F8DC87f111B765D478EC7CEd6B9", "name": "RadiantArbitrumDAI", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "11/18/2022"}
+{"address": "0xE0C9848Ed89954e552584DEFE4b4d55AE660c617", "name": "StoryOfHolo", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 8, "settings": "", "date": "11/18/2022"}
+{"address": "0x81A40258427096F2c0925C29e6C53F8Cab81Bde3", "name": "SGT", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 9, "settings": "", "date": "11/18/2022"}
+{"address": "0xcc9e30f50753e1662459b23b6acb267aa62288ac", "name": "Multi", "compiler": "0.8.8", "balance": "0.000000000000001 ETH", "txcount": 2, "settings": "-", "date": "11/18/2022"}
+{"address": "0xc03e1b4297c13039d62b80453924c5c8d97a7700", "name": "ArbitrumToxicBundle", "compiler": "0.8.7", "balance": "0.117 ETH", "txcount": 27, "settings": "-", "date": "11/18/2022"}
+{"address": "0xb8d395a36e4d7f35ea173922556cd6bc57f14989", "name": "ArbitrumToxicBundle", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "11/18/2022"}
