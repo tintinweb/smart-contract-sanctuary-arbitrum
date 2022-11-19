@@ -10605,3 +10605,7 @@
 {"address": "0x05e8367F3968B09D8F4D92F7d2234963882Ef0D2", "name": "QuixoticLaunchpadERC721", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 4, "settings": "-", "date": "11/19/2022"}
 {"address": "0x30fecf46e92b596c576e13b3b23f2221f1558f5f", "name": "ProtohedgeVault", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/19/2022"}
 {"address": "0xd8fd3a969455bf7a7fcdde6b270d5f7b6cc203c2", "name": "kosoy", "compiler": "0.4.26", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/19/2022"}
+{"address": "0x1187792aa3dae30e30918d1e9128c081292428a6", "name": "max", "compiler": "0.4.26", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/19/2022"}
+{"address": "0x43d72a7c02e065ed6c8fd2d81370d1d57b9e585d", "name": "BankruptFraudMan", "compiler": "0.8.1", "balance": "0 ETH", "txcount": 40, "settings": "-", "date": "11/19/2022"}
+{"address": "0xc54f8b5022f015d5c9099e7796cd52ce2a8d63e8", "name": "Rabbitrum", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 6, "settings": "-", "date": "11/19/2022"}
+{"address": "0xCBe0C952B754B11AC9Ec8bDAEC3e9c0305E9ECD0", "name": "publicCalls", "compiler": "0.6.0", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "11/19/2022"}
