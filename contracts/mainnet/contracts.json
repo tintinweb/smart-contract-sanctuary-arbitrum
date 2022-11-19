@@ -10572,3 +10572,9 @@
 {"address": "0x37d7934d63be664b0dc217b938ca6fffdc5d18aa", "name": "StrategySushiswap", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "11/18/2022"}
 {"address": "0x878737ef4f32d91e25f5a6e723b1c83607fd2e53", "name": "StrategyGMXGLP", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "11/18/2022"}
 {"address": "0x8eb773ed208e3e65abb1a3f84e98c7afd0189e99", "name": "ARBINU", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 5, "settings": "", "date": "11/18/2022"}
+{"address": "0x03bc5e24a6aeb1f40edb6bb0ff84003f1bf363bc", "name": "MagicVault", "compiler": "0.8.12", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/19/2022"}
+{"address": "0x62d4697d03545498c2098f59946eacb7283f5033", "name": "conjETH", "compiler": "0.8.12", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/19/2022"}
+{"address": "0x3198Fa75C98bD284E73d5AB9f71B41ba5aA798b6", "name": "conjUSDC", "compiler": "0.8.12", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/19/2022"}
+{"address": "0xb239306649692435aacad0e04df3c12ad2e38d5d", "name": "conjBTC", "compiler": "0.8.12", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/19/2022"}
+{"address": "0x33e6447d94338eaf3144faa6a3c702b3e43593ec", "name": "CONJStaking", "compiler": "0.8.12", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/19/2022"}
+{"address": "0x95e5428d7b5597f46066f48235a80efc92b31d67", "name": "ConjuryToken", "compiler": "0.8.12", "balance": "0 ETH", "txcount": 2, "settings": "-", "date": "11/19/2022"}
