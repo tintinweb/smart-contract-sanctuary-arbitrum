@@ -10621,3 +10621,11 @@
 {"address": "0xba6515ba232a24f1d8ae44ab09b507da12eb72b4", "name": "ProtohedgeVault", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/19/2022"}
 {"address": "0x318c2bacfd00bcba7d7d2a578bba95c37ba864d3", "name": "ProtohedgeVault", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/19/2022"}
 {"address": "0xF4037F59C92c9893C43c2372286699430310CFe7", "name": "ZigZagVault", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 6, "settings": "", "date": "11/19/2022"}
+{"address": "0x7ba0466597ac3c5bb6029c366fd313e0d3a0e71b", "name": "ArbiCrazyPineapple", "compiler": "0.8.11", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/20/2022"}
+{"address": "0x41661c25Fc8C9caf847d2B49Df03B7B2af2FD739", "name": "TezwaltmCntrct", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 6, "settings": "-", "date": "11/20/2022"}
+{"address": "0xa05cB22635c14376544278b8f3B8B0000E37360d", "name": "MikhailFadeev_contract", "compiler": "0.8.17", "balance": "0.00001102 ETH", "txcount": 4, "settings": "-", "date": "11/20/2022"}
+{"address": "0x2Fa0C4927C57C38901E4A5A1d84fc03F06379E1b", "name": "Burnitrum", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 8, "settings": "", "date": "11/20/2022"}
+{"address": "0x50dDD0eAE0A0896f648f9E982ec65C5b8a73D02D", "name": "Comptroller", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "11/20/2022"}
+{"address": "0xa05368d0187386A63797Cb47C2b922f364bE49Ed", "name": "TEST", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 3, "settings": "", "date": "11/20/2022"}
+{"address": "0x5922400658efd6BBD05f89c7CB78367b36F6240B", "name": "TokenFix", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 4, "settings": "", "date": "11/20/2022"}
+{"address": "0x9435427F3dcA3A2e2EC4e753738240d2a3437211", "name": "TokenFix", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 3, "settings": "", "date": "11/20/2022"}
