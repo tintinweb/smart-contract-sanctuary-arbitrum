@@ -10609,3 +10609,15 @@
 {"address": "0x43d72a7c02e065ed6c8fd2d81370d1d57b9e585d", "name": "BankruptFraudMan", "compiler": "0.8.1", "balance": "0 ETH", "txcount": 40, "settings": "-", "date": "11/19/2022"}
 {"address": "0xc54f8b5022f015d5c9099e7796cd52ce2a8d63e8", "name": "Rabbitrum", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 6, "settings": "-", "date": "11/19/2022"}
 {"address": "0xCBe0C952B754B11AC9Ec8bDAEC3e9c0305E9ECD0", "name": "publicCalls", "compiler": "0.6.0", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "11/19/2022"}
+{"address": "0x061336bB63ac7CCA8C3600Fdd1671b2c0c9d6fDF", "name": "TokenFix", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "11/20/2022"}
+{"address": "0x837d1dbd93b50f6427934993f86a23b7357e47ed", "name": "ProtohedgeVault", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/20/2022"}
+{"address": "0x42bffa50bdb999f45b42b8cbb56bc81850a05c11", "name": "Blackcat", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 5, "settings": "-", "date": "11/20/2022"}
+{"address": "0x66eC1EE6c3AD04d7629Ce4a6d5d19ba99c365d29", "name": "Presale", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/20/2022"}
+{"address": "0x8bc1d5fb1c7bde69434d207d1498328e8572854e", "name": "WelcomeBackTrump", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 4, "settings": "", "date": "11/20/2022"}
+{"address": "0x1e405ad281b7a28e1c207E5Ebc961B1377BE9C22", "name": "StrategDebridgeXGateway", "compiler": "0.8.7", "balance": "0.001 ETH", "txcount": 1, "settings": "", "date": "11/20/2022"}
+{"address": "0xf4b49490f41efb6390eab7f4f7c9584828245fb2", "name": "ProtohedgeVault", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/20/2022"}
+{"address": "0x3aa2f00535a4afb3727a89c372f0023661e74691", "name": "ProtohedgeVault", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/20/2022"}
+{"address": "0x6e803b113196df38dcc97584032b4d3b9bf164d2", "name": "BARARB", "compiler": "0.4.26", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/19/2022"}
+{"address": "0xba6515ba232a24f1d8ae44ab09b507da12eb72b4", "name": "ProtohedgeVault", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/19/2022"}
+{"address": "0x318c2bacfd00bcba7d7d2a578bba95c37ba864d3", "name": "ProtohedgeVault", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/19/2022"}
+{"address": "0xF4037F59C92c9893C43c2372286699430310CFe7", "name": "ZigZagVault", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 6, "settings": "", "date": "11/19/2022"}
