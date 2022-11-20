@@ -10629,3 +10629,15 @@
 {"address": "0xa05368d0187386A63797Cb47C2b922f364bE49Ed", "name": "TEST", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 3, "settings": "", "date": "11/20/2022"}
 {"address": "0x5922400658efd6BBD05f89c7CB78367b36F6240B", "name": "TokenFix", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 4, "settings": "", "date": "11/20/2022"}
 {"address": "0x9435427F3dcA3A2e2EC4e753738240d2a3437211", "name": "TokenFix", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 3, "settings": "", "date": "11/20/2022"}
+{"address": "0xb7aa13ae30e7b42d21c698bb5d313b4f234da984", "name": "FMTLOL", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 3, "settings": "", "date": "11/20/2022"}
+{"address": "0x8b4ee9a030C50fD02c845a171064F8fCA90Cb155", "name": "VestingWallet", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/20/2022"}
+{"address": "0x770066BB3E4613Fc27ce586Bd3E06fce81Df0F45", "name": "VestingWallet2", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/20/2022"}
+{"address": "0x953bf6Efe8F93c0fD615980a3AF26Be673683aaA", "name": "VestingWallet", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/20/2022"}
+{"address": "0x9073c411F1f20E141830a683bf9BF31065C7c9C2", "name": "NitroLaeeb", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 25, "settings": "-", "date": "11/20/2022"}
+{"address": "0x746E1bA6a889511c701b91999Da633a326E674F1", "name": "MasterChef", "compiler": "0.8.11", "balance": "0 ETH", "txcount": 6, "settings": "", "date": "11/20/2022"}
+{"address": "0x386ca791A0ecD4d18159E40e09BaF0ac702E39cb", "name": "ShieldToken", "compiler": "0.8.11", "balance": "0 ETH", "txcount": 5, "settings": "", "date": "11/20/2022"}
+{"address": "0xd4c16980CC747b82898aC570cEA2dD33f0EFA92F", "name": "DOGITRUM", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/20/2022"}
+{"address": "0x814F4E70dD4671dF49f6c7Ad63462a2C64dDA5FB", "name": "MyFirstBearContract", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "11/20/2022"}
+{"address": "0x9f7a09abdb28fccb1acdce694f3f429b4ed38e71", "name": "ETH", "compiler": "0.4.26", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/20/2022"}
+{"address": "0x1F2fBbE1Ea493B49b3c12cFBE6fA291AAf9217DA", "name": "Token", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 3, "settings": "", "date": "11/20/2022"}
+{"address": "0x35d4C2e03C52aebb9Cbc64601bd53886E7d565c5", "name": "LzApp", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 7, "settings": "", "date": "11/20/2022"}
