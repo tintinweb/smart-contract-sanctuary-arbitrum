@@ -10641,3 +10641,8 @@
 {"address": "0x9f7a09abdb28fccb1acdce694f3f429b4ed38e71", "name": "ETH", "compiler": "0.4.26", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/20/2022"}
 {"address": "0x1F2fBbE1Ea493B49b3c12cFBE6fA291AAf9217DA", "name": "Token", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 3, "settings": "", "date": "11/20/2022"}
 {"address": "0x35d4C2e03C52aebb9Cbc64601bd53886E7d565c5", "name": "LzApp", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 7, "settings": "", "date": "11/20/2022"}
+{"address": "0xbede608b41b5732ea86f347d8e226e3528aadf1d", "name": "Hashing", "compiler": "0.6.11", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "11/20/2022"}
+{"address": "0xdf457d319AB510A336EAf5c2a0716877dCAce585", "name": "W3PaymentProcessorV1", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/20/2022"}
+{"address": "0x260B13D233FDE4ee9929d6E751c4d82C30AD2d67", "name": "W3ShopFactory", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/20/2022"}
+{"address": "0x8855d9d344e9f9f1c0c2ef81f1982d1e297a0fbb", "name": "sKTN", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 17, "settings": "", "date": "11/20/2022"}
+{"address": "0x4b7f8f372fee03626fb065a8acd892ec0b876603", "name": "sKTNVault", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 39, "settings": "", "date": "11/20/2022"}
