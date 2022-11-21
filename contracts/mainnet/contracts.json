@@ -10646,3 +10646,19 @@
 {"address": "0x260B13D233FDE4ee9929d6E751c4d82C30AD2d67", "name": "W3ShopFactory", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/20/2022"}
 {"address": "0x8855d9d344e9f9f1c0c2ef81f1982d1e297a0fbb", "name": "sKTN", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 17, "settings": "", "date": "11/20/2022"}
 {"address": "0x4b7f8f372fee03626fb065a8acd892ec0b876603", "name": "sKTNVault", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 39, "settings": "", "date": "11/20/2022"}
+{"address": "0x71C85F343715C406C58c1e8099F13890f2925c85", "name": "VestingWalletCliff", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/21/2022"}
+{"address": "0x2DD5B039a7c54132B8733573a28Cd9d1a5Fa5328", "name": "VestingWalletCliff", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/21/2022"}
+{"address": "0x05bc2c8310D18dB816264E95383b1C50FC32d297", "name": "VestingWalletCliff", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/21/2022"}
+{"address": "0x2fC8fafD0a1D2F9db76dB5f366E5c62f58A368e6", "name": "BequestWillV1", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "11/21/2022"}
+{"address": "0x6C291D4A89E03d01fB14ba8f468cd1f2ADD9F5a8", "name": "PriceOracleProxyETH", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "11/21/2022"}
+{"address": "0x5647C124bCbA895E22609a60FcdA77F0b8ECE0bB", "name": "SushiOracle", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/20/2022"}
+{"address": "0xAED7FE762712Bb5aCc5Ddaaf8C5ED647B0fE06e3", "name": "SushiOracle", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/20/2022"}
+{"address": "0xb3a2dcbe251B5A7720711047086C091A5267De71", "name": "SushiOracle", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/20/2022"}
+{"address": "0xac0d23fA53282a3244B0e99F1641Ae0601b564C6", "name": "SushiOracle", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/20/2022"}
+{"address": "0x0bba5fbf6b4636240157830d3626ca8833a5652f", "name": "Hashing", "compiler": "0.6.11", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "11/20/2022"}
+{"address": "0xa62d62feee7d6bd293aa621c2aedd16c430a180a", "name": "Hashing", "compiler": "0.6.11", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "11/20/2022"}
+{"address": "0x6ef885754998874c284A52B5384b1858F696F4AE", "name": "ONFTGateway", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 9, "settings": "", "date": "11/20/2022"}
+{"address": "0x3fED9AD6588957B71AF7AFD27Fc18a73d49b525c", "name": "ArbiGobblers", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 2045, "settings": "", "date": "11/20/2022"}
+{"address": "0x487660ad827f861dff2b3f8e60bab1dc30e7b173", "name": "Hashing", "compiler": "0.6.11", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "11/20/2022"}
+{"address": "0xcd6397c3da59ebc44cca8e90eebcf5354fc813cd", "name": "Hashing", "compiler": "0.6.11", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "11/20/2022"}
+{"address": "0x1123249d091e92fc375fee68e03202a33ffdba6e", "name": "W3ShopItems", "compiler": "0.8.17", "balance": "-", "txcount": 0, "settings": "", "date": "11/20/2022"}
