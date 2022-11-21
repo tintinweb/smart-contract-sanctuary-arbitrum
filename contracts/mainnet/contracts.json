@@ -10674,3 +10674,24 @@
 {"address": "0x6ff81d373eDE3F3808DB91e3Bc59C239CD68d2aD", "name": "EpochStakingRewardsRollingV2", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/21/2022"}
 {"address": "0xbe68e51f75F34D8BC06D422056af117b8c23fd54", "name": "ERC1967Proxy", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 3, "settings": "", "date": "11/21/2022"}
 {"address": "0xfdc4d10b568cbf2d6cd58c307aef651b70e56e7d", "name": "ArbitrumRolesAirdrop", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 9, "settings": "", "date": "11/21/2022"}
+{"address": "0xef113e2a609d1ec15703f63decde175ec7abf3e9", "name": "Hashing", "compiler": "0.6.11", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "11/21/2022"}
+{"address": "0xf3187dcd5093806c0c8a76e1b815d76654879f24", "name": "Hashing", "compiler": "0.6.11", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "11/21/2022"}
+{"address": "0x87cf7bd15d6e10eabb776395546c12366aa8fbea", "name": "Hashing", "compiler": "0.6.11", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "11/21/2022"}
+{"address": "0xde62c0f91cc065823e9375023c312a0965a95fba", "name": "Hashing", "compiler": "0.6.11", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "11/21/2022"}
+{"address": "0x8211f9fa3505c17e3567c10cfaae06ef5df2a05c", "name": "Hashing", "compiler": "0.6.11", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "11/21/2022"}
+{"address": "0x6c9384ea2218c05ed9c569a26f8ef2e73b926673", "name": "Hashing", "compiler": "0.6.11", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "11/21/2022"}
+{"address": "0x18d1e63bb09c1f82145895373859b686dc786498", "name": "Hashing", "compiler": "0.6.11", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "11/21/2022"}
+{"address": "0x6db0a5c6f3f3abb3b72420a536a0573eac00ece4", "name": "Counter", "compiler": "0.8.14", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/21/2022"}
+{"address": "0x2deef33b9ecf0e8194d095228d5cdd4e3cfb6cde", "name": "TargetAMB", "compiler": "0.8.14", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/21/2022"}
+{"address": "0xbb0c3406a866df39b813db45ef93652a30e91e2f", "name": "Hashing", "compiler": "0.6.11", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "11/21/2022"}
+{"address": "0xa3f201172dd8bd713c95dd56d451c56b007d011c", "name": "Hashing", "compiler": "0.6.11", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "11/21/2022"}
+{"address": "0x36773afd5c09d6026f7f130e042f5f4b6f72568c", "name": "Hashing", "compiler": "0.6.11", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "11/21/2022"}
+{"address": "0x5686a9Df40780735f544b5ef2dfA5736884Ec4a4", "name": "DefiiFactory", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/21/2022"}
+{"address": "0x54bF7bA8353AB84Ee22934DAf3c809e1A7ab5Fb0", "name": "RadiantArbitrumUsdt", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "11/21/2022"}
+{"address": "0x1E68c60DdAC9836552f95bC5681f578cCC420Dbf", "name": "DefiiFactory", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/21/2022"}
+{"address": "0x173bf1BB068Fd3e2c331faABB06C8dE7E00e034d", "name": "RadiantArbitrumUsdc", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "11/21/2022"}
+{"address": "0xb3d7f6da9753c9292d9bbaff045b425e9dc46a0b", "name": "LightClient", "compiler": "0.8.14", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/21/2022"}
+{"address": "0x4d2448c45ac4909cc9fb845b573fff7e6095af23", "name": "ARB_ROLE_AIRDROP", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/21/2022"}
+{"address": "0x04D28F57bD9E47723F17b03e86C0d7e54De9821c", "name": "JumpRateModelV2", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/21/2022"}
+{"address": "0x00005ea00ac477b1030ce78506496e8c2de24bf5", "name": "SeaDrop", "compiler": "0.8.17", "balance": "-", "txcount": 0, "settings": "", "date": "11/21/2022"}
+{"address": "0xce2ebb1224e2f205b1d0d717b6f15aea0e4c69ed", "name": "BarnGovernancePolicy", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/21/2022"}
