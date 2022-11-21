@@ -10665,3 +10665,12 @@
 {"address": "0x272eab6862a672af70863063af59ddf5fd352c7c", "name": "ArbitrumRolesAirdrop", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/21/2022"}
 {"address": "0xf4557257dD26bc8C371bC818a7B35358BC9B59Bd", "name": "LzApp", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 3, "settings": "", "date": "11/21/2022"}
 {"address": "0x9AbCcca4b0f6AB62bCFD20A934f301aC8dB074bb", "name": "SpaceBuffer", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 4, "settings": "", "date": "11/21/2022"}
+{"address": "0xb0b9696a7b0f2e508c8027cb1f6be664e5afb25b", "name": "Receiver", "compiler": "0.8.17", "balance": "-", "txcount": 0, "settings": "", "date": "11/21/2022"}
+{"address": "0xfa5de8c86966a6514ec44220160e855c5b0f07f3", "name": "Executor", "compiler": "0.8.17", "balance": "-", "txcount": 0, "settings": "", "date": "11/21/2022"}
+{"address": "0x02f881f6e8b3351452223e44eade4ca2ea555b59", "name": "Grand", "compiler": "0.4.26", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/21/2022"}
+{"address": "0xf45539401bfffa38287ad0eaf11217172ae702cf", "name": "StrategySushiswap", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "11/21/2022"}
+{"address": "0x3710021b2a87f639b8d50e20b038561986ec5ee0", "name": "SETKAN", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 13, "settings": "-", "date": "11/21/2022"}
+{"address": "0xB8B238bBa16a3f773fb7fE61213bb94371fc6b01", "name": "RepayFromLadleModule", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/21/2022"}
+{"address": "0x6ff81d373eDE3F3808DB91e3Bc59C239CD68d2aD", "name": "EpochStakingRewardsRollingV2", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/21/2022"}
+{"address": "0xbe68e51f75F34D8BC06D422056af117b8c23fd54", "name": "ERC1967Proxy", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 3, "settings": "", "date": "11/21/2022"}
+{"address": "0xfdc4d10b568cbf2d6cd58c307aef651b70e56e7d", "name": "ArbitrumRolesAirdrop", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 9, "settings": "", "date": "11/21/2022"}
