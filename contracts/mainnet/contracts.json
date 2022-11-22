@@ -10727,3 +10727,13 @@
 {"address": "0xfb156fb6f94100c346bb58053eac0d1acfc49b37", "name": "CoinToken", "compiler": "0.4.24", "balance": "0 ETH", "txcount": 104, "settings": "", "date": "11/22/2022"}
 {"address": "0xd5A7eDB913eae552e341b3bA0704CB2F6971BF7b", "name": "Proteus", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/22/2022"}
 {"address": "0x0cb736ea2AD425221c368407CAAFDD323b7bDc83", "name": "LiquidityPoolProxy", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "11/22/2022"}
+{"address": "0xf75b4daf7ab7642110da1975ed4649ad45fefa94", "name": "FIALKA", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 10, "settings": "-", "date": "11/22/2022"}
+{"address": "0xCfc00E7DeD54c0FFc61D38A3e188BD60ff17d733", "name": "StanderERC20", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 4, "settings": "", "date": "11/22/2022"}
+{"address": "0x4d76Bc7b9629cC6Bdefec6118eA5bd3A63a940d9", "name": "LimitManager", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "11/22/2022"}
+{"address": "0x1d8616e6d8a770ee99871e9f64e0234f50a39d9b", "name": "LevelManager", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "11/22/2022"}
+{"address": "0xf7a2bb5C3592edE90cf33f9832529404D650CF8c", "name": "OkseCard", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 4, "settings": "", "date": "11/22/2022"}
+{"address": "0xfd2ba41d013c1249b4b11c9f2d50a4d65448652c", "name": "Forge", "compiler": "0.5.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/22/2022"}
+{"address": "0x83f5fdbe2c63dfa6bad455585ad3e8e43920b7ea", "name": "Dollar", "compiler": "0.5.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/22/2022"}
+{"address": "0xA071FaDCc90bBEe6c05a73C357C3aCFB844B4216", "name": "Bebop", "compiler": "0.8.1", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/22/2022"}
+{"address": "0x9876400f9edad9fb836df55b780a5fd6ff4189dd", "name": "GranderDron", "compiler": "0.4.26", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/22/2022"}
+{"address": "0x8396f3d25d07531a80770Ce3DEA025932C4953f7", "name": "BeefyVaultV7Factory", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/22/2022"}
