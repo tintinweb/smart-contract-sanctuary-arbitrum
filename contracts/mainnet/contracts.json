@@ -10695,3 +10695,26 @@
 {"address": "0x04D28F57bD9E47723F17b03e86C0d7e54De9821c", "name": "JumpRateModelV2", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/21/2022"}
 {"address": "0x00005ea00ac477b1030ce78506496e8c2de24bf5", "name": "SeaDrop", "compiler": "0.8.17", "balance": "-", "txcount": 0, "settings": "", "date": "11/21/2022"}
 {"address": "0xce2ebb1224e2f205b1d0d717b6f15aea0e4c69ed", "name": "BarnGovernancePolicy", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/21/2022"}
+{"address": "0x36B0139A88f7750E402747425EC8B78380db09A0", "name": "NitroPool", "compiler": "0.7.6", "balance": "-", "txcount": 0, "settings": "", "date": "11/22/2022"}
+{"address": "0x5eaa5326f9c6d2B2148A9D3eCB93644A1358D1da", "name": "MerkleDrop", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "11/22/2022"}
+{"address": "0x9b29602F7E6DAea9Ddb6252c8383DB958d928B4e", "name": "TroveManager", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/22/2022"}
+{"address": "0x02Ab812E7a0fA027632e410cA05940b1045605eE", "name": "ArbitrumBirdsContract", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 79, "settings": "", "date": "11/21/2022"}
+{"address": "0x63Bc964Cb1D53937eC08961649D1b0Ef5dFCBc51", "name": "BattleFrens", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "11/21/2022"}
+{"address": "0xD08aF168bd003A231D1ebD5Fc19674dbd9035E7c", "name": "SmoloveActionsVault", "compiler": "0.8.11", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/21/2022"}
+{"address": "0x1f1fC659E69318a5F3AAB5D69AaAd9C9A6245C9a", "name": "VaultV0", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 5, "settings": "", "date": "11/21/2022"}
+{"address": "0xDDD4970f442Caf8FD03945923E6D86722A2BA793", "name": "BattleflyMerkleDistributor", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 236, "settings": "", "date": "11/21/2022"}
+{"address": "0x8394D02B11CeF7577489db7492D5CC74862a94f9", "name": "ConstAddressDeployer", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/21/2022"}
+{"address": "0x355E892176C39D3b384387985E4f6AB6671B3742", "name": "EpochStakingRewardsRollingV2", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/21/2022"}
+{"address": "0x976607520da798576e89dd534f5b35acbc442f34", "name": "BUFFALO", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 2, "settings": "-", "date": "11/21/2022"}
+{"address": "0x2cD2f9D84C6AF96fE8ad53F0DB303d879ba6D16e", "name": "FlywheelEmissions", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/21/2022"}
+{"address": "0x766AbF229Ea28f6816525cDFEA9168E6480aAFD5", "name": "GFlyStaking", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/21/2022"}
+{"address": "0x8B5c3df4562D35987bA24d3C2b343aC3911Df591", "name": "GFlyLPStaking", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/21/2022"}
+{"address": "0x86d643b7f4a2a6772A4B1bFBee5EcE46A1DE3dfD", "name": "VestedGFly", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 129, "settings": "", "date": "11/21/2022"}
+{"address": "0x872bAD41CFc8BA731f811fEa8B2d0b9fd6369585", "name": "GFly", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 417, "settings": "", "date": "11/21/2022"}
+{"address": "0xbD926c35F3f76C4423c403041c733CD575500B3E", "name": "BattleflyFoundersFlywheelVault", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/21/2022"}
+{"address": "0x870bc93BF2Ba87E5C1fc055199F3e05EA756427F", "name": "SmolverseFlywheelVault", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/21/2022"}
+{"address": "0x80b1E5ceC6ED9a35bf57d1cB67536b24a50e173C", "name": "BattleflyHarvesterEmissions", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/21/2022"}
+{"address": "0x4a7Da377EBa65EF962088Efce25aBbB1F4feeA12", "name": "BattleflyFlywheelVaultV02", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/21/2022"}
+{"address": "0x0637782C07c145CaCfe207fc372c678390360C6F", "name": "DigistratsFlywheelVault", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/21/2022"}
+{"address": "0x230F7FF427950bdc753C0c342B3e1C9D09F0FB37", "name": "BattleflyFounderVaultV08", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/21/2022"}
+{"address": "0xcBdefaEd18ec8ad890707D7362e5C8005D3DF3D9", "name": "BattleflyAtlasStakerV02", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/21/2022"}
