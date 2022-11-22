@@ -10718,3 +10718,12 @@
 {"address": "0x0637782C07c145CaCfe207fc372c678390360C6F", "name": "DigistratsFlywheelVault", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/21/2022"}
 {"address": "0x230F7FF427950bdc753C0c342B3e1C9D09F0FB37", "name": "BattleflyFounderVaultV08", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/21/2022"}
 {"address": "0xcBdefaEd18ec8ad890707D7362e5C8005D3DF3D9", "name": "BattleflyAtlasStakerV02", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/21/2022"}
+{"address": "0xB4f053F8D05f4Bd260E1BC101eB65bb817788f8b", "name": "EpochStakingRewardsRollingV2", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/22/2022"}
+{"address": "0x2ce353ea9a341f67E7C4A5F391d93123aFb2D8ac", "name": "Referral", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 41, "settings": "", "date": "11/22/2022"}
+{"address": "0x00207cdc7b29c9ed857dace7311c713a054185dd", "name": "Nuum", "compiler": "0.4.26", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/22/2022"}
+{"address": "0xA65e15Eff98BB57c15935948A0dCA190651F1EF8", "name": "LayerZeroUA", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/22/2022"}
+{"address": "0x3810c00f081fca95f7535a7801a43283aab42108", "name": "BatchTransferGasFee", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/22/2022"}
+{"address": "0x79B6eE65Fc1466b5fD95E20650dF740c085C6c2a", "name": "ShortsTrackerTimelock", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 36, "settings": "", "date": "11/22/2022"}
+{"address": "0xfb156fb6f94100c346bb58053eac0d1acfc49b37", "name": "CoinToken", "compiler": "0.4.24", "balance": "0 ETH", "txcount": 104, "settings": "", "date": "11/22/2022"}
+{"address": "0xd5A7eDB913eae552e341b3bA0704CB2F6971BF7b", "name": "Proteus", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/22/2022"}
+{"address": "0x0cb736ea2AD425221c368407CAAFDD323b7bDc83", "name": "LiquidityPoolProxy", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "11/22/2022"}
