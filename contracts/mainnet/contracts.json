@@ -10781,3 +10781,27 @@
 {"address": "0xaEC6610C9069d6b7d604A5b0B3c1f6661489d0e1", "name": "FillQuoteTransformer", "compiler": "0.6.12", "balance": "-", "txcount": 0, "settings": "", "date": "11/22/2022"}
 {"address": "0xF471D32cb40837bf24529FCF17418fC1a4807626", "name": "ArbitrumBridgeAdapter", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/22/2022"}
 {"address": "0x2fda1305792f7e8f663109eA18F419EaCeff55b1", "name": "BatchClaim", "compiler": "0.8.11", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "11/22/2022"}
+{"address": "0x70E206305Ce5bE5f9d2a35D7b52c6D1eDC492C68", "name": "WaveFactory", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/23/2022"}
+{"address": "0x8D6792fd7D897Cd0c052ef7d449adf8Fb6f026ab", "name": "MDOB", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 4, "settings": "-", "date": "11/23/2022"}
+{"address": "0x98858E08d119b78A34176E7D2DDF65Ee85B58809", "name": "SimpleCounter", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/23/2022"}
+{"address": "0x26a7018E78a03d9a874F4082B6fcFc4Eb4449690", "name": "CounterRelayContext", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/23/2022"}
+{"address": "0xb641E1b843954540BbB8AeE220552a5EE200BDA7", "name": "CounterFeeCollector", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/23/2022"}
+{"address": "0x68b3c35a984039cdf68d007a7a4a9687a29457a2", "name": "testContract", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "11/23/2022"}
+{"address": "0x32272D27E656446D64C880Fa0d543b9c3DD9B5bC", "name": "LiquidityPoolHop2", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/23/2022"}
+{"address": "0x245BA1e19e7a15dd903B6b9B2705d4BF308F481c", "name": "LiquidityPoolHop1", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/23/2022"}
+{"address": "0x2AbAd74605Eff3D0C49FD70cD230D974Afe2D206", "name": "LibLiquidity", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/23/2022"}
+{"address": "0xeCF082a11278a9Bb3C5881Dad3Eb930812E1df66", "name": "OrderBook", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/23/2022"}
+{"address": "0x84cc90f92fed410678d79f7e691a9eb34390739a", "name": "OracleV1", "compiler": "0.5.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/23/2022"}
+{"address": "0x652dd9caa2bc1cb78a38d24c1bac82305d184ff9", "name": "FAKDAODEBIL", "compiler": "0.4.26", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/23/2022"}
+{"address": "0x76aba961385f6d67a86408ad6ce0eb823ebc378c", "name": "PoolV1", "compiler": "0.5.17", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "11/23/2022"}
+{"address": "0x4ffc016f68e05c8d25cb1b57a400fb11dffbd1f2", "name": "ForgeV2", "compiler": "0.5.17", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "11/23/2022"}
+{"address": "0x44dF096D2600C6a6db77899dB3DE3AeCff746cb8", "name": "WooCrossChainRouter", "compiler": "0.8.14", "balance": "0 ETH", "txcount": 15, "settings": "", "date": "11/23/2022"}
+{"address": "0xc70b4683a4796d05aee266284161dfb1002de172", "name": "ForgeV1", "compiler": "0.5.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/23/2022"}
+{"address": "0x7a8807f48aa552249d946809692cf919c648aad3", "name": "Pool", "compiler": "0.5.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/23/2022"}
+{"address": "0xD7C438734E2007c0d8ae69d1669a73f5a73f99B6", "name": "DCDInu", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 86, "settings": "", "date": "11/23/2022"}
+{"address": "0x045d5895ef65d80242e5c6aeb500247f738ab542", "name": "Pool", "compiler": "0.5.17", "balance": "0 ETH", "txcount": 295, "settings": "", "date": "11/23/2022"}
+{"address": "0x676d52480e8f9cf6320be6212c1e0ebdf559de71", "name": "Oracle", "compiler": "0.5.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/23/2022"}
+{"address": "0x054dcaa740ee3a9c192a9917ecb178c433eceb96", "name": "Furnace", "compiler": "0.5.17", "balance": "0 ETH", "txcount": 276, "settings": "", "date": "11/23/2022"}
+{"address": "0xe018c227bc84e44c96391d3067fab5a9a46b7e62", "name": "Dollar", "compiler": "0.5.17", "balance": "0 ETH", "txcount": 106, "settings": "", "date": "11/23/2022"}
+{"address": "0xd7dce3df6e7f4099d91d15a726e49a348c362146", "name": "Pool", "compiler": "0.5.17", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "11/23/2022"}
+{"address": "0xa9c678ac204ac68b23fc019ef831ec215f1d69c1", "name": "Oracle", "compiler": "0.5.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/23/2022"}
