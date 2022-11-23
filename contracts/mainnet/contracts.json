@@ -10828,3 +10828,26 @@
 {"address": "0x1f076a800005c758a505e759720eb6737136e893", "name": "WooV2Adapter", "compiler": "0.6.9", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/23/2022"}
 {"address": "0x07a9874152f8ccc83d1cdff9f39c9750e11c2095", "name": "KeyFinder", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "11/23/2022"}
 {"address": "0x6f81366a2fb4d6b8c492210e3ecd6554cf122532", "name": "KeyFinder", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "11/23/2022"}
+{"address": "0x0F29e780a47eE0F302de68D68F8B1ff73B7382c2", "name": "UniswapInterfaceMulticall", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/23/2022"}
+{"address": "0x8dca34f355704BB09845ce924796482fa6339C16", "name": "AaveLinearPoolRebalancer", "compiler": "0.7.1", "balance": "-", "txcount": 0, "settings": "", "date": "11/23/2022"}
+{"address": "0x77f0e64Faf0FDeAF0b632919214ba142f0478424", "name": "AaveLinearPool", "compiler": "0.7.1", "balance": "-", "txcount": 0, "settings": "", "date": "11/23/2022"}
+{"address": "0x22be81ecAe87F1Ae1db9e17d6B072f846e07FC45", "name": "MockStaticAToken", "compiler": "0.7.1", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/23/2022"}
+{"address": "0x1B57f637Ce3408f1f834b0b70f9A595b062DAea7", "name": "AaveLinearPoolFactory", "compiler": "0.7.1", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "11/23/2022"}
+{"address": "0x0AAAFE4278AA9D4514552f2743cBFa5a5Bdce04b", "name": "AccessControlledOffchainAggregator", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 5, "settings": "", "date": "11/23/2022"}
+{"address": "0xcc21de60a7e23bd7819246576399870134a56a86", "name": "swanone", "compiler": "0.8.1", "balance": "0 ETH", "txcount": 16, "settings": "", "date": "11/23/2022"}
+{"address": "0xdb089cd4017e3b9C34eef96878E7c66159A21Ea4", "name": "AaveVaultUpgradable", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "11/23/2022"}
+{"address": "0x935e909fA02f75180B28C52D396022911Fcb1892", "name": "AirdropERC20", "compiler": "0.8.12", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/23/2022"}
+{"address": "0x0cc1F2F6B2B6bb24b07C6e6131A52404f0F7feDD", "name": "AirdropERC721", "compiler": "0.8.12", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/23/2022"}
+{"address": "0xE8dd2Ff0212F86d3197b4AfDC6dAC6ac47eb10aC", "name": "AirdropERC1155", "compiler": "0.8.12", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/23/2022"}
+{"address": "0x710BaA1E42DDc0bcc972920601B0236B1BE600a3", "name": "AirdropERC20Claimable", "compiler": "0.8.12", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/23/2022"}
+{"address": "0x227549075404Eb458452E8bD3bF6638DfE6a4764", "name": "AirdropERC721Claimable", "compiler": "0.8.12", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/23/2022"}
+{"address": "0x4616fC6060D6d6176F49Edc6bb6975197F0D2e4A", "name": "AirdropERC1155Claimable", "compiler": "0.8.12", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/23/2022"}
+{"address": "0x1B3e11E78D082eF0acA690d0B918aEbb216E20E5", "name": "QuixoticLaunchpadERC721", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 640, "settings": "-", "date": "11/23/2022"}
+{"address": "0xa0f4bed10230d27e3624febd217e03e6d87cfcc8", "name": "BatchTransferV2", "compiler": "0.8.14", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "11/23/2022"}
+{"address": "0xc18687DD5c7ef73d0e7870950eee3CD3585C98D0", "name": "lotus", "compiler": "0.8.1", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "11/23/2022"}
+{"address": "0xb3fcaeca95e83f5eabd5852a7d76c7b5f99d505e", "name": "NeanderSmol", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/23/2022"}
+{"address": "0xd163ee3be8e85333fa6ef3313414e479cf65a7e4", "name": "FixedPriceOracle", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "11/23/2022"}
+{"address": "0x761eb310832cc545158988fd1cb6152e5c125034", "name": "NeanderSmol", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/23/2022"}
+{"address": "0x0EBA9b4844B9381b84376C2D98d3E8E1963F63d4", "name": "AaveV3ERC4626Reinvest", "compiler": "0.8.14", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/23/2022"}
+{"address": "0xd6Dd09ccc12038F3F66C373956E42f01Aa32C05f", "name": "QuixoticLaunchpadERC721", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 5, "settings": "-", "date": "11/23/2022"}
+{"address": "0xe63bc441e37d1eb31f1fafb6f30ade618b730e42", "name": "FixedPriceOracle", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/23/2022"}
