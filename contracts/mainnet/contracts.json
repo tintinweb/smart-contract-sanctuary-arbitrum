@@ -10759,3 +10759,25 @@
 {"address": "0x45F420996B02bf4A0858420E706C5b3591357d8e", "name": "OwnableAccountWhitelistFactory", "compiler": "0.8.16", "balance": "0 ETH", "txcount": 8, "settings": "", "date": "11/22/2022"}
 {"address": "0xb5e56CC3d2e38e53b1166175C59e921A37cDC1E2", "name": "PoolRecoveryHelper", "compiler": "0.7.1", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/22/2022"}
 {"address": "0x2e63483e4f0412b6a7f3397f287a9350c7b6fda0", "name": "TULIPAN", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "11/22/2022"}
+{"address": "0x750b9a8a897ad75d7d1873099cfab0bd01036a56", "name": "Furnace", "compiler": "0.5.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/23/2022"}
+{"address": "0x53ec54521050a6786e078bf5ffa526c0d7bd55a9", "name": "Dollar", "compiler": "0.5.17", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "11/23/2022"}
+{"address": "0xf19cc9868d9Ae098aE85ae9d7F8148Ed206cF4de", "name": "SushiExchange", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 3, "settings": "", "date": "11/23/2022"}
+{"address": "0x858883641bbd9a18ae98a64947c3cb43db67c7ef", "name": "FlashBotsUniswapQuery", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/23/2022"}
+{"address": "0x94650C167FE8D54aC48F96436Bed5decB69FF758", "name": "XSwapper", "compiler": "0.8.2", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/23/2022"}
+{"address": "0x4B2D6B380606F8fbDFa27d255C225e27e0ca4c65", "name": "SushiExchange", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 5, "settings": "", "date": "11/23/2022"}
+{"address": "0xf8EF04b39F3E881e8e49f58d8D7A60Cd0E5717E5", "name": "TheInvestorNetwork", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 81, "settings": "-", "date": "11/23/2022"}
+{"address": "0x925c78cc2c047A0E31dCE117aaCa215673814386", "name": "BattleFrens", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 5, "settings": "", "date": "11/23/2022"}
+{"address": "0x49EA3188E24326926300985621b05b6D9ABDAA6f", "name": "BattleFrens", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 4, "settings": "", "date": "11/23/2022"}
+{"address": "0x92A15E562809eD4a93F3E3a04C3eC2ac709D2209", "name": "BattleFrens", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 3, "settings": "", "date": "11/23/2022"}
+{"address": "0xE51E770844915b229e4912F2ed8De5B587A7Aafa", "name": "BattleFrens", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/23/2022"}
+{"address": "0xfa48a9b81a6d467217897875dfddf1e2c134aec2", "name": "FlammeumPresale", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "11/22/2022"}
+{"address": "0x0375088737f0f34E7E07A34c2a79860581C10A74", "name": "BattleFrens", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 6, "settings": "", "date": "11/22/2022"}
+{"address": "0x42e39867b4a127533a22b03fa78f2520c4da486d", "name": "presale", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "11/22/2022"}
+{"address": "0xA664ceDc708413Bd85aFb3bAc8C188A563fA3032", "name": "BatchClaim", "compiler": "0.8.11", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/22/2022"}
+{"address": "0x40d9A6b842e2fe20F94983f783607ffbCFe3F67D", "name": "BaseV2VoterInterface", "compiler": "0.8.11", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/22/2022"}
+{"address": "0xc175F35C595ab9097548FEd5C4b7133473f65Df2", "name": "BaseV2PairInterface", "compiler": "0.8.11", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/22/2022"}
+{"address": "0xcA55a01BdE71307B47295732f20f4c5942A5Ba01", "name": "T1Contract", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 4, "settings": "", "date": "11/22/2022"}
+{"address": "0x4DE3364B2579e161e37a3a0C63993074dd417864", "name": "BatchClaim", "compiler": "0.8.11", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/22/2022"}
+{"address": "0xaEC6610C9069d6b7d604A5b0B3c1f6661489d0e1", "name": "FillQuoteTransformer", "compiler": "0.6.12", "balance": "-", "txcount": 0, "settings": "", "date": "11/22/2022"}
+{"address": "0xF471D32cb40837bf24529FCF17418fC1a4807626", "name": "ArbitrumBridgeAdapter", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/22/2022"}
+{"address": "0x2fda1305792f7e8f663109eA18F419EaCeff55b1", "name": "BatchClaim", "compiler": "0.8.11", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "11/22/2022"}
