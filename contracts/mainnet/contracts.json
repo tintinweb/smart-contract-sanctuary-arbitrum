@@ -10851,3 +10851,18 @@
 {"address": "0x0EBA9b4844B9381b84376C2D98d3E8E1963F63d4", "name": "AaveV3ERC4626Reinvest", "compiler": "0.8.14", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/23/2022"}
 {"address": "0xd6Dd09ccc12038F3F66C373956E42f01Aa32C05f", "name": "QuixoticLaunchpadERC721", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 5, "settings": "-", "date": "11/23/2022"}
 {"address": "0xe63bc441e37d1eb31f1fafb6f30ade618b730e42", "name": "FixedPriceOracle", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/23/2022"}
+{"address": "0x7ff1ccB68BdbA741650f55218B53098B34a933E5", "name": "Bebop", "compiler": "0.8.1", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/24/2022"}
+{"address": "0xc7679E9E8198E6020D9b6854a066A368e4D2aa1a", "name": "AssetSwapper", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/24/2022"}
+{"address": "0x21ffe299367849bf8e1b77f4abd0f0c0886b2851", "name": "StrategyConvexL2", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 5, "settings": "", "date": "11/24/2022"}
+{"address": "0x753909b6198010933F50e1a05B0DA43693226ff3", "name": "RevealStaking", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/24/2022"}
+{"address": "0xfdCC8b05BF87F0F9158cC959e3b428B1995705C7", "name": "BattleflyGame", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/24/2022"}
+{"address": "0x54d8555E0E252472684eF924a45ce255Ba0f363C", "name": "ERC20BalanceOfHook", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 8, "settings": "", "date": "11/24/2022"}
+{"address": "0x85d100a03B0Cc659102B356e75C25a9B3d93777e", "name": "Address", "compiler": "0.8.1", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "11/24/2022"}
+{"address": "0x000000000000AAeB6D7670E522A718067333cd4E", "name": "OperatorFilterRegistry", "compiler": "0.8.17", "balance": "-", "txcount": 0, "settings": "", "date": "11/24/2022"}
+{"address": "0xe745640CefB6d3926104917F3B1CC6ae8583281B", "name": "SimpleTokenTimelock", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/23/2022"}
+{"address": "0x7009d5557162d5d7c70b1c814753062795be6fd8", "name": "Locker", "compiler": "0.8.12", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "11/23/2022"}
+{"address": "0x68e9258b4357E29b5412eEf3Fc729c0Fa66FEf6c", "name": "Address", "compiler": "0.8.1", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "11/23/2022"}
+{"address": "0x5713c39535b0133DE665750540b2ecb8af12b283", "name": "esKTN", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "11/23/2022"}
+{"address": "0xaF96Db26c9597030C4667597Ead1767D2321531E", "name": "esKTNVault", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 30, "settings": "", "date": "11/23/2022"}
+{"address": "0x859b10846cCdA4D5d371B9E7e4c04E49Eb0a33C3", "name": "AovAdminMinter", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "11/23/2022"}
+{"address": "0x4d2191ab7573e52aa02e7f9d5548606a2a2ebb86", "name": "Arbys", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 16, "settings": "-", "date": "11/23/2022"}
