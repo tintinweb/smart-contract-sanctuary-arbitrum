@@ -10893,3 +10893,9 @@
 {"address": "0xB1518629B54F3b6882231A8Fa1E7B2C358d0D45c", "name": "LiquidityLocker", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/24/2022"}
 {"address": "0x0Dc96f38980144ebFfe745706DFeE92622dba829", "name": "AtlanticStraddle", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 5, "settings": "", "date": "11/24/2022"}
 {"address": "0x8D9170C9dbFcD3b8a4028c823E19DE5C55453c51", "name": "CBridgeProtocolV2", "compiler": "0.8.16", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/24/2022"}
+{"address": "0x544ae02adeec5060ff7e806994f967032fdfbdbc", "name": "blackfriday", "compiler": "0.8.16", "balance": "0 ETH", "txcount": 25, "settings": "-", "date": "11/24/2022"}
+{"address": "0x97207B095e4D5C9a6e4cfbfcd2C3358E03B90c4A", "name": "AuthorizerAdaptorEntrypoint", "compiler": "0.7.1", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/24/2022"}
+{"address": "0x6cb01c42f4ce63e491ac0db0822a13f8d58275a2", "name": "ArbitrumBundleGuildRoles", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 3, "settings": "-", "date": "11/24/2022"}
+{"address": "0xa95b85D526C02b611c512F72bD474839af943086", "name": "godtrum", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 37, "settings": "-", "date": "11/24/2022"}
+{"address": "0x1ef6e0e60ca5224efdfc4a6f4bf732ea7dfae34b", "name": "ArbitrumGuildRolesTokenBundle", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "11/24/2022"}
+{"address": "0x92d84b0687361cd0753E95f5A8746fbaf42E9135", "name": "VaultManagerLiquidationBoost", "compiler": "0.8.12", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/24/2022"}
