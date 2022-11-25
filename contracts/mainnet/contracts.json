@@ -10899,3 +10899,36 @@
 {"address": "0xa95b85D526C02b611c512F72bD474839af943086", "name": "godtrum", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 37, "settings": "-", "date": "11/24/2022"}
 {"address": "0x1ef6e0e60ca5224efdfc4a6f4bf732ea7dfae34b", "name": "ArbitrumGuildRolesTokenBundle", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "11/24/2022"}
 {"address": "0x92d84b0687361cd0753E95f5A8746fbaf42E9135", "name": "VaultManagerLiquidationBoost", "compiler": "0.8.12", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/24/2022"}
+{"address": "0x49852d39f3573ea11f9853ad5b7bad720c41e755", "name": "eskaDAo", "compiler": "0.4.26", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "11/25/2022"}
+{"address": "0xdd121e1842cb5f0185ae2fda7e74bb1b1c772123", "name": "kostyaDAO", "compiler": "0.4.26", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "11/25/2022"}
+{"address": "0x215adea97396fa99975c2ed7b23f9f5bd9c4b84c", "name": "mishlem", "compiler": "0.4.26", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "11/25/2022"}
+{"address": "0x431f3eb9b0bef35f7ac18afdee0b06edb770f257", "name": "vikimiki", "compiler": "0.4.26", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "11/25/2022"}
+{"address": "0x27684e50f3f9250daa9c67cfc5d874df5e865d7a", "name": "LolaChungus", "compiler": "0.7.6", "balance": "0.011912572828578473 ETH", "txcount": 24, "settings": "", "date": "11/25/2022"}
+{"address": "0x9801d11c0ed5bdadcc30b37bd1a99e3d06022503", "name": "Disperse", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "11/25/2022"}
+{"address": "0x9f60d77E7B9B7d81CFbF0Afaec95ecC5F21b7036", "name": "VestaEIR", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/25/2022"}
+{"address": "0x45813908b8D4Fe966824963f59F47A4e8fFAAd47", "name": "VestaInterestManager", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/25/2022"}
+{"address": "0x8a74Fc187A66Ee4D9aFB4D7aD90b312B95E7a2E1", "name": "SafetyVault", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/25/2022"}
+{"address": "0x93eb60431E74C328ACE4E5dAC89B9e45554104f3", "name": "TokenTimelock", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/25/2022"}
+{"address": "0x641D6E0385c5940F5D9Fc00983B8D1621acd6E1F", "name": "GMI", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 63, "settings": "", "date": "11/25/2022"}
+{"address": "0x67b7A30017a8C4A9E7d5a2c63276eb37b2599f17", "name": "GMI", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 5, "settings": "", "date": "11/25/2022"}
+{"address": "0xAe25f6F7FD09cfaa9842b1f4139453D62671E74A", "name": "GMI", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 6, "settings": "", "date": "11/24/2022"}
+{"address": "0x4672F4327A099aE5E4BFC42cdF0c2a400535d091", "name": "CamelotRouter", "compiler": "0.6.6", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "11/24/2022"}
+{"address": "0xdd8E1a81bf38D7575D74f2DB9ee1E79D34D8a453", "name": "CamelotRouter", "compiler": "0.6.6", "balance": "0 ETH", "txcount": 3, "settings": "", "date": "11/24/2022"}
+{"address": "0xEeffa6Fd3034cd19a039B38DB00Bf76E0E183679", "name": "TokensFacet", "compiler": "0.8.10", "balance": "-", "txcount": 0, "settings": "", "date": "11/24/2022"}
+{"address": "0x09Ec1936a5E28bAf3008d13cC8cdaE7A4FAc1aBe", "name": "ShopFacet", "compiler": "0.8.10", "balance": "-", "txcount": 0, "settings": "", "date": "11/24/2022"}
+{"address": "0xBdD62AcdC90eB635271b963023cDe7B5BF32eB96", "name": "PriceFacet", "compiler": "0.8.10", "balance": "-", "txcount": 0, "settings": "", "date": "11/24/2022"}
+{"address": "0xE84FC9C09d66EDCeF93C1806F95C3c84845A9E04", "name": "AdminFacet", "compiler": "0.8.10", "balance": "-", "txcount": 0, "settings": "", "date": "11/24/2022"}
+{"address": "0x4c9018D6fceeC3A9836D2BBa02A4407e7AaBD86f", "name": "ShopFacet", "compiler": "0.8.10", "balance": "-", "txcount": 0, "settings": "", "date": "11/24/2022"}
+{"address": "0x511E4610d92f316FEb086A8A2BCAa5B67fF6B657", "name": "PriceFacet", "compiler": "0.8.10", "balance": "-", "txcount": 0, "settings": "", "date": "11/24/2022"}
+{"address": "0x86de8228f05624178f1aa759bc65d4e9b12bcb63", "name": "Yodus", "compiler": "0.7.4", "balance": "0 ETH", "txcount": 125, "settings": "-", "date": "11/24/2022"}
+{"address": "0xECbe7694599cF3C65038cFEc3eCC926651456272", "name": "InitializerFacet", "compiler": "0.8.10", "balance": "-", "txcount": 0, "settings": "", "date": "11/24/2022"}
+{"address": "0x3db32447877eFcC19f9a31c55e3Eb62dcFc7B6Cc", "name": "TokensFacet", "compiler": "0.8.10", "balance": "-", "txcount": 0, "settings": "", "date": "11/24/2022"}
+{"address": "0xE86d66152Da7d7a6447F7FE1c6209D4d6e25B369", "name": "Hoodies", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 2, "settings": "-", "date": "11/24/2022"}
+{"address": "0x514cedb54b511029072b120c59ce54020c46b685", "name": "YodusToken", "compiler": "0.8.12", "balance": "0 ETH", "txcount": 3, "settings": "-", "date": "11/24/2022"}
+{"address": "0xaD6E96fF641af53CCe4205DAfeCb8e3aCD0490E3", "name": "OwnershipFacet", "compiler": "0.8.10", "balance": "-", "txcount": 0, "settings": "", "date": "11/24/2022"}
+{"address": "0x51d21E284392bb7f652a47A6fEFf514071673B3e", "name": "DiamondLoupeFacet", "compiler": "0.8.10", "balance": "-", "txcount": 0, "settings": "", "date": "11/24/2022"}
+{"address": "0x429dbdE7913c0Ed51E4B21163760B92eE66Ff5f5", "name": "DiamondCutFacet", "compiler": "0.8.10", "balance": "-", "txcount": 0, "settings": "", "date": "11/24/2022"}
+{"address": "0x5245f59129B8f80D39565B89d4274a2171Acdfa4", "name": "AdminFacet", "compiler": "0.8.10", "balance": "-", "txcount": 0, "settings": "", "date": "11/24/2022"}
+{"address": "0xBa17c40d3fb8607Cf16FC51B1FB4b263C00E001E", "name": "BattleflyGameV2", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/24/2022"}
+{"address": "0x9b4f475bbb9feb15b811c28e3c1ab3444db1456e", "name": "Fate", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "11/24/2022"}
+{"address": "0xB927103B316363EBe6Ac0eA19e9D2F9594DBAB83", "name": "starbit", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 8, "settings": "-", "date": "11/24/2022"}
