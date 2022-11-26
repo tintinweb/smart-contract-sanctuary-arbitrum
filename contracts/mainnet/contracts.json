@@ -10979,3 +10979,16 @@
 {"address": "0xa779007BD199F429f8D44A6660f26b0D979b8b62", "name": "QuixoticLaunchpadERC721", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 2, "settings": "-", "date": "11/26/2022"}
 {"address": "0xf2B8Cc36c890d2797b414EADD30C33ba289E1413", "name": "DnGmxRouter", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 2, "settings": "-", "date": "11/26/2022"}
 {"address": "0x7C4Ae36418E38f453Da917b4d2C3A86fc2577d91", "name": "DnGmxJIT", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 3, "settings": "-", "date": "11/26/2022"}
+{"address": "0xE73952d1CeB1Ddb63d717596E622499624fD0b8E", "name": "ImmutableGovernor", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/26/2022"}
+{"address": "0xdf7Fa110FD6Cc2f6ffE0D2FB0c2762B63544B9F8", "name": "FRENSDICE", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 3, "settings": "", "date": "11/26/2022"}
+{"address": "0x10348bcd7350df00851Fe5A9F3c24318c531EB06", "name": "Hypervisor", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 6, "settings": "", "date": "11/26/2022"}
+{"address": "0x2c0da73630a9ed07964adf634b991bca5119aa1d", "name": "AlphaOptionHandler", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "11/26/2022"}
+{"address": "0x53FfCF4b6D15EB4Fb063fDb530fedb7808615f1E", "name": "Hypervisor", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 6, "settings": "", "date": "11/26/2022"}
+{"address": "0xCE24383f117b75B0e4b2b167aAc44A85Db3b7d85", "name": "Hypervisor", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 6, "settings": "", "date": "11/26/2022"}
+{"address": "0x14c0e1cC7998AD4B327D5F1aD89bFC34602C6450", "name": "Hypervisor", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "11/26/2022"}
+{"address": "0x99fAd58EEADb00BAab5F1fb7ef421C7E5a9710B7", "name": "Hypervisor", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 6, "settings": "", "date": "11/26/2022"}
+{"address": "0xf21Df991cAaFeBc242C7e5BE17892d3B0453bc0F", "name": "Hypervisor", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 7, "settings": "", "date": "11/26/2022"}
+{"address": "0x86B81Ba336e97a4fbDBcc81F22A2363D5EE03cAB", "name": "Hypervisor", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 6, "settings": "", "date": "11/26/2022"}
+{"address": "0xfBE8269F3358bA95a06474fA8324ac594fD7dC9c", "name": "Hypervisor", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 6, "settings": "", "date": "11/26/2022"}
+{"address": "0x767558Cd601DD99Eec28db462B2B0f8B4d9370EB", "name": "Nft5", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "11/26/2022"}
+{"address": "0x61489C1214eAB0b3bBba8f5f066d20233cD72636", "name": "LunArbitrum", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 13, "settings": "-", "date": "11/26/2022"}
