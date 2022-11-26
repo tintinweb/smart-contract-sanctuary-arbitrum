@@ -10976,3 +10976,6 @@
 {"address": "0x74e7D87d5a90cf9cc24d3e8abc200d1B1454e5d2", "name": "TroveManager", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/25/2022"}
 {"address": "0xD9c4cee8Af3461DC090bF5A92a3742B42Cc80964", "name": "PixelMushrohmStaking", "compiler": "0.8.1", "balance": "0 ETH", "txcount": 76, "settings": "", "date": "11/25/2022"}
 {"address": "0x5A794d808Ad9F4763E2D07811CcEf175bD4Db510", "name": "PixelMushrohmERC721", "compiler": "0.8.1", "balance": "0 ETH", "txcount": 101, "settings": "", "date": "11/25/2022"}
+{"address": "0xa779007BD199F429f8D44A6660f26b0D979b8b62", "name": "QuixoticLaunchpadERC721", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 2, "settings": "-", "date": "11/26/2022"}
+{"address": "0xf2B8Cc36c890d2797b414EADD30C33ba289E1413", "name": "DnGmxRouter", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 2, "settings": "-", "date": "11/26/2022"}
+{"address": "0x7C4Ae36418E38f453Da917b4d2C3A86fc2577d91", "name": "DnGmxJIT", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 3, "settings": "-", "date": "11/26/2022"}
