@@ -10992,3 +10992,14 @@
 {"address": "0xfBE8269F3358bA95a06474fA8324ac594fD7dC9c", "name": "Hypervisor", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 6, "settings": "", "date": "11/26/2022"}
 {"address": "0x767558Cd601DD99Eec28db462B2B0f8B4d9370EB", "name": "Nft5", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "11/26/2022"}
 {"address": "0x61489C1214eAB0b3bBba8f5f066d20233cD72636", "name": "LunArbitrum", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 13, "settings": "-", "date": "11/26/2022"}
+{"address": "0x91736d054D797D67550E7cE9493bfD73C4cE7739", "name": "NonFungibleFarm", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/26/2022"}
+{"address": "0x280e15f35e69c3bd1d6687F1c2Db931A945bCBF4", "name": "firetrum", "compiler": "0.8.5", "balance": "0 ETH", "txcount": 9, "settings": "", "date": "11/26/2022"}
+{"address": "0x5A8b648dcc56e0eF241f0a39f56cFdD3fa36AfD5", "name": "FrensRewards", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 10, "settings": "", "date": "11/26/2022"}
+{"address": "0xc5f502ae5972c938940b33308f8845cbe80211b5", "name": "USDCWETHAAVEUNI", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 11, "settings": "", "date": "11/26/2022"}
+{"address": "0x47974d0897a1659cc4982245b2ba3efd54f51158", "name": "StrategyInsurance", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/26/2022"}
+{"address": "0xd1aeb3ab780c6d5bb30d6d3f37b93d3d79b2fedb", "name": "UniswapManager", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/26/2022"}
+{"address": "0xC7d6AcD59fE073C2292e3d68A7b697C58025BFb7", "name": "FrensRewards", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 8, "settings": "", "date": "11/26/2022"}
+{"address": "0x1d015fac8a6e15622a2dbaadf74aaab9cdb459bc", "name": "USDCWETHAAVEUNI", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 8, "settings": "", "date": "11/26/2022"}
+{"address": "0xCF73EC84e5ef4CBc5E4bAdCc29eD4a048a77352C", "name": "NonFungibleFarm", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 4, "settings": "", "date": "11/26/2022"}
+{"address": "0x2293025be8bd65b571039ef06e26a7387449aba9", "name": "YodusFinance", "compiler": "0.8.16", "balance": "0 ETH", "txcount": 11, "settings": "-", "date": "11/26/2022"}
+{"address": "0xEfDAfaE09855C7B845EeFf8a7C4a2D52e6e5486e", "name": "TESTKEK", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 9, "settings": "", "date": "11/26/2022"}
