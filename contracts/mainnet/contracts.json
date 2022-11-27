@@ -11003,3 +11003,10 @@
 {"address": "0xCF73EC84e5ef4CBc5E4bAdCc29eD4a048a77352C", "name": "NonFungibleFarm", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 4, "settings": "", "date": "11/26/2022"}
 {"address": "0x2293025be8bd65b571039ef06e26a7387449aba9", "name": "YodusFinance", "compiler": "0.8.16", "balance": "0 ETH", "txcount": 11, "settings": "-", "date": "11/26/2022"}
 {"address": "0xEfDAfaE09855C7B845EeFf8a7C4a2D52e6e5486e", "name": "TESTKEK", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 9, "settings": "", "date": "11/26/2022"}
+{"address": "0xDAa9B546CA0e1CFe05715E7246592220Be6E34Bb", "name": "SER", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/27/2022"}
+{"address": "0x718d1FB1a4ede89eA85eea5bDEbC2a5C0F7F21c7", "name": "NonFungibleFarm", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 18, "settings": "", "date": "11/27/2022"}
+{"address": "0x4B594691658695Ff9E335710aE22e15E02C9D274", "name": "SwapperBonanza", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 2, "settings": "-", "date": "11/27/2022"}
+{"address": "0xe8ED7AE79F5A90c125334A1dD70186F5596583dB", "name": "FeedVillageV2", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 190, "settings": "", "date": "11/27/2022"}
+{"address": "0x2a29e6ffaa75ec98838ae491bc6b5a47347db80e", "name": "HelloWorld", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "11/26/2022"}
+{"address": "0x6ef49269c75bc95e85a65f09f6dde74c0a97e4fd", "name": "starkwar", "compiler": "0.4.26", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "11/26/2022"}
+{"address": "0x09c19ddFC3995FeCD5224d9B98b568F143C988Ca", "name": "NonFungibleFarmV1", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/26/2022"}
