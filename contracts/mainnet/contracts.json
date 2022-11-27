@@ -11010,3 +11010,14 @@
 {"address": "0x2a29e6ffaa75ec98838ae491bc6b5a47347db80e", "name": "HelloWorld", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "11/26/2022"}
 {"address": "0x6ef49269c75bc95e85a65f09f6dde74c0a97e4fd", "name": "starkwar", "compiler": "0.4.26", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "11/26/2022"}
 {"address": "0x09c19ddFC3995FeCD5224d9B98b568F143C988Ca", "name": "NonFungibleFarmV1", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/26/2022"}
+{"address": "0x8edc039569B4804a95619cDDd6e054C390713bFB", "name": "TransparentUpgradeableProxy", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/27/2022"}
+{"address": "0x03Af6c7381b7e61496e24bC15CbfA1380eA08652", "name": "ProxyAdmin", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/27/2022"}
+{"address": "0x94271b55e4d543dc1e9a35bf08ba01ef61d0b615", "name": "KeeperProxyCoreStrategy", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/27/2022"}
+{"address": "0xd23c76a9410e9415b33515282c6943aa7d3e0626", "name": "CRABMARKET", "compiler": "0.6.4", "balance": "0 ETH", "txcount": 9, "settings": "", "date": "11/27/2022"}
+{"address": "0x120435e871bf6f0eebb7c0517d632c208dc814e7", "name": "CRABMARKET", "compiler": "0.6.4", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "11/27/2022"}
+{"address": "0xec9acbd5ebf5c0c56acd7f569ee8c41fc424d711", "name": "AaveBorrowPositionManager", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/27/2022"}
+{"address": "0xd97091E81dE3F6fe99f13Cfea710452838a89444", "name": "SimpleSeller", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/27/2022"}
+{"address": "0x2f1A880581d3181E76ee9378bFc52249387b46c6", "name": "Referrals", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "11/27/2022"}
+{"address": "0x051abc969A058814057349b298d7D7Db817e8aF4", "name": "OptionsVaultFactory", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "11/27/2022"}
+{"address": "0xA9E380E7F4eCEFCfb328b78A25f1628C9d1f8337", "name": "OptionsVaultERC20", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/27/2022"}
+{"address": "0xC77038a43F8B9bDe74bC4835319527a10Cee3dA9", "name": "OptionsERC721", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/27/2022"}
