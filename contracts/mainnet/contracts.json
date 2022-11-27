@@ -11023,3 +11023,15 @@
 {"address": "0xC77038a43F8B9bDe74bC4835319527a10Cee3dA9", "name": "OptionsERC721", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/27/2022"}
 {"address": "0x5c22524c5f7f8dd6d90602a20cbbf4c00a5ce2f4", "name": "PROJECTA", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 3, "settings": "-", "date": "11/27/2022"}
 {"address": "0xcc503DADD471a57Cc051Daf9Bd6cAF0D1D08ae25", "name": "ChainlinkUpkeep", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/27/2022"}
+{"address": "0xbECEC328B5EF45c6e41d3C15b2253236646eA8cF", "name": "GSWForwarderProxy", "compiler": "0.8.17", "balance": "-", "txcount": 0, "settings": "", "date": "11/27/2022"}
+{"address": "0x5b75dbE8DBF00C7a6Fb1a124899aA4D8E4eB03E2", "name": "GSWForwarder", "compiler": "0.8.17", "balance": "-", "txcount": 0, "settings": "", "date": "11/27/2022"}
+{"address": "0x1a6435dc3cfe9d840b70debc34dd77f6540e8c65", "name": "GaslessSmartWallet", "compiler": "0.8.17", "balance": "-", "txcount": 0, "settings": "-", "date": "11/27/2022"}
+{"address": "0xE6bd13Df85D4f8902354C7E4EEd404904Dc3bB0F", "name": "GSWFactory", "compiler": "0.8.17", "balance": "-", "txcount": 0, "settings": "-", "date": "11/27/2022"}
+{"address": "0xc88e0F216C1F0Bbbc541365887935888F7f84537", "name": "NitroBurn", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 29, "settings": "-", "date": "11/27/2022"}
+{"address": "0x87e49e9B403C91749dCF89be4ab1d400CBD4068C", "name": "Contrax", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/27/2022"}
+{"address": "0x1a17abd48cd5fafba8eb70c6527d552a1e9b2914", "name": "ArbitrumGuildRolesTokenBundle", "compiler": "0.8.17", "balance": "0.486 ETH", "txcount": 59, "settings": "-", "date": "11/27/2022"}
+{"address": "0xee7f3e9435850e5bbb6f38d7e9b7d73e51ba9279", "name": "testBitcoin", "compiler": "0.8.17", "balance": "0.001 ETH", "txcount": 5, "settings": "", "date": "11/27/2022"}
+{"address": "0x16BEb4C4767Ce4E232C81Cb86B9bC059383c08f9", "name": "CSMCrossChainRouter", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 9, "settings": "", "date": "11/27/2022"}
+{"address": "0x89c2fCe0Af62Dce683830fD3A1C3f56EBCfCE08D", "name": "PoolCrossChain", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 10, "settings": "", "date": "11/27/2022"}
+{"address": "0xb0520bd64fe1496864374D21DE27B291Ecd16972", "name": "Pool", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 5, "settings": "", "date": "11/27/2022"}
+{"address": "0xFf3D13AB44090b0B9C0508e2D22B657c384f1e05", "name": "Asset", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 3, "settings": "", "date": "11/27/2022"}
