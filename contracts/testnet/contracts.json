@@ -8581,3 +8581,12 @@
 {"address": "0x8615dB8066D729aC04E0D487A42750c6F7f03191", "name": "QuixoticLaunchpadERC721", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 8, "settings": "-", "date": "11/25/2022"}
 {"address": "0xBE5b9Bc68ac970337b6A9C92A319D3a3750beFfe", "name": "NftHat", "compiler": "0.8.17", "balance": "0.001 ETH", "txcount": 2, "settings": "-", "date": "11/25/2022"}
 {"address": "0xB11121C72E5D40019Af8AB2f5a3f8c82E0F64bF1", "name": "QuixoticLaunchpadERC721", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 6, "settings": "-", "date": "11/25/2022"}
+{"address": "0xaBf139511C381f7804EdD6E4c78383b775d8CeeF", "name": "Shards", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 8, "settings": "-", "date": "11/26/2022"}
+{"address": "0x96b6C4cf86A54d09F73E11c1078AC464c5374ab0", "name": "ERC721Token", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "11/26/2022"}
+{"address": "0xbc449eaa53c2cdcee1dbb113841680b2ebe0e48f", "name": "ELPToken", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/26/2022"}
+{"address": "0x45bd15c8665b0f48933d06e5b4495d2479fcbddb", "name": "ComPool", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/26/2022"}
+{"address": "0x5cda94268d963315613fc714335536cf08247f76", "name": "MultipleChoices", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/26/2022"}
+{"address": "0x325f0ebed585e0917c6ab7afa42514268af06748", "name": "Event", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/26/2022"}
+{"address": "0xb04DB2f07E15fBCecdd83c2cf393D2EF49944Ca9", "name": "TdexTokenArb", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/26/2022"}
+{"address": "0x0d158766eb8439685309625ac5b58746dde16ec0", "name": "Prediction", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/26/2022"}
+{"address": "0x5a7b3f27977A72f268E825cA640e18E4f7644c39", "name": "ERC20Token", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "11/26/2022"}
