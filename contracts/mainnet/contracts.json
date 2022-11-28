@@ -11035,3 +11035,16 @@
 {"address": "0x89c2fCe0Af62Dce683830fD3A1C3f56EBCfCE08D", "name": "PoolCrossChain", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 10, "settings": "", "date": "11/27/2022"}
 {"address": "0xb0520bd64fe1496864374D21DE27B291Ecd16972", "name": "Pool", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 5, "settings": "", "date": "11/27/2022"}
 {"address": "0xFf3D13AB44090b0B9C0508e2D22B657c384f1e05", "name": "Asset", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 3, "settings": "", "date": "11/27/2022"}
+{"address": "0xc67875445f3f35cf9cfbe2abdc0c148aa4fa274b", "name": "PlutusChef", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 19, "settings": "", "date": "11/28/2022"}
+{"address": "0xc8084050a53aee38364bc914479723a329ac286c", "name": "MEATcollectibles", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "11/28/2022"}
+{"address": "0xf6a647dD478255774008395341D006DefaF2277b", "name": "USDCWETHAAVEUNI", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 15, "settings": "", "date": "11/27/2022"}
+{"address": "0x4e6EEd99e4cacab3e266305E2Ad02C1783265AfB", "name": "Multicall3", "compiler": "0.8.12", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "11/27/2022"}
+{"address": "0xd40872EFfB7681Ac5A533177F5c3ee416294C843", "name": "CErc20Delegate", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/27/2022"}
+{"address": "0x644B7b3E29Cf8a2298322f1e1fdb2fE251379f77", "name": "CErc20Delegate", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/27/2022"}
+{"address": "0xE03e8575F397fF0aE6FC07133797203d73CE915d", "name": "CErc20Delegate", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/27/2022"}
+{"address": "0x335372f4998b1b9152E0117476D5d34690174643", "name": "CErc20Delegate", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/27/2022"}
+{"address": "0x9746B7d3D9f13db877Cb362904B9691685F80203", "name": "CErc20Delegate", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/27/2022"}
+{"address": "0x1400d8CD69115EB312F9FEc3B0191167138AE3f3", "name": "CErc20Delegate", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/27/2022"}
+{"address": "0x29d096714818B96770216FdCe54a8384d0ac9AF9", "name": "CErc20Delegate", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/27/2022"}
+{"address": "0x6d692b9076AfFaDA37AD470a52979303F974C7e7", "name": "CErc20Delegate", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/27/2022"}
+{"address": "0x10fe580a37812484b78bfd88cbfdc9b5d3781717", "name": "KenshinImpact", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 35, "settings": "", "date": "11/27/2022"}
