@@ -11077,3 +11077,11 @@
 {"address": "0x887D8ae57376DF6Db9d962A26Dc1545922e68125", "name": "PerpReferrals", "compiler": "0.8.16", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/28/2022"}
 {"address": "0x145d55aE4848f9782eFCAC785A655E3e5DcE1bCD", "name": "Hypervisor", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 6, "settings": "", "date": "11/28/2022"}
 {"address": "0xeDabfEC959e62617BA597A205B9489D3Ca8D87CD", "name": "CSMCrossChainRouter", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 9, "settings": "", "date": "11/28/2022"}
+{"address": "0x5296d64c18fa589e615150c134ab46012444e33e", "name": "JonesSSOVCallV3Strategy", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/28/2022"}
+{"address": "0x64f4be72b69207867baf151f6928bfb125cf7219", "name": "JonesSSOVCallV3Strategy", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/28/2022"}
+{"address": "0x02dcd1d46ca19cca8961658f9389b4901e182d95", "name": "JonesSSOVCallV3Strategy", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/28/2022"}
+{"address": "0xefbf3069f7273cb05d58ea29108032e6a0d18ef3", "name": "MerkleDistributor", "compiler": "0.6.11", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/28/2022"}
+{"address": "0x99cfcf4931b8fc19e9e56a89b0658d605dc2b90a", "name": "NiftyswapExchange20", "compiler": "0.7.4", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/28/2022"}
+{"address": "0x736a0c2ec2828085692ca9e30fee1cad366313d0", "name": "NiftyswapExchange20", "compiler": "0.7.4", "balance": "0 ETH", "txcount": 3, "settings": "", "date": "11/28/2022"}
+{"address": "0x2B51124fc15777844C860D59C271467728158B6d", "name": "HolyGrail", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/28/2022"}
+{"address": "0x18712B2d2DE03EbD79277B349fFCfbA01332C58A", "name": "HolyGrail", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/28/2022"}
