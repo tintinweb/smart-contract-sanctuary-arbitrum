@@ -11048,3 +11048,23 @@
 {"address": "0x29d096714818B96770216FdCe54a8384d0ac9AF9", "name": "CErc20Delegate", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/27/2022"}
 {"address": "0x6d692b9076AfFaDA37AD470a52979303F974C7e7", "name": "CErc20Delegate", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/27/2022"}
 {"address": "0x10fe580a37812484b78bfd88cbfdc9b5d3781717", "name": "KenshinImpact", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 35, "settings": "", "date": "11/27/2022"}
+{"address": "0xDA76172b5c46060b80650324168d67028A2136C3", "name": "TenderFarmFactory", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/28/2022"}
+{"address": "0x52E299272cc88d779a853aed80c47C6809CB2F62", "name": "BattleflyAtlasStakerV02", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/28/2022"}
+{"address": "0x6141e7E7fA2c1beB8be030B0a7DB4b8A10c7c3cd", "name": "InterchainQueryRouter", "compiler": "0.8.16", "balance": "0 ETH", "txcount": 7, "settings": "", "date": "11/28/2022"}
+{"address": "0x39943cae1f6b3fce798c9eb948a2bc1c00c121ef", "name": "MerkleDistributorVeSolid", "compiler": "0.6.11", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "11/28/2022"}
+{"address": "0x6db76a5cd3b7f93864dd0b6b2b93bb8b9fa84ebc", "name": "MerkleDistributorVeSolid", "compiler": "0.6.11", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/28/2022"}
+{"address": "0xc011170d9795a7a2d065E384EAd1CA3394A7d35E", "name": "InterchainAccountRouter", "compiler": "0.8.16", "balance": "0 ETH", "txcount": 7, "settings": "", "date": "11/28/2022"}
+{"address": "0x2e425568656b08b89be8864f499784acb2de59bc", "name": "MerkleDistributorVeSolid", "compiler": "0.6.11", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/28/2022"}
+{"address": "0xd08badfa4b18e42bed6d9e7bc036b962a78e3efc", "name": "MerkleDistributorVeSolid", "compiler": "0.6.11", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/28/2022"}
+{"address": "0xa5F4b714cB65D92401a37E96a911D0aEd35dF07e", "name": "HegicStrategyInverseLongCondor", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/28/2022"}
+{"address": "0x33E538ca6e31647F20A0c0F3c8eb443C4C97DAb1", "name": "HegicStrategyInverseLongButterfly", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/28/2022"}
+{"address": "0x51f526C508E089708BC3BF62649C071Cd3af6c30", "name": "HegicStrategyInverseBullPutSpread", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/28/2022"}
+{"address": "0x9c428811a97efD46b972B13e0bbd394ce6302012", "name": "HegicStrategyInverseBearCallSpread", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/28/2022"}
+{"address": "0x2dfe42dc467421ed45017d51a21feb9b4e16bcab", "name": "MerkleDistributor", "compiler": "0.6.11", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/28/2022"}
+{"address": "0x868d4ae361851ce7e9cd6a5fb11c882fa0af6cf7", "name": "Damedaneinu", "compiler": "0.8.9", "balance": "0.00012241323235371 ETH", "txcount": 81, "settings": "", "date": "11/28/2022"}
+{"address": "0x5E7655Cf936f7BA811A9e09e8C732C73dCd3Bdee", "name": "RiemannNFT", "compiler": "0.8.16", "balance": "-", "txcount": 0, "settings": "", "date": "11/28/2022"}
+{"address": "0xe6469be0a76c1076d4b9e719951636c67401fa81", "name": "FakeOxSolid", "compiler": "0.8.16", "balance": "0 ETH", "txcount": 6, "settings": "-", "date": "11/28/2022"}
+{"address": "0x72aa06ea7fcb8eec05b287a9667a8a44688d8b32", "name": "FakeSolidSEX", "compiler": "0.8.16", "balance": "0 ETH", "txcount": 5, "settings": "-", "date": "11/28/2022"}
+{"address": "0xfbf9e2d4d13a8dfa9935c69559b0b5cd4720a354", "name": "FakeSEX", "compiler": "0.8.16", "balance": "0 ETH", "txcount": 5, "settings": "-", "date": "11/28/2022"}
+{"address": "0x4a70be6e0c579e5eaf06477132b9ed90ba9370ea", "name": "FakeOXD", "compiler": "0.8.16", "balance": "0 ETH", "txcount": 5, "settings": "-", "date": "11/28/2022"}
+{"address": "0x4ce0c8c8944205c0a134ef37a772ceee327b4c11", "name": "LodestarChef", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 5, "settings": "", "date": "11/28/2022"}
