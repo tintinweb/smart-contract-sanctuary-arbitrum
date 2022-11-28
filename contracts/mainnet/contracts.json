@@ -11068,3 +11068,12 @@
 {"address": "0xfbf9e2d4d13a8dfa9935c69559b0b5cd4720a354", "name": "FakeSEX", "compiler": "0.8.16", "balance": "0 ETH", "txcount": 5, "settings": "-", "date": "11/28/2022"}
 {"address": "0x4a70be6e0c579e5eaf06477132b9ed90ba9370ea", "name": "FakeOXD", "compiler": "0.8.16", "balance": "0 ETH", "txcount": 5, "settings": "-", "date": "11/28/2022"}
 {"address": "0x4ce0c8c8944205c0a134ef37a772ceee327b4c11", "name": "LodestarChef", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 5, "settings": "", "date": "11/28/2022"}
+{"address": "0xF754E0f8b423681384588478A1F573A5A772f147", "name": "LockRewards", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 3, "settings": "", "date": "11/28/2022"}
+{"address": "0xF70b6C1D2bB018171826639d8cf5ccA6a044Bf1E", "name": "Dummy", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "11/28/2022"}
+{"address": "0x063FB925dCB67AA8bc33ebB257a883902254C9e6", "name": "WaveContract", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/28/2022"}
+{"address": "0x434D24A1d4a3212fd848CAfBC9E9c50B0765a16b", "name": "WaveFactory", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "11/28/2022"}
+{"address": "0xAcb3EE994F0E87CaF09E586fEd6651E417347451", "name": "SequencerHandlerUpgradeable", "compiler": "0.8.2", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/28/2022"}
+{"address": "0xD2aB6F6d51DE843F0e92FC8a344a2EE4EF0Ee7AD", "name": "PerpReferrals", "compiler": "0.8.16", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/28/2022"}
+{"address": "0x887D8ae57376DF6Db9d962A26Dc1545922e68125", "name": "PerpReferrals", "compiler": "0.8.16", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/28/2022"}
+{"address": "0x145d55aE4848f9782eFCAC785A655E3e5DcE1bCD", "name": "Hypervisor", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 6, "settings": "", "date": "11/28/2022"}
+{"address": "0xeDabfEC959e62617BA597A205B9489D3Ca8D87CD", "name": "CSMCrossChainRouter", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 9, "settings": "", "date": "11/28/2022"}
