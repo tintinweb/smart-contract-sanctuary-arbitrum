@@ -11332,3 +11332,27 @@
 {"address": "0x8d8240a3d393e8aeb50d962b39bf898265b79e14", "name": "BasicToken", "compiler": "0.4.16", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "11/30/2022"}
 {"address": "0x0f943be237f0ec7150436a964637bfbfe2d0b52d", "name": "intact", "compiler": "0.4.26", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "11/30/2022"}
 {"address": "0xD781F2cdaf16eB422e99C4E455F071F0BB20cf1a", "name": "UniswapV3Pool", "compiler": "0.7.6", "balance": "-", "txcount": 0, "settings": "", "date": "11/30/2022"}
+{"address": "0xa5509A9FB711eaE3B5981Cf219878A96F3F7789c", "name": "SmolRacing", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/30/2022"}
+{"address": "0x4f1fc133ca715ef18792f7f51baed2e1bf1ecfda", "name": "UniswapManager", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/30/2022"}
+{"address": "0x8472B9A287b0Dd8D52cdE9724E42Db97D26a128E", "name": "SmolRacing", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/30/2022"}
+{"address": "0x3E1b98997438d86A8DBa895e648c48702e96a596", "name": "UpkeepController", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 6, "settings": "", "date": "11/30/2022"}
+{"address": "0xf254E221c861cA5E5BE235cAF119c8259358307c", "name": "USDCWETHAAVEUNI", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 5, "settings": "", "date": "11/30/2022"}
+{"address": "0x4411DA20F8F291150D2DE58a845Be91eaB4dcdD7", "name": "MinimalWallet", "compiler": "0.8.16", "balance": "-", "txcount": 0, "settings": "", "date": "11/30/2022"}
+{"address": "0x09bfFa3C7275A3Fa01595a72204e5A659B6C5067", "name": "EnsoWalletFactory", "compiler": "0.8.16", "balance": "-", "txcount": 0, "settings": "", "date": "11/30/2022"}
+{"address": "0x19740262c9a413816EC2884a5241eA53aB7096Ed", "name": "EnsoWallet", "compiler": "0.8.16", "balance": "-", "txcount": 0, "settings": "", "date": "11/30/2022"}
+{"address": "0xb7097B5Cf1Dd5e3896Cc27366Dc2CA80De5502AC", "name": "EnsoBeacon", "compiler": "0.8.16", "balance": "-", "txcount": 0, "settings": "", "date": "11/30/2022"}
+{"address": "0xc63561e09bdec9703351b548713acaa4c9e28102", "name": "SubmittingSwaps", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 5, "settings": "-", "date": "11/30/2022"}
+{"address": "0x13140b7f9ce5e41612e7e46352adf37a6e430354", "name": "NodeLoading", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 5, "settings": "-", "date": "11/30/2022"}
+{"address": "0x25de9896ca33ecda73fc00b66d0c5e5fb0878688", "name": "SwapBridge", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 5, "settings": "-", "date": "11/30/2022"}
+{"address": "0x93437768c72850b7e601214ab1ff60765d85dca4", "name": "BitExchanger", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 5, "settings": "-", "date": "11/30/2022"}
+{"address": "0x8bee5db2315df7868295c531b36baa53439cf528", "name": "GLPOracle", "compiler": "0.8.16", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/30/2022"}
+{"address": "0x7e2Ca894B8DdFd87758d684C7d20B729635994ce", "name": "ElleriaBidManager", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 7, "settings": "-", "date": "11/30/2022"}
+{"address": "0xa395F03962AB80C219Ef228766c4396aECC55b23", "name": "ONFTCopy", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/30/2022"}
+{"address": "0x76f35fad6b739bdcb07caf1038c31d7ba8c39707", "name": "CentralStake", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 5, "settings": "-", "date": "11/30/2022"}
+{"address": "0x89603814f11121850af5c29701f1cf8e02daaf86", "name": "SendPoints", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 5, "settings": "-", "date": "11/30/2022"}
+{"address": "0xed522072bcfd12136743b04be0dbbeeab667adba", "name": "CheckIDNFT", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 5, "settings": "-", "date": "11/30/2022"}
+{"address": "0x6924d0af4081b785eb06d812b8afc91fea8d879a", "name": "ScriptCrypt", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 5, "settings": "-", "date": "11/30/2022"}
+{"address": "0x191114f75a0f318f129c0c2e47ff137afc502de5", "name": "CryptoShop", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 5, "settings": "-", "date": "11/30/2022"}
+{"address": "0x3a182b701e24c00ce25b3ab8c4fd2821500c2de4", "name": "MoonSun", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 5, "settings": "-", "date": "11/30/2022"}
+{"address": "0x98377c7d1aa3f72828483085dd17adacf0284023", "name": "SaveSafe", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 5, "settings": "-", "date": "11/30/2022"}
+{"address": "0x3616a6510cd7cf3f3f43ef5a00a2abf813cd8284", "name": "BostonBridge", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 5, "settings": "-", "date": "11/30/2022"}
