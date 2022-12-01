@@ -11370,3 +11370,15 @@
 {"address": "0x90b8eb9303ac2417a2271248050a73dba4e6fc67", "name": "ArbitrumBundleGuildRoles", "compiler": "0.8.17", "balance": "0.01 ETH", "txcount": 4, "settings": "-", "date": "12/1/2022"}
 {"address": "0x07EF6B810e972f38978326a663D05cbf06F11C87", "name": "CupLPToken", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/30/2022"}
 {"address": "0x7D390079c5FbE63aa5201B7EA59E57C98aec588a", "name": "CupToken", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 3, "settings": "", "date": "11/30/2022"}
+{"address": "0xcc4eeF6065Aa96541BBE937A256bF3C29a333EE6", "name": "ExecutionNode", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/1/2022"}
+{"address": "0x060c13709Cec1Fe65929257D94C7571f1DB970AE", "name": "TeahouseStrategy", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/1/2022"}
+{"address": "0x8D573E1d8C6aEAbdC78Dba4bdE27D866CEcf1A36", "name": "OperatorRegistry", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/1/2022"}
+{"address": "0x2c57f30D003fA9515Eb00A8382ef1cdd91E99983", "name": "SgBridge", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/1/2022"}
+{"address": "0x2e8c9aa65d51E40581833cf2fb003463bDe3d751", "name": "RevenueSplitFactory", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/1/2022"}
+{"address": "0x8Fea87C402d03c59F3a8686f05Fe626811879542", "name": "RevenueSplit", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/1/2022"}
+{"address": "0x6d183F4A271e5E068FCC09E93daD92f3c5E325F1", "name": "OFDropCollection", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/1/2022"}
+{"address": "0x6d39eC8Eab49F9fd039aaD5eA5c5C1Ece5495b01", "name": "OFDropCollection", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/1/2022"}
+{"address": "0xcaBe7f84339AD635a6fCAF6e297EE04A4d5EB6d1", "name": "DropCollection", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/1/2022"}
+{"address": "0x7bE941FbF8C1B2acA38818EcBBef6cCBB5c975D9", "name": "DropCollection", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/1/2022"}
+{"address": "0x370a695F879B665dB5745DE917105208A1Dc61fD", "name": "TokenCollection", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/1/2022"}
+{"address": "0x951d77B7cE4CAA3e48c3c3bCd694E5A909006d4D", "name": "NiftyKitV2", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/1/2022"}
