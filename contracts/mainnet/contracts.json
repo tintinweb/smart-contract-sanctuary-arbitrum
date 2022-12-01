@@ -11382,3 +11382,10 @@
 {"address": "0x7bE941FbF8C1B2acA38818EcBBef6cCBB5c975D9", "name": "DropCollection", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/1/2022"}
 {"address": "0x370a695F879B665dB5745DE917105208A1Dc61fD", "name": "TokenCollection", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/1/2022"}
 {"address": "0x951d77B7cE4CAA3e48c3c3bCd694E5A909006d4D", "name": "NiftyKitV2", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/1/2022"}
+{"address": "0x27972ad7875bc17ada5922c80db45b015dd554df", "name": "LendgineRouter", "compiler": "0.8.17", "balance": "-", "txcount": 0, "settings": "", "date": "12/1/2022"}
+{"address": "0x0d9a2eb3cbe96deef3d6d62c5f3b620d5021941a", "name": "LiquidityManager", "compiler": "0.8.17", "balance": "-", "txcount": 0, "settings": "", "date": "12/1/2022"}
+{"address": "0xf9ce23237b25e81963b500781fa15d6d38a0de62", "name": "GlpWrapperHarvestor", "compiler": "0.8.16", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "12/1/2022"}
+{"address": "0xd7a59e4d53f08ae80f8776044a764d97cd96decb", "name": "Factory", "compiler": "0.8.17", "balance": "-", "txcount": 0, "settings": "", "date": "12/1/2022"}
+{"address": "0xed6c63bbc814695a7c03ad228e665b4e519082d5", "name": "MEUSDImplementationV3", "compiler": "0.4.24", "balance": "0 ETH", "txcount": 27, "settings": "-", "date": "12/1/2022"}
+{"address": "0x0baee5700179d87fabad13022447bd4e160374dd", "name": "Receiver", "compiler": "0.8.17", "balance": "-", "txcount": 0, "settings": "", "date": "12/1/2022"}
+{"address": "0xdd1305150d27aecc60c066630105db419977e367", "name": "Executor", "compiler": "0.8.17", "balance": "-", "txcount": 0, "settings": "", "date": "12/1/2022"}
