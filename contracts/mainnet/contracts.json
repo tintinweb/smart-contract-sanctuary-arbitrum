@@ -11356,3 +11356,17 @@
 {"address": "0x3a182b701e24c00ce25b3ab8c4fd2821500c2de4", "name": "MoonSun", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 5, "settings": "-", "date": "11/30/2022"}
 {"address": "0x98377c7d1aa3f72828483085dd17adacf0284023", "name": "SaveSafe", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 5, "settings": "-", "date": "11/30/2022"}
 {"address": "0x3616a6510cd7cf3f3f43ef5a00a2abf813cd8284", "name": "BostonBridge", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 5, "settings": "-", "date": "11/30/2022"}
+{"address": "0xa54864eb061f739f503dc4565394575f63989acd", "name": "AaveBorrowPositionManager", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/1/2022"}
+{"address": "0x3189C962470c2C3763D639305B21BcFeb1D26e19", "name": "PoseidonT3", "compiler": "0.8.16", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/1/2022"}
+{"address": "0x5be2c1c8c0045594a4aaa244e237840f94d95a15", "name": "MimCauldronDistributor", "compiler": "0.8.16", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "12/1/2022"}
+{"address": "0xC3dCEf82A8C38C20DA9feb8bB1d03E9c9D842da3", "name": "AnteStargateArbitrumTotalTVLPlungeTest", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "12/1/2022"}
+{"address": "0x9943335a1836a5c642793af435be7228ba81bc95", "name": "AaveBorrowPositionManager", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/1/2022"}
+{"address": "0x98622d784ec387e774eda0a305cbd59588a15c08", "name": "AaveBorrowPositionManager", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/1/2022"}
+{"address": "0x60d96733bfc82de6a94f00997626093e81bf8f52", "name": "AaveBorrowPositionManager", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/1/2022"}
+{"address": "0x30955e14374cc168bd30c916ff30e327bd7db51d", "name": "AaveBorrowPositionManager", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/1/2022"}
+{"address": "0x3a02775377db84261BE2C1D364e5986b64b30c68", "name": "Puppy", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 126, "settings": "", "date": "12/1/2022"}
+{"address": "0x6981CED847Ca4372D6707610FF045eE4FED0fc90", "name": "YS", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/1/2022"}
+{"address": "0x8d55a6fED9d06a13864205b6A19CF402A2741Bc0", "name": "YS", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "12/1/2022"}
+{"address": "0x90b8eb9303ac2417a2271248050a73dba4e6fc67", "name": "ArbitrumBundleGuildRoles", "compiler": "0.8.17", "balance": "0.01 ETH", "txcount": 4, "settings": "-", "date": "12/1/2022"}
+{"address": "0x07EF6B810e972f38978326a663D05cbf06F11C87", "name": "CupLPToken", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/30/2022"}
+{"address": "0x7D390079c5FbE63aa5201B7EA59E57C98aec588a", "name": "CupToken", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 3, "settings": "", "date": "11/30/2022"}
