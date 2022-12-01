@@ -8673,3 +8673,20 @@
 {"address": "0x1E2Eaac3e4C720572bAc8DB7fd4401D47859EC14", "name": "IdentityProxyFactory", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "11/29/2022"}
 {"address": "0xd893755902c0918df0fa04118001473e7a464537", "name": "pepe", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/29/2022"}
 {"address": "0x3bA0d4aF8f310186a205db6501CcD040793E9F3d", "name": "StaticOracle", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/29/2022"}
+{"address": "0xD931514274B7029B72e0871c0A096e900BD2DB32", "name": "InsureDepositorV2", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/1/2022"}
+{"address": "0xfabB3F419a286285a5E47C8Af9Fa7CD7D31708BB", "name": "NFTFactory", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "12/1/2022"}
+{"address": "0x74AF6474a544378BaF7B580001647b4E5c6FaEF0", "name": "ERC721UUPS", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "12/1/2022"}
+{"address": "0x5a4D30403b9b52B45935d4903Bc51ABEB24304c0", "name": "Market", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/1/2022"}
+{"address": "0x6615a34F73520D0c7Ad94FED6E0396423b1Edf2b", "name": "AuctionV2", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/30/2022"}
+{"address": "0xf1F7D98c89d26237Ba5e222E01d4B8193a73C136", "name": "ERC721", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/30/2022"}
+{"address": "0x3ab007bf80819D606BED310EDfa283732C531ba0", "name": "ERC20", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/30/2022"}
+{"address": "0xcAE12507936f4C43f5783E1870b616C35d19C3e8", "name": "ElleriaBidManager", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 11, "settings": "-", "date": "11/30/2022"}
+{"address": "0x16424F5c9e09353454348aB645f895e343BE9D5b", "name": "SwapRouter02", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/30/2022"}
+{"address": "0x200D29689954bE3fbc7Ae3AbEc8Bee8d19d34253", "name": "JITManager", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 3, "settings": "-", "date": "11/30/2022"}
+{"address": "0x5cd5af9a9814b4D598A32715d21f58444796A4f0", "name": "DnGmxRouter", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 2, "settings": "-", "date": "11/30/2022"}
+{"address": "0x2d79B73720af7D4817599bbAe1E6bCeeD7D62da9", "name": "USDC", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/30/2022"}
+{"address": "0x327811d200d56cceb7b3ea241b8434d719bb23ae", "name": "MyToken", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 2, "settings": "-", "date": "11/30/2022"}
+{"address": "0x452d4147BdA3e4535f1a67F096BF928aFBB5fF89", "name": "UniswapV3Pool", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/30/2022"}
+{"address": "0xE411460DF6d87Ae4F3eeDe5B3Ae6a94322A17784", "name": "Proxy", "compiler": "0.8.17", "balance": "-", "txcount": 0, "settings": "", "date": "11/30/2022"}
+{"address": "0x2293c6a4dc001050e2de192ea2a825b2e413e33c", "name": "Proxy", "compiler": "0.8.17", "balance": "0.0798918538 ETH", "txcount": 1, "settings": "", "date": "11/30/2022"}
+{"address": "0x195218983b5B1a16d47B8B61e89e8117aCa503f8", "name": "BoltProtocol", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "11/30/2022"}
