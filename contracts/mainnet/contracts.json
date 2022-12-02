@@ -11429,3 +11429,11 @@
 {"address": "0xe1d7178F5544Fb3b70888689e28b847b73a6f719", "name": "LiquidatorProxyV1WithAmm", "compiler": "0.5.16", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/1/2022"}
 {"address": "0xf7e10cbde762d5011dbee5418b27db12c2f98c66", "name": "Lendgine", "compiler": "0.8.17", "balance": "-", "txcount": 0, "settings": "", "date": "12/1/2022"}
 {"address": "0xb6000df93df16fcc8101d4aaf815574468353c8f", "name": "Pair", "compiler": "0.8.17", "balance": "-", "txcount": 0, "settings": "", "date": "12/1/2022"}
+{"address": "0x5eb2f5e4987cF36657CF4367Ca36BFE14C4616a3", "name": "ApetimismLaunchpadNFT", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 3, "settings": "", "date": "12/2/2022"}
+{"address": "0x1bBC201f68f209A054E3e86891401d7255f8D3BA", "name": "LiquidatorProxyV2WithExternalLiquidity", "compiler": "0.5.16", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/2/2022"}
+{"address": "0xb3876872e60b168Dafc9C650A2E1522f45feBE0b", "name": "LiquidatorProxyV1WithAmm", "compiler": "0.5.16", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/2/2022"}
+{"address": "0x6d13e5F5458f2bC4D6589093ee5632bE658Caa53", "name": "LiquidatorProxyV1", "compiler": "0.5.16", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/2/2022"}
+{"address": "0x43579b6270a1e845b52a3a7e1b31c1273102de49", "name": "SantaShiba", "compiler": "0.8.12", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "12/2/2022"}
+{"address": "0x2ACBb9C62f9CE7c2D4a635f45E71E59BF7E110A2", "name": "FeeManager", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/2/2022"}
+{"address": "0xf95d5d504db024caf4756808801c59c526410df2", "name": "ShibBurn", "compiler": "0.8.5", "balance": "0.000011054280823829 ETH", "txcount": 19, "settings": "-", "date": "12/2/2022"}
+{"address": "0x9988947e03B31e7D641f2fE730bABd732a240265", "name": "BuscandoamericadesarrolloContract", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/2/2022"}
