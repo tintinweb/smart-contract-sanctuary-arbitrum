@@ -11404,3 +11404,28 @@
 {"address": "0xb1B586AfA8a2AaB42826Fb2Ab9896CD0c686d0F4", "name": "Pool", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "12/1/2022"}
 {"address": "0x89072bf7494216aefFf5183F969a3d4F27f1FB8a", "name": "WillYouMarryMe", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "12/1/2022"}
 {"address": "0x71070c5607358fc25E3B4aaf4FB0a580c190252a", "name": "Staking", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "12/1/2022"}
+{"address": "0x943bfe625f69165c567e6a2d44baaff74a12a959", "name": "GaguTip", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "12/2/2022"}
+{"address": "0x3e34b6C953E0007fFa321368999356253E806DD9", "name": "NFTMarketplace", "compiler": "0.8.16", "balance": "0 ETH", "txcount": 10, "settings": "", "date": "12/2/2022"}
+{"address": "0xCb631e63877E10926C71C8cA03B78498a755270B", "name": "Riemann", "compiler": "0.8.16", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/2/2022"}
+{"address": "0x20b63994ed8b2283b7ce2a152ee4f4acd5047f4f", "name": "ArbiKishinu", "compiler": "0.8.0", "balance": "0 ETH", "txcount": 9, "settings": "-", "date": "12/2/2022"}
+{"address": "0x8951bba549f7D9b299B9aeDAd7F43A696E56F483", "name": "Xmas", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 63, "settings": "-", "date": "12/2/2022"}
+{"address": "0x9F82874Eed2158BFCB0Ab6ff02eE6e09b7360C6f", "name": "Xmas", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 19, "settings": "-", "date": "12/1/2022"}
+{"address": "0x303a59a1020807b6fd78d3bb0e3c8b6a26bbc0b9", "name": "CauldronV4", "compiler": "0.8.16", "balance": "0 ETH", "txcount": 3, "settings": "", "date": "12/1/2022"}
+{"address": "0x5088a423933dBfd94af2D64AD3dB3d4aB768107F", "name": "GMDstaking", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 4, "settings": "", "date": "12/1/2022"}
+{"address": "0xE798Ad57498092456Fd5B830826621CD76c2CA41", "name": "ExtendedMath2", "compiler": "0.8.14", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "12/1/2022"}
+{"address": "0x6BE37a65E46048B1D12C0E08d9722402A5247Ff1", "name": "Dummy", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "12/1/2022"}
+{"address": "0xC3ed38fCdDF28888defb69f4836d9FE1fC3a4175", "name": "Dummy", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "12/1/2022"}
+{"address": "0x23ff08dc641fa854b2a12741aa49AA984071a994", "name": "FanToken", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/1/2022"}
+{"address": "0x8954dbCf98BCBBd722788F59C7bD9b13bb63B2c0", "name": "ExtendedMath2", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "12/1/2022"}
+{"address": "0xe907De00F22C6E3Da2D1E91d4eB3E6522E71d5CB", "name": "ExtendedMath2", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "12/1/2022"}
+{"address": "0x9a3360584886802e287bc0eed04a3b7fa6105d66", "name": "Bullrun", "compiler": "0.8.15", "balance": "1 wei", "txcount": 69, "settings": "", "date": "12/1/2022"}
+{"address": "0x0992A43E2309F0D30589147a461Feb45aA739AEF", "name": "ExtendedMath2", "compiler": "0.8.12", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "12/1/2022"}
+{"address": "0xf3cdfbe111791d39004af457aa8e924f1e9898b0", "name": "Lendgine", "compiler": "0.8.17", "balance": "-", "txcount": 0, "settings": "", "date": "12/1/2022"}
+{"address": "0xfc60d2197cadbd93af223b5b1c3790b80c84c3e7", "name": "Pair", "compiler": "0.8.17", "balance": "-", "txcount": 0, "settings": "", "date": "12/1/2022"}
+{"address": "0xe43638797513ef7A6d326a95E8647d86d2f5a099", "name": "BorrowPositionProxy", "compiler": "0.5.16", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/1/2022"}
+{"address": "0xAdB9D68c613df4AA363B42161E1282117C7B9594", "name": "DepositWithdrawalProxy", "compiler": "0.5.16", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "12/1/2022"}
+{"address": "0x03809ae9a86061D8901f020f8778bCe1Ce8c44F0", "name": "DolomiteAmmRouterProxy", "compiler": "0.5.16", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/1/2022"}
+{"address": "0xF53F5C41d36A6952B6ff623269c920C0C0978FB1", "name": "LiquidatorProxyV2WithExternalLiquidity", "compiler": "0.5.16", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/1/2022"}
+{"address": "0xe1d7178F5544Fb3b70888689e28b847b73a6f719", "name": "LiquidatorProxyV1WithAmm", "compiler": "0.5.16", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/1/2022"}
+{"address": "0xf7e10cbde762d5011dbee5418b27db12c2f98c66", "name": "Lendgine", "compiler": "0.8.17", "balance": "-", "txcount": 0, "settings": "", "date": "12/1/2022"}
+{"address": "0xb6000df93df16fcc8101d4aaf815574468353c8f", "name": "Pair", "compiler": "0.8.17", "balance": "-", "txcount": 0, "settings": "", "date": "12/1/2022"}
