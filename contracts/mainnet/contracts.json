@@ -11461,3 +11461,17 @@
 {"address": "0x77466a50acc5f06bd8eaa1381acdecc0720b6322", "name": "Lendgine", "compiler": "0.8.17", "balance": "-", "txcount": 0, "settings": "", "date": "12/2/2022"}
 {"address": "0x9cc2b5d316cfe4334d4973f977c1e8d31e7a6d35", "name": "Pair", "compiler": "0.8.17", "balance": "-", "txcount": 0, "settings": "", "date": "12/2/2022"}
 {"address": "0x485A129392104c4B83322E98cF8632953F147Bf5", "name": "ContangoYieldQuoter", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/2/2022"}
+{"address": "0x008645495F69BB5724019dCF811576D4A8269Df0", "name": "StrategyGmx", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/2/2022"}
+{"address": "0x0Ff7C22E3bF14A4fFd88C8F1F77C5edc19bce542", "name": "MasterChef", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 5, "settings": "", "date": "12/2/2022"}
+{"address": "0xea7fe5c8ec596c3bbe001fd781947de924f10811", "name": "SantaCult", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 8, "settings": "", "date": "12/2/2022"}
+{"address": "0x6759969ed6ade667b3f035c5d9ed366af3c05d22", "name": "SaudiArab", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 29, "settings": "", "date": "12/2/2022"}
+{"address": "0xb978feaa8e5078cd8322262b38935bc5de29db48", "name": "nata", "compiler": "0.8.0", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "12/2/2022"}
+{"address": "0x521aeE507A60e81E3b68DA5d0CD67CB1184B0e28", "name": "ApetimismLaunchpadNFT", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/2/2022"}
+{"address": "0x2b402a9b3dc4e0539a106bbbb61a86ca2c709820", "name": "snoopfear4", "compiler": "0.8.0", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "12/2/2022"}
+{"address": "0xEF44D8e4eAb1ACB4922B983253B5B50386E8668E", "name": "ReveelMainV2", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/2/2022"}
+{"address": "0x81d5b18d28368636c7d3C7565025203E9dBfA00b", "name": "RevenuePathV2", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/2/2022"}
+{"address": "0x83A3534eB7f7dcb63f9F3680d245D65C9B36680A", "name": "ACMasterChefLP", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/2/2022"}
+{"address": "0x945880946b0900daEb844fc2D753AfA80a1451EC", "name": "ACMasterChefLP", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 11, "settings": "", "date": "12/2/2022"}
+{"address": "0x843c10d8d996782c99dAcdE039D32cDFeC0E784D", "name": "ACMasterChefERC20", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 4, "settings": "", "date": "12/2/2022"}
+{"address": "0x21216C63034231193276354fD084C05036787e1E", "name": "ACMasterChefLP", "compiler": "0.8.9", "balance": "-", "txcount": 0, "settings": "", "date": "12/2/2022"}
+{"address": "0x3065730445F5DC4Aa7332872132CdFa34Ae8edb7", "name": "ACMasterChefLP", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "12/2/2022"}
