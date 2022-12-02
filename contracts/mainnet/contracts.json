@@ -11437,3 +11437,27 @@
 {"address": "0x2ACBb9C62f9CE7c2D4a635f45E71E59BF7E110A2", "name": "FeeManager", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/2/2022"}
 {"address": "0xf95d5d504db024caf4756808801c59c526410df2", "name": "ShibBurn", "compiler": "0.8.5", "balance": "0.000011054280823829 ETH", "txcount": 19, "settings": "-", "date": "12/2/2022"}
 {"address": "0x9988947e03B31e7D641f2fE730bABd732a240265", "name": "BuscandoamericadesarrolloContract", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/2/2022"}
+{"address": "0x5e68192025d9efa3288a8545dbd6d45a1e539dc0", "name": "RubisProtocol", "compiler": "0.8.16", "balance": "0 ETH", "txcount": 17, "settings": "-", "date": "12/2/2022"}
+{"address": "0x64c3B8F7e55b42Ae4a2EEe7AF9cD9fb1779eB47b", "name": "StrategySushiWethWbtc", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/2/2022"}
+{"address": "0x4645056EfeDdC63573d80CE64D5e524D27D87650", "name": "StrategySushiWethUsdt", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/2/2022"}
+{"address": "0x29Dbbb1C7dC2eEBC95Fd5a31F6aDe652d0acEa91", "name": "StrategySushiWethUsdc", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/2/2022"}
+{"address": "0xebe26D802a7366a90CC65198E720Bb2B38e6aa00", "name": "StrategySushiWethDai", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/2/2022"}
+{"address": "0x1793F72840c11229856474A7F8390b2c922D1C1b", "name": "NFTMarketplace", "compiler": "0.8.16", "balance": "0 ETH", "txcount": 10, "settings": "", "date": "12/2/2022"}
+{"address": "0xcdf0bda38eb465ec17eda5b25830197075f4cabc", "name": "KeeperGelatoEndEpoch", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/2/2022"}
+{"address": "0x4208cd74b0de2880d7b69700b749c2962381bd80", "name": "KeeperGelatoDepeg", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/2/2022"}
+{"address": "0x656488c0e45eec4f1a5a46b4541f81fba1873f11", "name": "Controller", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/2/2022"}
+{"address": "0xb30fd345fcd25104424c86d2d28ecabb09c6bf1e", "name": "VaultFactory", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "12/2/2022"}
+{"address": "0xb9587524ad38ee3862b9a916bde22d77bf033732", "name": "KeeperGelatoEndEpoch", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/2/2022"}
+{"address": "0xb969f4fe70e629919c7c64be6abea0a6fb9520ce", "name": "KeeperGelatoDepeg", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/2/2022"}
+{"address": "0x49adcde030d396e2f98e91f57f34ce55db13ee9c", "name": "Controller", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/2/2022"}
+{"address": "0xf13bff0f81c82c561d4f5b08f550c0107af53b57", "name": "VaultFactory", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "12/2/2022"}
+{"address": "0xaAD4617eE7f026f33f8778a40EB1D66E86910197", "name": "ChowChowNFT", "compiler": "0.8.1", "balance": "0.04 ETH", "txcount": 17, "settings": "", "date": "12/2/2022"}
+{"address": "0x72c3205acf3eb2b37b0082240bf0b909a46c0993", "name": "Primapes", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 6, "settings": "-", "date": "12/2/2022"}
+{"address": "0xe1f7F6BEAB979ED13e055EF5BeaA83Ebc427D3Ff", "name": "DONTBUY", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 17, "settings": "", "date": "12/2/2022"}
+{"address": "0xdE93537393aCC0f944f6eA4b64cA30D7eF73cC9c", "name": "GmxVault", "compiler": "0.8.12", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/2/2022"}
+{"address": "0x4c8053bE7F94Dc09Bacc9b25185691E9FeeF69E7", "name": "NFTMarketplace", "compiler": "0.8.16", "balance": "0 ETH", "txcount": 7, "settings": "", "date": "12/2/2022"}
+{"address": "0x93dfaf07ac9a57c0390228bdaee4513b31dde1dc", "name": "MiniDoge", "compiler": "0.8.5", "balance": "0.000093279113072973 ETH", "txcount": 8, "settings": "-", "date": "12/2/2022"}
+{"address": "0xC20129f1dd4DFeD023a6d6A8de9d54A7b61af5CC", "name": "Vyper_contract", "compiler": "vyper:0.3.7", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/2/2022"}
+{"address": "0x77466a50acc5f06bd8eaa1381acdecc0720b6322", "name": "Lendgine", "compiler": "0.8.17", "balance": "-", "txcount": 0, "settings": "", "date": "12/2/2022"}
+{"address": "0x9cc2b5d316cfe4334d4973f977c1e8d31e7a6d35", "name": "Pair", "compiler": "0.8.17", "balance": "-", "txcount": 0, "settings": "", "date": "12/2/2022"}
+{"address": "0x485A129392104c4B83322E98cF8632953F147Bf5", "name": "ContangoYieldQuoter", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/2/2022"}
