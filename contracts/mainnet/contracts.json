@@ -11484,3 +11484,6 @@
 {"address": "0xd7ccd71aec0c8afaf79c486de1999e4d0ace6c64", "name": "ArbitrumBitcoinAndStakingAuctions", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "12/2/2022"}
 {"address": "0xac7c0052a803693b9c5af6bc8dd81abbcb1cfa5d", "name": "ArbitrumBitcoinAndStakingRewards", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/2/2022"}
 {"address": "0x49cd1f16977dbb37d17db3507268187173f48289", "name": "ArbitrumBitcoinAndStakingRewards2", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/2/2022"}
+{"address": "0x12118af4b0360ff89816d23922c70ca83628f19d", "name": "HOOK", "compiler": "0.4.26", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/3/2022"}
+{"address": "0x6e41FdC003556a152A1820fD1f7dC0DB5fCF90F4", "name": "ArbV2", "compiler": "0.8.12", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/3/2022"}
+{"address": "0x9f1b96f659730ef88fb8553fcd3b16ef1ecacbb1", "name": "AaveBorrowPositionManager", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/3/2022"}
