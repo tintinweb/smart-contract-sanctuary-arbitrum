@@ -11475,3 +11475,12 @@
 {"address": "0x843c10d8d996782c99dAcdE039D32cDFeC0E784D", "name": "ACMasterChefERC20", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 4, "settings": "", "date": "12/2/2022"}
 {"address": "0x21216C63034231193276354fD084C05036787e1E", "name": "ACMasterChefLP", "compiler": "0.8.9", "balance": "-", "txcount": 0, "settings": "", "date": "12/2/2022"}
 {"address": "0x3065730445F5DC4Aa7332872132CdFa34Ae8edb7", "name": "ACMasterChefLP", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "12/2/2022"}
+{"address": "0x5335D68f425ca2FeE81a90b67656fF934D609089", "name": "FeedVillageV2XPartyhat", "compiler": "0.8.9", "balance": "0.03 ETH", "txcount": 9, "settings": "", "date": "12/3/2022"}
+{"address": "0x3efc7ff5a85e6bfa11ebf9e073923d163d84801a", "name": "NasalisEnriched", "compiler": "0.8.7", "balance": "5.46 ETH", "txcount": 420, "settings": "-", "date": "12/3/2022"}
+{"address": "0xe672445E0f4dB04D5D5DA1102D26AA1652b5F4E6", "name": "Xocolatl", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "12/3/2022"}
+{"address": "0xabf84ff52631c923fb969de441fd0ef8dfca6018", "name": "balHelper", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/2/2022"}
+{"address": "0xb40fee8e0fbc58c7f4b6c144313874ccf91593eb", "name": "ArbitrumBitcoinAndStaking", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 10, "settings": "", "date": "12/2/2022"}
+{"address": "0x9a2e2547bd2891e48ea6aea19ee6c1f1df143872", "name": "WorldCupWager", "compiler": "0.8.1", "balance": "0 ETH", "txcount": 46, "settings": "-", "date": "12/2/2022"}
+{"address": "0xd7ccd71aec0c8afaf79c486de1999e4d0ace6c64", "name": "ArbitrumBitcoinAndStakingAuctions", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "12/2/2022"}
+{"address": "0xac7c0052a803693b9c5af6bc8dd81abbcb1cfa5d", "name": "ArbitrumBitcoinAndStakingRewards", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/2/2022"}
+{"address": "0x49cd1f16977dbb37d17db3507268187173f48289", "name": "ArbitrumBitcoinAndStakingRewards2", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/2/2022"}
