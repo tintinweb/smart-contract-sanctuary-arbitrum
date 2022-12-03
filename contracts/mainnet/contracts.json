@@ -11487,3 +11487,26 @@
 {"address": "0x12118af4b0360ff89816d23922c70ca83628f19d", "name": "HOOK", "compiler": "0.4.26", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/3/2022"}
 {"address": "0x6e41FdC003556a152A1820fD1f7dC0DB5fCF90F4", "name": "ArbV2", "compiler": "0.8.12", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/3/2022"}
 {"address": "0x9f1b96f659730ef88fb8553fcd3b16ef1ecacbb1", "name": "AaveBorrowPositionManager", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/3/2022"}
+{"address": "0xC14d120dE6068463A82Fd0935258F6eC18762056", "name": "Sedn", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "12/3/2022"}
+{"address": "0x007f7a1cb838a872515c8ebd16be4b14ef43a222", "name": "BondFixedTermSDA", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/3/2022"}
+{"address": "0x007fea32545a39ff558a1367bbbc1a22bc7abefd", "name": "BondFixedExpirySDA", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/3/2022"}
+{"address": "0x007f7735baf391e207e3aa380bb53c4bd9a5fed6", "name": "BondFixedTermTeller", "compiler": "0.8.15", "balance": "-", "txcount": 0, "settings": "", "date": "12/3/2022"}
+{"address": "0xd525c81912e242d0e86bc6a05e97a7c9ad747c48", "name": "ERC20BondToken", "compiler": "0.8.15", "balance": "-", "txcount": 0, "settings": "", "date": "12/3/2022"}
+{"address": "0x007fe70dc9797c4198528ae43d8195fff82bdc95", "name": "BondFixedExpiryTeller", "compiler": "0.8.15", "balance": "-", "txcount": 0, "settings": "", "date": "12/3/2022"}
+{"address": "0x007a66a2a13415db3613c1a4dd1c942a285902d1", "name": "BondAggregator", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "12/3/2022"}
+{"address": "0x007a0f48a4e3d74ab4234adf9ea9eb32f87b4b14", "name": "RolesAuthority", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 14, "settings": "", "date": "12/3/2022"}
+{"address": "0xb8f04650633b6dB7D71e7E20e3Ab3CD9e301f01C", "name": "SwapFactory", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 4, "settings": "", "date": "12/3/2022"}
+{"address": "0xCAaFCAb83DdC870e29c6a16c2B5FD27e6564a9e3", "name": "Bullrun", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 4, "settings": "", "date": "12/3/2022"}
+{"address": "0x0baafd44eba7864aec54f8b196013ad658d72106", "name": "multiTransferETH", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "12/3/2022"}
+{"address": "0xd5df9d0f318ee8c23e046fc3250f594738ed34f8", "name": "TokenPreSale", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "12/3/2022"}
+{"address": "0x2751200Afc21f4502A0f5890E90169e5EE9D2F28", "name": "Proxy", "compiler": "0.8.17", "balance": "0.0089359349 ETH", "txcount": 1, "settings": "", "date": "12/3/2022"}
+{"address": "0xe041408b924D0875c154FeAD1486fE586b88408D", "name": "ShrohmsMinter", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 7, "settings": "", "date": "12/3/2022"}
+{"address": "0xC2BC7184F0D08b19D4647cd19ddF53230b6e1090", "name": "DelegateModule", "compiler": "0.8.17", "balance": "-", "txcount": 0, "settings": "-", "date": "12/3/2022"}
+{"address": "0xaAcA03Ceb51ccf9868D581aB05BBC841b9CAD821", "name": "ArbRelayerModule", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 4, "settings": "", "date": "12/3/2022"}
+{"address": "0x3e3CC2B9A9728c5fE2111002F83F2E3575939332", "name": "Identity", "compiler": "0.8.17", "balance": "-", "txcount": 0, "settings": "-", "date": "12/3/2022"}
+{"address": "0x9dEa56DC6Ba9ad73C99eAaCC81da0082c89cBd3f", "name": "LockManager", "compiler": "0.8.17", "balance": "-", "txcount": 0, "settings": "", "date": "12/3/2022"}
+{"address": "0x7515E9Dbb79147526BD531b620648AC179F6b354", "name": "ModuleManager", "compiler": "0.8.17", "balance": "-", "txcount": 0, "settings": "", "date": "12/3/2022"}
+{"address": "0xE05141bfcDEEe43e490Fd03E96E45190F94af2e4", "name": "ModuleRegistry", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 2, "settings": "-", "date": "12/3/2022"}
+{"address": "0x0Fa5093827851bD55C9D286d1D743927974592C1", "name": "IdentityProxyFactory", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "12/3/2022"}
+{"address": "0x469ce41cae81fce5bb09633f0f09ab913a38300b", "name": "SwapFactory", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/3/2022"}
+{"address": "0x150468a2aadba79ef462bd62185afec20ee22e47", "name": "SwapFactory", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/3/2022"}
