@@ -11553,3 +11553,7 @@
 {"address": "0x3df413A79054Cd5a41c09161cB49CF3026D03c24", "name": "Helper", "compiler": "0.8.12", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/3/2022"}
 {"address": "0x2A3C23369e31758009dC8a6322418A1BaF3021D0", "name": "Bank", "compiler": "0.8.12", "balance": "0 ETH", "txcount": 3, "settings": "", "date": "12/3/2022"}
 {"address": "0x712fd1eBB670e71B18a6369Ce3C63c5D5B93369E", "name": "DSD", "compiler": "0.8.12", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "12/3/2022"}
+{"address": "0x67854e140750d376b95bcd59d4c6ce29a203f6b3", "name": "ArbitrumTokenBundles", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "12/4/2022"}
+{"address": "0xD8F9C59176AE25414FC4180f6433Fc45b0cbb632", "name": "DolomiteAmmRouterProxy", "compiler": "0.5.16", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/4/2022"}
+{"address": "0xc6e903ae835dc286b4d2f54bb3a3dca38eb9d548", "name": "GMXinu", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 11, "settings": "", "date": "12/4/2022"}
+{"address": "0x1431749E3ff60BaF3264003bEBeA8927d005F214", "name": "TradeableReadONREADVoucher", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/4/2022"}
