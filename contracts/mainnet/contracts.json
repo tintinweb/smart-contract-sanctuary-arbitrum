@@ -11599,3 +11599,8 @@
 {"address": "0x1aff8fe14a972164c16b2fb25300e0cbb9e699fa", "name": "CryptoSchool", "compiler": "0.8.0", "balance": "0 ETH", "txcount": 3, "settings": "", "date": "12/4/2022"}
 {"address": "0x7de7d7631122621838216c8d9fbe8464395b30b2", "name": "CryptoSchool", "compiler": "0.8.0", "balance": "0 ETH", "txcount": 3, "settings": "", "date": "12/4/2022"}
 {"address": "0x27cb1294340f982e57bf0c53cb96747f6bc370f0", "name": "CryptoSchool", "compiler": "0.8.0", "balance": "0 ETH", "txcount": 3, "settings": "", "date": "12/4/2022"}
+{"address": "0xEc8A60f3E434633B9f09Bf8E2C6d7A055d4bB42e", "name": "LiquidityLocker", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "12/4/2022"}
+{"address": "0xb52545d18fc5a4cc00b6ac649779052b06c9bebd", "name": "balHelper", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/4/2022"}
+{"address": "0x8da1Dd6967E018C9d9E31aA1C9e3fc51b95Be3C9", "name": "Holder", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/4/2022"}
+{"address": "0x01aff1f8222b663db364cab3c011562d2119b8b4", "name": "ArbitrumBitcoinAndStaking", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 3, "settings": "", "date": "12/4/2022"}
+{"address": "0x5656ccce1fbe9625f7d981645ba58985ab9ee7a6", "name": "balHelper", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/4/2022"}
