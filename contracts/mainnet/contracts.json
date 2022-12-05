@@ -11653,3 +11653,13 @@
 {"address": "0xf655c8567e0f213e6c634cd2a68d992152161dc6", "name": "BDeployer", "compiler": "0.5.16", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/5/2022"}
 {"address": "0x9708E0B216a88D38d469B255cE78c1369ad898e6", "name": "Factory", "compiler": "0.5.16", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "12/5/2022"}
 {"address": "0x87e48B5220bC027011Bed6Ba8c9bF3D954B17BEE", "name": "FlywheelEmissions", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/5/2022"}
+{"address": "0xA6d2Dea2Aa6BA9f92048a81914e8c5395c27aB15", "name": "NomisScore", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 2, "settings": "-", "date": "12/5/2022"}
+{"address": "0x75c2CaE3B27fa1c1e2C4Cc803431fb541FF7825B", "name": "Native_Autocompound", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 4, "settings": "", "date": "12/5/2022"}
+{"address": "0x3E413242CbB28965724A0f8578B6296b6453868C", "name": "Native_Autocompound", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 8, "settings": "", "date": "12/5/2022"}
+{"address": "0x08C3c246D2EAd3a3F1dd2b644494Ca2F8B3B4ba3", "name": "Native_Autocompound", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "12/5/2022"}
+{"address": "0x64d02377e3a28141c4e4663dc7f107de010d4369", "name": "BeefyUniV2Zap", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 3, "settings": "", "date": "12/5/2022"}
+{"address": "0x0a509A87D4B43ae372A93dC92575068e975cDd6C", "name": "RewardVault", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 5, "settings": "", "date": "12/5/2022"}
+{"address": "0x9e6eF7F75ad88D4Edb4C9925C94B769C5b0d6281", "name": "SpaceStationV2", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 1852103, "settings": "", "date": "12/5/2022"}
+{"address": "0x7b8535e6cbbFF6eB67b2b24ae471e84D5238A62a", "name": "NonFungibleFarm", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 33, "settings": "", "date": "12/5/2022"}
+{"address": "0xb1c5b2ca2f0af1424897ab7377cbeda4ab9a6699", "name": "BatchNFTMinter", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/5/2022"}
+{"address": "0xaBF694A434E0fE3b951409C01aa2db50Af4D2E3A", "name": "MakerRegistry", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/5/2022"}
