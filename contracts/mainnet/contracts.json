@@ -11604,3 +11604,12 @@
 {"address": "0x8da1Dd6967E018C9d9E31aA1C9e3fc51b95Be3C9", "name": "Holder", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/4/2022"}
 {"address": "0x01aff1f8222b663db364cab3c011562d2119b8b4", "name": "ArbitrumBitcoinAndStaking", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 3, "settings": "", "date": "12/4/2022"}
 {"address": "0x5656ccce1fbe9625f7d981645ba58985ab9ee7a6", "name": "balHelper", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/4/2022"}
+{"address": "0x8528d5a340Bef2e50844CDABdFa21bC6B57c3982", "name": "SafeboxFactory", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/5/2022"}
+{"address": "0x9802cBf6480FE2a0c69740Bc8008739DfF1E7CEF", "name": "ZKPass", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "12/5/2022"}
+{"address": "0x9DAA92FCa3f3F78321f2e69C04cc8CA19927899e", "name": "LibGmx", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/5/2022"}
+{"address": "0xa5D612Dd847Dc2E32bFA9AF12d4A82F91AA03629", "name": "ProxyFactory", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/5/2022"}
+{"address": "0x81CE58B23FC61a78C38574F760d8D77530f1EF9D", "name": "GmxAdapter", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/5/2022"}
+{"address": "0x5bbaCd2f580C9868A499D50880ef1EE88F302B3e", "name": "QuixoticLaunchpadERC721", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 8, "settings": "-", "date": "12/5/2022"}
+{"address": "0x7dc24Bc2Cc4C171828d38b2e046A607A427396e5", "name": "AutoGLP", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 4, "settings": "", "date": "12/5/2022"}
+{"address": "0x39e2A7832f230bc5fe7FB93382f0f5d59c369c21", "name": "TokenSwapper", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/5/2022"}
+{"address": "0xF88D64afbE4bAa6A39f140491AF860f6C759A5d2", "name": "AutoGLP", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "12/5/2022"}
