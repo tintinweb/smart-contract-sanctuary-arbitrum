@@ -11613,3 +11613,15 @@
 {"address": "0x7dc24Bc2Cc4C171828d38b2e046A607A427396e5", "name": "AutoGLP", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 4, "settings": "", "date": "12/5/2022"}
 {"address": "0x39e2A7832f230bc5fe7FB93382f0f5d59c369c21", "name": "TokenSwapper", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/5/2022"}
 {"address": "0xF88D64afbE4bAa6A39f140491AF860f6C759A5d2", "name": "AutoGLP", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "12/5/2022"}
+{"address": "0xf5d287F0e7B2C343AEB99FF233B11B5B8f664095", "name": "Native_Autocompound", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "12/5/2022"}
+{"address": "0x1544223c90b955D0764da4Bd147c2Aa0151458C5", "name": "CSMCrossChainRouter", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 10, "settings": "", "date": "12/5/2022"}
+{"address": "0x6bF2BC4F96B374c0ae92a07fC8B93B2172837202", "name": "SpritzPayV2", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/5/2022"}
+{"address": "0xD806a4a473E44578796898A4c546f575D7247b2B", "name": "ERC677GatewayFactory", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/5/2022"}
+{"address": "0x3129662808bEC728a27Ab6a6b9AFd3cBacA8A43c", "name": "ERC1155GatewayFactory", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/5/2022"}
+{"address": "0xa87827eFCAc7AB82992665fc178CCa16843Fe353", "name": "ERC721GatewayFactory", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/5/2022"}
+{"address": "0x9080A820bEA1bD15105c1CF749Bb0c428E3B7c4C", "name": "CSMCrossChainRouter", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 10, "settings": "", "date": "12/5/2022"}
+{"address": "0xB01371072fDcB9B4433b855e16A682B461F94AB3", "name": "ERC20GatewayFactory", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/5/2022"}
+{"address": "0x58c1BBb508e96CfEC1787Acf6Afe1C7008A5B064", "name": "FactoryPortal", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/5/2022"}
+{"address": "0x34938bb20fe8871cd50408eea28db51ac60ba09e", "name": "ShibaSword", "compiler": "0.8.1", "balance": "0 ETH", "txcount": 5, "settings": "-", "date": "12/5/2022"}
+{"address": "0xebd1a5baa1cc6b6b693053cded92b7f7ef99af8a", "name": "Livio", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 3, "settings": "-", "date": "12/5/2022"}
+{"address": "0x0dfc6c068751392972ca0d90bfbaa0093fbb8fbf", "name": "BasicToken", "compiler": "0.4.16", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "12/5/2022"}
