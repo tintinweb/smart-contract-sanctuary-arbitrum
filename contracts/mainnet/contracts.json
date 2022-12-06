@@ -11709,3 +11709,23 @@
 {"address": "0xBeC03E567e7446F3AB51E5AfAe53e955De78fec4", "name": "LiquidityPoolShutdownModule", "compiler": "0.7.4", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/6/2022"}
 {"address": "0x491580BF00c6a0a2D807D542a194d91232702080", "name": "RecurringSwapV1", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 7, "settings": "", "date": "12/6/2022"}
 {"address": "0x8bf85871ec2ddbb56474ef8bd5aa59dc1ec22dd9", "name": "SantaShib", "compiler": "0.8.5", "balance": "0.000007374649791107 ETH", "txcount": 4, "settings": "-", "date": "12/6/2022"}
+{"address": "0x75f2b2e9112B508bf0deC7fCE959Cf417CAfC526", "name": "ZapperArbitrum", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "12/6/2022"}
+{"address": "0xe48347fc02117303dfe10a801ab539d414bf39dc", "name": "Lendgine", "compiler": "0.8.17", "balance": "-", "txcount": 0, "settings": "", "date": "12/6/2022"}
+{"address": "0x0a2a65259ea7d5c052745c7ea3d617f4ab3bfaa0", "name": "Pair", "compiler": "0.8.17", "balance": "-", "txcount": 0, "settings": "", "date": "12/6/2022"}
+{"address": "0x9abf798f5314bfd793a9e57a654bed35af4a1d60", "name": "AaveParaswapFeeClaimer", "compiler": "0.8.16", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/6/2022"}
+{"address": "0x3a93909038968fd18f7fe89648cc3cddbfef765d", "name": "CBDC", "compiler": "0.4.26", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/6/2022"}
+{"address": "0x39b8dA5cc747144600D288D2f8Fe7a3527e4C9ee", "name": "OracleFacet", "compiler": "0.8.16", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/6/2022"}
+{"address": "0x83e48343CAdA1698BF5596Cf9C96ed0684658874", "name": "LiquidationFacet", "compiler": "0.8.16", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/6/2022"}
+{"address": "0x30e7605168d8875bdfe9435582dd6A28EA51035D", "name": "ConstantsFacet", "compiler": "0.8.16", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/6/2022"}
+{"address": "0x723a9d120ed2cd90ac550d779375f6178bfd86e3", "name": "RewardsController", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/6/2022"}
+{"address": "0x30807F50e088aCDb2098b1e114c80B303C3C3F85", "name": "PerpReferrals", "compiler": "0.8.16", "balance": "0 ETH", "txcount": 3, "settings": "", "date": "12/6/2022"}
+{"address": "0x05e5Eed34F70d2ee0b700eD8f337F07d975bA5Fc", "name": "JITManager", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 3, "settings": "-", "date": "12/6/2022"}
+{"address": "0xa028B56261Bb1A692C06D993c383c872B51AfB33", "name": "InsuredLongsUtils", "compiler": "0.8.14", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "12/6/2022"}
+{"address": "0x9009e7cCb5621a15F913363652631fc238dC09D9", "name": "AtlanticPutsPool", "compiler": "0.8.14", "balance": "0 ETH", "txcount": 13, "settings": "", "date": "12/6/2022"}
+{"address": "0xb54f8134f8a52C92f11E0b47D6C77CEE9C7F5dDE", "name": "InsuredLongsStrategy", "compiler": "0.8.14", "balance": "0.0001 ETH", "txcount": 53, "settings": "", "date": "12/6/2022"}
+{"address": "0xf2306090b02AFD0559F68eCAB6A3c02Bb765Ea9c", "name": "LiquidityLockerUpgradable", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/6/2022"}
+{"address": "0xc97f6cc7e9ac90d092c3b19891e0740bb6913f83", "name": "StrategyUniswapV3", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "12/6/2022"}
+{"address": "0x256a40902E8FE9378bEA118A8059860d01dB543e", "name": "DnGmxJuniorVaultManager", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/6/2022"}
+{"address": "0xdad835cbb09ddd9aa554ad58f3d27d5b2ff52cec", "name": "StrategySushiswap", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "12/6/2022"}
+{"address": "0x25002Bc9266ac29D10eb655FE959902D650f9Fe0", "name": "LockRewards", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 4, "settings": "", "date": "12/6/2022"}
+{"address": "0x98E382474385C68687C99634caA780E28F56F49c", "name": "PancakeSwapLottery", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 5, "settings": "", "date": "12/6/2022"}
