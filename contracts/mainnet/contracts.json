@@ -11701,3 +11701,11 @@
 {"address": "0xff3AF7D09c33Fb5e27C2775e0ED8fA6eaD4dAA94", "name": "CErc20Delegate", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/5/2022"}
 {"address": "0x11caD8E4323123E12E33C88A79D97D55cd6f91aC", "name": "CompoundLens", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/5/2022"}
 {"address": "0x97D78a820fE60D49215E26f85f8bFb0965e00C90", "name": "UniswapV3ArbitrumUsdcUsdt", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/5/2022"}
+{"address": "0x810aac3288caecbca8e0941175aad669cf101e79", "name": "CallbackForwarder", "compiler": "0.8.14", "balance": "0.0006 ETH", "txcount": 64, "settings": "", "date": "12/6/2022"}
+{"address": "0x69535e2BD07231c671C25bE52342f07Ad1cC52ce", "name": "Faucet", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 2, "settings": "-", "date": "12/6/2022"}
+{"address": "0x4f4061e861fC0b7Bf7A2df8C7568B068248f3E5B", "name": "DVFCrossSwap", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/6/2022"}
+{"address": "0xD748F6208722FC06eD7B801F1b23DF3da9A56478", "name": "DnGmxRouter", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 5, "settings": "-", "date": "12/6/2022"}
+{"address": "0xCA19b8678A278dfb5db02EBb9B65448FF112315d", "name": "LiquidityPoolShutdown", "compiler": "0.7.4", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/6/2022"}
+{"address": "0xBeC03E567e7446F3AB51E5AfAe53e955De78fec4", "name": "LiquidityPoolShutdownModule", "compiler": "0.7.4", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/6/2022"}
+{"address": "0x491580BF00c6a0a2D807D542a194d91232702080", "name": "RecurringSwapV1", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 7, "settings": "", "date": "12/6/2022"}
+{"address": "0x8bf85871ec2ddbb56474ef8bd5aa59dc1ec22dd9", "name": "SantaShib", "compiler": "0.8.5", "balance": "0.000007374649791107 ETH", "txcount": 4, "settings": "-", "date": "12/6/2022"}
