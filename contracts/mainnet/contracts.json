@@ -11805,3 +11805,21 @@
 {"address": "0xD8d479F10379d3B7a84dd24DbB4327745bcE314b", "name": "WithdrawPeriphery", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 3, "settings": "", "date": "12/7/2022"}
 {"address": "0x70AbC81CBDFAd4EcFEA956aaFbD3C9ed9C73Ed04", "name": "DnGmxJuniorVaultManager", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/7/2022"}
 {"address": "0x9B381A96FD6fb410Fb9Fd60eFcf71B95ac58f3A7", "name": "DepositPeriphery", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 3, "settings": "", "date": "12/7/2022"}
+{"address": "0xdbf4c398cfeae128bd775b496599d7ad0009d8cf", "name": "testToken", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/7/2022"}
+{"address": "0xb152059aa5092ad25ff1581a7907180f4eb55494", "name": "BeefyCrossChainZap", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/7/2022"}
+{"address": "0x60252bf6992e492DEa5f3e02e6611a5C757De690", "name": "AxelarGateway", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/7/2022"}
+{"address": "0xd51e766137ca16be4da80678be05902c5ab53663", "name": "OracleUniswapV3", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/7/2022"}
+{"address": "0x8baef808269db0eb378db16e20875be98f9d850e", "name": "StrategyUniswapV3", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "12/7/2022"}
+{"address": "0x34a2C4CC56A7B468814533B660FD759c0c4ca0c6", "name": "Native_Autocompound", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 5, "settings": "", "date": "12/7/2022"}
+{"address": "0xc2a19085610a98ff3f56d91363793d58036b11b0", "name": "Holydoge", "compiler": "0.8.1", "balance": "0 ETH", "txcount": 26, "settings": "-", "date": "12/7/2022"}
+{"address": "0xb7f8d488a13fbc4c89251d5ef46994a30c816c5d", "name": "FLOKMAS", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 18, "settings": "", "date": "12/7/2022"}
+{"address": "0x537AF717cD649aE3307FcFD9c078e817df8B646C", "name": "ZKEdition", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/7/2022"}
+{"address": "0xBa489B949294b3BE8F0413FF2a734a823845A2DC", "name": "DCNT4907A", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/7/2022"}
+{"address": "0x7f6c3D5c5524b6B48607Ef617F3c311FFd6D0588", "name": "DCNT721A", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/7/2022"}
+{"address": "0x3a50cf8122B89dc8785770Cf8A8c07d5C0627c72", "name": "DCNTSDK", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/7/2022"}
+{"address": "0xecd0b4583c2eb23d6b9cf3a480567e061636e3b4", "name": "BETAToken", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "12/7/2022"}
+{"address": "0xe82e6a75a4f11f8f36c6bbe01fb4c4e30653363c", "name": "StargateCurveDepositor", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 5, "settings": "", "date": "12/7/2022"}
+{"address": "0x8e140cCe7b194a507960cc746E83dAf296B0CEF7", "name": "TupleHelpers", "compiler": "0.8.16", "balance": "-", "txcount": 0, "settings": "", "date": "12/7/2022"}
+{"address": "0x5012E9A673f11aF27b1d353EeFd4542e7ac6d553", "name": "SignedMathHelpers", "compiler": "0.8.16", "balance": "-", "txcount": 0, "settings": "", "date": "12/7/2022"}
+{"address": "0x7CA714435CceCdb4969A66Ed72CAf8b7A8241B14", "name": "PercentageMathHelpers", "compiler": "0.8.16", "balance": "-", "txcount": 0, "settings": "", "date": "12/7/2022"}
+{"address": "0x2b7f5C0ae63365eb033bbC2e67821d3a6650986f", "name": "EnsoShortcutsHelpers", "compiler": "0.8.16", "balance": "-", "txcount": 0, "settings": "", "date": "12/7/2022"}
