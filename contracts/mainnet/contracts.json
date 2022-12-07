@@ -11778,3 +11778,14 @@
 {"address": "0x1fE825F1EC6B0a244F0DC7b946EE71FEeAd217dD", "name": "Gmdp", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 27, "settings": "", "date": "12/6/2022"}
 {"address": "0x96f3E9F7409a279B56065D27AE20B56712FBB94D", "name": "BalancerVaultUpgradable", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "12/6/2022"}
 {"address": "0x5300fc0e4290d8e76047b4ac4917622660e5ff07", "name": "BEP20Token", "compiler": "0.5.16", "balance": "0 ETH", "txcount": 4, "settings": "-", "date": "12/6/2022"}
+{"address": "0xb810dcbdf2c40f7327ce74074d233e2637e69cc8", "name": "Storage", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 4, "settings": "-", "date": "12/7/2022"}
+{"address": "0x61F8c8F96EAbDc3bd7958D93462530E073bc94e8", "name": "LpForSolidAuction", "compiler": "0.8.11", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "12/7/2022"}
+{"address": "0xA39342ed140d01E06097f6d10d892C3AbF413D2f", "name": "CallDataExecutor", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/7/2022"}
+{"address": "0x0cABE7a2965c3C442caEE92e4bC0d0523fa916d1", "name": "PriceTracker", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/7/2022"}
+{"address": "0x84249986E52c121da71cfB349CaE3F1cCF664fF3", "name": "SwitchEvent", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 10, "settings": "", "date": "12/7/2022"}
+{"address": "0xC9187FFBa769efC31a27b92B99442BC0ab3D22Fb", "name": "TradeableReadONREADVoucher", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/7/2022"}
+{"address": "0x7894a0c41554bE1171B5849e1C731C161e17a4a5", "name": "VeSolidEscrowManager", "compiler": "0.8.11", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "12/7/2022"}
+{"address": "0x54300D53eF5ac0d44992b2C0345D5fcfD86f89B0", "name": "LpForSolidAuction", "compiler": "0.8.11", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "12/7/2022"}
+{"address": "0xbec8e19a4e85fb3a4e2105b10ec4c170300ecd6b", "name": "UtoolsMultiSenderProxy", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/7/2022"}
+{"address": "0x89Ee44Db73EDE07383fB1cD9DeE7947C68506344", "name": "ReadONArchive", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/7/2022"}
+{"address": "0x7e43050ec19bc2c0b0db829b20e3b2912e0bef9d", "name": "Vault", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 33, "settings": "-", "date": "12/7/2022"}
