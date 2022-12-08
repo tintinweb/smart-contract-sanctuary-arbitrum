@@ -11823,3 +11823,36 @@
 {"address": "0x5012E9A673f11aF27b1d353EeFd4542e7ac6d553", "name": "SignedMathHelpers", "compiler": "0.8.16", "balance": "-", "txcount": 0, "settings": "", "date": "12/7/2022"}
 {"address": "0x7CA714435CceCdb4969A66Ed72CAf8b7A8241B14", "name": "PercentageMathHelpers", "compiler": "0.8.16", "balance": "-", "txcount": 0, "settings": "", "date": "12/7/2022"}
 {"address": "0x2b7f5C0ae63365eb033bbC2e67821d3a6650986f", "name": "EnsoShortcutsHelpers", "compiler": "0.8.16", "balance": "-", "txcount": 0, "settings": "", "date": "12/7/2022"}
+{"address": "0x2AB5fBc64784AfF93A9201285FAdA9CcA94728cC", "name": "DnGmxJuniorVault", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/8/2022"}
+{"address": "0x66AcA71A2E62022f9F23a50aB737dED372aD00cF", "name": "DnGmxSeniorVault", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/8/2022"}
+{"address": "0x8f667FEA7D4019A9A7d93bF6E91d99ab5473AAa4", "name": "DnGmxJuniorVaultManager", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/8/2022"}
+{"address": "0xed5db47F41539768dD782467Cd337BE63b0A5e94", "name": "DnGmxBatchingManager", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/8/2022"}
+{"address": "0xfD9a56eEEeb588fF54c63C6FfB8f87Ff8775e167", "name": "VaultLib", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/8/2022"}
+{"address": "0x2687200E502DF96AC8F85B6e5F3403D00Ab608E7", "name": "PositionLib", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/8/2022"}
+{"address": "0xDeD94001deC081655EE43078040ef0E3A21a3eA7", "name": "LiquidationLogic", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/8/2022"}
+{"address": "0x3e97bA3ADb6b9e70e38846451005f5Aa826DC0f0", "name": "Controller", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 15, "settings": "", "date": "12/8/2022"}
+{"address": "0x53e5DE436FFE10D10E121dc6d20c45aFC6bbf613", "name": "UpdatePositionLogic", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/8/2022"}
+{"address": "0xF95435dbDd10470A6258458Fea00442e7e7c4aF5", "name": "PositionUpdater", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/8/2022"}
+{"address": "0x561B0D1A71b1F9dEF3a7494b269b8efc237C0242", "name": "ChowShares", "compiler": "0.8.4", "balance": "0.01581340004259115 ETH", "txcount": 27, "settings": "", "date": "12/8/2022"}
+{"address": "0xE6a8E437E92D741Df01Eaf4bfD4Ff2Bd26EBB71e", "name": "SharesDist", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 4, "settings": "", "date": "12/8/2022"}
+{"address": "0x390B7630f5350Dca9b3950931A77c0be344F6C1D", "name": "IterableMapping", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/8/2022"}
+{"address": "0x9c3182819a78c00a21fCAAfd16C7657886161A9f", "name": "InterestCalculator", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/8/2022"}
+{"address": "0x241cD1944dbAFaA9Fe86106D93dd2bB549ea20a4", "name": "BeefyCrossChainZap", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "12/8/2022"}
+{"address": "0x5f868D8F254c02316B1bbc0D00df067A488D7350", "name": "MAGICpLocker", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/8/2022"}
+{"address": "0x9d1Ca927667F1283f33a53C081c738005FC0f52d", "name": "MAGICPrinter", "compiler": "0.8.17", "balance": "0.037404601362451812 ETH", "txcount": 70, "settings": "", "date": "12/8/2022"}
+{"address": "0xdb3849016b6812ed2fc0c8f1bfc2fe034be983e7", "name": "StabilizeStrategyGLPV2", "compiler": "0.6.6", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/8/2022"}
+{"address": "0xD3C204F5A926fE2178E2fCe63DCf3d4F7e0A8464", "name": "GFMMasterChef", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/8/2022"}
+{"address": "0x7C9A900a82A252D833ebc222421d6e13DCc09269", "name": "GFMUpgradeProxy", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 3, "settings": "", "date": "12/8/2022"}
+{"address": "0xbfcad87eb74e5855d72808aba3d7dd2d790ffefd", "name": "GFMToken", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 2, "settings": "-", "date": "12/8/2022"}
+{"address": "0x4632fa9D9e47E106dc13e29326ED1Bef367F0F5a", "name": "MAGICPrinter", "compiler": "0.8.17", "balance": "0.000029164431198748 ETH", "txcount": 8, "settings": "", "date": "12/8/2022"}
+{"address": "0x0000000003b49017d78475cf112682cb032ff9b1", "name": "ConditionalWager", "compiler": "0.8.17", "balance": "0.008117918574532608 ETH", "txcount": 12, "settings": "", "date": "12/8/2022"}
+{"address": "0x8DE687890686199d5e8D89A658da001aaB41127c", "name": "GLPOracle", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/8/2022"}
+{"address": "0x16ba924752EF283C7946db8A122a6742AA35C1DC", "name": "MockStaticAToken", "compiler": "0.7.1", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/7/2022"}
+{"address": "0xAB093cd16e765b5B23D34030aaFaF026558e0A19", "name": "MockAaveLendingPool", "compiler": "0.7.1", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/7/2022"}
+{"address": "0xa2D801064652A269D92EE2A59F3261155ec66830", "name": "AaveLinearPoolFactory", "compiler": "0.7.1", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "12/7/2022"}
+{"address": "0xaCE03706038CE7C68f95914C6F4a21efe336e79c", "name": "uspehdao", "compiler": "0.4.26", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/7/2022"}
+{"address": "0x45a26e1edb532811c164d85e330333c70747a2ef", "name": "PulsarBond", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 19, "settings": "", "date": "12/7/2022"}
+{"address": "0x6473824BC8Dc618034b4fcd05Adf85B11a32445f", "name": "PulsarNFT", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 22, "settings": "", "date": "12/7/2022"}
+{"address": "0xCF1dc973c1Ff5e53D86e71259b898ffc464fe1e7", "name": "PulsarTrait", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 3, "settings": "", "date": "12/7/2022"}
+{"address": "0x326CCC79dD7386dc386EA934058448de045CB496", "name": "TreasuryBank", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "12/7/2022"}
+{"address": "0x0ae352e15d68d91df84a814c96c61961f8bd48d2", "name": "testToken", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/7/2022"}
