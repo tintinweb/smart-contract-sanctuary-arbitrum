@@ -12069,3 +12069,15 @@
 {"address": "0x58e2539632e3bcb69af5df75acab54a10e0322a6", "name": "BGMX", "compiler": "0.8.7", "balance": "0.000051088972358562 ETH", "txcount": 39, "settings": "", "date": "12/9/2022"}
 {"address": "0xA28351C8F8Ae1Ac0748f47F5F3A791E809815207", "name": "PrivateContribution", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 3, "settings": "", "date": "12/9/2022"}
 {"address": "0x8406f8d5fe3869588d5f895878745078122941e9", "name": "Adv3nturers", "compiler": "0.8.0", "balance": "0 ETH", "txcount": 8801, "settings": "-", "date": "12/9/2022"}
+{"address": "0xcdafe656e0150e7aeec590eaa344d84f0791016b", "name": "balHelper", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/9/2022"}
+{"address": "0x73d61cbdcd1ea284c86e5fcd4ace367daa3b3f77", "name": "ArbitrumBitcoinAndStakingAuctions", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "12/9/2022"}
+{"address": "0x0afaf0c46b1ca13b204a516bf5c0314674f4930d", "name": "ArbitrumBitcoinAndStaking", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 5, "settings": "", "date": "12/9/2022"}
+{"address": "0x711D31c9DB74aD7F342A7382F389e89eD5432DcE", "name": "PiratosoContract", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 3, "settings": "", "date": "12/9/2022"}
+{"address": "0xf4f8d94Dd7dcf39f40b8CDc41283B3FE43f24824", "name": "BattleflyGameV2", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/9/2022"}
+{"address": "0x9b4c4b2eade35ce2ab0bc3fb97ac81e3dba3b5b2", "name": "ConvexRewardPoolController", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/9/2022"}
+{"address": "0x30aeda69ab89402193933c82df418b419bb645f2", "name": "ConvexBoosterController", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/9/2022"}
+{"address": "0x9F7FdD8027f372eD554a37c7471546199c224881", "name": "MatrixVault", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/9/2022"}
+{"address": "0xF9177aDF1F6703813F1F60164AF0845f1e98AB43", "name": "SwapfishMatrixLpAutoCompound", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/9/2022"}
+{"address": "0x93aE54A3B571233123D8A1941417238Fe0ec5B92", "name": "MatrixVault", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "12/9/2022"}
+{"address": "0xb24bbe3b9dcbde92890fdb233ca631744fbcee37", "name": "ConvexRewardPoolOracle", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/9/2022"}
+{"address": "0x4EEFeFD5fF983C85D5DDDc398366b6Db2fa466F1", "name": "ArbTraitoors", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "12/9/2022"}
