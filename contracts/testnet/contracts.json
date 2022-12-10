@@ -9016,3 +9016,25 @@
 {"address": "0xca089c40363c2C113C37d4e5Ae74Fec98aae478A", "name": "BoltProtocol", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/8/2022"}
 {"address": "0xBCC92fA28fd7611A5B80Df40fF648BcD416a20A3", "name": "L2NftGateway", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/8/2022"}
 {"address": "0xBCaB99B40692573698dcd288f13Ef59F1Dd691A6", "name": "BoltProtocol", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/8/2022"}
+{"address": "0x46a5529be19cb8E1a3220c550ed08D7B4c226BAd", "name": "Liquidator", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "12/9/2022"}
+{"address": "0x19fa03424140684f64D475d6D2e6b42c9426d243", "name": "AssetManager", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 8, "settings": "", "date": "12/9/2022"}
+{"address": "0x654AB139B47FF652E57F2a2373d41Ad11a07DEF3", "name": "BalanceSheet", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 3, "settings": "", "date": "12/9/2022"}
+{"address": "0x9ADa5c42129367e0b73AD88722600bfC532aAD54", "name": "Qualifier", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 5, "settings": "", "date": "12/9/2022"}
+{"address": "0xcc3b43E587ED168bb9cA707Ac782503067E64C1f", "name": "Manager", "compiler": "0.8.14", "balance": "0 ETH", "txcount": 3, "settings": "", "date": "12/9/2022"}
+{"address": "0x3beed05aedf28383c9888c6f507dd3b1f38a164e", "name": "FinalFormCards", "compiler": "0.8.12", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "12/9/2022"}
+{"address": "0x3Aaf797a0833b17EA428E6A3cc9a56A0f8B4ea1D", "name": "ArbTraitoors", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/9/2022"}
+{"address": "0x1d3aAC239538e6F1831C8708803e61A9EA299Eec", "name": "V2CompatibilityRouter", "compiler": "0.8.16", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "12/9/2022"}
+{"address": "0xFF97574A6D6d2c249a902688eB925e1aCA294fDd", "name": "Controller", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/9/2022"}
+{"address": "0xD8c337F3B640E051A1B09459572664844681Bec0", "name": "UpdatePositionLogic", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/9/2022"}
+{"address": "0x0610c919A4C0Add501DE9E47381F1C8f056c399f", "name": "LiquidationLogic", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/9/2022"}
+{"address": "0x91766eBa830aaceba1A946735b8c4267ffC95816", "name": "VaultLib", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/9/2022"}
+{"address": "0xFb004485dbF16803797883B4E8ec3a89cA405fe2", "name": "PositionUpdater", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/9/2022"}
+{"address": "0x74B48c74D3dBC99CCC8293260be5E87216B6f14A", "name": "PositionLib", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/9/2022"}
+{"address": "0xc3014fd00385cFA77356be23F2fbc065f295506A", "name": "InterestCalculator", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/9/2022"}
+{"address": "0x9161C21fC44fdbEf4A2926CAd0637b8532a9e765", "name": "BattleflyGameV2", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/9/2022"}
+{"address": "0xc4dc6342F1790169540943DF26e974fBF1302215", "name": "Milady", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 16, "settings": "", "date": "12/9/2022"}
+{"address": "0x6512870c32DeA764fC2dE7CD6C37F70e4150d3D0", "name": "V2CompatibilityRouter", "compiler": "0.8.16", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "12/9/2022"}
+{"address": "0xaaCdCdE0f4c009516408ac0217a8e499840f0429", "name": "Milady", "compiler": "0.8.4", "balance": "-", "txcount": 0, "settings": "", "date": "12/9/2022"}
+{"address": "0xe8bEa99BB438C2f3D533604D33258d74d5eE4824", "name": "GovernanceStateChangeTargetStub", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/9/2022"}
+{"address": "0xD8d3b2814a81E42dD9Ffd383012856074b639A59", "name": "RelayAdapt", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/9/2022"}
+{"address": "0x6d3734c1cb5d865153490e6E710D01daE2402176", "name": "RailgunSmartWalletStub", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/9/2022"}
