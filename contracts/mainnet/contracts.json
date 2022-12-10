@@ -12112,3 +12112,15 @@
 {"address": "0x81ffbef22a83704f00a2ad9419678a9f4151deee", "name": "ArbiShib", "compiler": "0.8.16", "balance": "0 ETH", "txcount": 8, "settings": "", "date": "12/10/2022"}
 {"address": "0xd375d1314d5994aa4db7540a3e951c91c9623b1d", "name": "KaliDAOrelayer", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "12/10/2022"}
 {"address": "0x3f879b8b031d166af6fb3d91e7e3628368f146bd", "name": "KaliDAOrelayer", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 3, "settings": "", "date": "12/10/2022"}
+{"address": "0xF44fA324ab84C5813a014b12d92c5C3b6Aba164A", "name": "InuAI", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/10/2022"}
+{"address": "0x2dcb96bb763cb7e91e9c1e33b72d89ac2ed3c13c", "name": "KaliDAOrelayer", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 4, "settings": "", "date": "12/10/2022"}
+{"address": "0x2772e89B400Ecf51760fb6c0ab012471F12d520b", "name": "FishSwap", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 4, "settings": "", "date": "12/10/2022"}
+{"address": "0xf47cc7984e47139cf7ca3f3bc155c7088bb2eabe", "name": "NitroDoge", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 3, "settings": "", "date": "12/10/2022"}
+{"address": "0xF193a6718aA77FeF7c1b6D09b18204Bf7b73BACF", "name": "ShibaAI", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "12/10/2022"}
+{"address": "0xee5CE8b7fC116faa5CB1eE8cdd445668978f61db", "name": "CollectionsRepository", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 3, "settings": "", "date": "12/10/2022"}
+{"address": "0x1E72a771e3799898872A2b21F7d6f2ADF8CBA659", "name": "CollectionFactory", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "12/10/2022"}
+{"address": "0x94f8C328C65ACFD46747Fb33fFE83825e2A9b435", "name": "NitroTsuka", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 6, "settings": "", "date": "12/10/2022"}
+{"address": "0xBb7B514673DEC189Dd0a753979d9F63Cf57136E3", "name": "TokenFactory", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 4, "settings": "", "date": "12/10/2022"}
+{"address": "0x252449D4f514D59FFacd5526542D4b4a94932969", "name": "PiratesunitedContract", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 4, "settings": "", "date": "12/10/2022"}
+{"address": "0xAa953e9f307DcAD9f7633502494227118186Ae83", "name": "NITROTUSKA", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "12/10/2022"}
+{"address": "0x2a969940d09b0c5f1a25702543036bc51b7544d5", "name": "ARBITRUM", "compiler": "0.4.26", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/10/2022"}
