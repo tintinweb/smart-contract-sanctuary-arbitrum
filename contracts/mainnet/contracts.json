@@ -12081,3 +12081,24 @@
 {"address": "0x93aE54A3B571233123D8A1941417238Fe0ec5B92", "name": "MatrixVault", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "12/9/2022"}
 {"address": "0xb24bbe3b9dcbde92890fdb233ca631744fbcee37", "name": "ConvexRewardPoolOracle", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/9/2022"}
 {"address": "0x4EEFeFD5fF983C85D5DDDc398366b6Db2fa466F1", "name": "ArbTraitoors", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "12/9/2022"}
+{"address": "0x1c367e1f61b87e34090b63c54d3643f9facca4ab", "name": "FishOracle", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/10/2022"}
+{"address": "0xca482a9258ea448a0cdafe75aa0cbdeb14e17274", "name": "Pool", "compiler": "0.5.17", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "12/10/2022"}
+{"address": "0xd728975ad972695d04ca90783431abd3b2452bfc", "name": "Pond", "compiler": "0.5.17", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "12/10/2022"}
+{"address": "0x6d0316b68fcaa2ebf5760dda755ae6e58a0b62d7", "name": "FishbaitStable", "compiler": "0.5.17", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "12/10/2022"}
+{"address": "0xf0a092eb2e407a44e2c4bd654454fe597a185d42", "name": "ERC1967Proxy", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 3, "settings": "", "date": "12/10/2022"}
+{"address": "0x86d7583d48083e301e3d3cde9df5ad9b33671c22", "name": "Swype", "compiler": "0.8.17", "balance": "-", "txcount": 0, "settings": "", "date": "12/10/2022"}
+{"address": "0x8fF8AD0B1d14ed132308b98FF1669a89F9763244", "name": "CaskSubscriptionManager", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/10/2022"}
+{"address": "0x60a75B5B7DCa50ad7E0a27802Dc0f0e676006679", "name": "CaskP2P", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/10/2022"}
+{"address": "0xe6D6bB524d16643d13E75faC87E29D3A6bb7B865", "name": "CaskDCAManager", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/10/2022"}
+{"address": "0xA4100Ff8901448b86e8eFF8170F722d633Ba3EF5", "name": "CaskDCA", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/10/2022"}
+{"address": "0x4898D1e6d9761B4215901817FBe9F12750238882", "name": "CaskChainlinkTopupManager", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/10/2022"}
+{"address": "0x7c098D41495A4f7401106c8e2A99AC9849AA4600", "name": "LiquidityLockerNFT", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "12/10/2022"}
+{"address": "0xB17d42F717dE8f591F527F5578A962111c6D59c6", "name": "LiquidityLockerNFT", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/10/2022"}
+{"address": "0x14Eb67172Bca748e9a5eB153B7529e746b2f9715", "name": "NitroAI", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 9, "settings": "", "date": "12/10/2022"}
+{"address": "0xB9349c07Bb61B73157e930a0AA09533430b74B5D", "name": "ActivePool", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/10/2022"}
+{"address": "0x98f0c3c43550a7e75471ce04be792e38c32a2ef9", "name": "renouncDAO", "compiler": "0.4.26", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/9/2022"}
+{"address": "0x1E0795CE85a995fDB0173bc75DFd6ad3Ca66a0D1", "name": "Liquidator", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/9/2022"}
+{"address": "0x4d7F40f751Fd222c9b56D1aB8F7E5967a8d34f81", "name": "AssetManager", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/9/2022"}
+{"address": "0xe2b2f3cef77bCB34cc1318de42C8443eA03e0585", "name": "BalanceSheet", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/9/2022"}
+{"address": "0xDC5C34657e356C25Bd9686836300386fc90D5B27", "name": "Qualifier", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/9/2022"}
+{"address": "0x5A5A7C0108CEf44549b7782495b1Df2Ad5294Da3", "name": "VestingWallet2", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "12/9/2022"}
