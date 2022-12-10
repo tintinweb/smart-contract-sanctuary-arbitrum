@@ -12102,3 +12102,7 @@
 {"address": "0xe2b2f3cef77bCB34cc1318de42C8443eA03e0585", "name": "BalanceSheet", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/9/2022"}
 {"address": "0xDC5C34657e356C25Bd9686836300386fc90D5B27", "name": "Qualifier", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/9/2022"}
 {"address": "0x5A5A7C0108CEf44549b7782495b1Df2Ad5294Da3", "name": "VestingWallet2", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "12/9/2022"}
+{"address": "0x6158C3943C08FC682E5A8144CFf4A34e549AD400", "name": "GlpVault", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/10/2022"}
+{"address": "0x6b3bec378e2c93d4e3f9e5350a8ec3bee34e6b9d", "name": "Vault", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 16, "settings": "-", "date": "12/10/2022"}
+{"address": "0x4d082d7218d8afb9bd7cd2eb599bccd6792302a6", "name": "MultiSigWallet", "compiler": "0.4.15", "balance": "0.02 ETH", "txcount": 3, "settings": "", "date": "12/10/2022"}
+{"address": "0xC8509E1AAC39E7b6244F843C68935Ef70E531F02", "name": "ArbipiratofuContract", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 4, "settings": "", "date": "12/10/2022"}
