@@ -12132,3 +12132,9 @@
 {"address": "0x8f07f26f9bc82174d30d21260b87dccfae9a3276", "name": "SPayment", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/11/2022"}
 {"address": "0x126a716aBBd467555707EDE2DCB67A9BeBC2Eb4E", "name": "HentaiFi", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 40, "settings": "-", "date": "12/11/2022"}
 {"address": "0xfe7ffd4ac583863a414bf75b2abdbc8e7dbb72d5", "name": "TokenPreSale", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/10/2022"}
+{"address": "0xc954120af1000ca6449859c08c83c67dadbed322", "name": "DAI", "compiler": "0.4.26", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/11/2022"}
+{"address": "0x96827D055C611E5347a4C0196BEFCb71aAdFc88b", "name": "OwnableERC20", "compiler": "0.8.12", "balance": "0 ETH", "txcount": 10, "settings": "", "date": "12/11/2022"}
+{"address": "0xaF51BA9524a5cd9C4Ff998608Bd5f1E1C8c855C9", "name": "AutocompoundStrategy", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/11/2022"}
+{"address": "0x23E8869A7401E3ca9A01195E7eE08d9825b90BAd", "name": "StrategyCommonChefSingle", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 7, "settings": "", "date": "12/11/2022"}
+{"address": "0x6d570df300cf6a1c6a7b606e9df641ac67c367e4", "name": "Bro_Gold", "compiler": "0.8.0", "balance": "0 ETH", "txcount": 20, "settings": "-", "date": "12/11/2022"}
+{"address": "0x87d99b00812262de0cd85cc776f36775c6cbc203", "name": "Nitro", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 65, "settings": "-", "date": "12/11/2022"}
