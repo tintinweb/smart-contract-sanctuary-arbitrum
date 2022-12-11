@@ -12152,3 +12152,7 @@
 {"address": "0x573a8A24AdbD582f1Fa8e7298450b26ebaC0cb23", "name": "ConnectV2OneInchV5Arbitrum", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/11/2022"}
 {"address": "0xC6755bDe8F061140cA3736EdbCBb0E282175Ba79", "name": "NitroDoge", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 7, "settings": "", "date": "12/11/2022"}
 {"address": "0x6Fb99257De1726F5860FAeDe992406E8cD08bca7", "name": "NitroDoge", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 7, "settings": "", "date": "12/11/2022"}
+{"address": "0xbBBC9341D39743659433253E24048b8021D7E815", "name": "PancakeSwapLottery", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "12/11/2022"}
+{"address": "0xbee8d4c43dd186f54358f9e92326d36ad7afdcd8", "name": "Inception", "compiler": "0.8.5", "balance": "2 wei", "txcount": 39, "settings": "-", "date": "12/11/2022"}
+{"address": "0x0f877F44509487810f12F31c92594B07B784522B", "name": "PancakeSwapLottery", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 18, "settings": "", "date": "12/11/2022"}
+{"address": "0xcdb61ee189b13cebd1ccb7c53975b7c08dba1661", "name": "UselessButSafu", "compiler": "0.8.0", "balance": "0 ETH", "txcount": 18, "settings": "-", "date": "12/11/2022"}
