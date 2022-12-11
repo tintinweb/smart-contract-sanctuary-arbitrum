@@ -12138,3 +12138,17 @@
 {"address": "0x23E8869A7401E3ca9A01195E7eE08d9825b90BAd", "name": "StrategyCommonChefSingle", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 7, "settings": "", "date": "12/11/2022"}
 {"address": "0x6d570df300cf6a1c6a7b606e9df641ac67c367e4", "name": "Bro_Gold", "compiler": "0.8.0", "balance": "0 ETH", "txcount": 20, "settings": "-", "date": "12/11/2022"}
 {"address": "0x87d99b00812262de0cd85cc776f36775c6cbc203", "name": "Nitro", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 65, "settings": "-", "date": "12/11/2022"}
+{"address": "0x54184bDC4DbFa57bB1F606007B41640ef64e88cE", "name": "VaultLib", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/11/2022"}
+{"address": "0xf0ce3dA7055dd41Deb8504Bf807c41e176B6F31C", "name": "UpdatePositionLogic", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/11/2022"}
+{"address": "0xd77481f072B2Ae43D0c41aC195317A805589BfBF", "name": "PositionUpdater", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/11/2022"}
+{"address": "0x20b9A7eF69454e2C77C017FF5C085984aDaA689a", "name": "PositionLib", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/11/2022"}
+{"address": "0x6141659b0Da6c1c305fEfA16Ae07efB821Cf8757", "name": "LiquidationLogic", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/11/2022"}
+{"address": "0x63e2F64AdED14E2502181e50873f078eA4C7921F", "name": "InterestCalculator", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/11/2022"}
+{"address": "0xE3a4FFc0351098819A99db451110b9Aa9d6a0431", "name": "Controller", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/11/2022"}
+{"address": "0x7B663CD73F737F128CdeFD136FBA12F551cB02F1", "name": "Dogina", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 5, "settings": "", "date": "12/11/2022"}
+{"address": "0x6deea43779b528cfd62785b652ce6de12d3e281f", "name": "BABYGM", "compiler": "0.8.6", "balance": "0.002192763304002105 ETH", "txcount": 11, "settings": "-", "date": "12/11/2022"}
+{"address": "0x2917613ff2b8fd9b329a5eef4ce7956b2be517e8", "name": "Xmasdoge", "compiler": "0.8.11", "balance": "0 ETH", "txcount": 12, "settings": "-", "date": "12/11/2022"}
+{"address": "0x1f93F450e75f24626771537A3ccb39C3472F4dB1", "name": "ApeSwapZapFullV1", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/11/2022"}
+{"address": "0x573a8A24AdbD582f1Fa8e7298450b26ebaC0cb23", "name": "ConnectV2OneInchV5Arbitrum", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/11/2022"}
+{"address": "0xC6755bDe8F061140cA3736EdbCBb0E282175Ba79", "name": "NitroDoge", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 7, "settings": "", "date": "12/11/2022"}
+{"address": "0x6Fb99257De1726F5860FAeDe992406E8cD08bca7", "name": "NitroDoge", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 7, "settings": "", "date": "12/11/2022"}
