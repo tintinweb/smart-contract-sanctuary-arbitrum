@@ -12364,3 +12364,7 @@
 {"address": "0xfdf8fa022fc363814b52012b2064db35cc781e65", "name": "BondToken", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "12/14/2022"}
 {"address": "0xce2b797e65cf7c16fa1b07d5aa30b03839d368ff", "name": "ProxyAdmin", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "12/14/2022"}
 {"address": "0x1af9F09d84E77557bA468A0688871B966f464bFd", "name": "Book", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 45, "settings": "", "date": "12/14/2022"}
+{"address": "0x93F540C2c7342038eF6983130e1c8D5110Df175E", "name": "ZapperArbitrum", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/14/2022"}
+{"address": "0x113fd826FF0A2Da0D9B7A1755CedCB52611f2402", "name": "GMXTrader", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/14/2022"}
+{"address": "0xD8E8d8Fe392154A27FA43F77E9278d20C06bE379", "name": "SmolRacing", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/14/2022"}
+{"address": "0x127F2d1d55d4e6D4D2874E72fe64c8dC8cc06B73", "name": "SmolRacing", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/14/2022"}
