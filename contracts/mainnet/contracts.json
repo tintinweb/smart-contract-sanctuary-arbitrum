@@ -12339,3 +12339,7 @@
 {"address": "0x4c2af2df2a7e567b5155879720619ea06c5bb15d", "name": "Vyper_contract", "compiler": "vyper:0.3.3", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/14/2022"}
 {"address": "0xf6A7028cc183b38e3c615B5Aa0731012DA09Bdd3", "name": "W3ShopFactory", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "12/13/2022"}
 {"address": "0x7E3e552721143977F6c0580b4Cf45d8357C65C1d", "name": "W3PaymentProcessorV1", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/13/2022"}
+{"address": "0x8CC2446A84e72Bb039A57032B49ECB946aD38c8e", "name": "StabilityPoolFlashLoanExecutor", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/14/2022"}
+{"address": "0x1BbcB1776EC59cE2B498B656BdB0aE36a4EE19AD", "name": "VSTFlashLoan", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/14/2022"}
+{"address": "0xe9eb194be6bcc654f1d81fbf12fdfa0e883c11bc", "name": "GlpPositionManager", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/14/2022"}
+{"address": "0xB489570084e56d99108281Eff0cBB15771BDeEc5", "name": "CSMCrossChainRouter", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 12, "settings": "", "date": "12/14/2022"}
