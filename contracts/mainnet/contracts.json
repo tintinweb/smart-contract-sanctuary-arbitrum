@@ -12330,3 +12330,12 @@
 {"address": "0x8c1Ee0Bb5778EFccA00Fd91Cca451ACb8afbA7E0", "name": "CamelotMatrixLpAutoCompound", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/13/2022"}
 {"address": "0x9b5b4DBdbc7ABAD81631fFA9970D867CF0163462", "name": "MatrixVault", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "12/13/2022"}
 {"address": "0x976294CcdfF188CAfF24406f37073A2E67dEE906", "name": "Oracle", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/13/2022"}
+{"address": "0x7c9b4ab180Ac02cC3edD0916Af6502D719143125", "name": "AdventurerTrainer", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/14/2022"}
+{"address": "0x674135eFecE9e08b91166eF19177d42E24761E05", "name": "AdventurerTrainerStorage", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/14/2022"}
+{"address": "0x60f8C904b8CC00713f83D0Cd8ed22F1647432f62", "name": "BattleVersusV2", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/14/2022"}
+{"address": "0x4F3Fd198dE40429AE14853e4E7a9c3A4D4A9C66A", "name": "BattleVersusStorageV2", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/14/2022"}
+{"address": "0xd17Bf839338345E4FE0749360eb1899Ef660591D", "name": "MissionOne", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/14/2022"}
+{"address": "0xF7349836730D3D3457F80569a879e15D9a3bfB6C", "name": "MissionOneStorage", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/14/2022"}
+{"address": "0x4c2af2df2a7e567b5155879720619ea06c5bb15d", "name": "Vyper_contract", "compiler": "vyper:0.3.3", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/14/2022"}
+{"address": "0xf6A7028cc183b38e3c615B5Aa0731012DA09Bdd3", "name": "W3ShopFactory", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "12/13/2022"}
+{"address": "0x7E3e552721143977F6c0580b4Cf45d8357C65C1d", "name": "W3PaymentProcessorV1", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/13/2022"}
