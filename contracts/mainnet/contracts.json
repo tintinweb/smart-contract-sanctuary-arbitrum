@@ -12343,3 +12343,24 @@
 {"address": "0x1BbcB1776EC59cE2B498B656BdB0aE36a4EE19AD", "name": "VSTFlashLoan", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/14/2022"}
 {"address": "0xe9eb194be6bcc654f1d81fbf12fdfa0e883c11bc", "name": "GlpPositionManager", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/14/2022"}
 {"address": "0xB489570084e56d99108281Eff0cBB15771BDeEc5", "name": "CSMCrossChainRouter", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 12, "settings": "", "date": "12/14/2022"}
+{"address": "0x598cd0455157685f1ef2F8488A81Cf24Cf43083D", "name": "Controller", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/14/2022"}
+{"address": "0x7Feaf07B01bc71BAF9D28cDf4ca60dfddAdfd86D", "name": "UpdatePositionLogic", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/14/2022"}
+{"address": "0xa8F69b1726d84AC295d2dcFAcd48c16173AAD81a", "name": "LiquidationLogic", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/14/2022"}
+{"address": "0xc5114202C4aAa5E9e6D342c88E8c8d1E0C0cfb1e", "name": "VaultLib", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/14/2022"}
+{"address": "0x865fB6fD6a1030B329904C5C01aDee07F35C103C", "name": "PositionUpdater", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/14/2022"}
+{"address": "0xCFfFC8544724ba117C985c4424aA8fd51b134E95", "name": "PositionLib", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/14/2022"}
+{"address": "0xd5b403eBEaC72b2F87CD76650881b8b6F00D7Bc1", "name": "InterestCalculator", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/14/2022"}
+{"address": "0x311a13EB7d311FD5332cFe6E2Aa5c946aC7E712d", "name": "FluxAggregatorPudgyPenguins", "compiler": "0.6.6", "balance": "0 ETH", "txcount": 5, "settings": "", "date": "12/14/2022"}
+{"address": "0x91fb92d0c69F0EbBab584F9Fc38177F79711b705", "name": "CLPCurve", "compiler": "0.8.9", "balance": "-", "txcount": 0, "settings": "", "date": "12/14/2022"}
+{"address": "0xe6911b43e6e08395b51f9ba744d37e48060d445c", "name": "AaveBorrowPositionManager", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/14/2022"}
+{"address": "0xc5f057c2172914811f4b492cb015ab22ac82309f", "name": "ERC1967Proxy", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "12/14/2022"}
+{"address": "0xa8cd96221bdef895811319c75fc65709b1ff14c7", "name": "AaveBorrowPositionManager", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/14/2022"}
+{"address": "0xd3f1aadf98f380903165e50e154c5cd09f6b5ab8", "name": "AaveBorrowPositionManager", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/14/2022"}
+{"address": "0x760E31672fE489bE1d3cb3447FEB493d03BD55A0", "name": "DSQToken", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/14/2022"}
+{"address": "0x35b8f753b2a4aa4efed22753ce644336adaaa77c", "name": "Vault", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "12/14/2022"}
+{"address": "0x1addabb3fac49fc458f2d7cc24f53e53b290d09e", "name": "TransparentUpgradeableProxy", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/14/2022"}
+{"address": "0x1a7f84bca04d188526f1586b57676efa32ecb6fb", "name": "SmartYieldaV3", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "12/14/2022"}
+{"address": "0x9b2d46d8a853fa4ddfbd3ec5ca146bd3a95ed2c1", "name": "AaveProvider", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "12/14/2022"}
+{"address": "0xfdf8fa022fc363814b52012b2064db35cc781e65", "name": "BondToken", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "12/14/2022"}
+{"address": "0xce2b797e65cf7c16fa1b07d5aa30b03839d368ff", "name": "ProxyAdmin", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "12/14/2022"}
+{"address": "0x1af9F09d84E77557bA468A0688871B966f464bFd", "name": "Book", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 45, "settings": "", "date": "12/14/2022"}
