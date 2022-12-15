@@ -12386,3 +12386,14 @@
 {"address": "0xB74613AfDFB89D9059c1F484E25a640596E4fC83", "name": "FrenLP_Rewards", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 4, "settings": "", "date": "12/15/2022"}
 {"address": "0x20D23C724A9A9d8195d67fba2A7789E9A9683228", "name": "SendTokens", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/15/2022"}
 {"address": "0x1564d7bfa4bc921a748aedb3b71e578672528734", "name": "TokenEscrow", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/15/2022"}
+{"address": "0xa8296037e3bb80c8b041a4fd6EEADBd40f59DdDD", "name": "GMXTrader", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/15/2022"}
+{"address": "0x5392e06aC979e370fD45d25d0b5424cd8CA56529", "name": "DCNTStaking", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/15/2022"}
+{"address": "0xAda5DC443070E6cFc402cD79dF9a3d5677E09b6E", "name": "YS", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/15/2022"}
+{"address": "0x2162041398CC0114445882fF0B14c9528737B639", "name": "TimelockController", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/15/2022"}
+{"address": "0x6b89952eAB134F5aB10AAfb9327A29853715cd96", "name": "Controller", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/15/2022"}
+{"address": "0x6Eef9d9Aa09F463D9043E28D24AEFB0cCFC8cd00", "name": "UpdatePositionLogic", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/15/2022"}
+{"address": "0x7F8bD3F1A355EEaAc43a7982b403d80dD1D6f696", "name": "LiquidationLogic", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/15/2022"}
+{"address": "0xD1C9A6aC804Ec5B990B6F0a08194a1e73f7bdC10", "name": "VaultLib", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/15/2022"}
+{"address": "0x9eE9f748E83aDb8949c6FD48657599f9962C362b", "name": "PositionUpdater", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/15/2022"}
+{"address": "0xE4Bb658169d6356e043EF8030a2BA377F28EF292", "name": "PositionLib", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/15/2022"}
+{"address": "0xF33aA0C11fe12C423AeBFE170Fc5337BaC34855e", "name": "InterestCalculator", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/15/2022"}
