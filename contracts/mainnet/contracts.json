@@ -12368,3 +12368,10 @@
 {"address": "0x113fd826FF0A2Da0D9B7A1755CedCB52611f2402", "name": "GMXTrader", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/14/2022"}
 {"address": "0xD8E8d8Fe392154A27FA43F77E9278d20C06bE379", "name": "SmolRacing", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/14/2022"}
 {"address": "0x127F2d1d55d4e6D4D2874E72fe64c8dC8cc06B73", "name": "SmolRacing", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/14/2022"}
+{"address": "0x0103Be81eA99C5897D8bd28561e950d297667dBB", "name": "ModularVesting", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/15/2022"}
+{"address": "0xd1Cac4D7C9c7Afc9cA4b699D4Ff2BA5F21df75B0", "name": "ApetimismLaunchpadNFT", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/15/2022"}
+{"address": "0x18105700fda975ad2c38d70c6072608fffaad6b9", "name": "Lendgine", "compiler": "0.8.17", "balance": "-", "txcount": 0, "settings": "", "date": "12/14/2022"}
+{"address": "0xf227eb1c3fa56d271cb2456c08aa0806c7c747d4", "name": "Pair", "compiler": "0.8.17", "balance": "-", "txcount": 0, "settings": "", "date": "12/14/2022"}
+{"address": "0x797161BCC625155D2302251404ccB93c2632658e", "name": "DeBridgeGate", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/14/2022"}
+{"address": "0x88acCdEC88a0302B2D00150e5f7466F11f6DCF75", "name": "StabilityPoolFlashLoanExecutor", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/14/2022"}
+{"address": "0x6eb042a6b302Fa99a22b96263008b8285478D75c", "name": "GMXTrader", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/14/2022"}
