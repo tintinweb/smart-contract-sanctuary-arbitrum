@@ -12381,3 +12381,8 @@
 {"address": "0xe669424c3b60F8611434C03D2Bf211b91A54240D", "name": "ProxyFactory", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/15/2022"}
 {"address": "0x384c5DAEaE10981F88b3f282BF97F3594C534709", "name": "Controller", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/15/2022"}
 {"address": "0xE17B52958aa4a3cEa4202B9893A0C7ae5bDaCEa5", "name": "FeePool", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 3, "settings": "", "date": "12/15/2022"}
+{"address": "0xde8b8ab5ca047F89712Bb88B4f28CAE16818e82e", "name": "Games", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 6, "settings": "-", "date": "12/15/2022"}
+{"address": "0xECf030822E81962Fe6752F819D657c9b381a71B6", "name": "MockToken", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "12/15/2022"}
+{"address": "0xB74613AfDFB89D9059c1F484E25a640596E4fC83", "name": "FrenLP_Rewards", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 4, "settings": "", "date": "12/15/2022"}
+{"address": "0x20D23C724A9A9d8195d67fba2A7789E9A9683228", "name": "SendTokens", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/15/2022"}
+{"address": "0x1564d7bfa4bc921a748aedb3b71e578672528734", "name": "TokenEscrow", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/15/2022"}
