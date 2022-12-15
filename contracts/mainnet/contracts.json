@@ -12375,3 +12375,9 @@
 {"address": "0x797161BCC625155D2302251404ccB93c2632658e", "name": "DeBridgeGate", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/14/2022"}
 {"address": "0x88acCdEC88a0302B2D00150e5f7466F11f6DCF75", "name": "StabilityPoolFlashLoanExecutor", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/14/2022"}
 {"address": "0x6eb042a6b302Fa99a22b96263008b8285478D75c", "name": "GMXTrader", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/14/2022"}
+{"address": "0xb1dcbf8cc9ef1e6dc236102bbbfb5174fbf67ccd", "name": "GlpPositionManager", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/15/2022"}
+{"address": "0xbf9b0B051f768Cec20Fa422aE569963b303Aa67A", "name": "Controller", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/15/2022"}
+{"address": "0xDb299E50EDB8ce4F8f701F09cb50ca919055db97", "name": "UpdatePositionLogic", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/15/2022"}
+{"address": "0xe669424c3b60F8611434C03D2Bf211b91A54240D", "name": "ProxyFactory", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/15/2022"}
+{"address": "0x384c5DAEaE10981F88b3f282BF97F3594C534709", "name": "Controller", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/15/2022"}
+{"address": "0xE17B52958aa4a3cEa4202B9893A0C7ae5bDaCEa5", "name": "FeePool", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 3, "settings": "", "date": "12/15/2022"}
