@@ -12411,3 +12411,11 @@
 {"address": "0x3f31ca527D645Fa8744D1DCb674c1239fC96B59e", "name": "AdrastiaTwapOracle", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 4, "settings": "", "date": "12/15/2022"}
 {"address": "0xDB714119Df1DC58e5a27DD6EBF330803921306b0", "name": "AdrastiaUniswapV2LA", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 10, "settings": "", "date": "12/15/2022"}
 {"address": "0xF403D00217B1c97CDe7CC08b35F0d3C8F939BF14", "name": "AdrastiaAggregatedTwapOracle", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 8, "settings": "", "date": "12/15/2022"}
+{"address": "0x46Fb61B38b670eEb4EA4b024940432E7507cb213", "name": "Sedn", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 3, "settings": "", "date": "12/16/2022"}
+{"address": "0x2a5b712d6189E8d2a2fA7C97aCb647e38E7D1342", "name": "Proteus", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/16/2022"}
+{"address": "0x3402D87DF0817b2A96b210b8873d33dD979C8D19", "name": "LiquidityPoolProxy", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "12/16/2022"}
+{"address": "0x1F81D8DB9d67E17BBD567416B30405f18DBF4382", "name": "Proteus", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/16/2022"}
+{"address": "0xa2dB39e781A5Eee0EAA625dace6F097c17dfF7Ea", "name": "LiquidityPoolProxy", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "12/16/2022"}
+{"address": "0x30424981429c8b944e9d44d5bd992ee874f1b188", "name": "OpenOcean", "compiler": "0.8.0", "balance": "0 ETH", "txcount": 6, "settings": "", "date": "12/16/2022"}
+{"address": "0xDa1079760715504F2b84603787C5DeF47D2A89A8", "name": "TimelockController", "compiler": "0.8.16", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/16/2022"}
+{"address": "0xcaB3b959dfeA2D25a996C4feD2375c3fdFcEdf06", "name": "TokenSale", "compiler": "0.8.9", "balance": "0.01 ETH", "txcount": 2, "settings": "", "date": "12/16/2022"}
