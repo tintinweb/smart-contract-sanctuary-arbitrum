@@ -12397,3 +12397,17 @@
 {"address": "0x9eE9f748E83aDb8949c6FD48657599f9962C362b", "name": "PositionUpdater", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/15/2022"}
 {"address": "0xE4Bb658169d6356e043EF8030a2BA377F28EF292", "name": "PositionLib", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/15/2022"}
 {"address": "0xF33aA0C11fe12C423AeBFE170Fc5337BaC34855e", "name": "InterestCalculator", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/15/2022"}
+{"address": "0x5E250d7fd315a55B0c53281Dfd03A9b91327701F", "name": "Reader", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/16/2022"}
+{"address": "0x01552E38d50C5Be2712b64891f8dBb146eAFAfAa", "name": "UniswapV3Trader", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/15/2022"}
+{"address": "0x91f47Bed0Fae54F8A67c51Df04c6b92e29e9FD3e", "name": "VestaDexTrader", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/15/2022"}
+{"address": "0xe1a0198cfcfe02d14673fa5d677e1d0584c1ebd1", "name": "TRUMP", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/15/2022"}
+{"address": "0xa2c249C1942413A55F4797e4d106C4dFcC0d5EBB", "name": "TokensFacet", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/15/2022"}
+{"address": "0x89BFb125c163f30f18Ddb7871fedc8301084F595", "name": "ShopFacet", "compiler": "0.8.10", "balance": "-", "txcount": 0, "settings": "", "date": "12/15/2022"}
+{"address": "0x40A5f72C54AB5d6D21b013E8dA9Bef5cd03881C5", "name": "PriceFacet", "compiler": "0.8.10", "balance": "-", "txcount": 0, "settings": "", "date": "12/15/2022"}
+{"address": "0xE23Fa4131AeE4cBD8703C16046664BE08a90bbda", "name": "AdminFacet", "compiler": "0.8.10", "balance": "-", "txcount": 0, "settings": "", "date": "12/15/2022"}
+{"address": "0xDe06FD597BDc822bB3F729B55639B46a91E0350a", "name": "AdrastiaUniswapV3PA", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 10, "settings": "", "date": "12/15/2022"}
+{"address": "0x7184CCfee311bbbB6fbC7a4abFC26D55648d9415", "name": "AdrastiaUniswapV3LA", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 10, "settings": "", "date": "12/15/2022"}
+{"address": "0xbf4b4C46A2070f2Dbb60d41462Ef704751c5B777", "name": "AdrastiaUniswapV2PA", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 10, "settings": "", "date": "12/15/2022"}
+{"address": "0x3f31ca527D645Fa8744D1DCb674c1239fC96B59e", "name": "AdrastiaTwapOracle", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 4, "settings": "", "date": "12/15/2022"}
+{"address": "0xDB714119Df1DC58e5a27DD6EBF330803921306b0", "name": "AdrastiaUniswapV2LA", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 10, "settings": "", "date": "12/15/2022"}
+{"address": "0xF403D00217B1c97CDe7CC08b35F0d3C8F939BF14", "name": "AdrastiaAggregatedTwapOracle", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 8, "settings": "", "date": "12/15/2022"}
