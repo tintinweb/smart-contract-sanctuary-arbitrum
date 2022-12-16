@@ -12419,3 +12419,22 @@
 {"address": "0x30424981429c8b944e9d44d5bd992ee874f1b188", "name": "OpenOcean", "compiler": "0.8.0", "balance": "0 ETH", "txcount": 6, "settings": "", "date": "12/16/2022"}
 {"address": "0xDa1079760715504F2b84603787C5DeF47D2A89A8", "name": "TimelockController", "compiler": "0.8.16", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/16/2022"}
 {"address": "0xcaB3b959dfeA2D25a996C4feD2375c3fdFcEdf06", "name": "TokenSale", "compiler": "0.8.9", "balance": "0.01 ETH", "txcount": 2, "settings": "", "date": "12/16/2022"}
+{"address": "0x7A64e60e8AeC6492e1D2a6D4e63E2d9ee9e0dd63", "name": "GaslessSmartWallet", "compiler": "0.8.17", "balance": "-", "txcount": 0, "settings": "", "date": "12/16/2022"}
+{"address": "0x3142E8847391a59106dB8C4A5AD770e4CFda729d", "name": "GSWForwarderProxy", "compiler": "0.8.17", "balance": "-", "txcount": 0, "settings": "", "date": "12/16/2022"}
+{"address": "0x47770fD0B127986a5A0Fab22dB3081785838A4Cc", "name": "GSWForwarder", "compiler": "0.8.17", "balance": "-", "txcount": 0, "settings": "", "date": "12/16/2022"}
+{"address": "0x6289aB2DE48047Cd77831789D75c76395C29cC60", "name": "GSWFactoryProxy", "compiler": "0.8.17", "balance": "-", "txcount": 0, "settings": "", "date": "12/16/2022"}
+{"address": "0x9e5aAEA7B5375B950bE9F20554cCf9535031a32c", "name": "GSWFactory", "compiler": "0.8.17", "balance": "-", "txcount": 0, "settings": "", "date": "12/16/2022"}
+{"address": "0x32BaB916c8376B72A28589626774520F8A2C86a2", "name": "GSWVersionsRegistryProxy", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 6, "settings": "", "date": "12/16/2022"}
+{"address": "0x291E80892cdaaC2933842c725f6604649dbC500D", "name": "GSWVersionsRegistry", "compiler": "0.8.17", "balance": "-", "txcount": 0, "settings": "-", "date": "12/16/2022"}
+{"address": "0x0725E73C2d2EBa633EbBa72b2FD0d898fA6eb7B1", "name": "AovPublicMinter", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/16/2022"}
+{"address": "0x68E9e0d89F96F40A98d3F42DC22430aBbF662a1A", "name": "FYToken", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "12/16/2022"}
+{"address": "0x5E6c08a873b86EC894f996a154DC7504d47CBf32", "name": "SwitchAcross", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/16/2022"}
+{"address": "0x14EF3a9EB49bb184688F2Aa6d24D2De414a05bcB", "name": "Ownable", "compiler": "0.8.16", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/16/2022"}
+{"address": "0x3399857619e8EDc256B6Dd8d161737E2CDf0c32a", "name": "HedgerOwnable", "compiler": "0.8.16", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/16/2022"}
+{"address": "0xa1fDC6f05dcde5d3F4A0f2AB19b6AD3B21690889", "name": "HedgerERC2771", "compiler": "0.8.16", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/16/2022"}
+{"address": "0x9b1a69ba63024335072E86d7a9885ab65539ee8e", "name": "ERC165", "compiler": "0.8.16", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/16/2022"}
+{"address": "0x46c6cA1373754099148fD0da50A1d377afD3763C", "name": "DiamondLoupe", "compiler": "0.8.16", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/16/2022"}
+{"address": "0x39C75B1971d026c1068BbE42F1B12c8D4A804C1B", "name": "DiamondCut", "compiler": "0.8.16", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/16/2022"}
+{"address": "0x3C81A0Cc1cf920a3A9A6B90944715f8d18560E13", "name": "AccessControlAdmin", "compiler": "0.8.16", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/16/2022"}
+{"address": "0xe423f39BbDa08271b714b700743B2F35C98A5e17", "name": "AccessControl", "compiler": "0.8.16", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/16/2022"}
+{"address": "0x6E0737bC35FCC9ff21735F400e5a30065173fcA9", "name": "StabilityPoolFlashLoanExecutor", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/16/2022"}
