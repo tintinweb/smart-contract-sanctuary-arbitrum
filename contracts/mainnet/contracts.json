@@ -12438,3 +12438,7 @@
 {"address": "0x3C81A0Cc1cf920a3A9A6B90944715f8d18560E13", "name": "AccessControlAdmin", "compiler": "0.8.16", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/16/2022"}
 {"address": "0xe423f39BbDa08271b714b700743B2F35C98A5e17", "name": "AccessControl", "compiler": "0.8.16", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/16/2022"}
 {"address": "0x6E0737bC35FCC9ff21735F400e5a30065173fcA9", "name": "StabilityPoolFlashLoanExecutor", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/16/2022"}
+{"address": "0x24d55DDcE3B65D4f7B1af0436e3b7739aCDF85a4", "name": "Proteus", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/16/2022"}
+{"address": "0x2746F1e4caaD6a219b2B3d84C9773c481f2ed269", "name": "BorrowerOperations", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/16/2022"}
+{"address": "0x517D26e40EDeeB1adf6960EB9c610284dc6ee4CD", "name": "WheelOfAbritrum", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 313, "settings": "", "date": "12/16/2022"}
+{"address": "0x42B2F1df470178e781e40067A3616e2f5b245e2B", "name": "Contract", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/16/2022"}
