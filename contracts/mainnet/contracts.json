@@ -12442,3 +12442,15 @@
 {"address": "0x2746F1e4caaD6a219b2B3d84C9773c481f2ed269", "name": "BorrowerOperations", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/16/2022"}
 {"address": "0x517D26e40EDeeB1adf6960EB9c610284dc6ee4CD", "name": "WheelOfAbritrum", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 313, "settings": "", "date": "12/16/2022"}
 {"address": "0x42B2F1df470178e781e40067A3616e2f5b245e2B", "name": "Contract", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/16/2022"}
+{"address": "0xcf2ca7054bE042916948370aEbC1eA229A6a9836", "name": "MatrixVault", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "12/17/2022"}
+{"address": "0x98e58627f5E7136C9d44AE0CF2f2A3831c732284", "name": "MatrixVault", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "12/17/2022"}
+{"address": "0x2327474f384Ae1dE6E37bd0766128079734CF1f9", "name": "MatrixVault", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "12/17/2022"}
+{"address": "0x09cCdd781C2Bc3CAC2aEe3d1b7820B49D1F83d1b", "name": "MatrixVault", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "12/17/2022"}
+{"address": "0xAB5F8C45D2E96B602EBB02603A7eA24CBEec0293", "name": "MatrixVault", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "12/17/2022"}
+{"address": "0x72fE642b2eadF555d58AEF741c8915c416ffc06B", "name": "SwapfishMatrixLpAutoCompound", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/17/2022"}
+{"address": "0xF4401E459CE89dfF4ce84CDf7B75fcA8242153ea", "name": "MatrixVault", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "12/17/2022"}
+{"address": "0x890e631A8466377F45CBc32eF02E6ec51f176ad7", "name": "ApetimismLaunchpadNFT", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/17/2022"}
+{"address": "0x22015d5da7fbdcB5B3f396FAa7d92573bC39B7C8", "name": "King", "compiler": "0.8.1", "balance": "0 ETH", "txcount": 14, "settings": "", "date": "12/17/2022"}
+{"address": "0x393ccdb77410bfd2cba59ab569559dd19522d2ce", "name": "GlpUtils", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/17/2022"}
+{"address": "0x6bba0ab7662468109a1926b76d19d3f3013d44d4", "name": "AaveBorrowPositionManager", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/17/2022"}
+{"address": "0x6d21c3f09e92a27ac23ac42b36285306f0d7a594", "name": "AaveBorrowPositionManager", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/17/2022"}
