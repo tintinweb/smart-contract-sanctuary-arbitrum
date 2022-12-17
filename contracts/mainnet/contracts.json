@@ -12454,3 +12454,5 @@
 {"address": "0x393ccdb77410bfd2cba59ab569559dd19522d2ce", "name": "GlpUtils", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/17/2022"}
 {"address": "0x6bba0ab7662468109a1926b76d19d3f3013d44d4", "name": "AaveBorrowPositionManager", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/17/2022"}
 {"address": "0x6d21c3f09e92a27ac23ac42b36285306f0d7a594", "name": "AaveBorrowPositionManager", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/17/2022"}
+{"address": "0xf67fC51f04148A14ea497cABf4D7BDffE4772B4f", "name": "SwapFishZapFullV1", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 5, "settings": "", "date": "12/17/2022"}
+{"address": "0x2AbCA99a3D7F9f5a41fFe3b31B5a2d14cdeeD4Af", "name": "SwapFishZapFullV1", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 7, "settings": "", "date": "12/17/2022"}
