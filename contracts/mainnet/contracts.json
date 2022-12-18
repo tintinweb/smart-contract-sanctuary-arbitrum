@@ -12466,3 +12466,13 @@
 {"address": "0x16775222977bF3Ea9022B6F150D45aAa35D7C6a1", "name": "ControllerV7", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 4, "settings": "", "date": "12/18/2022"}
 {"address": "0xdd4bf46931a5718fe3902e2bbf8ef34f454acac9", "name": "UniV3Rebalancer", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/18/2022"}
 {"address": "0x4d4Dc814fbc2B71E0a9Fbec91dAb7148C42a9e65", "name": "GMS", "compiler": "0.8.12", "balance": "0 ETH", "txcount": 42, "settings": "", "date": "12/18/2022"}
+{"address": "0xaf50a4b0e2F2d900350d4348a946154bef26326F", "name": "deathroll", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "12/18/2022"}
+{"address": "0xe2601e7e0923a0d879e9206fcaa902ce25aeb7dd", "name": "MimCauldronDistributor", "compiler": "0.8.16", "balance": "0 ETH", "txcount": 3, "settings": "", "date": "12/18/2022"}
+{"address": "0x4f51264b07db8b2910e892eeef22460de23268a7", "name": "CauldronLib", "compiler": "0.8.16", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/18/2022"}
+{"address": "0xb099cc8cd672646317c2da0414aea7d3838ed258", "name": "MimCauldronDistributor", "compiler": "0.8.16", "balance": "0 ETH", "txcount": 3, "settings": "", "date": "12/18/2022"}
+{"address": "0x2be431ee7e74b1cb7cfa16fc90578ef42ef361b0", "name": "CauldronLib", "compiler": "0.8.16", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/18/2022"}
+{"address": "0x3bab7207d4e27b5de4a15d540b7297281b45ed2a", "name": "Rewarder", "compiler": "0.8.16", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/18/2022"}
+{"address": "0xd404bef05e9e256765440a1b9a6b56750c4cedec", "name": "CauldronV4WithRewarder", "compiler": "0.8.16", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "12/18/2022"}
+{"address": "0x787D176E3028477B7B58E3d50A180f2A7dEdBBa3", "name": "FluxAggregatorTrump", "compiler": "0.6.6", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "12/18/2022"}
+{"address": "0xC63b7110A4a8143B296C749954f183a6b4Ac94B6", "name": "highrollers", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "12/18/2022"}
+{"address": "0x967dbcae94c4dd461ada08fc920bdf87edffe9ec", "name": "CauldronV4WithRewarder", "compiler": "0.8.16", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "12/18/2022"}
