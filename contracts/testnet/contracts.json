@@ -9265,3 +9265,12 @@
 {"address": "0xB7eFdD3f3f9AE3741c0BE617BD2a21642DCBA09f", "name": "OfferFactory", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 8, "settings": "", "date": "12/16/2022"}
 {"address": "0x1C457C0C724fBF858e2E758e3AAfC5976601A21c", "name": "DigitalCollectibleFactory", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 4, "settings": "", "date": "12/16/2022"}
 {"address": "0x4c1aBF171Fe180A62aab7e145Db3965bc599A465", "name": "SednTestnet", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 19, "settings": "", "date": "12/16/2022"}
+{"address": "0x84a69Ea59403Ac0081CFd53BCD6b4Ff2AA8aeDE6", "name": "DininhoItems", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 9, "settings": "-", "date": "12/18/2022"}
+{"address": "0x9F0BB305790e1a2d7A0B72414918C57E9ef81B5B", "name": "DininhoMisc", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "12/17/2022"}
+{"address": "0xa5bB10c18B989F4673AD64e8D5DA0AfB6A09f016", "name": "Lock", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "12/17/2022"}
+{"address": "0x0a26bf2A4d8cFB350D5867FCca2b53ADAFc979d9", "name": "Lever", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 16, "settings": "", "date": "12/17/2022"}
+{"address": "0x46C9Ad9bA79783017790fc4Bed4364aBB98c22Dd", "name": "Exchange", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 8, "settings": "", "date": "12/17/2022"}
+{"address": "0x788CC630c0D9f5e1475259Bf7Bd418EF1dDAb51A", "name": "Bridgev2", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 27, "settings": "", "date": "12/17/2022"}
+{"address": "0x34696C6Be4368b4D32179E7cBc3c1c6ce1168a58", "name": "Exchange", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 8, "settings": "", "date": "12/17/2022"}
+{"address": "0x82aFD46D45b20377eC6132497ee92ADD21DaB7Ad", "name": "LendingMarket", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/17/2022"}
+{"address": "0xf007745006e5BaeA4f732F69A164A564f619E1E0", "name": "Exchange", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 4, "settings": "", "date": "12/17/2022"}
