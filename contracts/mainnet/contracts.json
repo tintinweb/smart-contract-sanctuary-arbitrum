@@ -12456,3 +12456,13 @@
 {"address": "0x6d21c3f09e92a27ac23ac42b36285306f0d7a594", "name": "AaveBorrowPositionManager", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/17/2022"}
 {"address": "0xf67fC51f04148A14ea497cABf4D7BDffE4772B4f", "name": "SwapFishZapFullV1", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 5, "settings": "", "date": "12/17/2022"}
 {"address": "0x2AbCA99a3D7F9f5a41fFe3b31B5a2d14cdeeD4Af", "name": "SwapFishZapFullV1", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 7, "settings": "", "date": "12/17/2022"}
+{"address": "0xA31D418d8729b677938480991F4d4dc7B578b7c8", "name": "StrategyUniV3Staker", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 5, "settings": "", "date": "12/18/2022"}
+{"address": "0xDf0Da307330F05AAF472ae986803C420396f2211", "name": "ArbiUniV3Vault", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "12/18/2022"}
+{"address": "0x6a886B2345EF951E66cbba89123A4F1FFF46dD6D", "name": "gmsETH", "compiler": "0.8.12", "balance": "0 ETH", "txcount": 2, "settings": "-", "date": "12/18/2022"}
+{"address": "0x780754AE20Dc27873eC226C50796fd380436AD46", "name": "gmsBTC", "compiler": "0.8.12", "balance": "0 ETH", "txcount": 2, "settings": "-", "date": "12/18/2022"}
+{"address": "0xaAA9F26A50FE486E02A7a588B659876F2623e6c0", "name": "gmsUSDC", "compiler": "0.8.12", "balance": "0 ETH", "txcount": 2, "settings": "-", "date": "12/18/2022"}
+{"address": "0x5E34C1aBcc340f4026bcEaf1E20824B11b31DFf2", "name": "GMSvault", "compiler": "0.8.12", "balance": "0 ETH", "txcount": 12, "settings": "", "date": "12/18/2022"}
+{"address": "0x78f5B56cc94719111010b3d99B52ADEFE0b8E8c8", "name": "GMSstaking", "compiler": "0.8.12", "balance": "0 ETH", "txcount": 9, "settings": "", "date": "12/18/2022"}
+{"address": "0x16775222977bF3Ea9022B6F150D45aAa35D7C6a1", "name": "ControllerV7", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 4, "settings": "", "date": "12/18/2022"}
+{"address": "0xdd4bf46931a5718fe3902e2bbf8ef34f454acac9", "name": "UniV3Rebalancer", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/18/2022"}
+{"address": "0x4d4Dc814fbc2B71E0a9Fbec91dAb7148C42a9e65", "name": "GMS", "compiler": "0.8.12", "balance": "0 ETH", "txcount": 42, "settings": "", "date": "12/18/2022"}
