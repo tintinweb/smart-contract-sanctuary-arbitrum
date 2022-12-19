@@ -9274,3 +9274,4 @@
 {"address": "0x34696C6Be4368b4D32179E7cBc3c1c6ce1168a58", "name": "Exchange", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 8, "settings": "", "date": "12/17/2022"}
 {"address": "0x82aFD46D45b20377eC6132497ee92ADD21DaB7Ad", "name": "LendingMarket", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/17/2022"}
 {"address": "0xf007745006e5BaeA4f732F69A164A564f619E1E0", "name": "Exchange", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 4, "settings": "", "date": "12/17/2022"}
+{"address": "0x8fd796794910f0f7c28e9d84e8e4d3ed50ba069a", "name": "OmniCoin", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 4, "settings": "", "date": "12/18/2022"}
