@@ -12477,3 +12477,9 @@
 {"address": "0xC63b7110A4a8143B296C749954f183a6b4Ac94B6", "name": "highrollers", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "12/18/2022"}
 {"address": "0x967dbcae94c4dd461ada08fc920bdf87edffe9ec", "name": "CauldronV4WithRewarder", "compiler": "0.8.16", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "12/18/2022"}
 {"address": "0x25D3166611b15572c3b5FF50f92F2A8b1D384bD8", "name": "deathroll", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "12/18/2022"}
+{"address": "0x6672bf488f4973e3dd25ead8e9e147d7fd2b8851", "name": "PIOU", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/19/2022"}
+{"address": "0x1D0C2ac304090B54ecdE143cc3a7a48Ea27C0f65", "name": "TokenAdminMinter", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "12/19/2022"}
+{"address": "0x9d7A8b69efabAa53eA4d5829644D270e612A1E2C", "name": "StrategyUniV3Staker", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "12/19/2022"}
+{"address": "0x2499f18aA0E8dFF52Ecdc26531f894FA0b6cAB3B", "name": "GM_Alloc_Registation", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/19/2022"}
+{"address": "0x3aEd259BE916F6Fb4f44Adf05a3CE37DFa1AD3cF", "name": "Disperse2", "compiler": "0.8.11", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "12/19/2022"}
+{"address": "0x91377FAb4AFe7826345b8E81A1B8d88b3013967c", "name": "Disperse2", "compiler": "0.8.11", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "12/19/2022"}
