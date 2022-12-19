@@ -12519,3 +12519,20 @@
 {"address": "0xa6624D8CF4A1Ba950d380D1e38A2D5261b711145", "name": "Strategy", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "12/19/2022"}
 {"address": "0x2769ABE33010c710e24eA6aF8A2683C630BbD7D0", "name": "PoolNonTv", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "12/19/2022"}
 {"address": "0x523803c57a497c3AD0E850766c8276D4864edEA5", "name": "FYToken", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "12/19/2022"}
+{"address": "0xab3d79c861b0279c58aa44280b2f8942b9b26cc8", "name": "BattleFlyFoundersNFT", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 6, "settings": "", "date": "12/19/2022"}
+{"address": "0x319e222de462ac959baf2aec848697aec2bbd770", "name": "OREO", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 3, "settings": "", "date": "12/19/2022"}
+{"address": "0x3888dba6a7b6989cab427bad9ef63028984bdec9", "name": "DBB", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 2, "settings": "-", "date": "12/19/2022"}
+{"address": "0x34EF28368797BdD10E17eAbc2a72cBa1A43D283d", "name": "GSWAdmin", "compiler": "0.8.17", "balance": "-", "txcount": 0, "settings": "", "date": "12/19/2022"}
+{"address": "0xbA4BcC145A1b8828EA4f1E1DA35409A5367f40E8", "name": "GM_Alloc_Registation", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/19/2022"}
+{"address": "0x3970a959dae2353eeafb691a0999c77af5807a1b", "name": "PoorCards", "compiler": "0.8.12", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/19/2022"}
+{"address": "0x1888D4EB2A87142993340A3c111770D72527794A", "name": "Refund", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 4, "settings": "", "date": "12/19/2022"}
+{"address": "0x85CfE6a0fd368Bde268d193728e7962d5Ab6De1d", "name": "highrollers", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 3, "settings": "-", "date": "12/19/2022"}
+{"address": "0x8d310B57337d68fECd028bf02364193350b8CdD3", "name": "FrenshipLocker", "compiler": "0.8.0", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/19/2022"}
+{"address": "0xaac6dcef2504253712a9eb5cc38837e86677ebfa", "name": "test", "compiler": "0.8.1", "balance": "0 ETH", "txcount": 4, "settings": "-", "date": "12/19/2022"}
+{"address": "0xB0526BFb4047aE1147DC7caAF3F1653904C2D568", "name": "ParaSwapRepayAdapter", "compiler": "0.8.10", "balance": "-", "txcount": 0, "settings": "", "date": "12/19/2022"}
+{"address": "0xb20bd14259089e63d1f49d8d887ABA783Ce5dAc2", "name": "ParaSwapLiquiditySwapAdapter", "compiler": "0.8.10", "balance": "-", "txcount": 0, "settings": "", "date": "12/19/2022"}
+{"address": "0x5df3868554e3e0be29701c55d3e8f57cb283d5d0", "name": "downtowndevils", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/19/2022"}
+{"address": "0x7A89fEEc4Cd56e7B3411536cABE1699fE7Bb1b0B", "name": "GM_Alloc_Registation", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/19/2022"}
+{"address": "0xc7196fd8aef0870f51d3c6646b5152f6fe35a40b", "name": "TheBeaconEggs", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 20, "settings": "", "date": "12/19/2022"}
+{"address": "0x13bc61d1fae32cb20195952e1c0313a9e4b04768", "name": "ProtohedgeVault", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/19/2022"}
+{"address": "0xd0eDb99890D6D112D206C506B7f6a3385c96558F", "name": "highrollers", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 4, "settings": "-", "date": "12/19/2022"}
