@@ -12536,3 +12536,24 @@
 {"address": "0xc7196fd8aef0870f51d3c6646b5152f6fe35a40b", "name": "TheBeaconEggs", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 20, "settings": "", "date": "12/19/2022"}
 {"address": "0x13bc61d1fae32cb20195952e1c0313a9e4b04768", "name": "ProtohedgeVault", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/19/2022"}
 {"address": "0xd0eDb99890D6D112D206C506B7f6a3385c96558F", "name": "highrollers", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 4, "settings": "-", "date": "12/19/2022"}
+{"address": "0x79Ba51E7587437f6CaB8c786135A1490e1858785", "name": "GM_Alloc_Registation", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "12/19/2022"}
+{"address": "0xad9A83e4d14D572a9531f8b8788b29A3f794E744", "name": "Stabilizer", "compiler": "0.8.16", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "12/19/2022"}
+{"address": "0x4995d171FFBC451f2F25e831310eC67C327669aD", "name": "Balancer", "compiler": "0.8.16", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/19/2022"}
+{"address": "0x7Cdb610Ebd09B9f813EE2F5764d12898BC0286dC", "name": "SpanningAddress", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "12/19/2022"}
+{"address": "0x7A821aC6b4bFE8Dfd582b8F110559814c8166C0b", "name": "GSWProxy", "compiler": "0.8.17", "balance": "-", "txcount": 0, "settings": "", "date": "12/19/2022"}
+{"address": "0xE52A6bb1Ef848508Bf3033A30A7E39ADE60e4C88", "name": "GaslessSmartWallet", "compiler": "0.8.17", "balance": "-", "txcount": 0, "settings": "", "date": "12/19/2022"}
+{"address": "0x52f30c01795e84e5c12fa29345f1274d517FB865", "name": "GSWForwarderProxy", "compiler": "0.8.17", "balance": "-", "txcount": 0, "settings": "", "date": "12/19/2022"}
+{"address": "0x0bF2678EC399E1BD84a3717dA1d037985457BEb8", "name": "GSWForwarder", "compiler": "0.8.17", "balance": "-", "txcount": 0, "settings": "", "date": "12/19/2022"}
+{"address": "0x22D6262937D81ec6CDb2b3D0A00b2CB410F41D3B", "name": "GSWFactoryProxy", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/19/2022"}
+{"address": "0xea3A6Bc9CF3B7E86EC2FD5f4a521DED6A9365aa4", "name": "GSWFactory", "compiler": "0.8.17", "balance": "-", "txcount": 0, "settings": "", "date": "12/19/2022"}
+{"address": "0x1a17100BD53d7c8d712C49EC2c429A601BbEa365", "name": "GSWVersionsRegistryProxy", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 3, "settings": "", "date": "12/19/2022"}
+{"address": "0x06459Ba1b788adFFBf4D2927dbF35383E75C8164", "name": "GSWVersionsRegistry", "compiler": "0.8.17", "balance": "-", "txcount": 0, "settings": "-", "date": "12/19/2022"}
+{"address": "0x9aAfa4b0260CE3e1Ff18BD6CF930782c414F7C37", "name": "AaveV3ERC4626Reinvest", "compiler": "0.8.14", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/19/2022"}
+{"address": "0x5BF3AAB88e4b53EFdF010f0f6199b357E2A4576e", "name": "PxERC20", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 4, "settings": "", "date": "12/19/2022"}
+{"address": "0x97e5C3A3A5b93Ea3De0efDEdE58514d548CF0190", "name": "PxGmx", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 3, "settings": "", "date": "12/19/2022"}
+{"address": "0xE57e3fF5fc7717bcA25bA129EFc5755D5D51fb58", "name": "PirexGmx", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 4, "settings": "", "date": "12/19/2022"}
+{"address": "0xc6a8EA07A8eFab27bAa4a03956105e078053C467", "name": "AaveV3ERC4626ReinvestFactory", "compiler": "0.8.14", "balance": "0 ETH", "txcount": 6, "settings": "", "date": "12/19/2022"}
+{"address": "0xe6e3febf24ead0e60b157b77e72618df06b83a18", "name": "GMvaultMigration", "compiler": "0.8.12", "balance": "0 ETH", "txcount": 28, "settings": "-", "date": "12/19/2022"}
+{"address": "0x877f6FFa7924b1dCdf9620ce642BFBa891D2Be61", "name": "GM_Alloc_Registation", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 6, "settings": "", "date": "12/19/2022"}
+{"address": "0x0ead34d687aec7bf1f30639f1287c1c68c90d21b", "name": "ShiftSweeperProxyInterface", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/19/2022"}
+{"address": "0x01a4c8b5140557edac8edd09fa3b78122b636813", "name": "KTNSwapper", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/19/2022"}
