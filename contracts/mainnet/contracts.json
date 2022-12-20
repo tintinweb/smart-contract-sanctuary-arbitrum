@@ -12582,3 +12582,28 @@
 {"address": "0xcd0C4438b705C7536367A501fd246682B1B1C543", "name": "N2MERC1155", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/20/2022"}
 {"address": "0x9a5320cfbce8AdC2B9fe0Ff80494422d011d5Df2", "name": "N2MERC721Upgradeable", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/20/2022"}
 {"address": "0xdE9A07E5F1eaF3236e84724e0a221Ce44D7b2657", "name": "N2MERC721", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/20/2022"}
+{"address": "0xffffff8244e4d4a906f9a70c13e91cb30e1cb39a", "name": "PIOU", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/20/2022"}
+{"address": "0xED1831F634F5433Ae786Fce06356071e96Fc4644", "name": "EIP173ProxyWithReceive", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "12/20/2022"}
+{"address": "0x480980Bb5f7fb8876d11fC7b667abf70869c6D2E", "name": "FlypeMaxiFactoryV1", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/20/2022"}
+{"address": "0xd28e8b5062f8211a4890aafef31535244824b5d3", "name": "BeefyRateOracle", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/20/2022"}
+{"address": "0xEfb4454DDfC405518F6Db9Afc29129f4F8752B01", "name": "FlypeMaxiVaultV1", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/20/2022"}
+{"address": "0xab1cAB9C059b627dE5add93834b70e5048923f81", "name": "FutureVault", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/20/2022"}
+{"address": "0x37723D5eeA9F083a536d2Eb9bF34e978c047A34d", "name": "deathroll", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 4, "settings": "-", "date": "12/20/2022"}
+{"address": "0xd528AeFB7A3B59c34Db11A7824eB68D9375A3E16", "name": "WaveContract", "compiler": "0.8.9", "balance": "-", "txcount": 0, "settings": "", "date": "12/20/2022"}
+{"address": "0xf1E72401D9A868E6d7fB672798cF3999e2739561", "name": "WaveFactory", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "12/20/2022"}
+{"address": "0x970f2806c282d0ce9Ea5372577E4a0c6AC86bdaB", "name": "CamelChef", "compiler": "0.8.16", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/20/2022"}
+{"address": "0x9d1659486a33F5A558b22309Da7C27177cC2c9A4", "name": "WLMagicRewardsFacet", "compiler": "0.8.17", "balance": "-", "txcount": 0, "settings": "", "date": "12/20/2022"}
+{"address": "0xB695c900bE8300B2A71750870F4eAd08955dB81a", "name": "WLMintingFacet", "compiler": "0.8.17", "balance": "-", "txcount": 0, "settings": "", "date": "12/20/2022"}
+{"address": "0x97A8786b88e0f13e3b17211C87B3E71dB0cd2091", "name": "WLLandFacet", "compiler": "0.8.17", "balance": "-", "txcount": 0, "settings": "", "date": "12/20/2022"}
+{"address": "0x9f673C7B28ccE7c1d0cB708c18c3140007Cf7162", "name": "WLInit", "compiler": "0.8.17", "balance": "-", "txcount": 0, "settings": "", "date": "12/20/2022"}
+{"address": "0x3c4B0A4Db1CF38554c9520Ac1f27b0efEFc27258", "name": "WLAdminFacet", "compiler": "0.8.17", "balance": "-", "txcount": 0, "settings": "", "date": "12/20/2022"}
+{"address": "0xFd2A84Aa9ed4C9fa876f00b7790485A25051c77d", "name": "AlturaNFTV2", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "12/20/2022"}
+{"address": "0x10e92aa9002616d742c8fdd1e21c34cb37558e6b", "name": "shib", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 9, "settings": "-", "date": "12/20/2022"}
+{"address": "0x3A42C7b955F8FE5FAfB1315AaC3a3F2d8b165226", "name": "GM_Alloc_Registation", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 9, "settings": "", "date": "12/20/2022"}
+{"address": "0x8677ec51660a3032e63b6ada05a6326c0505201b", "name": "AlphaOptionHandler", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "12/20/2022"}
+{"address": "0xceFDbfaf8E0f5b52F57c435dAD670554aF57EBFF", "name": "CamelChef", "compiler": "0.8.16", "balance": "0 ETH", "txcount": 21, "settings": "", "date": "12/20/2022"}
+{"address": "0xb5734aC76D44BdF32b8DD4331e5BFC3Bf9989CDa", "name": "CamelFarmToken", "compiler": "0.8.16", "balance": "0 ETH", "txcount": 7, "settings": "", "date": "12/20/2022"}
+{"address": "0xc8884edE1ae44bDfF60da4B9c542C34A69648A87", "name": "SuperDestination", "compiler": "0.8.14", "balance": "0.000119571010408704 ETH", "txcount": 7, "settings": "", "date": "12/20/2022"}
+{"address": "0xfF3aFb7d847AeD8f2540f7b5042F693242e01ebD", "name": "SuperRouter", "compiler": "0.8.14", "balance": "0.001903089221932 ETH", "txcount": 25, "settings": "", "date": "12/20/2022"}
+{"address": "0x908da814cc9725616D410b2978E88fF2fb9482eE", "name": "StateHandler", "compiler": "0.8.14", "balance": "0 ETH", "txcount": 29, "settings": "", "date": "12/20/2022"}
+{"address": "0xaC97B95eD73e0b0360F0eed1903f28AAed624A41", "name": "MultiTxProcessor", "compiler": "0.8.14", "balance": "0 ETH", "txcount": 7, "settings": "", "date": "12/20/2022"}
