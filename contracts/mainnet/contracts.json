@@ -12557,3 +12557,14 @@
 {"address": "0x877f6FFa7924b1dCdf9620ce642BFBa891D2Be61", "name": "GM_Alloc_Registation", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 6, "settings": "", "date": "12/19/2022"}
 {"address": "0x0ead34d687aec7bf1f30639f1287c1c68c90d21b", "name": "ShiftSweeperProxyInterface", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/19/2022"}
 {"address": "0x01a4c8b5140557edac8edd09fa3b78122b636813", "name": "KTNSwapper", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/19/2022"}
+{"address": "0x6cb547d5ef3e72181f35b80457fdfb500a45566a", "name": "Address", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "12/20/2022"}
+{"address": "0xc54ea0fFb89E35b4a3e82DD5D643fb0Bd1261f47", "name": "TransparentUpgradeableProxy", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/20/2022"}
+{"address": "0xdbD82A83eae485EB589f56A7c20F440AeC952D1d", "name": "Hypervisor", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 6, "settings": "", "date": "12/20/2022"}
+{"address": "0xBcc9C1763d54427bDF5EfB6e9EB9494E5a1fbAbf", "name": "HWTToken", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "12/20/2022"}
+{"address": "0xB1641D94684225B72F97E52b2b02Ad07F7bA9089", "name": "StargateFeeLibraryV05", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 15, "settings": "", "date": "12/20/2022"}
+{"address": "0x1030a54366713d3a8Fe2acB13A4CfD5e904EaaFF", "name": "DeBridgesProxy", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "12/20/2022"}
+{"address": "0x68b712e179F471c05Da01983467486600B337e64", "name": "deathroll", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 8, "settings": "-", "date": "12/20/2022"}
+{"address": "0x206899E71E533737927E5046E609eC57bBa48692", "name": "Smoloween", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/19/2022"}
+{"address": "0x0C5805Bc1cd8ac2479141B1D914e72ac17a37B94", "name": "DininhoItems", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 4, "settings": "-", "date": "12/19/2022"}
+{"address": "0xD8D66f7B99CaeE7b764CB66cf9931cAB49D4Ab2c", "name": "CErc20DelegatorMlp", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "12/19/2022"}
+{"address": "0x769d2CdB6e5D8c44c2ed10891C8c18AEE4602245", "name": "GMXPriceOracle", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/19/2022"}
