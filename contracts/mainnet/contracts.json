@@ -12638,3 +12638,17 @@
 {"address": "0x9051AF977F2FE632D55D54da735181c38d58a31b", "name": "Hypervisor", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 6, "settings": "", "date": "12/20/2022"}
 {"address": "0x69D30780C8b035B85417C3B7C1eC3A0C904d92f8", "name": "djabi228", "compiler": "0.4.26", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/20/2022"}
 {"address": "0x3E002824f681932080E80EDAea2a12AeF91060F1", "name": "ModularVesting", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "12/20/2022"}
+{"address": "0x2bE0548A98E1c5e9F5fd1647C133d74E62bCC698", "name": "GFlyLPStaking", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/21/2022"}
+{"address": "0xba3acD9f8097C114676f4bd69f347c54C637Fb10", "name": "GFlyStaking", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/21/2022"}
+{"address": "0x46d27f14305Fb231F54C38dFc779F512d4bf5704", "name": "WaveFactory", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "12/21/2022"}
+{"address": "0x233769E1b571FBbb4169222345d2d57b0c9812b3", "name": "WaveContract", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 3, "settings": "", "date": "12/21/2022"}
+{"address": "0xC2b8d414fd70F786B1c3034a5D783c89E6DCb937", "name": "ArbitrumBundle", "compiler": "0.8.17", "balance": "0.00025 ETH", "txcount": 4, "settings": "-", "date": "12/21/2022"}
+{"address": "0x125d5fF78fE9822F5Ab9f6178b8B81152ee9a651", "name": "ArbitrumBundle", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 3, "settings": "-", "date": "12/21/2022"}
+{"address": "0xDA4D7fED229c3cE25F55647981c06A26edfD2AD0", "name": "LayerZeroGateway", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/21/2022"}
+{"address": "0xAbCCE862B6037C7a201C4e40CEEe7f8584C6FC72", "name": "Nully", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 11, "settings": "", "date": "12/21/2022"}
+{"address": "0x7957b2de2057ff247278c1c1a53994fdfd33baa3", "name": "MoonBoxs", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 3, "settings": "", "date": "12/21/2022"}
+{"address": "0x83A8Ff5C89cee8AFCDFeeA334badc5646e36a768", "name": "FlypeMaxiRouter", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/21/2022"}
+{"address": "0x65e4cfa385c9784d1cd90bb79f39f366d8e0d167", "name": "NewMockErc1155", "compiler": "0.8.13", "balance": "-", "txcount": 0, "settings": "", "date": "12/21/2022"}
+{"address": "0x080d604adfc9a6b5fe1122020aa2c3cdb4f3f18d", "name": "MockErc721", "compiler": "0.8.13", "balance": "-", "txcount": 0, "settings": "", "date": "12/21/2022"}
+{"address": "0x6f4ea44d9b9a95ce617e17bd9bbb80d343681d35", "name": "MockErc20", "compiler": "0.8.13", "balance": "-", "txcount": 0, "settings": "", "date": "12/21/2022"}
+{"address": "0x0724dc07ac5d3c402806f9ec94ba570f573250da", "name": "MyNFT", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 2, "settings": "-", "date": "12/21/2022"}
