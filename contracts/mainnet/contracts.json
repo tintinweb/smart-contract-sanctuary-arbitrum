@@ -12625,3 +12625,16 @@
 {"address": "0xE389d95e2E8C799FDe5d37F245BDd7160bF50864", "name": "Hypervisor", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 8, "settings": "", "date": "12/20/2022"}
 {"address": "0xA219a21FCd9A9e3BaD80b2c893Ad7D174014823B", "name": "ArTofPiratesContract", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 3, "settings": "", "date": "12/20/2022"}
 {"address": "0x37828d5f5cc7be0be2ee7509b13a039eb6e63f2c", "name": "PIOU", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 4, "settings": "", "date": "12/20/2022"}
+{"address": "0x473E7425B454EDAD2a72662F23e4C7714BBef0ca", "name": "deathroll", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 9, "settings": "-", "date": "12/21/2022"}
+{"address": "0x19a5ec09ee74f64573ac53f48a48616ce943c047", "name": "Vyper_contract", "compiler": "vyper:0.3.1", "balance": "0 ETH", "txcount": 19, "settings": "", "date": "12/21/2022"}
+{"address": "0x7e7bd2E66668e8C3cD48aEA8a380dC504FB21843", "name": "balHelper", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/21/2022"}
+{"address": "0xAb48108f8A5b42b2C07f818bf38a5175c28b5424", "name": "ArbitrumBitcoinAndStakingRewards2", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "12/20/2022"}
+{"address": "0xff5f7E17BB7d404026fA11C0261BA38E84739999", "name": "ArbitrumBitcoinAndStakingRewards", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "12/20/2022"}
+{"address": "0x442bc791338d137d4cc2496dea78c8292f17c48f", "name": "Vyper_contract", "compiler": "vyper:0.3.1", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/20/2022"}
+{"address": "0x027e2eB1C79bD1921a29fd377A8C978B3193401c", "name": "ArbitrumBitcoinAndStaking", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 12, "settings": "", "date": "12/20/2022"}
+{"address": "0x21178DD2BA9cAeE9DF37f2D5F89a097d69FB0A7d", "name": "Hypervisor", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 6, "settings": "", "date": "12/20/2022"}
+{"address": "0x3a589230dB6B570a4b43c9768c9E0D9Eaf65808F", "name": "Hypervisor", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 6, "settings": "", "date": "12/20/2022"}
+{"address": "0xa7FCe463815f18DbE246152C5291B84db07c0bcd", "name": "Hypervisor", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 6, "settings": "", "date": "12/20/2022"}
+{"address": "0x9051AF977F2FE632D55D54da735181c38d58a31b", "name": "Hypervisor", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 6, "settings": "", "date": "12/20/2022"}
+{"address": "0x69D30780C8b035B85417C3B7C1eC3A0C904d92f8", "name": "djabi228", "compiler": "0.4.26", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/20/2022"}
+{"address": "0x3E002824f681932080E80EDAea2a12AeF91060F1", "name": "ModularVesting", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "12/20/2022"}
