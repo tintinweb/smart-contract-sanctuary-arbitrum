@@ -12827,3 +12827,17 @@
 {"address": "0x1bf4b02d433dad074a14a45ada16ce3682aff6f4", "name": "Demeter_UniV3Farm_v2", "compiler": "0.8.10", "balance": "-", "txcount": 0, "settings": "", "date": "12/22/2022"}
 {"address": "0x85267688ce7677d69d75f288ff3064431030af9f", "name": "ArbitrumL2Messenger", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "12/22/2022"}
 {"address": "0x0B680A3BfC16FC0D72F2A36157ca939a047dc4D2", "name": "Demeter_UniV3FarmDeployer_v2", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "12/22/2022"}
+{"address": "0x81Fab0a7cA668225cEa731d327310E2248724662", "name": "zkmdao", "compiler": "0.4.26", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/22/2022"}
+{"address": "0xF44e27480A7f90fa905D86067091dFe5C617dC24", "name": "lkmdao", "compiler": "0.4.26", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/22/2022"}
+{"address": "0x06e83c9BfC24370731E8363f75C38d82E5Ae32Ba", "name": "SmolTraitShop", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/22/2022"}
+{"address": "0xd010db4217e6967e9c7dc322e650b72cd4c5e19b", "name": "StandardToken", "compiler": "0.4.26", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "12/22/2022"}
+{"address": "0x82F0792F5abD291373773Fa8e4100857B488582D", "name": "TestLel", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 5, "settings": "", "date": "12/22/2022"}
+{"address": "0x6C94954D0b265F657A4A1B35dfAA8B73D1A3f199", "name": "Badges", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/22/2022"}
+{"address": "0xe0747A2F52dE9CD76FC3146EC79656b99Be7039C", "name": "zalupa", "compiler": "0.4.26", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/22/2022"}
+{"address": "0x4c8747cd239431cfe52ab4c570a0c8b84586cbf6", "name": "Arbilp", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 15, "settings": "-", "date": "12/22/2022"}
+{"address": "0xb0f4dd5b697280f7ca2580d336a68465fd8a19d5", "name": "KitKatSwap", "compiler": "0.8.1", "balance": "0 ETH", "txcount": 2, "settings": "-", "date": "12/22/2022"}
+{"address": "0x87095096202D84D5BB35cfa18CA22236d456d036", "name": "PoisonSale", "compiler": "0.8.7", "balance": "4.29192852 ETH", "txcount": 25, "settings": "", "date": "12/22/2022"}
+{"address": "0xF9E68e8Ec59257DEf066e5a21601e4127C2D9cFE", "name": "ContangoYieldQuoter", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/22/2022"}
+{"address": "0x88d2676A4C43A36c029dFD0E35A94A7DEC145DC4", "name": "ContangoYield", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/22/2022"}
+{"address": "0xaC7c880dAC687640Ec4965f8854BA48842fcB6cF", "name": "Yield", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/22/2022"}
+{"address": "0x189fbeccff6245ccda0cd8b03d55104cf36b095e", "name": "Xmas23", "compiler": "0.8.7", "balance": "0.002 ETH", "txcount": 114, "settings": "", "date": "12/22/2022", "err": "Exception('HTML IN OUTPUT!! - BeautifulSoup messed up..')"}
