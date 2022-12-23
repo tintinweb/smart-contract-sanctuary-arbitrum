@@ -12841,3 +12841,10 @@
 {"address": "0x88d2676A4C43A36c029dFD0E35A94A7DEC145DC4", "name": "ContangoYield", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/22/2022"}
 {"address": "0xaC7c880dAC687640Ec4965f8854BA48842fcB6cF", "name": "Yield", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/22/2022"}
 {"address": "0x189fbeccff6245ccda0cd8b03d55104cf36b095e", "name": "Xmas23", "compiler": "0.8.7", "balance": "0.002 ETH", "txcount": 114, "settings": "", "date": "12/22/2022", "err": "Exception('HTML IN OUTPUT!! - BeautifulSoup messed up..')"}
+{"address": "0xE00bCF964f7509717c4911FE2cbd985FC2Aa9728", "name": "SquidRouter", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/23/2022"}
+{"address": "0x68a2948DFbD993017c9cB6BC5116Ed843b705e12", "name": "SquidMulticall", "compiler": "0.8.17", "balance": "-", "txcount": 0, "settings": "", "date": "12/23/2022"}
+{"address": "0x4b234C326fcBfe1DE64C0599633305eDc39d0B49", "name": "KEKEKK", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 13, "settings": "", "date": "12/23/2022"}
+{"address": "0x1951A6A6Ba2AC79531D4fcfa2172AEE484C21171", "name": "WLMagicRewardsFacet", "compiler": "0.8.17", "balance": "-", "txcount": 0, "settings": "", "date": "12/22/2022"}
+{"address": "0xcF5155fED350b5365a0096984bA49507C45Af24B", "name": "WLMintingFacet", "compiler": "0.8.17", "balance": "-", "txcount": 0, "settings": "", "date": "12/22/2022"}
+{"address": "0x62105940506f302f0a9602CB84D45bC8aDFD9106", "name": "WLInit", "compiler": "0.8.17", "balance": "-", "txcount": 0, "settings": "", "date": "12/22/2022"}
+{"address": "0x189fbeccff6245ccda0cd8b03d55104cf36b095e", "name": "Xmas23", "compiler": "0.8.7", "balance": "0.002 ETH", "txcount": 114, "settings": "", "date": "12/22/2022", "err": "Exception('HTML IN OUTPUT!! - BeautifulSoup messed up..')"}
