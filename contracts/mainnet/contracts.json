@@ -12898,3 +12898,11 @@
 {"address": "0x5c09a9ce08c4b332ef1cc5f7cadb1158c32767ce", "name": "fBombV2Bridges", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/24/2022"}
 {"address": "0x266c8f8cda4360506b8d32dc5c4102350a069acd", "name": "fTokenOC", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/24/2022"}
 {"address": "0x189fbeccff6245ccda0cd8b03d55104cf36b095e", "name": "Xmas23", "compiler": "0.8.7", "balance": "0.002 ETH", "txcount": 115, "settings": "", "date": "12/22/2022", "err": "Exception('HTML IN OUTPUT!! - BeautifulSoup messed up..')"}
+{"address": "0x2b85a982c48e5b11a8311FC1DD0Ad09a9B1ff4c4", "name": "FishNFT", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/24/2022"}
+{"address": "0x35eFc4f6a27b4C102035B2208A11546642Be0ee0", "name": "PolysynthBeefyVaultGLP", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/24/2022"}
+{"address": "0xb9D810580BAA9B7b2093951eFa199EB05b307bDd", "name": "PolysynthBeefyVaultGLP", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/24/2022"}
+{"address": "0xC5aa28a001fA41ff074c15cb4B8b4705D22ee3ef", "name": "BibiSwapNFT", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "12/24/2022"}
+{"address": "0xeb0944843e370a8ee9da6279571c1737b35b01bc", "name": "StakingHub", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/24/2022"}
+{"address": "0x4F4ab4429232379FCaa4a181eb464F2dbAA76F7D", "name": "NonFungibleTokenPositionDescriptor", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/24/2022"}
+{"address": "0x6d6fff0c4b9ab99aee6588aa0e399fddd420dc9f", "name": "ProtohedgeVault", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/24/2022"}
+{"address": "0x189fbeccff6245ccda0cd8b03d55104cf36b095e", "name": "Xmas23", "compiler": "0.8.7", "balance": "0.002 ETH", "txcount": 115, "settings": "", "date": "12/22/2022", "err": "Exception('HTML IN OUTPUT!! - BeautifulSoup messed up..')"}
