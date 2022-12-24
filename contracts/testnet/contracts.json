@@ -9487,3 +9487,23 @@
 {"address": "0xf17CC3a7f779F8cF78bA89aE08961bD972C3a177", "name": "UniswapV2Factory", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 4, "settings": "", "date": "12/22/2022"}
 {"address": "0x35AF1F97f57F98f9DD5178E4bAeE1A47D10B1D39", "name": "MaticWETH", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/22/2022"}
 {"address": "0x30326Eb7fa74aE3FD545Ec493A3B7FD681bA4B9D", "name": "Token", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "12/22/2022"}
+{"address": "0x2F8dAE32a31A5982D4a957606970C9e41B0dCf7A", "name": "GatekeeperOne", "compiler": "0.8.12", "balance": "-", "txcount": 0, "settings": "", "date": "12/23/2022"}
+{"address": "0xfef63eb6b97c6b9d4931439e48c01fbc410757b5", "name": "FinalFormCards", "compiler": "0.8.12", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "12/23/2022"}
+{"address": "0x9c391a87466c7f29ffe1ba645974136ae3472230", "name": "Presale", "compiler": "0.8.7", "balance": "0.016 ETH", "txcount": 4, "settings": "", "date": "12/23/2022"}
+{"address": "0x2e472a93d0120ca2f2aa12ce1141b828e92cd332", "name": "Token", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 3, "settings": "-", "date": "12/23/2022"}
+{"address": "0x3852ff9d22c9dd3e096cbd51f3f49ca24dab3650", "name": "FinalFormCards", "compiler": "0.8.12", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "12/23/2022"}
+{"address": "0xBb561f9bdC85D060571B424C1a4d898b802e4D95", "name": "CurveSorbettiereStrategyUpgradeable", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/23/2022"}
+{"address": "0x27563739291816FF24aa7fB6E3f8a07d913Ead43", "name": "ParallaxUpgradeable", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/23/2022"}
+{"address": "0x1Ac3831CF1BFF307fAC833Ef6FDe9296afbcbeF7", "name": "FragmentNFT", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/23/2022"}
+{"address": "0xFA0e79E7D664350A2a326b5110a954A9Faf2d5ac", "name": "FragmentNFT", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/23/2022"}
+{"address": "0x62F6157D87a0e346Bf5ACbf568414Cf5CCC26237", "name": "Proxy", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "12/23/2022"}
+{"address": "0x02550D33319aD7283a38D69E84996178b476838A", "name": "ProxyERC20", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "12/23/2022"}
+{"address": "0x2D3F70fAe7138DAbB3D8a647b783aD5386F4c52D", "name": "Basket", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/23/2022"}
+{"address": "0x7f7aEaC2c776324a264321Ae5b0484c6E55AcB73", "name": "NibblVaultFactory", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/23/2022"}
+{"address": "0xa3ebd450Ce46481F49390bf9FA9013471b87d3Bc", "name": "ERC1155Link", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/23/2022"}
+{"address": "0xa4dEA2D60CC213cB2bBF682218Ef04E82B9309C4", "name": "NibblVault2", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/23/2022"}
+{"address": "0xfA885fA378e3b06926dAA7D792d521c22aAC796C", "name": "FragmentNFT", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/23/2022"}
+{"address": "0xA9894e112c1302cD3742Fc8210E54ABA0560922c", "name": "FragmentNFTProxy", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/23/2022"}
+{"address": "0x3363ff00D7D43297e204a6C2e6D9c5eFaE86ceB2", "name": "FragmentNFT", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/23/2022"}
+{"address": "0x2a43A747A632feFCA8A161e8434F752653eadBC0", "name": "FragmentFactory", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/23/2022"}
+{"address": "0xa7e18f58f87E2071EcADCA13ea769db46Eb4ac91", "name": "ConfigProvider", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/23/2022"}
