@@ -9507,3 +9507,7 @@
 {"address": "0x3363ff00D7D43297e204a6C2e6D9c5eFaE86ceB2", "name": "FragmentNFT", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/23/2022"}
 {"address": "0x2a43A747A632feFCA8A161e8434F752653eadBC0", "name": "FragmentFactory", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/23/2022"}
 {"address": "0xa7e18f58f87E2071EcADCA13ea769db46Eb4ac91", "name": "ConfigProvider", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/23/2022"}
+{"address": "0x707FbADe5999314aE31Cace4F563E56d6566F01F", "name": "FragmentNFT", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/26/2022"}
+{"address": "0xBA8FAc17325c5b9f3139F92946957f5ADbbC86FA", "name": "Lock", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 3, "settings": "", "date": "12/25/2022"}
+{"address": "0x918f589980b6dd4c1afb755f9f428dc49631b321", "name": "AEGE", "compiler": "0.6.8", "balance": "0 ETH", "txcount": 3, "settings": "-", "date": "12/25/2022"}
+{"address": "0xCF3E6A2eB3B9a57C082b023FfC2F01b74590663F", "name": "ProxyVault", "compiler": "0.8.10", "balance": "0.001466949226255589 ETH", "txcount": 8, "settings": "", "date": "12/25/2022"}
