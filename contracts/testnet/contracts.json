@@ -9511,3 +9511,11 @@
 {"address": "0xBA8FAc17325c5b9f3139F92946957f5ADbbC86FA", "name": "Lock", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 3, "settings": "", "date": "12/25/2022"}
 {"address": "0x918f589980b6dd4c1afb755f9f428dc49631b321", "name": "AEGE", "compiler": "0.6.8", "balance": "0 ETH", "txcount": 3, "settings": "-", "date": "12/25/2022"}
 {"address": "0xCF3E6A2eB3B9a57C082b023FfC2F01b74590663F", "name": "ProxyVault", "compiler": "0.8.10", "balance": "0.001466949226255589 ETH", "txcount": 8, "settings": "", "date": "12/25/2022"}
+{"address": "0xC667C0e84bEfB80099372d4062B3076b232EF157", "name": "MockToken", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/27/2022"}
+{"address": "0x5E57BBD98dF432aCa2Ff587d0A05CC9477E0C299", "name": "Greeter", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 6, "settings": "", "date": "12/27/2022"}
+{"address": "0x983033FBce23688a78f88706Aad6cb9F20A55d82", "name": "test", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "12/26/2022"}
+{"address": "0xb54A2a3059A419Db76EC7833f69CA80e80A5e884", "name": "ERC1155Openzeppelin", "compiler": "0.8.1", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/26/2022"}
+{"address": "0xA660D29F026A6181d049E9B6c5D9a597E21BF284", "name": "ExecutableSample", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 4, "settings": "", "date": "12/26/2022"}
+{"address": "0x31B31f2838892A7a154C1658AB912a498085C0df", "name": "Token", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/26/2022"}
+{"address": "0xeA8460324a83762AdccED8BD16496653C69a2a08", "name": "LendingMarket", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/26/2022"}
+{"address": "0x0E20674Cb46b61De19160d0354A88354004cfaC2", "name": "UniswapV2Factory", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "12/26/2022"}
