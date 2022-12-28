@@ -13139,3 +13139,23 @@
 {"address": "0xE8144386BF00f168ed7a0E0D821AC18e02a461BA", "name": "KyberFairLaunchV2", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "12/28/2022"}
 {"address": "0xA33e4b53dc2Faf08b97a64687b99623CeF9c7f24", "name": "GMXACL", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/28/2022"}
 {"address": "0x189fbeccff6245ccda0cd8b03d55104cf36b095e", "name": "Xmas23", "compiler": "0.8.7", "balance": "0.002 ETH", "txcount": 116, "settings": "", "date": "12/22/2022", "err": "Exception('HTML IN OUTPUT!! - BeautifulSoup messed up..')"}
+{"address": "0xE6a434b0F07D4241B7406b59D38ACDd2c3869c9F", "name": "DataLink", "compiler": "0.8.6", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/28/2022"}
+{"address": "0x729b0845f63c9ea57de0b194ecec453c19c7206d", "name": "SaigeCapital", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 7, "settings": "-", "date": "12/28/2022"}
+{"address": "0x788181b1413b390749266a3d82b87c270a03870c", "name": "DataLink", "compiler": "0.8.6", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/28/2022"}
+{"address": "0xcE4EA67f35a8A98e22CfF99B90BEeD56aadD01b7", "name": "Launch3Funding", "compiler": "0.8.9", "balance": "0.000013003125 ETH", "txcount": 4, "settings": "", "date": "12/28/2022"}
+{"address": "0x9e3a41ffe051C6499544860FBB06fCF7c07bC627", "name": "Lily", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "12/28/2022"}
+{"address": "0x69d3D15fa51E6fDe8d311F6D6238d3CBD23e0768", "name": "Lily", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/28/2022"}
+{"address": "0x17b287DfC21D54B712B411b2B013f3014bdDa25c", "name": "DataLink", "compiler": "0.8.6", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/28/2022"}
+{"address": "0x6582376691Ec4013FD58c643516CcB5f720054cA", "name": "CVIUSDCThetaVault", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/28/2022"}
+{"address": "0xC53334eCC6f3D8E6ba96041528e40c48586B6c88", "name": "CVIUSDCVolatilityToken", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/28/2022"}
+{"address": "0x31cd9fa35f0A1F6bDDEbe5A6ad5F46b2f0f24E4b", "name": "CVIUSDCRebaser", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 12, "settings": "", "date": "12/28/2022"}
+{"address": "0x44d8998FCB1f50d0C5463582d7ce9a4C27BA5671", "name": "CVIUSDCRequestFeesCalculator", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 6, "settings": "", "date": "12/28/2022"}
+{"address": "0x8a53460ea9Cd297B2283085AF8ff675cd9f8FC09", "name": "CVIUSDCPlatform", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/28/2022"}
+{"address": "0xd5F468E5769BFcA313646070C18A267DA42d9F4E", "name": "CVIUSDCFeesCalculator", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 7, "settings": "", "date": "12/28/2022"}
+{"address": "0xDA8D0386e91b2334b23C043978383a91728A68Eb", "name": "CVIUSDCLiquidation", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "12/28/2022"}
+{"address": "0x4e20637dc4497AFda5a5e1C7812e75cb14FE2375", "name": "KeepersFeeVault", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "12/28/2022"}
+{"address": "0x8CffDaECa47F5529ad0f659b2178b0e8Db401Cd8", "name": "CollectionsRepository", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 3, "settings": "", "date": "12/28/2022"}
+{"address": "0x2630dc17E5258DA418dFF23C9A997628BaC2E45D", "name": "CollectionFactory", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "12/28/2022"}
+{"address": "0xa910545E86Ad86CceB6857F5923F17d420954c90", "name": "TokenFactory", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 4, "settings": "", "date": "12/28/2022"}
+{"address": "0x6Df7d3af2Fb13a4CF970F164e2289D5f79362807", "name": "TSHM", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 10, "settings": "-", "date": "12/28/2022"}
+{"address": "0x189fbeccff6245ccda0cd8b03d55104cf36b095e", "name": "Xmas23", "compiler": "0.8.7", "balance": "0.002 ETH", "txcount": 116, "settings": "", "date": "12/22/2022", "err": "Exception('HTML IN OUTPUT!! - BeautifulSoup messed up..')"}
