@@ -9519,3 +9519,7 @@
 {"address": "0x31B31f2838892A7a154C1658AB912a498085C0df", "name": "Token", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/26/2022"}
 {"address": "0xeA8460324a83762AdccED8BD16496653C69a2a08", "name": "LendingMarket", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/26/2022"}
 {"address": "0x0E20674Cb46b61De19160d0354A88354004cfaC2", "name": "UniswapV2Factory", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "12/26/2022"}
+{"address": "0x8c609e59e80e522b022f859ac9453d3c7ab3b197", "name": "BalanceChecker", "compiler": "0.4.26", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/27/2022"}
+{"address": "0x40FAd6867590DA85431CE969502379a57F267a44", "name": "ExchangeChallenge", "compiler": "0.8.1", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/27/2022"}
+{"address": "0x63B7B22C8CaF991C3B08036a013c85EF1Bb4e7f1", "name": "BullzMultipleExchange", "compiler": "0.8.0", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/27/2022"}
+{"address": "0xD7aB6Eb2D59a400994C2C269C9a5C974B1655580", "name": "CharityDAO", "compiler": "0.8.9", "balance": "0.1 ETH", "txcount": 1, "settings": "", "date": "12/27/2022"}
