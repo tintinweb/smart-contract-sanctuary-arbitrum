@@ -13106,3 +13106,26 @@
 {"address": "0x855dDa1fD5C99ec859D0bD3e5C870Ffc1371F911", "name": "FrenChef", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 5, "settings": "", "date": "12/27/2022"}
 {"address": "0xe056A71F27025394312F3e806a0082a73e563ea4", "name": "WrappedGM", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/27/2022"}
 {"address": "0x189fbeccff6245ccda0cd8b03d55104cf36b095e", "name": "Xmas23", "compiler": "0.8.7", "balance": "0.002 ETH", "txcount": 116, "settings": "", "date": "12/22/2022", "err": "Exception('HTML IN OUTPUT!! - BeautifulSoup messed up..')"}
+{"address": "0x628661E8cbF61938E80742a977253c922fE0940a", "name": "KyberFairLaunchV2", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/28/2022"}
+{"address": "0x323464bE5Ec13e0219Ae97aB5495D6c9b85E1E14", "name": "ProxyAdmin", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 5, "settings": "", "date": "12/27/2022"}
+{"address": "0xb2dCF7A1beb50591b046b79F3b83057306a845E4", "name": "fiyalkineth", "compiler": "0.4.26", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/27/2022"}
+{"address": "0x201481f52fc47C2514a3D71746125Eb905447549", "name": "Timelock", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/27/2022"}
+{"address": "0xA65E0C109E3B31F1533C151f55Ce931E25B9C3E6", "name": "ArbiumFinance", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/27/2022"}
+{"address": "0x01cAaaA682Ceba8cd6c02f93BB1393fB415fA5e2", "name": "ERC20Bridge", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 4, "settings": "", "date": "12/27/2022"}
+{"address": "0x0F9E4375facBeB90DAA850f677819b438ce50827", "name": "ERC721MintingBridge", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 3, "settings": "", "date": "12/27/2022"}
+{"address": "0x4352d94a599e3ab2acb0254af0a53cbc33d5e236", "name": "CryptoSchool", "compiler": "0.8.11", "balance": "0.00000001 ETH", "txcount": 2, "settings": "-", "date": "12/27/2022"}
+{"address": "0x6731b75a0e9284093a27cdba22950849258e4fad", "name": "TestContract", "compiler": "0.8.7", "balance": "0.000000011 ETH", "txcount": 7, "settings": "-", "date": "12/27/2022"}
+{"address": "0x7ad906cc38640aac483e289aac3ae521dbefd415", "name": "First", "compiler": "0.8.14", "balance": "0.0000001 ETH", "txcount": 5, "settings": "-", "date": "12/27/2022"}
+{"address": "0x643794baec2e75895ac4995b43badcfe247a1623", "name": "DonationContract", "compiler": "0.8.10", "balance": "0.000000002 ETH", "txcount": 8, "settings": "-", "date": "12/27/2022"}
+{"address": "0x49F025F916880f7bDa82D1dA3409E5e716f37881", "name": "GNSTradingBackendV6_3", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/27/2022"}
+{"address": "0x673cf5AB7b44Caac43C80dE5b99A37Ed5B3E4Cc6", "name": "GTokenLockedDepositNft", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/27/2022"}
+{"address": "0x990BA9Edd8a9615A23E4c452E63A80e519A4a23D", "name": "GTokenOpenPnlFeed", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/27/2022"}
+{"address": "0xcef1C791CDd8c3EA92D6AB32399119Fd30E1Ff21", "name": "GNSPriceAggregatorV6_3", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/27/2022"}
+{"address": "0x2f67A8d26F370b922B31B199C7946c3Ed53C10c6", "name": "GNSTradingV6_2", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "12/27/2022"}
+{"address": "0x5e3b541Ad6AcC4381C110247946C863e05ffc9BE", "name": "GainsNetworkNft5", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/27/2022"}
+{"address": "0x40F0AeaB6383Be2f254cE40B79089070Fa1a21A1", "name": "GainsNetworkNft4", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/27/2022"}
+{"address": "0x9834159EAF9811cf4C568294D5C7C9158F84b384", "name": "GainsNetworkNft3", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/27/2022"}
+{"address": "0xD1F024ba4Dbb1593B486cB5031b3AC5aC28e8A4e", "name": "GainsNetworkNft2", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/27/2022"}
+{"address": "0x75cbcc5414C539C2B302A5fA60E30B949D2D6F89", "name": "GainsNetworkNft1", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/27/2022"}
+{"address": "0x18c11FD286C5EC11c3b683Caa813B77f5163A122", "name": "GainsNetworkToken", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 8, "settings": "", "date": "12/27/2022"}
+{"address": "0x189fbeccff6245ccda0cd8b03d55104cf36b095e", "name": "Xmas23", "compiler": "0.8.7", "balance": "0.002 ETH", "txcount": 116, "settings": "", "date": "12/22/2022", "err": "Exception('HTML IN OUTPUT!! - BeautifulSoup messed up..')"}
