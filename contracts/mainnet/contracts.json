@@ -13175,3 +13175,14 @@
 {"address": "0x62cdb4fbc758ad44530644ae55ffab7796217508", "name": "Disperse", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 3, "settings": "-", "date": "12/29/2022"}
 {"address": "0xFA8b0Ef48Faa83De4afb3a1680B4658f40B6F28c", "name": "TraderJoeHelper", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "12/29/2022"}
 {"address": "0x189fbeccff6245ccda0cd8b03d55104cf36b095e", "name": "Xmas23", "compiler": "0.8.7", "balance": "0.002 ETH", "txcount": 116, "settings": "", "date": "12/22/2022", "err": "Exception('HTML IN OUTPUT!! - BeautifulSoup messed up..')"}
+{"address": "0xFA3dBab2E068Cfd17F6d606449Cf81e520f98E9f", "name": "CollectibleProducer", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/29/2022"}
+{"address": "0xe2ecf2d721ea6f7f21d7109b7ed98cdd2e7f9fa0", "name": "frog", "compiler": "0.5.16", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "12/29/2022"}
+{"address": "0x4828cE92dF7bb8546AC6353Dd195e23653c9a6A2", "name": "UniswapV3Helpers", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/29/2022"}
+{"address": "0x1E79334D3b8F9dE61EEfFef314A587D113AD6Ea3", "name": "Splitter", "compiler": "0.8.16", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/29/2022"}
+{"address": "0x06789e3C2DE30202800cA6BF8f2C08F6e3CF68aB", "name": "DepositToken", "compiler": "0.8.16", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/29/2022"}
+{"address": "0xdaa11A667d94751e2754F2c4049e6c7eB629804A", "name": "MonolithVoter", "compiler": "0.8.16", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/29/2022"}
+{"address": "0x9Bc6EFf1FBc2e602079646e9E597b4De9e051f8D", "name": "TokenBooster", "compiler": "0.8.16", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/29/2022"}
+{"address": "0x85083B2374f241a8e6AC82B6b8a712cAC941F341", "name": "FeeDistributor", "compiler": "0.8.16", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/29/2022"}
+{"address": "0x9b7b9A93FF98Ac00a5DdF176bf7Bb6F52D41201d", "name": "VeDepositor", "compiler": "0.8.16", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/29/2022"}
+{"address": "0x4D3A7828aa8a7f579c4cD8f5Ba96b2AFCA0150ba", "name": "LpDepositor", "compiler": "0.8.16", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/29/2022"}
+{"address": "0x189fbeccff6245ccda0cd8b03d55104cf36b095e", "name": "Xmas23", "compiler": "0.8.7", "balance": "0.002 ETH", "txcount": 116, "settings": "", "date": "12/22/2022", "err": "Exception('HTML IN OUTPUT!! - BeautifulSoup messed up..')"}
