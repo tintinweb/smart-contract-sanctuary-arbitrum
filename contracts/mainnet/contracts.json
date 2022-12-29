@@ -13165,3 +13165,10 @@
 {"address": "0x20fAfD2B0Ba599416D75Eb54f48cda9812964f46", "name": "OreoSwapFactory", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 7, "settings": "", "date": "12/28/2022"}
 {"address": "0x9B0817fA08b46670B92300B58AA1f4AB155701ea", "name": "PeanutV3", "compiler": "0.8.15", "balance": "0.000607 ETH", "txcount": 2, "settings": "", "date": "12/28/2022"}
 {"address": "0x189fbeccff6245ccda0cd8b03d55104cf36b095e", "name": "Xmas23", "compiler": "0.8.7", "balance": "0.002 ETH", "txcount": 116, "settings": "", "date": "12/22/2022", "err": "Exception('HTML IN OUTPUT!! - BeautifulSoup messed up..')"}
+{"address": "0x3FbF14e046556f7A13F77930D4363c0BbBAddF36", "name": "LPStakingRewards", "compiler": "0.5.16", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/29/2022"}
+{"address": "0x7AE48cC0d614Aa93037F31AFe38D8Ee18e2F71b7", "name": "Event", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/29/2022"}
+{"address": "0x92e45E79d9ff943C9Ee16967Cf0411277C2919Ef", "name": "MasterFren", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 6, "settings": "", "date": "12/29/2022"}
+{"address": "0x036b92aa4cf07dd11aa0248b28343cfd9b505590", "name": "Reserve", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/29/2022"}
+{"address": "0xe3A6CD067a1193b903143C36dA00557c9d95C41e", "name": "TimelockController", "compiler": "0.8.17", "balance": "-", "txcount": 0, "settings": "", "date": "12/28/2022"}
+{"address": "0x0779702742c1397700e452A0976EfEF18D874764", "name": "ProxyAdmin", "compiler": "0.8.17", "balance": "-", "txcount": 0, "settings": "", "date": "12/28/2022"}
+{"address": "0x189fbeccff6245ccda0cd8b03d55104cf36b095e", "name": "Xmas23", "compiler": "0.8.7", "balance": "0.002 ETH", "txcount": 116, "settings": "", "date": "12/22/2022", "err": "Exception('HTML IN OUTPUT!! - BeautifulSoup messed up..')"}
