@@ -13239,3 +13239,10 @@
 {"address": "0x5Fd71280b6385157b291b9962f22153FC9E79000", "name": "GRB", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/30/2022"}
 {"address": "0x4edac3621d822c2365ca815d09e91fbdaca01d80", "name": "ChristmasRabbit", "compiler": "0.5.16", "balance": "0 ETH", "txcount": 5, "settings": "-", "date": "12/30/2022"}
 {"address": "0x189fbeccff6245ccda0cd8b03d55104cf36b095e", "name": "Xmas23", "compiler": "0.8.7", "balance": "0.002 ETH", "txcount": 116, "settings": "", "date": "12/22/2022", "err": "Exception('HTML IN OUTPUT!! - BeautifulSoup messed up..')"}
+{"address": "0x1070D44b37660D8f4F36F30148149B8Fc80269e5", "name": "Gauge", "compiler": "0.8.13", "balance": "-", "txcount": 0, "settings": "", "date": "12/30/2022"}
+{"address": "0x1b2a565439d3142b109977eac999aec1c3d4b5be", "name": "Frenship", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 49, "settings": "-", "date": "12/30/2022"}
+{"address": "0xb54C3942211C16b63C9d95036CF2acffA667ABA7", "name": "HyperLPRouter", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/30/2022"}
+{"address": "0x647d0dcaac31ac5d21094edbfc346cad26284c2a", "name": "DICTUM", "compiler": "0.5.17", "balance": "0 ETH", "txcount": 3, "settings": "-", "date": "12/30/2022"}
+{"address": "0x962E44996a3f94A92d5388Ce0d9Cb2b189dc0241", "name": "HyperLPFactory", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/30/2022"}
+{"address": "0x0215Bc1eC07E497ECc2649e9835351e4B32C6Ef5", "name": "spacechicken", "compiler": "0.8.16", "balance": "0.000285521841178206 ETH", "txcount": 13, "settings": "-", "date": "12/30/2022"}
+{"address": "0x189fbeccff6245ccda0cd8b03d55104cf36b095e", "name": "Xmas23", "compiler": "0.8.7", "balance": "0.002 ETH", "txcount": 116, "settings": "", "date": "12/22/2022", "err": "Exception('HTML IN OUTPUT!! - BeautifulSoup messed up..')"}
