@@ -9585,3 +9585,14 @@
 {"address": "0x80b54Ba64d8a207785969d9ae0dA984EfE8D10dF", "name": "RewardsManager", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/28/2022"}
 {"address": "0x8A457D3a88A61F79DE7A089f651b56Ce444c8538", "name": "GameBasic", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/28/2022"}
 {"address": "0xd6767fA73bAd1F0991c8b21dd42BD8C00975FF7b", "name": "Fixed192x64Math", "compiler": "0.5.10", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/28/2022"}
+{"address": "0xE6Afc9c660eC5797598699399CBbD0dDD90175c3", "name": "Lever", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 15, "settings": "", "date": "12/30/2022"}
+{"address": "0x65552a033563D9E905942dA965a804c49Ad3A045", "name": "Exchange", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 19, "settings": "", "date": "12/30/2022"}
+{"address": "0xf31c342fe12201e241a9e4bb3ab95f84f1295010", "name": "GRP", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "12/30/2022"}
+{"address": "0xBA31B6F6c207fFEbd26b8d03aF1a29CCC3b3ec4b", "name": "TatesToken", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "12/30/2022"}
+{"address": "0xeca01acdf207e56b888784665401666692b15401", "name": "balance", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 2, "settings": "-", "date": "12/29/2022"}
+{"address": "0x87dccfae9fe7cbb5e1712f592d55c66ccc9967bc", "name": "balance", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 3, "settings": "-", "date": "12/29/2022"}
+{"address": "0xF1BC1dC1FB1f861992F1Ea640df95FbFB1d18F39", "name": "LendingMarket", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/29/2022"}
+{"address": "0xB7157B57636e5D76ab3b9986e3c6373644e475A2", "name": "Lever", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 27, "settings": "", "date": "12/29/2022"}
+{"address": "0x859c060a67301F49B71D9c6E7cbC791ee06774d0", "name": "Exchange", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 42, "settings": "", "date": "12/29/2022"}
+{"address": "0xA92b5d105bD271Be43FA533Fcdb5de84918e2BF6", "name": "ConditionalLiquidity", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 6, "settings": "", "date": "12/29/2022"}
+{"address": "0x91a322aa609eff5e2249b294d98977822397e09e", "name": "P1MultisigAdmin", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 4, "settings": "", "date": "12/29/2022"}
