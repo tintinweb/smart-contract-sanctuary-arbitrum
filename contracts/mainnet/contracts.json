@@ -13212,3 +13212,30 @@
 {"address": "0xe8b314942bfa5a28f13a51c28fafec4a9070f1bb", "name": "SafeMath", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "12/30/2022"}
 {"address": "0xD660D8ef59123aaad11684c598363b3805E294DA", "name": "SurfVoucher", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "12/30/2022"}
 {"address": "0x189fbeccff6245ccda0cd8b03d55104cf36b095e", "name": "Xmas23", "compiler": "0.8.7", "balance": "0.002 ETH", "txcount": 116, "settings": "", "date": "12/22/2022", "err": "Exception('HTML IN OUTPUT!! - BeautifulSoup messed up..')"}
+{"address": "0x42a9771Ec69F83319dA308AA2f4D2D30d6aeFF52", "name": "CanPad", "compiler": "0.5.16", "balance": "0 ETH", "txcount": 6, "settings": "-", "date": "12/30/2022"}
+{"address": "0x145dE30c929a065582da84Cf96F88460dB9745A7", "name": "UiPoolDataProviderV3", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/30/2022"}
+{"address": "0xDA67AF3403555Ce0AE3ffC22fDb7354458277358", "name": "UiIncentiveDataProviderV3", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/30/2022"}
+{"address": "0x12fe2363e2c18C54217324Adde61F6a1494C478B", "name": "Minter", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/30/2022"}
+{"address": "0x0426721BE506C73ee8a55D690E3fc4B84bb92A13", "name": "Voter", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/30/2022"}
+{"address": "0x6e4140d04a0cd5fFd3418BB8E48443B1d8Bd1643", "name": "VeDist", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/30/2022"}
+{"address": "0xe83110ABF2684E7b07984572f2d1Da1F38d85206", "name": "Ve", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/30/2022"}
+{"address": "0x815Db9DbB537403A01Fb5b83ABA32099Df1a48F9", "name": "BribeFactory", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/30/2022"}
+{"address": "0x53081Bc3cF5be5784C79196f25C16faFaAA922a1", "name": "GaugeFactory", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/30/2022"}
+{"address": "0x72719949D1Eba4e54862cE7535507c78ca3d0115", "name": "Dtoken", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/30/2022"}
+{"address": "0x182c1C5Db784D6B1e0097C0B24089A168f2f138B", "name": "Controller", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 3, "settings": "", "date": "12/30/2022"}
+{"address": "0xec7bEeaE060cdcE78098eEA8Ceaf3282F3A07274", "name": "Pair", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/30/2022"}
+{"address": "0x82F6fE447B0a4d4C9aE0a00d127737e29F75bb26", "name": "Router01", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 3, "settings": "", "date": "12/30/2022"}
+{"address": "0x6CC691fbFEf23a669452a21ad8296D1DCCC330eC", "name": "Factory", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/30/2022"}
+{"address": "0x5f6a216ED74B56C679715F7E14467D56b9fE8d20", "name": "GovernanceTreasury", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/30/2022"}
+{"address": "0x95f2686240Ee996f8d5db5db67cee8d54f9707A7", "name": "AccountsOwnable", "compiler": "0.8.16", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/30/2022"}
+{"address": "0x4a8c370d27993008b72bcdc17247705e526010fc", "name": "UNAMI", "compiler": "0.8.12", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "12/30/2022"}
+{"address": "0xBF00a7cFa548ee0B70133Dc533a93b81d5DC4436", "name": "OracleOwnable", "compiler": "0.8.16", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/30/2022"}
+{"address": "0x2666114f2a515690E8f67078F30d8d0F57b84897", "name": "Oracle", "compiler": "0.8.16", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/30/2022"}
+{"address": "0x4C5a16beb5B5943B223062A2Eb6709E0aD297b0B", "name": "Liquidations", "compiler": "0.8.16", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/30/2022"}
+{"address": "0xa5732ABD1FFC6C3864c84461C275Bb75E81ea9Ec", "name": "TRIBENFT", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "12/30/2022"}
+{"address": "0x42520eBEC698Cbeb3aa79EEd1bc94F2B3372A5cf", "name": "AccountManager", "compiler": "0.8.6", "balance": "0 ETH", "txcount": 21, "settings": "", "date": "12/30/2022"}
+{"address": "0xD189d24D137a18293c393F6C83F0b204ae03aB83", "name": "PoolDDL", "compiler": "0.8.6", "balance": "0 ETH", "txcount": 9, "settings": "", "date": "12/30/2022"}
+{"address": "0x456b4c2Ab885B6578FBdE750A83966b4523EedCd", "name": "DDL_GMX", "compiler": "0.8.6", "balance": "0 ETH", "txcount": 33, "settings": "", "date": "12/30/2022"}
+{"address": "0x5Fd71280b6385157b291b9962f22153FC9E79000", "name": "GRB", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/30/2022"}
+{"address": "0x4edac3621d822c2365ca815d09e91fbdaca01d80", "name": "ChristmasRabbit", "compiler": "0.5.16", "balance": "0 ETH", "txcount": 5, "settings": "-", "date": "12/30/2022"}
+{"address": "0x189fbeccff6245ccda0cd8b03d55104cf36b095e", "name": "Xmas23", "compiler": "0.8.7", "balance": "0.002 ETH", "txcount": 116, "settings": "", "date": "12/22/2022", "err": "Exception('HTML IN OUTPUT!! - BeautifulSoup messed up..')"}
