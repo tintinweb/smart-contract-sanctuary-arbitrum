@@ -13197,3 +13197,18 @@
 {"address": "0xFcD09dac09f64c6b94101C5d7D59a7A99b8846d5", "name": "GM_Token", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 5, "settings": "", "date": "12/29/2022"}
 {"address": "0x50ad6f378ab77842a74b2a2ae5b18cbf7f4abe21", "name": "DemoUniA", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "12/29/2022"}
 {"address": "0x189fbeccff6245ccda0cd8b03d55104cf36b095e", "name": "Xmas23", "compiler": "0.8.7", "balance": "0.002 ETH", "txcount": 116, "settings": "", "date": "12/22/2022", "err": "Exception('HTML IN OUTPUT!! - BeautifulSoup messed up..')"}
+{"address": "0xeea77939dabaf481e5b5c867c83c2415cdc5208c", "name": "ArbitrumTokenBundles", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "12/30/2022"}
+{"address": "0xd7f3811DE7E0D6953C06d61E772eFB98A7DB95D0", "name": "SwapLibrary", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/30/2022"}
+{"address": "0xA9d33169b590795e5eeCa63c93Eac2D04F80248B", "name": "Multicall", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/30/2022"}
+{"address": "0x24fe8767308c7febb9cab3313b5803632f5ad727", "name": "CanPad", "compiler": "0.5.16", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "12/30/2022"}
+{"address": "0xB754F9a73b6185F73dD62CBFF4b084cCDEb36b51", "name": "LizardRouter01", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/30/2022"}
+{"address": "0xCC1595FF013EA85872Ea5fF696C2e559F2B0587D", "name": "GovernanceTreasury", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/30/2022"}
+{"address": "0x499074aebe933912cbe93c001deefb3d641140a5", "name": "PINETWORK", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "12/30/2022"}
+{"address": "0x8d765371024ae481bfB850f53265dAe8398945b1", "name": "GMXACLSimpleVerForUUPS", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/30/2022"}
+{"address": "0x75ec33f431e2a6c40c5efc5f2cb80779e9c64ded", "name": "KoteStorage", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/30/2022"}
+{"address": "0xf04AeCAacc79EF8fe27216A988398AC1eD87a864", "name": "VaultV0", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 7, "settings": "", "date": "12/30/2022"}
+{"address": "0x66754272E7BDdD5c0f55cca6a8d7bC4A0A5D209f", "name": "VaultV0", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/30/2022"}
+{"address": "0x3B05e3613E117e806455a73F5e1a73AdDf332404", "name": "VaultV0", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/30/2022"}
+{"address": "0xe8b314942bfa5a28f13a51c28fafec4a9070f1bb", "name": "SafeMath", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "12/30/2022"}
+{"address": "0xD660D8ef59123aaad11684c598363b3805E294DA", "name": "SurfVoucher", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "12/30/2022"}
+{"address": "0x189fbeccff6245ccda0cd8b03d55104cf36b095e", "name": "Xmas23", "compiler": "0.8.7", "balance": "0.002 ETH", "txcount": 116, "settings": "", "date": "12/22/2022", "err": "Exception('HTML IN OUTPUT!! - BeautifulSoup messed up..')"}
