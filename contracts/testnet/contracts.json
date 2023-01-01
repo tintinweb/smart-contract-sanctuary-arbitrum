@@ -9619,3 +9619,8 @@
 {"address": "0xF6809f4f0D189E2c725Fa4890c79e4ea045E3AcA", "name": "UniswapV2Router02", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "12/30/2022"}
 {"address": "0xE15b74e76D17e92B416f5F4C82a8Bd14ce033cf0", "name": "UniswapV2Factory", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/30/2022"}
 {"address": "0xD5E606281FE39Ce0F7FA20CE2438786B85C93558", "name": "GRB", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "12/30/2022"}
+{"address": "0xdf9e82787baf7d5a4de8059d98f0ebeb18c8cf92", "name": "TWAMM", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 9, "settings": "", "date": "1/1/2023"}
+{"address": "0x8B6412217B66d299Ae12885F9Aae0d4D3049f53B", "name": "Factory", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 3, "settings": "", "date": "1/1/2023"}
+{"address": "0x407b468b43507a914a12f95f73539ba515ae3f16", "name": "BetterStorageV2", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 4, "settings": "-", "date": "12/31/2022"}
+{"address": "0x30fc388ed5c45a9bd28c1c3a6e1771ce79b51f15", "name": "BetterStorage", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "12/31/2022"}
+{"address": "0xa65f553f05AB7A22D502Fd4Cfb8b46c014C856e5", "name": "XVVS", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "12/31/2022"}
