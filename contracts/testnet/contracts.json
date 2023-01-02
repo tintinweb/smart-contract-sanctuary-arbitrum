@@ -9624,3 +9624,8 @@
 {"address": "0x407b468b43507a914a12f95f73539ba515ae3f16", "name": "BetterStorageV2", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 4, "settings": "-", "date": "12/31/2022"}
 {"address": "0x30fc388ed5c45a9bd28c1c3a6e1771ce79b51f15", "name": "BetterStorage", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "12/31/2022"}
 {"address": "0xa65f553f05AB7A22D502Fd4Cfb8b46c014C856e5", "name": "XVVS", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "12/31/2022"}
+{"address": "0x2340fc6b74d5b44248698c04c8eaaeb6549b7edb", "name": "ERC20Mock", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 5, "settings": "", "date": "1/1/2023"}
+{"address": "0xaea0ae40d7d60b76c2fff5ce35f59ba16f21dbd7", "name": "C", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "1/1/2023"}
+{"address": "0x1BABb3371864417f932Bdc184B344e423371Ceb9", "name": "HongBao", "compiler": "0.8.17", "balance": "0.000815220069665585 ETH", "txcount": 3, "settings": "-", "date": "1/1/2023"}
+{"address": "0x980431525f8e09C082D4170A1F6E6508c49734C9", "name": "WorldEvents", "compiler": "0.8.6", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/1/2023"}
+{"address": "0x4704ECFB7E0EA80E912ac838B4F7fc973Cb5fc92", "name": "DahuangConstants", "compiler": "0.8.6", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/1/2023"}
