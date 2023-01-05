@@ -13451,3 +13451,4 @@
 {"address": "0xc90ef8bE5FF981d120cf74E6a78588759A3B6461", "name": "Lassy", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 4, "settings": "-", "date": "12/30/2022"}
 {"address": "0xf533E2C5241b74bc7C7B1971621D5b7952dd979f", "name": "MyMessage", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "12/30/2022"}
 {"address": "0xea23b141b16cc48b06412f6c8c9c449c3f2891dc", "name": "TheForgottenArm", "compiler": "0.8.0", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "12/30/2022"}
+{"address": "0x4249b52AFd57CAF91353Be9EaF41eD7Ff74396b7", "name": "ACMasterChefLP", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 30, "settings": "", "date": "1/5/2023"}
