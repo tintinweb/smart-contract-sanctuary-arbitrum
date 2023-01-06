@@ -13524,3 +13524,14 @@
 {"address": "0x707B7c9abF9Fe5e9653B8b50E36db091cCf0049B", "name": "ACMasterChefLP", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 4, "settings": "", "date": "1/6/2023"}
 {"address": "0x1AF7c3C666Ccf8C342A208d10A24dA3a960388EC", "name": "ACMasterChefLP", "compiler": "0.8.9", "balance": "-", "txcount": 0, "settings": "", "date": "1/6/2023"}
 {"address": "0xaE7193c33363f69e97a8B7D105b55E6061C70cE7", "name": "ACMasterChefLP", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 13, "settings": "", "date": "1/6/2023"}
+{"address": "0x5D34b98572c667BAD445d18b36fC7B8B8C313Fc9", "name": "TimeCrusader", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/6/2023"}
+{"address": "0x49f9107a88e2c263621ff8defe4bf97128d8c2cc", "name": "TIMECRUSADER", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 5, "settings": "", "date": "1/6/2023"}
+{"address": "0x5091561EA4DA7146e1ffc1C1dBaf31E10cA78A98", "name": "FungibleOriginationPoolProxy", "compiler": "0.8.15", "balance": "-", "txcount": 0, "settings": "", "date": "1/6/2023"}
+{"address": "0xdd7fe3a8f7f30a27ec7eaeebf01289fd100ad424", "name": "OSK", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 6, "settings": "-", "date": "1/6/2023"}
+{"address": "0x7dbf12f21B00F78587d03BF728A4885eA04739Fc", "name": "RanbasedToken", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 380, "settings": "", "date": "1/6/2023"}
+{"address": "0x850aA84C9A0FC22877789d955618A2b4e6E41A8A", "name": "ControllerV7", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 21, "settings": "", "date": "1/6/2023"}
+{"address": "0x044C721CEA7f4c48B1abC4E0c8FdEE8A51753FbA", "name": "ACMasterChefLPUnia", "compiler": "0.8.9", "balance": "-", "txcount": 0, "settings": "", "date": "1/6/2023"}
+{"address": "0x571E06e7Af9295B918C9f2b3131ceb5CD73622cd", "name": "ACMasterChefLPUnia", "compiler": "0.8.9", "balance": "-", "txcount": 0, "settings": "", "date": "1/6/2023"}
+{"address": "0xE7fbc7B3b7C354787F9a35f40C417F20b11e0f38", "name": "UniV3Rebalancer", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/6/2023"}
+{"address": "0x3E7712b8d18cae7151b140bAD2DEfdF62Db61936", "name": "QuoterV3", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/6/2023"}
+{"address": "0x8eED1515E370B681f5C6b3865f43D638f5d42196", "name": "ACMasterChefERC20Unia", "compiler": "0.8.9", "balance": "-", "txcount": 0, "settings": "", "date": "1/6/2023"}
