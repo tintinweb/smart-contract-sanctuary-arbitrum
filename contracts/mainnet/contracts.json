@@ -13573,3 +13573,8 @@
 {"address": "0xd09e6db2f2c069bffc606053150b7a8b28a3ecf0", "name": "ReaperSwapRouter", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 38, "settings": "", "date": "1/7/2023"}
 {"address": "0x0dd1d5aa11ed16d71f32cdea044c85655d2bedde", "name": "ReaperSwapFactory", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/7/2023"}
 {"address": "0x53bd33b23f669e9a52ffbb35e50eae566a4ed72f", "name": "yoshimitsu", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "1/7/2023"}
+{"address": "0xd9f420b53c2e1e36128f4606b676bcd86d027dba", "name": "LiquidityLocker", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 5, "settings": "", "date": "1/7/2023"}
+{"address": "0x10FB922bacdD32A565e1d15e21cf802ec863B7E1", "name": "AutoOreo", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/7/2023"}
+{"address": "0x4fEd2a013719514F3F4D69dd5416692Aca4b8ffe", "name": "ACMasterChefLP", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/7/2023"}
+{"address": "0x753bf496e131810c9826066cb0f22bc24d400fa8", "name": "KiloKotKo", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/7/2023"}
+{"address": "0x9afc6243c29e4b8c3d390c66edf58e69e361e056", "name": "AutoOreo", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/7/2023"}
