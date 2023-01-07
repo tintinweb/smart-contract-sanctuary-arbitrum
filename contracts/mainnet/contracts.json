@@ -13578,3 +13578,14 @@
 {"address": "0x4fEd2a013719514F3F4D69dd5416692Aca4b8ffe", "name": "ACMasterChefLP", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/7/2023"}
 {"address": "0x753bf496e131810c9826066cb0f22bc24d400fa8", "name": "KiloKotKo", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/7/2023"}
 {"address": "0x9afc6243c29e4b8c3d390c66edf58e69e361e056", "name": "AutoOreo", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/7/2023"}
+{"address": "0x63e565942e8e2a40158cc67a9676b63f26eeeb0d", "name": "xSCAM_Community", "compiler": "0.8.5", "balance": "0 ETH", "txcount": 19, "settings": "-", "date": "1/7/2023"}
+{"address": "0x96fa91a27c398f4bc57b6a9431e2bb24efc29006", "name": "ApeSwapPair", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/7/2023"}
+{"address": "0xe385f1f8c40c54d6c86e9de9851d9c94c5958aab", "name": "APENFT", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/7/2023"}
+{"address": "0x9026c6f325059d62ecffcb9ed5475cd06724a532", "name": "ApeBooster", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/7/2023"}
+{"address": "0xdba423c7df82e6ef1d4ccca9b53e5c5b3d8d50ac", "name": "Staking", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "1/7/2023"}
+{"address": "0x5e2ccc64bdc9787cc047d4b9352e613b1a92b67b", "name": "ApeSwapRouter", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 5, "settings": "", "date": "1/7/2023"}
+{"address": "0xd8Ae4c9eAe638064067F6137904bde2355a9c6E8", "name": "InterchainQueryRouter", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/7/2023"}
+{"address": "0x00386e1b25d053aea6c8b75dc827e9a3ce92d0e9", "name": "MasterChef", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "1/7/2023"}
+{"address": "0x77CcAe70d79bb88DB2d76835899356181d344a22", "name": "InterchainAccountRouter", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/7/2023"}
+{"address": "0x1d5bb2fcf985d49d71d0f4cca5152255b7d50eb6", "name": "ApeSwapFactory", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "1/7/2023"}
+{"address": "0x5fb2a7c7289f1fbcbcd8cedb50a9b5f411b0391a", "name": "ApeSwap", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "1/7/2023"}
