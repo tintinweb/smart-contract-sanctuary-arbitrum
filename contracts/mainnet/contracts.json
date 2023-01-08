@@ -13606,3 +13606,25 @@
 {"address": "0xA7CD899bf9F457070c60f65dDe014Ca5BdF0707D", "name": "Renium", "compiler": "0.8.6", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "1/8/2023"}
 {"address": "0xaB9725F71B1f24756c4761017AD2670A1479aCAd", "name": "GMLaunchpad", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "1/8/2023"}
 {"address": "0x57b82d7dc78c23246e6ac830927c3440faac7a8b", "name": "Hellomydear", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/8/2023"}
+{"address": "0x178412e79c25968a32e89b11f63B33F733770c2A", "name": "CrossChainCanonicalV2", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/8/2023"}
+{"address": "0x9f1cbbe6d3aae6cd4894e7d78960f821757b3282", "name": "Example", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "1/8/2023"}
+{"address": "0xa0f09BB4dF12EBbB20bcFd252BAf041a336be78a", "name": "GMLaunchpad", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 2, "settings": "-", "date": "1/8/2023"}
+{"address": "0xFca61E79F38a7a82c62f469f55A9df54CB8dF678", "name": "StEthWeeklyCallsSsovV3", "compiler": "0.8.16", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "1/8/2023"}
+{"address": "0x6f3F4b7AAEB2FC8DF55703C12B6320fe9fA46e1d", "name": "StEthCallPriceOracle", "compiler": "0.8.16", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/8/2023"}
+{"address": "0x558Df6Bb25F754Aea5fa2F3eD8e78E7AFE23a1A6", "name": "BasicStakingStrategy", "compiler": "0.8.16", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/8/2023"}
+{"address": "0x753d2E07277A51933d9fd354d0307C5dd573b3D9", "name": "InitializableImmutableAdminUpgradeabilityProxy", "compiler": "0.6.12", "balance": "-", "txcount": 0, "settings": "", "date": "1/8/2023"}
+{"address": "0x9341C63a114F7025B1352e3fD8c369aCaEBB6149", "name": "InitializableImmutableAdminUpgradeabilityProxy", "compiler": "0.6.12", "balance": "-", "txcount": 0, "settings": "", "date": "1/8/2023"}
+{"address": "0x21cC49cda908349c4F1078F19F0D39834eF3fFAe", "name": "InitializableImmutableAdminUpgradeabilityProxy", "compiler": "0.6.12", "balance": "-", "txcount": 0, "settings": "", "date": "1/8/2023"}
+{"address": "0xc7a62639726976878364A7ea6Deb7D72e00C2Fa4", "name": "DefaultReserveInterestRateStrategy", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/8/2023"}
+{"address": "0x56fB9073C6EdcDD863778FB88E6E0195a45AaE26", "name": "InitializableImmutableAdminUpgradeabilityProxy", "compiler": "0.6.12", "balance": "-", "txcount": 0, "settings": "", "date": "1/8/2023"}
+{"address": "0xFE1dd568b1440F948108B7Cf0EF6A7fFeDe6fD35", "name": "InitializableImmutableAdminUpgradeabilityProxy", "compiler": "0.6.12", "balance": "-", "txcount": 0, "settings": "", "date": "1/8/2023"}
+{"address": "0x39EC5ad004FC62Ae47c11f4a87C57179dE09e3E7", "name": "InitializableImmutableAdminUpgradeabilityProxy", "compiler": "0.6.12", "balance": "-", "txcount": 0, "settings": "", "date": "1/8/2023"}
+{"address": "0xA0C272b68209DD55D1569C87180D5ca189b50e5F", "name": "InitializableImmutableAdminUpgradeabilityProxy", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 3, "settings": "", "date": "1/8/2023"}
+{"address": "0xFaFFc998A3Ef980E803012b9b2dc6c0B3645ca81", "name": "InitializableImmutableAdminUpgradeabilityProxy", "compiler": "0.6.12", "balance": "-", "txcount": 0, "settings": "", "date": "1/8/2023"}
+{"address": "0x66D8E2D9FBF90307c25d6c749F8129FbdC6e6d56", "name": "WalletBalanceProvider", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/8/2023"}
+{"address": "0xee8048CA6ed522BcEAcBD97610Dc49253c19395b", "name": "ViniumProtocolDataProvider", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/8/2023"}
+{"address": "0x341a502aFA9eF02bAA46568f7204577DAa93fa6C", "name": "LendingPoolCollateralManager", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/8/2023"}
+{"address": "0x4bB2bf81a6E88AE053d8245913A4B328dE254c17", "name": "LendingPool", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "1/8/2023"}
+{"address": "0x3a783A3DCc5908BA87a8882e911bB7e35def963A", "name": "LendingPoolAddressesProviderRegistry", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "1/8/2023"}
+{"address": "0x8D46b26540719d8d6Acee2c8A087cd02f5175EdF", "name": "LendingPoolAddressesProvider", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 11, "settings": "", "date": "1/8/2023"}
+{"address": "0xc8725ee26ff1e58944b0df2d27f98485ac62f4ff", "name": "MarryCoutur", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/8/2023"}
