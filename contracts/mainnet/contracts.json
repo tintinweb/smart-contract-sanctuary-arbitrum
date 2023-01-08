@@ -13601,3 +13601,8 @@
 {"address": "0xA1110D4814c819E59ae02A4B0217e5d140215A91", "name": "VoucherSVG", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "1/8/2023"}
 {"address": "0x6FB64758204938195A6685C892834c0c81Dab41b", "name": "VoucherDescriptor", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 3, "settings": "", "date": "1/8/2023"}
 {"address": "0xA55e612AcF2745E2899Fe4372A8be2ae54B073A7", "name": "GMTaX", "compiler": "0.8.6", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "1/8/2023"}
+{"address": "0xF34E24Bd9C82Db2f9BFbc506E220014eF0018997", "name": "Battle", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 5, "settings": "-", "date": "1/8/2023"}
+{"address": "0xB558cBCF40D80e6fb20D2bEa261ee883aF8b7E2D", "name": "Battle", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 3, "settings": "-", "date": "1/8/2023"}
+{"address": "0xA7CD899bf9F457070c60f65dDe014Ca5BdF0707D", "name": "Renium", "compiler": "0.8.6", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "1/8/2023"}
+{"address": "0xaB9725F71B1f24756c4761017AD2670A1479aCAd", "name": "GMLaunchpad", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "1/8/2023"}
+{"address": "0x57b82d7dc78c23246e6ac830927c3440faac7a8b", "name": "Hellomydear", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/8/2023"}
