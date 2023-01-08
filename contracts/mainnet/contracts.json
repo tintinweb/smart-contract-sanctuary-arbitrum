@@ -13590,3 +13590,10 @@
 {"address": "0x1d5bb2fcf985d49d71d0f4cca5152255b7d50eb6", "name": "ApeSwapFactory", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "1/7/2023"}
 {"address": "0x5fb2a7c7289f1fbcbcd8cedb50a9b5f411b0391a", "name": "ApeSwap", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "1/7/2023"}
 {"address": "0x3aB7560738Ea7132859981f1004fC16DC79e444A", "name": "LockedFarm", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 106, "settings": "", "date": "1/7/2023"}
+{"address": "0xEf3d74362495ca91d95E1e64C87942884D471C74", "name": "GFMLP_Locker", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "1/8/2023"}
+{"address": "0x34a4f68a876e1e61308c0f165edf903e8323c917", "name": "SecretSandwich", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/8/2023"}
+{"address": "0x3238a6de06cf949897ca580adb82aa6aa6d300cd", "name": "ChainHopWrapper", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "1/8/2023"}
+{"address": "0x97247DE3fe7c5aA718b2be4d454E42de11eAfc6d", "name": "Whitelist", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/8/2023"}
+{"address": "0x0B47C4D234fc34171b3B420768D8fB8A23Def7a0", "name": "AutoOreo", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 5, "settings": "", "date": "1/7/2023"}
+{"address": "0x5e21783a86A0773C099c3D9bc92EfeDF46dc5071", "name": "Bonk_Arbi", "compiler": "0.8.0", "balance": "0 ETH", "txcount": 3, "settings": "-", "date": "1/7/2023"}
+{"address": "0xb67aeFd36b5015C4DBC220De4fC71d63c6302550", "name": "BONKITRUM", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 4, "settings": "", "date": "1/7/2023"}
