@@ -13646,3 +13646,15 @@
 {"address": "0x258df3c39ade0c324df97bf6bf44f3ef44de7858", "name": "CyberArbitrum", "compiler": "0.8.1", "balance": "0 ETH", "txcount": 4, "settings": "", "date": "1/9/2023"}
 {"address": "0x2ded861e0d524b85a1e86c2e79bb78216f6aae0f", "name": "Summer", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 6, "settings": "-", "date": "1/9/2023"}
 {"address": "0xb11Fe3b5AAd4BF872d9C4F876Fc74CbD97bf04C0", "name": "SsovV3Router", "compiler": "0.8.16", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/9/2023"}
+{"address": "0x5C7a40284384b1F73E438e4B54C1227c1da00a6C", "name": "VxPremia", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/9/2023"}
+{"address": "0xb6E017C84B4360d3199C8b9205Dc0313F671b3ce", "name": "MintMercenaries", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/9/2023"}
+{"address": "0xd09556ECE9783f9AABba43e1df6A04a8218e7ca1", "name": "Mercenaries", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 4, "settings": "", "date": "1/9/2023"}
+{"address": "0xfcdf94faae9f79de63b1b0060766381804993f49", "name": "SafeMath", "compiler": "0.5.16", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "1/9/2023"}
+{"address": "0x394fdc975b2906FA85289806287492f8f563D7BB", "name": "UiPoolDataProviderV2", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/9/2023"}
+{"address": "0x282516dEa21678814d682a8118eB659f4b5acDcA", "name": "RumToken", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 5, "settings": "-", "date": "1/9/2023"}
+{"address": "0x14aE299aca45607485abBb578963540c34435e34", "name": "BattleSpells", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 13, "settings": "-", "date": "1/9/2023"}
+{"address": "0xd226a9390d80dabe2d4e16cc02aa80f715c28c44", "name": "BasicToken", "compiler": "0.4.16", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "1/9/2023"}
+{"address": "0xef46ea3e79c2d75a6bcb8ba7a3869d9a6e54258b", "name": "BeefyZapOneInch", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 9, "settings": "", "date": "1/9/2023"}
+{"address": "0x13c483b1a9ef367dd41056bd1e6620c640d92a1b", "name": "Address", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "1/9/2023"}
+{"address": "0xF70abc427971c4E5E0aEd78F991eB65a479C8E52", "name": "CashSettler", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/9/2023"}
+{"address": "0xa72F2943e856aa5266b01fe015a2c9e73a42A72A", "name": "TransparentUpgradeableProxy", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "1/9/2023"}
