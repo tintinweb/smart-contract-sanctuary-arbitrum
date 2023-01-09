@@ -13640,3 +13640,9 @@
 {"address": "0x20C991E409a65Fa99d14a5133A1867a718917A8e", "name": "YS", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/8/2023"}
 {"address": "0x6c5Ae8dCaD1E101FB108a89954D7dC0B8991445b", "name": "Fraxferry", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 6, "settings": "", "date": "1/8/2023"}
 {"address": "0x2CB608ad33F5a2069184253C5fc8CeDEa64b75E6", "name": "CErc20DelegateGmx", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/8/2023"}
+{"address": "0x92324acad3946f0600d7e0e2641ef10d1655d89d", "name": "FunnelFactory", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/9/2023"}
+{"address": "0xb2AcC9a328039E2918B2d85420251fb831ce47E0", "name": "Funnel", "compiler": "0.8.17", "balance": "-", "txcount": 0, "settings": "", "date": "1/9/2023"}
+{"address": "0xaa5Af45f483Dac5Ee5e2230285b7B04268634119", "name": "NFTSwap", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 4, "settings": "", "date": "1/9/2023"}
+{"address": "0x258df3c39ade0c324df97bf6bf44f3ef44de7858", "name": "CyberArbitrum", "compiler": "0.8.1", "balance": "0 ETH", "txcount": 4, "settings": "", "date": "1/9/2023"}
+{"address": "0x2ded861e0d524b85a1e86c2e79bb78216f6aae0f", "name": "Summer", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 6, "settings": "-", "date": "1/9/2023"}
+{"address": "0xb11Fe3b5AAd4BF872d9C4F876Fc74CbD97bf04C0", "name": "SsovV3Router", "compiler": "0.8.16", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/9/2023"}
