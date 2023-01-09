@@ -13658,3 +13658,26 @@
 {"address": "0x13c483b1a9ef367dd41056bd1e6620c640d92a1b", "name": "Address", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "1/9/2023"}
 {"address": "0xF70abc427971c4E5E0aEd78F991eB65a479C8E52", "name": "CashSettler", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/9/2023"}
 {"address": "0xa72F2943e856aa5266b01fe015a2c9e73a42A72A", "name": "TransparentUpgradeableProxy", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "1/9/2023"}
+{"address": "0x08B488b35dcf9e4557141B536E59fE5FDBBD8D47", "name": "AaveV3Asset", "compiler": "0.8.16", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/9/2023"}
+{"address": "0x3f0614ebD7A09DeE78804dC7a53b457FaDf37f7c", "name": "OffChainAsset", "compiler": "0.8.16", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/9/2023"}
+{"address": "0xD976a2025Ae7ed843FE163EbC72785d6558D6715", "name": "Balancer", "compiler": "0.8.16", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/9/2023"}
+{"address": "0x51C25de158e5bD2a5ae5b799010da81d908687B6", "name": "Stabilizer", "compiler": "0.8.16", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "1/9/2023"}
+{"address": "0x94E36D73c687cA1607D0434BA66542CaD1d88C3B", "name": "UniswapAMM", "compiler": "0.8.16", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/9/2023"}
+{"address": "0xFaeA9BF7EE3c5af0D044ee2Dc66339ebC58a7505", "name": "UniV3TWAPOracle", "compiler": "0.8.16", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "1/9/2023"}
+{"address": "0x9D22E3A442C89118facb5E97A95179a25707f499", "name": "SweepDollarCoin", "compiler": "0.8.16", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/9/2023"}
+{"address": "0x16D727F22605c7E520296900AcaC3f9526e37CBd", "name": "CashSettler", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/9/2023"}
+{"address": "0x9992f660137979C1ca7f8b119Cd16361594E3681", "name": "SiloRouter", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/9/2023"}
+{"address": "0xc70CB3317e34543d0e74f8d622f2D4d0a929cF3f", "name": "LiquidationHelper", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/9/2023"}
+{"address": "0xDc7066eD90DCC4B7377125DF82b8B91F64506d98", "name": "SiloLiquidationLens", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/9/2023"}
+{"address": "0x597283Aa3e8f4A271E4874bC494448Bf37172c63", "name": "UniswapV3SwapV2", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/9/2023"}
+{"address": "0xBe06E00666Dd1F42b0c65cFE17158906EfFb441E", "name": "UniswapV3Swap", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/9/2023"}
+{"address": "0x7E38a9d2C99CaEf533E5D692ED8a2Ce4b478E585", "name": "Silo", "compiler": "0.8.13", "balance": "-", "txcount": 0, "settings": "", "date": "1/9/2023"}
+{"address": "0x124230c23ab32E22c69aCB48b38B4Dbaaaf74a40", "name": "UniswapV3PriceProviderV2", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/9/2023"}
+{"address": "0x6696732C813F0B4F5eE98133EF55055FD7124825", "name": "InterestRateDataResolver", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/9/2023"}
+{"address": "0x07b94eB6AaD663c4eaf083fBb52928ff9A15BE47", "name": "SiloLens", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/9/2023"}
+{"address": "0x9d0DDE842801448534263FF23C629EDC6B6B31ee", "name": "ChainlinkV3PriceProvider", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/9/2023"}
+{"address": "0x7aAe7D92fbDd1De868c3398E1fade684c000f88d", "name": "BalancerV2PriceProvider", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/9/2023"}
+{"address": "0xa44030057A005995851ae36553caeF7551d36BDd", "name": "UniswapV3PriceProvider", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/9/2023"}
+{"address": "0x5bf4E67127263D951FC515E23B323d0e3b4485fd", "name": "PriceProvidersRepository", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 3, "settings": "", "date": "1/9/2023"}
+{"address": "0xb664Ca87Df549D110C59a96b10278439617D0813", "name": "BalancerV2Swap", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/9/2023"}
+{"address": "0x5818fc4db733fa16c3d0e2b1bfd0db6a11b73b50", "name": "Hamster", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 4, "settings": "-", "date": "1/9/2023"}
