@@ -13628,3 +13628,15 @@
 {"address": "0x3a783A3DCc5908BA87a8882e911bB7e35def963A", "name": "LendingPoolAddressesProviderRegistry", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "1/8/2023"}
 {"address": "0x8D46b26540719d8d6Acee2c8A087cd02f5175EdF", "name": "LendingPoolAddressesProvider", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 11, "settings": "", "date": "1/8/2023"}
 {"address": "0xc8725ee26ff1e58944b0df2d27f98485ac62f4ff", "name": "MarryCoutur", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/8/2023"}
+{"address": "0xC0Dc3ac5E8B45C41c99B26Acd6498C7CcDb6Cecd", "name": "HokutoSwapPair", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/9/2023"}
+{"address": "0xbeca55719261ee0c54bae72ebb9af80efaae75fb", "name": "HokutoBooster", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/9/2023"}
+{"address": "0x0c61df34ff8f7f57d316f18aaea479cff5e79c9c", "name": "MasterChef", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/9/2023"}
+{"address": "0xaccffab1e7cfb4efc7e67d42186cb9883b73a4f9", "name": "HokutoBoosterConfig", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/9/2023"}
+{"address": "0x357b8a0334385e5d2d5b80d312a9622ee9cbd4be", "name": "HOKUTONFTREF", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/9/2023"}
+{"address": "0x22ed4aa5ae87d3641f633dfc74fb49fe2009d2c8", "name": "Staking", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "1/9/2023"}
+{"address": "0x9b44c1a6459c8f2f3fa49fb95f9c8d4c455e0432", "name": "HokutoSwap", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 4, "settings": "", "date": "1/9/2023"}
+{"address": "0xc08516d4a6707767b920fd99f65fb7a2a2b30872", "name": "HokutoSwapRouter", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 8, "settings": "", "date": "1/9/2023"}
+{"address": "0xb760df4584d69dafcd96bccf78fa9dccd2b056ef", "name": "HokutoSwapFactory", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/9/2023"}
+{"address": "0x20C991E409a65Fa99d14a5133A1867a718917A8e", "name": "YS", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/8/2023"}
+{"address": "0x6c5Ae8dCaD1E101FB108a89954D7dC0B8991445b", "name": "Fraxferry", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 6, "settings": "", "date": "1/8/2023"}
+{"address": "0x2CB608ad33F5a2069184253C5fc8CeDEa64b75E6", "name": "CErc20DelegateGmx", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/8/2023"}
