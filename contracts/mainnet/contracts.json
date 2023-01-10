@@ -13738,3 +13738,16 @@
 {"address": "0x5A8Ecb195889Ee7425D217c1E569B65BCEB5E92f", "name": "ProtocolGovernance", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "1/10/2023"}
 {"address": "0xece50E90a3C349bdd2DC3FCCC92396585cD7122F", "name": "UiIncentiveDataProviderV2", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/10/2023"}
 {"address": "0xb0bce54bfac66328169135a486a57831da661611", "name": "P1Margin", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/10/2023"}
+{"address": "0xb3c8f4aa9ba403edb6e890e4da78f8ef7c9fc463", "name": "LimitOrderProtocol", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/10/2023"}
+{"address": "0x158e178e6483de2352b2161b093106f0987f4b12", "name": "CryptoTest", "compiler": "0.5.17", "balance": "0 ETH", "txcount": 4, "settings": "", "date": "1/10/2023"}
+{"address": "0xd3Ac016b1B8C80EeAdDe4D186A9138C9324e4189", "name": "OkcashToken", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/10/2023"}
+{"address": "0x8B90fb7960c2324CE6D2427fcE49ffaa0357b3d9", "name": "ArbitrumGuildRolesTokenBundle", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "1/10/2023"}
+{"address": "0x44099191d0eEc8aBb88c114D1e70ecfA77B713Ee", "name": "Web2Domains", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/10/2023"}
+{"address": "0xa492e19ffc585aea3da8d8d70e9f08f43ac6357a", "name": "Web3InTravelNFTTicket", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 3, "settings": "", "date": "1/10/2023"}
+{"address": "0xFdd7839Dd0ACEEDa96BAcD3E47e6FD9513Af4b98", "name": "StargateSwap", "compiler": "0.8.12", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/10/2023"}
+{"address": "0x15d650a44619138A4E146A36c862c18D6dCF8aB8", "name": "UniswapV2Router02", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 4, "settings": "", "date": "1/10/2023"}
+{"address": "0xe744fEEEb035a03166f9F56B22aCA00eED290F02", "name": "LendingRateOracle", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "1/10/2023"}
+{"address": "0xA31754f65009d2EFe1f5407182697D7C30142723", "name": "ViniumOracle", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "1/10/2023"}
+{"address": "0xF2221fb6d216EaAD25d4cD30b6E7604Efb47680B", "name": "ERC20RootVault", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/10/2023"}
+{"address": "0xA1cA0c206F60a52378FC38f99c845055E306fD6d", "name": "PlatformHelper", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/10/2023"}
+{"address": "0x649813B6dc6111D67484BaDeDd377D32e4505F85", "name": "CVIOracle", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "1/10/2023"}
