@@ -13751,3 +13751,4 @@
 {"address": "0xF2221fb6d216EaAD25d4cD30b6E7604Efb47680B", "name": "ERC20RootVault", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/10/2023"}
 {"address": "0xA1cA0c206F60a52378FC38f99c845055E306fD6d", "name": "PlatformHelper", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/10/2023"}
 {"address": "0x649813B6dc6111D67484BaDeDd377D32e4505F85", "name": "CVIOracle", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "1/10/2023"}
+{"address": "0x716cfcaf217d08ebb9c0ba4b6b189f3c5d19af60", "name": "Helix", "compiler": "0.8.1", "balance": "0 ETH", "txcount": 8, "settings": "-", "date": "1/10/2023"}
