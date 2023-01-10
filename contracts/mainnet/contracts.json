@@ -13681,3 +13681,31 @@
 {"address": "0x5bf4E67127263D951FC515E23B323d0e3b4485fd", "name": "PriceProvidersRepository", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 3, "settings": "", "date": "1/9/2023"}
 {"address": "0xb664Ca87Df549D110C59a96b10278439617D0813", "name": "BalancerV2Swap", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/9/2023"}
 {"address": "0x5818fc4db733fa16c3d0e2b1bfd0db6a11b73b50", "name": "Hamster", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 4, "settings": "-", "date": "1/9/2023"}
+{"address": "0x7d9fF6cb1BC3491fed7bF279D8532cAb594b29e8", "name": "GarbiTreasury", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/10/2023"}
+{"address": "0x82e0455E55eE4E8a773DB7DE60114a1Bb6e495bB", "name": "GarbiTimeLock", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/10/2023"}
+{"address": "0x7D1d4Ba5714CaeDbB7Bdb69e888993693dFc35f0", "name": "Prediction", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/10/2023"}
+{"address": "0x08804c13d21da41d2f1d6334b80f3241ca72d2b7", "name": "StarNFTV4", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 13095, "settings": "", "date": "1/10/2023"}
+{"address": "0x29C7718e8B606cEF1c44Fe6e43e07aF9D0875DE1", "name": "DPPAdvancedAdmin", "compiler": "0.6.9", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/10/2023"}
+{"address": "0x234B117064289C6f6c9da582d52a4AF8c4A3343e", "name": "Multicall", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/10/2023"}
+{"address": "0x8dD0Fea5FA2f7df535F87f312641Cc15d8B151BA", "name": "DPPAdvanced", "compiler": "0.6.9", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/10/2023"}
+{"address": "0x35a8c136B49cd93e781D10d292Cc5ec645F20624", "name": "BEE", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 3, "settings": "-", "date": "1/10/2023"}
+{"address": "0x7629668774f918c00Eb4b03AdF5C4e2E53d45f0b", "name": "XGBT", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "1/10/2023"}
+{"address": "0x6a0959Cd80FC9E2C1bE958dF1F8207C5b03f2A84", "name": "GNFT", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 5, "settings": "", "date": "1/10/2023"}
+{"address": "0xfb1f65955E168e0eF500b170EEd4A4EFEB99ae32", "name": "GBT", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 8, "settings": "", "date": "1/10/2023"}
+{"address": "0x2365fEaaa38cF59d3C80fE9119AB5DB2468Cd4E1", "name": "Multicall", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/10/2023"}
+{"address": "0xf5cfBaF55036264B902D9ae55A114d9A22c42750", "name": "GumBallFactory", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 3, "settings": "", "date": "1/10/2023"}
+{"address": "0x7F52636b42678989a6CdBc4f7CF549455D874C25", "name": "GNFTFactory", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "1/10/2023"}
+{"address": "0x85EB6224D920D4349c2182d18491D1f282107f07", "name": "GBTFactory", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "1/10/2023"}
+{"address": "0x31efA61168c0514fD1Bd4FA20EA96D5B0A151Cd8", "name": "SmolTraitShop", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/10/2023"}
+{"address": "0xE0Be420779cAd6E2bEA1E4F7C02F996D9ED1fCB5", "name": "InterchainAccountRouter", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/9/2023"}
+{"address": "0xfc4351357748d03cc938807e68a725e445c44995", "name": "CLP", "compiler": "0.8.17", "balance": "-", "txcount": 0, "settings": "", "date": "1/9/2023"}
+{"address": "0x79dd91477f63f7db5ddf70df9c3ff375ee8d1c71", "name": "Pool", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/9/2023"}
+{"address": "0x64132d85842f1a88a086d173cb66a66931963622", "name": "Trade", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 7, "settings": "", "date": "1/9/2023"}
+{"address": "0xf16033d20adda47dc99ea291d0f4c4fef2ff47af", "name": "Store", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 4, "settings": "", "date": "1/9/2023"}
+{"address": "0x4ca8c060ebfbcf82111c5da3a2619a8c71b12c96", "name": "Chainlink", "compiler": "0.8.17", "balance": "-", "txcount": 0, "settings": "", "date": "1/9/2023"}
+{"address": "0x234b19282985882d6d6fd54dEBa272271f4eb784", "name": "InterchainQueryRouter", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/9/2023"}
+{"address": "0x34ff56883c8B0C96b37232F4858e6EeF8b1eE20A", "name": "ActionPoolDcRouter", "compiler": "0.8.12", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/9/2023"}
+{"address": "0x1764319955D0E57bcb05C2257CaE4bA5b8153cC6", "name": "XGBTFactory", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/9/2023"}
+{"address": "0xf0320e9a31787fd14edcfb2e2492ac205e720ecc", "name": "BONKITRUM", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 7, "settings": "", "date": "1/9/2023"}
+{"address": "0x1c4f16763fbe166a13f9ce2fa318e753c14b189f", "name": "BONKITRUM", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 7, "settings": "", "date": "1/9/2023"}
+{"address": "0xe0bb839273832dE0Efb83f270fE3Bde3F97fe1fE", "name": "Bonkitrum", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 9, "settings": "-", "date": "1/9/2023"}
