@@ -13810,3 +13810,20 @@
 {"address": "0x88e56b4e209e4eedccaaed8b31617e5255b9615c", "name": "CarbonWrappedGLP", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 5, "settings": "", "date": "1/11/2023"}
 {"address": "0xcE04CdE2f1eB8177286F41479d753ab8B97322A9", "name": "ProxyReceiver", "compiler": "0.8.15", "balance": "-", "txcount": 0, "settings": "", "date": "1/11/2023"}
 {"address": "0xF8faF9319e5CDDfda173B0a6461f19765AAAbf03", "name": "DeployAny", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 2, "settings": "-", "date": "1/11/2023"}
+{"address": "0xbde2959b6ddb1c74b697d304836cb6aa3c4157d8", "name": "ArbiCash", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 6, "settings": "-", "date": "1/11/2023"}
+{"address": "0xf18ca1b08eea864e6a0baa9c3018ce1a7793fbb7", "name": "SwapQuoter", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "1/11/2023"}
+{"address": "0xaA47C9422FD5E12F1A364E659B593E1A10FC5436", "name": "UniUtils", "compiler": "0.8.16", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/11/2023"}
+{"address": "0xccADD7a856a71375Db47E32ABc5C5fd5F6B00454", "name": "IMXVault", "compiler": "0.8.16", "balance": "0 ETH", "txcount": 4, "settings": "", "date": "1/11/2023"}
+{"address": "0x17E07F3D556270CC73dF634539F30970FB85a507", "name": "AggregatorVault", "compiler": "0.8.16", "balance": "0 ETH", "txcount": 3, "settings": "", "date": "1/11/2023"}
+{"address": "0xAC92412FFC385c98F5f472CEb3825bAE2F945b99", "name": "AggregatorVault", "compiler": "0.8.16", "balance": "0 ETH", "txcount": 4, "settings": "", "date": "1/11/2023"}
+{"address": "0xdB613730C823F260a1A8aC2DcdD6B8B82b491919", "name": "IMX", "compiler": "0.8.16", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/11/2023"}
+{"address": "0xC6c72289eA5c0e28A5D3377C9d69B27161fA06aE", "name": "IMXVault", "compiler": "0.8.16", "balance": "0 ETH", "txcount": 4, "settings": "", "date": "1/11/2023"}
+{"address": "0x8DA9CD7232611Fef7b1f05Ab80ea9bB977F52A79", "name": "Synapse", "compiler": "0.8.16", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "1/11/2023"}
+{"address": "0xD626992d6754b358bc36F4B3eec9fb2B2Ba2DF38", "name": "Stargate", "compiler": "0.8.16", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "1/11/2023"}
+{"address": "0xb628c04a19f80f1686e151643f9f8a6dc2fe7110", "name": "LockContract", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "1/11/2023"}
+{"address": "0x3CB9ae281E511759832a074A92634d2486E6a886", "name": "DEIMinter", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/11/2023"}
+{"address": "0x546ecb0f37b4c45dbe4cb85f87d7ec6275cc72d2", "name": "MaciMusic", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 2, "settings": "-", "date": "1/11/2023"}
+{"address": "0x408749870ad708e24582a5744e71059f76fEC9Eb", "name": "Staking", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 94, "settings": "", "date": "1/11/2023"}
+{"address": "0xfcb79f2305a095895d8d6ee4996bd7c9ed9a9868", "name": "Staking", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 8, "settings": "", "date": "1/11/2023"}
+{"address": "0x69e036972c08e990d29d0f653e203745d691f17b", "name": "LBPair", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/11/2023"}
+{"address": "0xB25Ea886FcE4bfDC8750Cb2D4464FE3F7A67bc07", "name": "NFTXUnstakingInventoryZap", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 4, "settings": "", "date": "1/11/2023"}
