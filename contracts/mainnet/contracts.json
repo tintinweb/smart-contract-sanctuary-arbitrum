@@ -13801,3 +13801,12 @@
 {"address": "0x2A82070491B8eB746B748eA42c719890F1f9f4B9", "name": "BalanceSheet", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/10/2023"}
 {"address": "0x0Ed45e6C5e332C41eCDd0ba3B891CBA26DD73C15", "name": "Qualifier", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/10/2023"}
 {"address": "0x5424Ea74D26f873dDb4d2cBe473347f9F5b17C2a", "name": "PricingOracle", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/10/2023"}
+{"address": "0xbAc2E501d529160Ba06Fc2092c94e010d56D42C2", "name": "Reader", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/11/2023"}
+{"address": "0x763365e3CE0DC42076027dB7b472459FF3F28734", "name": "Stfx", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/11/2023"}
+{"address": "0xD974Db6393B83274c7DA596B5e9541503500d773", "name": "StfxVault", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 18006, "settings": "", "date": "1/11/2023"}
+{"address": "0x1255dcbecd91ff5b894edcf3d67b291e83f0443b", "name": "CarbonWrappedGLP", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 6, "settings": "", "date": "1/11/2023"}
+{"address": "0x4d31be79d70148675e5073189ef687fb1ba8633b", "name": "CarbonWrappedGLP", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 9, "settings": "", "date": "1/11/2023"}
+{"address": "0x6ae208c2776592d81069dcb96463be5e8733e5a3", "name": "Web3InTravelPodcastNFT", "compiler": "0.8.15", "balance": "0.005 ETH", "txcount": 2, "settings": "", "date": "1/11/2023"}
+{"address": "0x88e56b4e209e4eedccaaed8b31617e5255b9615c", "name": "CarbonWrappedGLP", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 5, "settings": "", "date": "1/11/2023"}
+{"address": "0xcE04CdE2f1eB8177286F41479d753ab8B97322A9", "name": "ProxyReceiver", "compiler": "0.8.15", "balance": "-", "txcount": 0, "settings": "", "date": "1/11/2023"}
+{"address": "0xF8faF9319e5CDDfda173B0a6461f19765AAAbf03", "name": "DeployAny", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 2, "settings": "-", "date": "1/11/2023"}
