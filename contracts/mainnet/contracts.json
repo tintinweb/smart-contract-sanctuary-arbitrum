@@ -13827,3 +13827,13 @@
 {"address": "0xfcb79f2305a095895d8d6ee4996bd7c9ed9a9868", "name": "Staking", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 8, "settings": "", "date": "1/11/2023"}
 {"address": "0x69e036972c08e990d29d0f653e203745d691f17b", "name": "LBPair", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/11/2023"}
 {"address": "0xB25Ea886FcE4bfDC8750Cb2D4464FE3F7A67bc07", "name": "NFTXUnstakingInventoryZap", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 4, "settings": "", "date": "1/11/2023"}
+{"address": "0x094cAb67fBB074b7797AB0975c69A341b7A40641", "name": "ZigZagExchange", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/11/2023"}
+{"address": "0xd56aBa217C80372275B42A55348925386858a45d", "name": "Accounts", "compiler": "0.8.16", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/11/2023"}
+{"address": "0xa5262a5cDeD8cd490D269fa93A2C3fFB4f97A463", "name": "ZenithAICoin", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 2, "settings": "-", "date": "1/11/2023"}
+{"address": "0x3e4cdcdc5e3f46dce516adb428d107ce62a6d24a", "name": "Pool", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "1/11/2023"}
+{"address": "0x39853756e886fd255830ea0876c80f2dde523803", "name": "Trade", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 9, "settings": "", "date": "1/11/2023"}
+{"address": "0x0bC03597e75aA056Deb91ffdF89e2602b0E24aCc", "name": "Liquidator", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "1/11/2023"}
+{"address": "0xF7ad5E19Aa2333a5FE3e970A48A2A9ab482435C5", "name": "AssetManager", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 8, "settings": "", "date": "1/11/2023"}
+{"address": "0x1b93d80e16B79e0F35bD0c85C1Eb0AaFE146f310", "name": "BalanceSheet", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 3, "settings": "", "date": "1/11/2023"}
+{"address": "0x7ee0844db3f1b0bf0d45e614729006f12348242d", "name": "RANB_ARMY", "compiler": "0.8.5", "balance": "0 ETH", "txcount": 28, "settings": "-", "date": "1/11/2023"}
+{"address": "0x73d11077fFA1188D850CafAE88eD0B84a312a2D5", "name": "WaterfallBetaToken", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 3, "settings": "-", "date": "1/11/2023"}
