@@ -13872,3 +13872,21 @@
 {"address": "0xf5D96665eaa9F3Fd7Bcac8DAf0ed5f4A23010d7D", "name": "Marketplace", "compiler": "0.8.12", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/12/2023"}
 {"address": "0x48233e07eA064B48bf019B5865db0Ca1e9E4e40a", "name": "SingleTokenStakingRewards", "compiler": "0.5.16", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/12/2023"}
 {"address": "0xE4fA40390d2C99A77B2ae202d0fe2132B38D03D8", "name": "Split", "compiler": "0.8.12", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/12/2023"}
+{"address": "0xda409731fe5dc39dfef9e3920377450149900c6f", "name": "WETHpool", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/12/2023"}
+{"address": "0x9923d2e1d2a0705d9a949eaa7d301971dd0d6bc5", "name": "GMDpool", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 3, "settings": "", "date": "1/12/2023"}
+{"address": "0xE7C968bD88c06cDE62743042477951BbC24ac702", "name": "GMXpool", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 3, "settings": "", "date": "1/12/2023"}
+{"address": "0xb5714fec5d337a10ac30e149d94c8037b76b3260", "name": "DAIpool", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 3, "settings": "", "date": "1/12/2023"}
+{"address": "0x2c1064140a6d8ef27cdb51965cf35a4e625a390c", "name": "Zdarova", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "1/12/2023"}
+{"address": "0xf05C668ad4daAeF7F7FF9d61cbDc5262a8de9751", "name": "PoroPredictions", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 10, "settings": "", "date": "1/12/2023"}
+{"address": "0xfc9fD8D2b5556058853E90652d847eF5BA8088a4", "name": "PoroPredictions", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/12/2023"}
+{"address": "0xD62E1F810F1dbC8F760d9dDDA62d6F99e2E65786", "name": "PancakePredictionV3", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "1/12/2023"}
+{"address": "0xf08a321b75b017231c30ca315f003df9565f956d", "name": "ArbiCash", "compiler": "0.8.17", "balance": "0.000000300665898623 ETH", "txcount": 7, "settings": "-", "date": "1/12/2023"}
+{"address": "0x319168638cc10e9926d233949c0d779e867bc8fa", "name": "IronVest", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "1/12/2023"}
+{"address": "0x361bD08C1FA93b7912aC4B2ceD39d4DC80185956", "name": "BattleflyAtlasStakerV02", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/12/2023"}
+{"address": "0xd99c79f41634feA40428F2DE91deF492f4492ad8", "name": "Whitelist", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "1/12/2023"}
+{"address": "0xaCF534eF4B005D7140c2E308cEB2F60035c89bB4", "name": "LockedStakedPlutusToken", "compiler": "0.8.11", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/12/2023"}
+{"address": "0xfd66f3d78f376222437c85ee5488468fb28471e0", "name": "Event", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 2, "settings": "-", "date": "1/12/2023"}
+{"address": "0x40F83551803051676eB7Cb0374176d03db247b97", "name": "UnicrowClaim", "compiler": "0.8.7", "balance": "-", "txcount": 0, "settings": "", "date": "1/12/2023"}
+{"address": "0xF1447b0fda912a6857B5d77d7cDE9663266896cf", "name": "UnicrowArbitrator", "compiler": "0.8.7", "balance": "-", "txcount": 0, "settings": "", "date": "1/12/2023"}
+{"address": "0xab32831aA9bBFEB12F1BA7B74eBFf76e45944937", "name": "UnicrowDispute", "compiler": "0.8.7", "balance": "-", "txcount": 0, "settings": "", "date": "1/12/2023"}
+{"address": "0x24e9ECC6c56dcD0C875fDF181FA3A4EEf3c5D5F0", "name": "Unicrow", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "1/12/2023"}
