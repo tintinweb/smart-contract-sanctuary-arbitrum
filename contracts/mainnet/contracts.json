@@ -13890,3 +13890,6 @@
 {"address": "0xF1447b0fda912a6857B5d77d7cDE9663266896cf", "name": "UnicrowArbitrator", "compiler": "0.8.7", "balance": "-", "txcount": 0, "settings": "", "date": "1/12/2023"}
 {"address": "0xab32831aA9bBFEB12F1BA7B74eBFf76e45944937", "name": "UnicrowDispute", "compiler": "0.8.7", "balance": "-", "txcount": 0, "settings": "", "date": "1/12/2023"}
 {"address": "0x24e9ECC6c56dcD0C875fDF181FA3A4EEf3c5D5F0", "name": "Unicrow", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "1/12/2023"}
+{"address": "0x097E69bD616dD8eBF4927e83D3CefEBe9D9AC0E4", "name": "DEIMinter", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/12/2023"}
+{"address": "0xb610d34f196c88FBaB6768e3d38646E1227c5FcD", "name": "MarketsOwnable", "compiler": "0.8.16", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/12/2023"}
+{"address": "0xb383114e754ee9C5C492EC8F686d702c05Fd8Fd0", "name": "Relic", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "1/12/2023"}
