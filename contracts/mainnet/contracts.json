@@ -13953,3 +13953,13 @@
 {"address": "0x14C302dca44528A2B00B932AfdF01E9d48100B7b", "name": "veGRB", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "1/13/2023"}
 {"address": "0xcFB740ffEb4271E3735F05456F4F1E16a837E35B", "name": "PoroPredictions", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "1/13/2023"}
 {"address": "0x94ac1bd471dcc82a4049666c87004b169d0b95a9", "name": "STokensManager", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/13/2023"}
+{"address": "0x1a7f6E8373F7EF15FB19A52868CA118DFE860713", "name": "DefaultReserveInterestRateStrategy", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/13/2023"}
+{"address": "0x924CCB6C4890b88F241cE3825c6C731967156897", "name": "Balancer", "compiler": "0.8.16", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/13/2023"}
+{"address": "0x9D0DEEea0864198267a48a3a0312Cc66e7dc7803", "name": "SweepDollarCoin", "compiler": "0.8.16", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/13/2023"}
+{"address": "0xdd0f76e3ee5b653391f23baed58dad7089db52a2", "name": "Address", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "1/13/2023"}
+{"address": "0x03ac08e3f810777ebc7a4049b6f8b6968560ad69", "name": "GlpVaultHarvestor", "compiler": "0.8.16", "balance": "0 ETH", "txcount": 3, "settings": "", "date": "1/13/2023"}
+{"address": "0xeCa3505808B90A4e93974566bBe069D21c4da700", "name": "GovernorAlpha", "compiler": "0.8.16", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/13/2023"}
+{"address": "0xf5134d8d9d5b310c023fcB5089efAdF24827270B", "name": "MAXOS", "compiler": "0.8.16", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/13/2023"}
+{"address": "0xB9D5855D5089aafee722B534de312f500197C06D", "name": "Liquidations", "compiler": "0.8.16", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/13/2023"}
+{"address": "0x15C8dCdEC7e7efe1F5Dc0865DcAfDfD458750B8B", "name": "Markets", "compiler": "0.8.16", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/13/2023"}
+{"address": "0x530bbD1bF0144902124f42e30eB77d47D5B4C0F3", "name": "Markets", "compiler": "0.8.16", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/13/2023"}
