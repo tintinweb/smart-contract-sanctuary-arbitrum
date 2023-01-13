@@ -13963,3 +13963,10 @@
 {"address": "0xB9D5855D5089aafee722B534de312f500197C06D", "name": "Liquidations", "compiler": "0.8.16", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/13/2023"}
 {"address": "0x15C8dCdEC7e7efe1F5Dc0865DcAfDfD458750B8B", "name": "Markets", "compiler": "0.8.16", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/13/2023"}
 {"address": "0x530bbD1bF0144902124f42e30eB77d47D5B4C0F3", "name": "Markets", "compiler": "0.8.16", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/13/2023"}
+{"address": "0x52C64b8998eB7C80b6F526E99E29ABdcC86B841b", "name": "DSU", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "1/13/2023"}
+{"address": "0x0d49c416103Cbd276d9c3cd96710dB264e3A0c27", "name": "TransparentUpgradeableProxy", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "1/13/2023"}
+{"address": "0x16b38364bA6f55B6E150cC7f52D22E89643f3535", "name": "ProxyAdmin", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "1/13/2023"}
+{"address": "0x7b4Adf64B0d60fF97D672E473420203D52562A84", "name": "UCrossChainOwner_Arbitrum", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 3, "settings": "", "date": "1/13/2023"}
+{"address": "0x58e0c542Ab540E0Dd3B4fD96Cc46b0AaD1196bfe", "name": "SimpleReserve", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/13/2023"}
+{"address": "0xDde837a0a3126D249226E6AA72e3807B5CF27db7", "name": "BeefyWrapper", "compiler": "0.8.15", "balance": "-", "txcount": 0, "settings": "", "date": "1/13/2023"}
+{"address": "0x236b7Fb1E2E08Ee4707A14E4fc49A7C825215d83", "name": "BeefyWrapperFactory", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "1/13/2023"}
