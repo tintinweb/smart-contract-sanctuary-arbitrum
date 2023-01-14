@@ -13987,3 +13987,12 @@
 {"address": "0x78e03893818fce52bf7bbf3bb2854077ab10ba98", "name": "MintableBaseToken", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 6, "settings": "", "date": "1/13/2023"}
 {"address": "0xbe490147d04059cec6f1b792d6677d15f87791fd", "name": "tokenLocker", "compiler": "0.8.0", "balance": "0 ETH", "txcount": 5, "settings": "-", "date": "1/13/2023"}
 {"address": "0xc79a8d7a4da8f824e809accc37afa174f541bcdf", "name": "MADDY", "compiler": "0.8.12", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "1/13/2023"}
+{"address": "0xe9bbd80cb3ea24f55d6fc7e1c43c2778eb32d43a", "name": "OneLittleMouse", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 11, "settings": "-", "date": "1/14/2023"}
+{"address": "0x41b2f8F10E30F059eA0942e81F4bE04ac71a1c6C", "name": "CapSingleStakeStrategy", "compiler": "0.8.12", "balance": "0 ETH", "txcount": 3, "settings": "", "date": "1/14/2023"}
+{"address": "0x5F535b2C093Ea2630A104c93B6CE142418D4FcD7", "name": "BeefyVaultV7", "compiler": "0.8.12", "balance": "0 ETH", "txcount": 5, "settings": "", "date": "1/14/2023"}
+{"address": "0xc86e93e64448a74dc807864a5a978d30435579b0", "name": "Milf", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 2, "settings": "-", "date": "1/14/2023"}
+{"address": "0x4175f81c5de65e16a777769cfc85ade675778fbb", "name": "YummyCrowdsale", "compiler": "0.8.9", "balance": "9.1702 ETH", "txcount": 79, "settings": "", "date": "1/14/2023"}
+{"address": "0x08b1d6fe01660911b939e9c896ab53aba231f101", "name": "Trade", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 21, "settings": "", "date": "1/14/2023"}
+{"address": "0x8c7c315577d7f12e02136c14d2761541ca9c4eee", "name": "TheEND013", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 5, "settings": "-", "date": "1/14/2023"}
+{"address": "0x73928ba73ec9fd2a952d1bbbb87237ffe44ed1f1", "name": "LinkToken", "compiler": "0.4.16", "balance": "0 ETH", "txcount": 10, "settings": "-", "date": "1/14/2023"}
+{"address": "0x69a02fad7d771f85cdfda299bcdb84d055b0722b", "name": "BasicToken", "compiler": "0.4.16", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "1/14/2023"}
