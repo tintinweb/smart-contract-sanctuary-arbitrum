@@ -13970,3 +13970,20 @@
 {"address": "0x58e0c542Ab540E0Dd3B4fD96Cc46b0AaD1196bfe", "name": "SimpleReserve", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/13/2023"}
 {"address": "0xDde837a0a3126D249226E6AA72e3807B5CF27db7", "name": "BeefyWrapper", "compiler": "0.8.15", "balance": "-", "txcount": 0, "settings": "", "date": "1/13/2023"}
 {"address": "0x236b7Fb1E2E08Ee4707A14E4fc49A7C825215d83", "name": "BeefyWrapperFactory", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "1/13/2023"}
+{"address": "0xafb7e72fed6a17ca3290bfa635a23d23fe567521", "name": "Oslo", "compiler": "0.8.11", "balance": "0 ETH", "txcount": 5, "settings": "", "date": "1/14/2023"}
+{"address": "0x59434b1302bb9d65e9e719092f9d3b5940794f0a", "name": "HYRIToken", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 3, "settings": "", "date": "1/14/2023"}
+{"address": "0x26e5eca9ad4a69d8c9d67b0f7b5256459ca63c8d", "name": "Tokyo", "compiler": "0.8.11", "balance": "0 ETH", "txcount": 6, "settings": "", "date": "1/14/2023"}
+{"address": "0x36bf227d6BaC96e2aB1EbB5492ECec69C691943f", "name": "MetaStablePool", "compiler": "0.7.1", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/14/2023"}
+{"address": "0x03CF007E4493A4bA11e404Cea332f60bC54C211d", "name": "unWrapUtils", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 3, "settings": "", "date": "1/14/2023"}
+{"address": "0x76B3a05fcE46b35cE78933F099FC3015aD3797E0", "name": "unWrapUtils", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/14/2023"}
+{"address": "0xc6c0b8933dfce2155eb70cdec91a05e2cffd80a2", "name": "CrackFire", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 4, "settings": "", "date": "1/14/2023"}
+{"address": "0x639270AaC2087df57fd46e06219035eA1b28d3Bf", "name": "CLTest", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 6, "settings": "", "date": "1/13/2023"}
+{"address": "0xa0468b352Bdd4d70Ce95C53B03290C89B6B77b73", "name": "PoroPredictions", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/13/2023"}
+{"address": "0xD228e7E6A6fb61BB4a8B6516c5Ec9C586bB9313a", "name": "MintMercenaries", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 4, "settings": "", "date": "1/13/2023"}
+{"address": "0xeca84a96c391dbd034a1f2f6dcf44a1548b357b7", "name": "FireCrack", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 6, "settings": "", "date": "1/13/2023"}
+{"address": "0x79dc97df975b416ed3eafc3e0f52c55331bd644a", "name": "Legend", "compiler": "0.8.14", "balance": "0 ETH", "txcount": 2, "settings": "-", "date": "1/13/2023"}
+{"address": "0xc5385c1110bdFd9af914ddF34B72De805A270829", "name": "CLTest", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "1/13/2023"}
+{"address": "0x0e02959f7707b4b49b815ae0bb6af1e89a78c74d", "name": "YummyCrowdsale", "compiler": "0.8.9", "balance": "1.5465000001 ETH", "txcount": 15, "settings": "", "date": "1/13/2023"}
+{"address": "0x78e03893818fce52bf7bbf3bb2854077ab10ba98", "name": "MintableBaseToken", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 6, "settings": "", "date": "1/13/2023"}
+{"address": "0xbe490147d04059cec6f1b792d6677d15f87791fd", "name": "tokenLocker", "compiler": "0.8.0", "balance": "0 ETH", "txcount": 5, "settings": "-", "date": "1/13/2023"}
+{"address": "0xc79a8d7a4da8f824e809accc37afa174f541bcdf", "name": "MADDY", "compiler": "0.8.12", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "1/13/2023"}
