@@ -14083,3 +14083,15 @@
 {"address": "0xcF7024204fEbb78418e7455250589433f3f3F03E", "name": "Hornet", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/15/2023"}
 {"address": "0x499e2d75685333010de3e90ccb088a798828fb3d", "name": "BUSDImplementation", "compiler": "0.4.24", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/15/2023"}
 {"address": "0xD292C54A04B617cA89E89A383d335EeD1bd6D6EE", "name": "BUSDImplementation", "compiler": "0.4.24", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "1/15/2023"}
+{"address": "0x8f7e42b7E012d208AC2490A0E0d1aae534894260", "name": "VestaGLPStaking", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/16/2023"}
+{"address": "0x3151B91d26D69e7535685f0c1481300ab1df08C3", "name": "VestaGMXStaking", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/16/2023"}
+{"address": "0xac01280304f1359d3e74da3d1db0223cbb13c85d", "name": "ELIXR", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/16/2023"}
+{"address": "0xa15fE5f34b6e7d4B3a4FE20F48A10FfF826d2228", "name": "TidePool", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 5, "settings": "", "date": "1/16/2023"}
+{"address": "0xc252CE4f0Fe4fe77C4e15652E6b01e8CFdE034b6", "name": "TidePoolFactory", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "1/15/2023"}
+{"address": "0xe5a686809723c2B7EccE1F051077024aA8676cD6", "name": "TidePoolMath", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "1/15/2023"}
+{"address": "0x04b86E97FF6472BE14F70Ebb4515285ca2572165", "name": "PoolActions", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "1/15/2023"}
+{"address": "0xbbEcFb3972619e27B7AaE6113b22a5E3F42c2Ec3", "name": "FactoryValidator", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "1/15/2023"}
+{"address": "0xd15551D62864E14b1da1Cb02d9DE580679D9Df42", "name": "BeefyVaultV7", "compiler": "0.8.12", "balance": "0 ETH", "txcount": 3, "settings": "", "date": "1/15/2023"}
+{"address": "0xd92338e9A8dB1C7e542c1FD6BD3e5E394C4E7011", "name": "PoroPredictions", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 86, "settings": "", "date": "1/15/2023"}
+{"address": "0x8FB0D56c3Ea13385ac4B9c9cC8036d12F408C7a1", "name": "DefaultReserveInterestRateStrategy", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/15/2023"}
+{"address": "0x064516593d42A5B7E162d30a3eF786A998F3f40A", "name": "DefaultReserveInterestRateStrategy", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/15/2023"}
