@@ -14324,3 +14324,23 @@
 {"address": "0xC67bF11C58437B2647474471AED73e8c34dbA53F", "name": "DiamondLoupeFacet", "compiler": "0.8.16", "balance": "-", "txcount": 0, "settings": "", "date": "1/18/2023"}
 {"address": "0x4cd8098E3EAaDF26e0cDc726e0A63e6576221E57", "name": "DiamondCutFacet", "compiler": "0.8.16", "balance": "-", "txcount": 0, "settings": "", "date": "1/18/2023"}
 {"address": "0x667f185407C4CAb52aeb681f0006e4642d8091DF", "name": "EmergencyBrake", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "1/18/2023"}
+{"address": "0x3E88C9b0e3BE6817973a6E629211E702d12C577F", "name": "SmartVault", "compiler": "0.8.3", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/18/2023"}
+{"address": "0xb26Bb0F38064798aC6a1e15679F2640361DF66e0", "name": "UniswapCalculator", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/18/2023"}
+{"address": "0x3a6c9be2509d89500fbe01971fb8693272aab47d", "name": "Agamotto", "compiler": "0.8.0", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/18/2023"}
+{"address": "0xc2b5ee9872dda654B9345D91787182c90bc30a1D", "name": "Arbipirate2022Contract", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "1/18/2023"}
+{"address": "0xde6D4872c0C8167fB4F405C7854FD2fED7edca21", "name": "Registry", "compiler": "0.8.3", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/18/2023"}
+{"address": "0x63Fe05C1E8C2144BAd88980B8FC7AdCE873bd80e", "name": "Deployer", "compiler": "0.8.3", "balance": "-", "txcount": 0, "settings": "", "date": "1/18/2023"}
+{"address": "0x4305C4Bc521B052F17d389c2Fe9d37caBeB70d54", "name": "OverlayV1Token", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/18/2023"}
+{"address": "0xcebc29451eee5ef8d9d315cb931c1ee329a6a288", "name": "PirexFees", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/18/2023"}
+{"address": "0x85Fa79Baf8f301D03Cb86D13a3d4D8c7ECEC87b5", "name": "AutoPxGlp", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 3, "settings": "", "date": "1/18/2023"}
+{"address": "0xd7a96c80ef97EdA106aad53802b07B86beEfAa71", "name": "Create3Factory", "compiler": "0.8.3", "balance": "0 ETH", "txcount": 3, "settings": "", "date": "1/18/2023"}
+{"address": "0xA0397347bBf8d6BA4A22dF1AA002b54286828775", "name": "AutoPxGmx", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 4, "settings": "", "date": "1/18/2023"}
+{"address": "0x8626A2E79190d65222D050F3E3C5734e7D56886d", "name": "PirexGmx", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 10, "settings": "", "date": "1/18/2023"}
+{"address": "0xBa97A80B5De187fE5234cf81f57cc9d0DC8A36c6", "name": "PxERC20", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 4, "settings": "", "date": "1/18/2023"}
+{"address": "0x7bbf17BB865781a5c1409717Bd8a6ffc9Bac7581", "name": "PxGmx", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 3, "settings": "", "date": "1/18/2023"}
+{"address": "0x0731bC8a8A21Ab6CCD482b3496dB8A157c07b77c", "name": "TransparentUpgradeableProxy", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 7, "settings": "", "date": "1/18/2023"}
+{"address": "0xeDBcaddA2397d13fa3200681757D5FaBEff65324", "name": "PirexRewards", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/18/2023"}
+{"address": "0x6a89817994756C6CE440c19DC6910265eCaC191B", "name": "PrivateForwarder", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "1/18/2023"}
+{"address": "0x5542a3E5DAB9B74716F6Cae4741cA91f688a0414", "name": "Fiat24StargateReceiver", "compiler": "0.8.12", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/18/2023"}
+{"address": "0xdd6d82b4e8dcda00617a4cccb7a9c1fb5135beea", "name": "BitzlatoToken", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 36, "settings": "", "date": "1/18/2023"}
+{"address": "0xf64D46C4b915713CCAE35Eee52b91f8514992b67", "name": "TimelockController", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 3, "settings": "", "date": "1/18/2023"}
