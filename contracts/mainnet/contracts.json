@@ -14344,3 +14344,8 @@
 {"address": "0x5542a3E5DAB9B74716F6Cae4741cA91f688a0414", "name": "Fiat24StargateReceiver", "compiler": "0.8.12", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/18/2023"}
 {"address": "0xdd6d82b4e8dcda00617a4cccb7a9c1fb5135beea", "name": "BitzlatoToken", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 36, "settings": "", "date": "1/18/2023"}
 {"address": "0xf64D46C4b915713CCAE35Eee52b91f8514992b67", "name": "TimelockController", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 3, "settings": "", "date": "1/18/2023"}
+{"address": "0x0363C1Cc9bbe25f141fcFd2815d0512476F72BD8", "name": "StakingQuery", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/19/2023"}
+{"address": "0x38396Cb4dAb10062343df51F7325511305663657", "name": "Calamus", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/19/2023"}
+{"address": "0x8373c68629191EF10f654CE8e32bbfe3c7A1D743", "name": "SmartVaultsFactory", "compiler": "0.8.3", "balance": "-", "txcount": 0, "settings": "", "date": "1/19/2023"}
+{"address": "0xBC6628f3164ff943E49BE07Ff6B4c9c116be4971", "name": "BridgeConnector", "compiler": "0.8.3", "balance": "-", "txcount": 0, "settings": "", "date": "1/19/2023"}
+{"address": "0xA36cAEe7B277630890F8ef5F30BB712E9D15cd6B", "name": "PriceOracle", "compiler": "0.8.3", "balance": "-", "txcount": 0, "settings": "", "date": "1/19/2023"}
