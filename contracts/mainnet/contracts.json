@@ -14349,3 +14349,13 @@
 {"address": "0x8373c68629191EF10f654CE8e32bbfe3c7A1D743", "name": "SmartVaultsFactory", "compiler": "0.8.3", "balance": "-", "txcount": 0, "settings": "", "date": "1/19/2023"}
 {"address": "0xBC6628f3164ff943E49BE07Ff6B4c9c116be4971", "name": "BridgeConnector", "compiler": "0.8.3", "balance": "-", "txcount": 0, "settings": "", "date": "1/19/2023"}
 {"address": "0xA36cAEe7B277630890F8ef5F30BB712E9D15cd6B", "name": "PriceOracle", "compiler": "0.8.3", "balance": "-", "txcount": 0, "settings": "", "date": "1/19/2023"}
+{"address": "0x6b435e82bfb27f9308ad6e67dbeca06828372627", "name": "NomisScore", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "1/19/2023"}
+{"address": "0x18eF59667034b47eD1E43b37D099c0d3e521720f", "name": "Fiat24Account", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/19/2023"}
+{"address": "0x82f513049df8f7aeeefc9d5d0fe1d02df69f1481", "name": "ArbShiba", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 10, "settings": "", "date": "1/19/2023"}
+{"address": "0x1c21b6F21d4413186A00Da1134b4FE602E0145Bf", "name": "Fiat24StargateReceiver", "compiler": "0.8.12", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/19/2023"}
+{"address": "0x0ef0c4262A62638d6f5C922F0337fa59Fd8e7f42", "name": "LaunchPad", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 4, "settings": "", "date": "1/19/2023"}
+{"address": "0x000000000000bcbb63c5f383bc510ec7ec636bad", "name": "SafeProxy", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "1/19/2023"}
+{"address": "0x1704AdF74d932097bFfa1D81F39D8a48C1c31aFD", "name": "SmithySeasonPassV2", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 8, "settings": "-", "date": "1/19/2023"}
+{"address": "0x995d32Fe68ED48C34115DD3551CF80093f3fE3d5", "name": "StakingQuery", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/19/2023"}
+{"address": "0x38f81e638f9e268e8417F2Ff76C270597fa077A0", "name": "Hypervisor", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 6, "settings": "", "date": "1/19/2023"}
+{"address": "0xA5eb3401b93b859b4638f9d40868F89E200F8A44", "name": "Hypervisor", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 6, "settings": "", "date": "1/19/2023"}
