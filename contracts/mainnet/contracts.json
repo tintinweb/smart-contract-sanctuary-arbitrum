@@ -14390,3 +14390,20 @@
 {"address": "0xCd53Ec886a65c6C055c28B6cb8a1037D88Fd3De1", "name": "IKKIMaster", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/19/2023"}
 {"address": "0xe19bf53b31c7a950b099b003cdccebbb3c0dcbbe", "name": "Workbench", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/19/2023"}
 {"address": "0xA3563808ce206afD4524D318CbAb6D850197A480", "name": "IKKIToken", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/19/2023"}
+{"address": "0x8948dEFb43Dee1e1E3Eca8C87Fc82D7C846f259a", "name": "AFishV2", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 3, "settings": "", "date": "1/19/2023"}
+{"address": "0x838B0de505b827510B9b064a57BCB50f07C5679D", "name": "LPSwapper", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/19/2023"}
+{"address": "0x91eBd9e7b4BF051fCc8B1ed1510e62Ff43183D4b", "name": "GMXListingsData", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "1/19/2023"}
+{"address": "0xfa39cde07ff63b4329a70784c0600da38cf4777c", "name": "OverlayV1Factory", "compiler": "0.8.10", "balance": "-", "txcount": 0, "settings": "", "date": "1/19/2023"}
+{"address": "0xb951c3bcebea4eec48679cf0cc85eeaf60171153", "name": "BaseJumperTeamVesting", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/19/2023"}
+{"address": "0x54384be75516534f662c12e175b9bba3221f45ba", "name": "BaseJumperPresale", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 4, "settings": "", "date": "1/19/2023"}
+{"address": "0xA23BfE454f1EEC24cD89dF8908563918586d921C", "name": "GNSTradingV6_2", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 3, "settings": "", "date": "1/19/2023"}
+{"address": "0x7cbB62EaA69F79e6873cD1ecB2392971036cFAa4", "name": "CreateCall", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 0, "settings": "-", "date": "1/19/2023"}
+{"address": "0x5b9Ac5e7E5Ff1985f3A4B905F5De7d271eEa114a", "name": "MethodsExposureFacet", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/19/2023"}
+{"address": "0x26Fb727Cd0A24c9d8a1749716848A5519243b810", "name": "HamachiFacet", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/19/2023"}
+{"address": "0x92f3a2e1315cdd5e4e237b56502c1266e97067ad", "name": "BaseJumperTeamVesting", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/19/2023"}
+{"address": "0x9b032e3ea73b60ff79949d538094070138579901", "name": "BaseJumperPresale", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 5, "settings": "", "date": "1/19/2023"}
+{"address": "0xe3DF3F52D4c05035fB1f178f499423b2Cbb636e1", "name": "Dispatcher", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/19/2023"}
+{"address": "0xaafc48331db4e98fb8618ec0f3316e13b7d24486", "name": "BaseJumper", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 10, "settings": "", "date": "1/19/2023"}
+{"address": "0x0F6aB743b9E4c42B4b5d392074f174AEc3848704", "name": "VaultPlutusPlsWeth", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "1/19/2023"}
+{"address": "0x84980DfBd06e0A9598Cad9c72393e5FdA7CaFA90", "name": "StrategyPlutusPlsWeth", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/19/2023"}
+{"address": "0x991a1e3c805b2b49494580a85b8c04870dee663b", "name": "JackPot", "compiler": "0.8.17", "balance": "-", "txcount": 0, "settings": "", "date": "1/19/2023"}
