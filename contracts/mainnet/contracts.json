@@ -14418,3 +14418,11 @@
 {"address": "0x34F856799Bda62E88179439F0DfB6f2B0cDB1b9e", "name": "Token", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "1/19/2023"}
 {"address": "0x526a17c623809792c033c9816ae9a6fa80acdfdd", "name": "FooBar", "compiler": "0.8.16", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/19/2023"}
 {"address": "0xF6e1d062DEfe3AEBF8674B930f621Adc36Ad870c", "name": "JonesController", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/19/2023"}
+{"address": "0x9d6A5cfa3FB5a92e77C3Fe937c02dc397b6a4DdC", "name": "Fiat24ClientApplication", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/20/2023"}
+{"address": "0xBe788FeAe3C004EE759149C55Db2D173407633f2", "name": "UnityChain", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "1/20/2023"}
+{"address": "0x813159a767f1c82ae8656897d5b9876c1eb84bd8", "name": "TheBeaconEggs", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 10, "settings": "", "date": "1/20/2023"}
+{"address": "0xb43dac161b61b474f6866f5ab4cce1a4832b4907", "name": "StrategyCommonChefLPProxy", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/20/2023"}
+{"address": "0xD88c9d72FE9a939281193e72e043a1A95812B228", "name": "MethodsExposureFacet", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/20/2023"}
+{"address": "0x3A62FE08E9E72aC264b98a13fbef30d21D6FaA65", "name": "HamachiFacet", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/20/2023"}
+{"address": "0xc7831178793868a75122EAaFF634ECe07a2ecAAA", "name": "CasinoChip", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 60, "settings": "", "date": "1/20/2023"}
+{"address": "0xbe7D3995dc3aE018d0D9d1ba86be8eB25B600C01", "name": "IGOV2", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 8, "settings": "", "date": "1/20/2023"}
