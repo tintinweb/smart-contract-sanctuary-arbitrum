@@ -14445,3 +14445,27 @@
 {"address": "0x77fb68c35a2668c970e1c043b0dc249ba270ba72", "name": "ARBITRUMG", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 9, "settings": "-", "date": "1/20/2023"}
 {"address": "0x41E14996eF099aa92FEF007fA7B4626a1CeB9ba9", "name": "MethodsExposureFacet", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/20/2023"}
 {"address": "0x8Cca0Ff064fB64A63C1f158ddd9753292b676Dac", "name": "HamachiFacet", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/20/2023"}
+{"address": "0x08158b015c640343dBC3A01EEBBbc5dEe5C3d4D6", "name": "WETHAsset", "compiler": "0.8.16", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/20/2023"}
+{"address": "0xd86a98322471c6C50684F917af41c3F4F5919837", "name": "Stabilizer", "compiler": "0.8.16", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/20/2023"}
+{"address": "0xa5ca9837259e20e7ff531a229a15944141e87672", "name": "BaseJumperTeamVesting", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/20/2023"}
+{"address": "0x1577c3ae5aacb4fac4f12ce1c9a3a973048228d2", "name": "BaseJumperPresale", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/20/2023"}
+{"address": "0xb76260dfb479ade021a2cfa7e7a742cae22d91c1", "name": "BaseJumperTeamVesting", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/20/2023"}
+{"address": "0x9df509186b6d3b7D033359f94c8b1BB5544d51b3", "name": "Product", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/20/2023"}
+{"address": "0x1593318424df66128cb7d0c5574B1283C3A74C3d", "name": "PerennialLens", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/20/2023"}
+{"address": "0xdc518208c11159844188f647413a427Cbd70a3b6", "name": "ChainlinkFeedOracle", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/20/2023"}
+{"address": "0xC12b0fE62441bAAd525cd7d770cf21C883C77bc6", "name": "UpgradeableBeacon", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/20/2023"}
+{"address": "0x4a0f50b19b02AC927911C559629536B9a24d9314", "name": "UCrossChainOwner_Arbitrum", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "1/20/2023"}
+{"address": "0x4f75cFbfc8b4A109659471b8d4593f5b19Be169B", "name": "ProxyAdmin", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "1/20/2023"}
+{"address": "0x2b99224DAD73d7D84b7C74E9161BbD0D01a2A15b", "name": "MultiInvoker", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/20/2023"}
+{"address": "0x5B495F170BfCba51Db96Ff16Ba8BC4686CFA92b4", "name": "Incentivizer", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/20/2023"}
+{"address": "0xA8b58125953c7f2948E82A4558C745C1Cd3237ee", "name": "Controller", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/20/2023"}
+{"address": "0xAF8CeD28FcE00ABD30463D55dA81156AA5aEEEc2", "name": "TransparentUpgradeableProxy", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "1/20/2023"}
+{"address": "0x69a682F90d58c8D1ABEa18aE1bc98c9A1be4f2EB", "name": "Collateral", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/20/2023"}
+{"address": "0xc3f3252c8A1908C468C8aBcf0faB3a712D0f2E6d", "name": "ALCHEMY_USDC", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/20/2023"}
+{"address": "0x54ac100F7e33f521C2cc3c3D591D518a4E252F9e", "name": "L2HopSwapper", "compiler": "0.8.3", "balance": "-", "txcount": 0, "settings": "", "date": "1/20/2023"}
+{"address": "0x33F78C4bF6DA0De6c4d5410A2d9749000dbc09Eb", "name": "L2HopBridger", "compiler": "0.8.3", "balance": "-", "txcount": 0, "settings": "", "date": "1/20/2023"}
+{"address": "0xDf7D56E526eD37834be0e4D2C8aecE552f54cFea", "name": "Holder", "compiler": "0.8.3", "balance": "-", "txcount": 0, "settings": "", "date": "1/20/2023"}
+{"address": "0xefd429e2FD956558cC58e505f6c73c0986b2F707", "name": "Funder", "compiler": "0.8.3", "balance": "-", "txcount": 0, "settings": "", "date": "1/20/2023"}
+{"address": "0x2Dbc6c6CbA8b13497C35647d0608db968496d0F9", "name": "L2BridgingSmartVaultDeployer", "compiler": "0.8.3", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/20/2023"}
+{"address": "0x611747CC4576aAb44f602a65dF3557150C214493", "name": "LilPudgysONFT", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 14, "settings": "", "date": "1/20/2023"}
+{"address": "0x3c329f10F509bC101b8BEa0e10Ca28cc51011489", "name": "MockERC721A", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "1/20/2023"}
