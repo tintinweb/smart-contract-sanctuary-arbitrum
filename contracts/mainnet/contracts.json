@@ -14407,3 +14407,14 @@
 {"address": "0x0F6aB743b9E4c42B4b5d392074f174AEc3848704", "name": "VaultPlutusPlsWeth", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "1/19/2023"}
 {"address": "0x84980DfBd06e0A9598Cad9c72393e5FdA7CaFA90", "name": "StrategyPlutusPlsWeth", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/19/2023"}
 {"address": "0x991a1e3c805b2b49494580a85b8c04870dee663b", "name": "JackPot", "compiler": "0.8.17", "balance": "-", "txcount": 0, "settings": "", "date": "1/19/2023"}
+{"address": "0x6595bdc2a4442c7e5B811238687e861d220e5C38", "name": "EtherGift", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "1/20/2023"}
+{"address": "0x0cb95613035913a4d957bd78328c71ce5e83f029", "name": "StabilizeStrategyGLPV3", "compiler": "0.6.6", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/20/2023"}
+{"address": "0xaee5a63320fdf54fe238ca64a29e31881628a784", "name": "PaymentSplitter", "compiler": "0.8.1", "balance": "1.177936874336053023 ETH", "txcount": 83, "settings": "", "date": "1/19/2023"}
+{"address": "0x9f18658f7206EaA8D885bBfBb95aB6D9f6c6C12F", "name": "RouteProcessor", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/19/2023"}
+{"address": "0xa875c4ca1a23dce9d8abac7d127b69971c501477", "name": "CROK", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 4, "settings": "-", "date": "1/19/2023"}
+{"address": "0xcdAD8FA86e18538aC207872E8ff3536501431B73", "name": "EditionStake", "compiler": "0.8.12", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/19/2023"}
+{"address": "0x17134ECfdA7081439794CE7FB9E928E2283A5738", "name": "NFTStake", "compiler": "0.8.12", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/19/2023"}
+{"address": "0x03CF543c803A7e4bC7d0C311dB6160c3cd8f5127", "name": "TokenStake", "compiler": "0.8.12", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/19/2023"}
+{"address": "0x34F856799Bda62E88179439F0DfB6f2B0cDB1b9e", "name": "Token", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "1/19/2023"}
+{"address": "0x526a17c623809792c033c9816ae9a6fa80acdfdd", "name": "FooBar", "compiler": "0.8.16", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/19/2023"}
+{"address": "0xF6e1d062DEfe3AEBF8674B930f621Adc36Ad870c", "name": "JonesController", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/19/2023"}
