@@ -14495,3 +14495,11 @@
 {"address": "0x32daADAc0a2ebF5704C9C57EFD3B217D3a86BD0C", "name": "HamachiFacet", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/21/2023"}
 {"address": "0x51D49917fe8112D309D705FdaC739a095a10856B", "name": "MethodsExposureFacet", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/21/2023"}
 {"address": "0x080650A6eE0837B66f93216727365DdD6B9f6B09", "name": "HamachiFacet", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/21/2023"}
+{"address": "0x8b0c5a385154e7f105b2eD687c2f5f7e1cf37F76", "name": "OpenPosition", "compiler": "0.8.16", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/21/2023"}
+{"address": "0x2Bbe75555C333be5012cF1553f5a214d63993842", "name": "Liquidations", "compiler": "0.8.16", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/21/2023"}
+{"address": "0xD13166B7AC9306D20f6Ee3582Fc590a12EF57276", "name": "ClosePositionOwnable", "compiler": "0.8.16", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/21/2023"}
+{"address": "0x49d2bf150543b7830D9e6b6AF37d2D6006905b60", "name": "ClosePosition", "compiler": "0.8.16", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/21/2023"}
+{"address": "0x2dC006EFC0d5B0a78B10AfED1BcE144e1A27eD14", "name": "Rabbit", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 24, "settings": "", "date": "1/21/2023"}
+{"address": "0x9cD4267901f7De0C9e5fA68758a2633b97544a09", "name": "ArbiMaxStaker", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/21/2023"}
+{"address": "0x5d62e083A83d561685c4fc156C8590B262e7c88a", "name": "ArbiMax", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/21/2023"}
+{"address": "0x44eF7bBa74f0Ff50024925d493497eeb111E63a9", "name": "RanbasedMaster", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/21/2023"}
