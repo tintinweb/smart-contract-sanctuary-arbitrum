@@ -14482,3 +14482,16 @@
 {"address": "0x169ef4bf2a47c875087cf6c28f0ff34cc31023d0", "name": "Bloop", "compiler": "0.8.11", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "1/20/2023"}
 {"address": "0xbeDa3246e2Fd8e2F1797a030ea03871390c3184F", "name": "HamachiFacet", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/20/2023"}
 {"address": "0xd09f5d1b2efb044d3b166b0ae32680f336f227b1", "name": "Milkyway", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 3, "settings": "-", "date": "1/20/2023"}
+{"address": "0x042D055362b46a0d2FAa4E9e8536155cB53460B0", "name": "EcoVesting", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "1/21/2023"}
+{"address": "0xc9490ccC471a7054e6B6fEDbD63749C43D1A143D", "name": "MethodsExposureFacet", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/21/2023"}
+{"address": "0x92E99edD03d23E2cB96003a7723EE522c2FC075A", "name": "HamachiFacet", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/21/2023"}
+{"address": "0xeec0979ebd36df82efcceaea55d07dd49ea2688e", "name": "BuybackBabyToken", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "1/21/2023"}
+{"address": "0xFe07C32d1De2c246A3E581d1f2ee17099CAae4Fc", "name": "NetworkVesting", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "1/21/2023"}
+{"address": "0xc90923217874291615D47B585dca00A33Eb296bA", "name": "TokenVesting", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "1/21/2023"}
+{"address": "0xb751a4718e9c22f0abd5ccc320584255af3eaf50", "name": "AiShiba", "compiler": "0.8.5", "balance": "0 ETH", "txcount": 2, "settings": "-", "date": "1/21/2023"}
+{"address": "0xe56e91adb89d78cb13f4f2439bfa7c34485fe893", "name": "JoePair", "compiler": "0.6.12", "balance": "-", "txcount": 0, "settings": "", "date": "1/21/2023"}
+{"address": "0x575224C6B1Fa1D26977cd651974b6D7694F30D52", "name": "VaultV0", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 5, "settings": "", "date": "1/21/2023"}
+{"address": "0xA0820f0934e47d6C191450F47EC6430483D1394E", "name": "VaultV0", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/21/2023"}
+{"address": "0x32daADAc0a2ebF5704C9C57EFD3B217D3a86BD0C", "name": "HamachiFacet", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/21/2023"}
+{"address": "0x51D49917fe8112D309D705FdaC739a095a10856B", "name": "MethodsExposureFacet", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/21/2023"}
+{"address": "0x080650A6eE0837B66f93216727365DdD6B9f6B09", "name": "HamachiFacet", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/21/2023"}
