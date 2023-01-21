@@ -14503,3 +14503,14 @@
 {"address": "0x9cD4267901f7De0C9e5fA68758a2633b97544a09", "name": "ArbiMaxStaker", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/21/2023"}
 {"address": "0x5d62e083A83d561685c4fc156C8590B262e7c88a", "name": "ArbiMax", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/21/2023"}
 {"address": "0x44eF7bBa74f0Ff50024925d493497eeb111E63a9", "name": "RanbasedMaster", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/21/2023"}
+{"address": "0x5ea053daeead03f4e60d5ca3fc8d63692da66eb0", "name": "HAMIChefLocker", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/21/2023"}
+{"address": "0x006B61675a64027144C9Eb7cb628BeCbd14aAFa4", "name": "DefiEdgeTwapStrategyDeployer", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/21/2023"}
+{"address": "0x4082c6AEf2cc2e478e624F6ac89dD6E8e0483B90", "name": "DefiEdgeTwapStrategyFactory", "compiler": "0.7.6", "balance": "0.02384 ETH", "txcount": 52, "settings": "", "date": "1/21/2023"}
+{"address": "0x7502980816c425f04aD067BbAb35C9bc22F1e285", "name": "DefiEdgeStrategyDeployer", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/21/2023"}
+{"address": "0x7d55D4FF054f5E2B748Ea2cf0765fbFbA7Ae222F", "name": "DefiEdgeStrategyFactory", "compiler": "0.7.6", "balance": "0.04877 ETH", "txcount": 71, "settings": "", "date": "1/21/2023"}
+{"address": "0x7e6f0FA469de38bEc50d94f4e0E1C3B887c4F898", "name": "Passport", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/21/2023"}
+{"address": "0xdDB6418A483a7B21BdAEbC2E6dB81cc187F71304", "name": "Entity", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/21/2023"}
+{"address": "0x4e37608C28713d9eE39a0AE64A633933aA0b3AC8", "name": "Dispatcher", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/21/2023"}
+{"address": "0x9B63DC3DeB9477D563b9B53cD04da78E4262B70b", "name": "HamiChef", "compiler": "0.8.17", "balance": "0.030052268013777174 ETH", "txcount": 33, "settings": "", "date": "1/21/2023"}
+{"address": "0x046a70EeA3df3C3D8b1cB16b278a7041F88038bC", "name": "TestToken", "compiler": "0.8.0", "balance": "0 ETH", "txcount": 2, "settings": "-", "date": "1/21/2023"}
+{"address": "0xfC87A315548aBc4b683C909266aaEBeaE821B4F7", "name": "IronFish", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 7, "settings": "", "date": "1/21/2023"}
