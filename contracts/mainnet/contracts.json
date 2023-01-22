@@ -14529,3 +14529,11 @@
 {"address": "0x5020300f07d8e033d66334bad249f27611528aa9", "name": "AIshiba", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 11, "settings": "-", "date": "1/21/2023"}
 {"address": "0x1800873d903681F857dD59c23Bad8034512b9C20", "name": "DopexPositionManagerFactory", "compiler": "0.8.14", "balance": "0 ETH", "txcount": 4, "settings": "", "date": "1/22/2023"}
 {"address": "0xB2122113f557cf93329006D374207c0C77D7eCaA", "name": "Offer", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "1/22/2023"}
+{"address": "0xf5bc3b4cfc47f0b2128d2f7ae5647463c19a4f7a", "name": "Win95", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 90, "settings": "", "date": "1/22/2023"}
+{"address": "0xBF72BF5BE06B1E3115Cd81aA9A2cd03Ee25Ff9D3", "name": "TokenAirdrop", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 2, "settings": "-", "date": "1/22/2023"}
+{"address": "0xa289a9ca59eb28126fcb488ff5ea2533819c8a27", "name": "FAXAANFT", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 2, "settings": "-", "date": "1/22/2023"}
+{"address": "0x2E3282567932A80928f704E4F626ce21A2A52d04", "name": "LycheeLiquidityLock", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "1/22/2023"}
+{"address": "0x3de3179A436decde5D3e44e1Bd14844A257C616E", "name": "CopperpiratecoinContract", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 3, "settings": "", "date": "1/22/2023"}
+{"address": "0x64df89019Bd55e8bC2F1Ce5759FBC8C06B616688", "name": "CopperpiratecoinContract", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 7, "settings": "", "date": "1/22/2023"}
+{"address": "0x89c5a06c5f2803bcfd77b8f7daae11997997377c", "name": "Faxa", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 4, "settings": "-", "date": "1/22/2023"}
+{"address": "0xc21ce2cb7304223b476707de0d1c171a854f2d55", "name": "InsuredLongsStrategy", "compiler": "0.8.14", "balance": "0 ETH", "txcount": 10, "settings": "", "date": "1/22/2023"}
