@@ -14567,3 +14567,7 @@
 {"address": "0x22c4c7cce7771e41c2e97ded588d3803b5b5e1f9", "name": "TimedLockerV3", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 3, "settings": "", "date": "1/22/2023"}
 {"address": "0x2DeBDf19c94DaD7F2158582F9b85365713A59DF6", "name": "FixedToken", "compiler": "0.8.12", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/22/2023"}
 {"address": "0x220c89B9Dc1d20219936456e1C88F00a498C1F33", "name": "VaultView", "compiler": "0.8.12", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/22/2023"}
+{"address": "0x26A89c4EdE81e2979a3b424F314529ceabB54B47", "name": "FlippeningGame", "compiler": "0.8.4", "balance": "0.095 ETH", "txcount": 2, "settings": "", "date": "1/23/2023"}
+{"address": "0xf33683d0D690CCdBbF63A54b8d6709ff7e6cf987", "name": "TfiOperator", "compiler": "0.7.0", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/23/2023"}
+{"address": "0x1E305B22C177F6FdB55d891C63b1c8C399117040", "name": "Crv2PoolOracle", "compiler": "0.8.16", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/23/2023"}
+{"address": "0x88D01eF3a4D586D5e4ce30357ec57B073D45ff9d", "name": "GOVIETHStakingRewards", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 336, "settings": "", "date": "1/23/2023"}
