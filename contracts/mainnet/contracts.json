@@ -14695,3 +14695,54 @@
 {"address": "0xF980d9cD6941a5c3A096d0c14A4026Ae87d7107f", "name": "Comptroller", "compiler": "0.5.16", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "1/24/2023"}
 {"address": "0x2BFa9dB5007A8db32B9B9A5dC3B63a5dBA17eD36", "name": "ArbiCasino", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 239, "settings": "", "date": "1/24/2023"}
 {"address": "0x6e552d6bBAFf0848AFCdEFd0CAc06cead15F2E94", "name": "Counter", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/24/2023"}
+{"address": "0x205580e40daed5f69a2613bfec3991c881fd5aaa", "name": "ArbiHodl", "compiler": "0.8.1", "balance": "0 ETH", "txcount": 29, "settings": "-", "date": "1/24/2023"}
+{"address": "0xc0D822920B70A3006026A4b26c231BCeD932A6DD", "name": "SwapFactory", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/24/2023"}
+{"address": "0x0EA5a58085c7c9964A2853b0400da44a69111a94", "name": "OneInch", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "1/24/2023"}
+{"address": "0x03ebfefc4bd0b15a9342e77a8ddf0c10668cc2fb", "name": "INU", "compiler": "0.8.5", "balance": "0 ETH", "txcount": 38, "settings": "", "date": "1/24/2023"}
+{"address": "0xD534bB9fba20152AbCb20fCB2D96B00392971B5c", "name": "OpFactory", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/24/2023"}
+{"address": "0x77eD391A04C33C894D9D2b7d7dE8612448e5F69f", "name": "Cbridge", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/24/2023"}
+{"address": "0x56a59f2346E1902C2ef9111094875F23aC25137C", "name": "OpFactory", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/24/2023"}
+{"address": "0xEA2D68BdE7f89Eb6d39b67f65a84Dba4cb43ADCc", "name": "Stargate", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/24/2023"}
+{"address": "0xBd7CbD9bcC8b54eA13cb688909335Ea48B99ae28", "name": "VaultBase", "compiler": "0.8.12", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/24/2023"}
+{"address": "0xB18b3167F9aB9a8941cf7B817dac671C5B645649", "name": "VaultAdmin", "compiler": "0.8.12", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/24/2023"}
+{"address": "0x4B74824545A98016C5C06d660a80Ac2B433697A8", "name": "VaultView", "compiler": "0.8.12", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/24/2023"}
+{"address": "0x05b7F6D9D1A1A75d54FFEd5C3892e252DB993440", "name": "Auction", "compiler": "0.8.12", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/24/2023"}
+{"address": "0xdbb1187297b8f47f6c07d2be206d63ec0bbcd9dc", "name": "DBI", "compiler": "0.8.5", "balance": "0 ETH", "txcount": 9, "settings": "", "date": "1/24/2023"}
+{"address": "0x54E1B655Fc4112e87A4363e01a313F82609b53Db", "name": "Queue", "compiler": "0.8.12", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/24/2023"}
+{"address": "0x1a5823cc659B71C3948e1cbAC6d27831F29A6b4a", "name": "QueueProxy", "compiler": "0.8.12", "balance": "0 ETH", "txcount": 13, "settings": "", "date": "1/24/2023"}
+{"address": "0xF00e0a28f27f7E65845C7ce23a99E8c40AdDb94c", "name": "Queue", "compiler": "0.8.12", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/24/2023"}
+{"address": "0xB28b26C662E1Cc1373C43Ad3d06c08ABC17229ab", "name": "AuctionProxy", "compiler": "0.8.12", "balance": "0 ETH", "txcount": 4, "settings": "", "date": "1/24/2023"}
+{"address": "0x935FB1838974D09d33cDcec0189D0e99f77cC92f", "name": "Auction", "compiler": "0.8.12", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/24/2023"}
+{"address": "0xd21A5e462EFe62b56C0658748beE28593591bB0b", "name": "VaultView", "compiler": "0.8.12", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/24/2023"}
+{"address": "0xeC1f46387a2790B834416FA71583FA0Fe6E2e957", "name": "VaultAdmin", "compiler": "0.8.12", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/24/2023"}
+{"address": "0xC94758A8b70aed55c33Bc3988e7A2b4C2369B2F4", "name": "VaultBase", "compiler": "0.8.12", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/24/2023"}
+{"address": "0x82900b0495303216d128d4770de425E0a3c14C1f", "name": "VaultDiamond", "compiler": "0.8.12", "balance": "0 ETH", "txcount": 14, "settings": "", "date": "1/24/2023"}
+{"address": "0x8b43fCD71C6F8DdA95a28b359667fE1D06B7Ec7a", "name": "Registry", "compiler": "0.8.12", "balance": "0 ETH", "txcount": 3, "settings": "", "date": "1/24/2023"}
+{"address": "0x69615779702aa1B1aFae51dBedF379D091f70C79", "name": "Pricer", "compiler": "0.8.12", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/24/2023"}
+{"address": "0x89a5968a2885701ff86b8429cd47edbac9f6cb8f", "name": "TestInu", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 11, "settings": "", "date": "1/24/2023"}
+{"address": "0xdA695cB451Bb253c642A7231810B381895598015", "name": "FairDice", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 8, "settings": "", "date": "1/24/2023"}
+{"address": "0x1427Ef76323a0dcA26AC4422716F66bd09406F17", "name": "FairDice", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "1/24/2023"}
+{"address": "0xACD067eC75f5aA7F4ff778A8De0A1252A1852543", "name": "VaultStargateFrax", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/24/2023"}
+{"address": "0x56BCf1f13be3415509DB13daB9883a755743712C", "name": "StrategyStargateFrax", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/24/2023"}
+{"address": "0xC5a664450276b927447053E5a0821EAe61515B5E", "name": "ArbShib", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 282, "settings": "-", "date": "1/24/2023"}
+{"address": "0x3201161c97E6B3c6e0e565d8Cd17ae5d0BEDb5F7", "name": "Assert", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/24/2023"}
+{"address": "0xc81D63f0BBC48F85C9E30038C02dd15408510A2A", "name": "ComplexRewarderPerSec", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "1/24/2023"}
+{"address": "0xA4C8F9523A8DBB53c5463Fe6CB5B37F7a8Ff24C5", "name": "IterableMapping", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "1/24/2023"}
+{"address": "0xE1D7cD84c1e74FE06450899A8605f35D6F58fDc9", "name": "Assert", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/24/2023"}
+{"address": "0x0f989afe9e3f7a312fdcdedd0e30a9ad8ba6a33a", "name": "ARBFI", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 27, "settings": "", "date": "1/24/2023"}
+{"address": "0xaEE0B844E5A212696428CADDfc0ebCA7dDC2b8a3", "name": "memetherium", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 21, "settings": "-", "date": "1/24/2023"}
+{"address": "0x93F62309acac36f1c951ab395099b8feE34C6F8e", "name": "UniV3Asset", "compiler": "0.8.16", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/24/2023"}
+{"address": "0x620402b4F2e853c9c1e8F7058b235F1Ca56e359f", "name": "Stabilizer", "compiler": "0.8.16", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/24/2023"}
+{"address": "0x54d40b147a0dd89be181f2809918f1a31c7c2f7f", "name": "ToDoingIT", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/24/2023"}
+{"address": "0x1270d8be40cb705962a9192f6d41c9913953f043", "name": "MosesOne", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 5, "settings": "-", "date": "1/24/2023"}
+{"address": "0xB3442b3680B8E888C73Bf6D08543586CB716c5e2", "name": "UiPoolDataProviderV2", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/24/2023"}
+{"address": "0xB32B248263d1F3D8C27AD720Fb1b872ebC8f345F", "name": "DefaultReserveInterestRateStrategy", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/24/2023"}
+{"address": "0x0345593f54CA91fda929Aa58976D153FA217F257", "name": "InitializableImmutableAdminUpgradeabilityProxy", "compiler": "0.6.12", "balance": "-", "txcount": 0, "settings": "", "date": "1/24/2023"}
+{"address": "0xcAcBBF4301c93Fb2Aa130865f1a34974321E57D7", "name": "InitializableImmutableAdminUpgradeabilityProxy", "compiler": "0.6.12", "balance": "-", "txcount": 0, "settings": "", "date": "1/24/2023"}
+{"address": "0x46968331c80037600cDd09c7Df846a9168C06336", "name": "InitializableImmutableAdminUpgradeabilityProxy", "compiler": "0.6.12", "balance": "-", "txcount": 0, "settings": "", "date": "1/24/2023"}
+{"address": "0x5f9076FC4c7b6aCFd88e9bD1bE663e2873e9e3FB", "name": "DefaultReserveInterestRateStrategy", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/24/2023"}
+{"address": "0x3A2d689E5BaC453309B0864Eb023BDaA050DB62E", "name": "InitializableImmutableAdminUpgradeabilityProxy", "compiler": "0.6.12", "balance": "-", "txcount": 0, "settings": "", "date": "1/24/2023"}
+{"address": "0xA3d5aE090CB3942867C456c18E743143e88EE269", "name": "InitializableImmutableAdminUpgradeabilityProxy", "compiler": "0.6.12", "balance": "-", "txcount": 0, "settings": "", "date": "1/24/2023"}
+{"address": "0xeCF614A18c2f419234d5020A89eD6dB2f0F9F50D", "name": "InitializableImmutableAdminUpgradeabilityProxy", "compiler": "0.6.12", "balance": "-", "txcount": 0, "settings": "", "date": "1/24/2023"}
+{"address": "0x528e6E8A69b148fD77EDC06E1121D7B8056B071C", "name": "DEIStablecoin", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/24/2023"}
+{"address": "0x6Ff30a7353158A52B55dc9dD90e6827E400b490F", "name": "INTESRF", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 3, "settings": "", "date": "1/24/2023"}
