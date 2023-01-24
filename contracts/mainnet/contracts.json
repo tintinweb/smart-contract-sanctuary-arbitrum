@@ -14637,3 +14637,44 @@
 {"address": "0xEbe57d1fB13A4125f895a412f0172D8557989646", "name": "EthBond", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/23/2023"}
 {"address": "0x8F4581D173FFD2c439824465366a67c509A813ac", "name": "AETH", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 8, "settings": "", "date": "1/23/2023"}
 {"address": "0x3C17d2c3C136f9e0D63720583CD9a3E003591416", "name": "RouterPatch", "compiler": "0.8.14", "balance": "0 ETH", "txcount": 193, "settings": "", "date": "1/23/2023"}
+{"address": "0xBb499057310709f7468E5e04c44F1621F7f48B6a", "name": "Reader", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/24/2023"}
+{"address": "0x98764589F3e94A94E4B171a4d6902DeB5543676E", "name": "NonRewardPool", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/24/2023"}
+{"address": "0xA6e8F7a652785C56efDe13E4fC03B3BC4C6fe218", "name": "StakedCLRToken", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/24/2023"}
+{"address": "0x3b11cEa427a3C96Ed9771335F2567f80f4226ab6", "name": "LMTerminal", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/24/2023"}
+{"address": "0xa5e7747f4f327723ead8289996bc57f74143c931", "name": "CryptoBaby", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "1/24/2023"}
+{"address": "0xB1C1D392E36ED339d1CC67F9feFb390098b08e72", "name": "ModularRouter", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 3, "settings": "-", "date": "1/24/2023"}
+{"address": "0xa13ba599d4b51959e7b78762537a73a020c38e23", "name": "ModularTokenV2", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "1/24/2023"}
+{"address": "0x8473815d93e274c0c384ff5bc36f23491dcfa454", "name": "test", "compiler": "0.8.13", "balance": "0.000001369849923562 ETH", "txcount": 4, "settings": "-", "date": "1/24/2023"}
+{"address": "0xaE6b4E307cBdc779F19d3965a7ddf8e4dE307487", "name": "GWAVOracle", "compiler": "0.8.16", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "1/24/2023"}
+{"address": "0x2b4EB7743C300B91644e682DB9DF2784F552BD3b", "name": "DividendDistributor", "compiler": "0.8.13", "balance": "-", "txcount": 0, "settings": "", "date": "1/24/2023"}
+{"address": "0x4b236Ac3B8d4666CbdC4E725C4366382AA30d86b", "name": "OptionGreekCache", "compiler": "0.8.16", "balance": "0 ETH", "txcount": 5, "settings": "", "date": "1/24/2023"}
+{"address": "0xEAC659b8e6458568D84A278d1a1b286DD1e9511B", "name": "BlackScholes", "compiler": "0.8.16", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/24/2023"}
+{"address": "0x273a3fE048DBD6c2050bEe874842bCA04F105db9", "name": "GWAV", "compiler": "0.8.16", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/24/2023"}
+{"address": "0x4CdB992fDEFcb840125dd344f87BDCbb8fEfA3e7", "name": "OptionMarketWrapper", "compiler": "0.8.16", "balance": "0 ETH", "txcount": 5, "settings": "", "date": "1/24/2023"}
+{"address": "0x97B688cEd83a1164AF9D3c0244EC36602E6C3B88", "name": "OptionMarketViewer", "compiler": "0.8.16", "balance": "0 ETH", "txcount": 3, "settings": "", "date": "1/24/2023"}
+{"address": "0x98EC741798b186c15d1004abB4361feB049Ea8dE", "name": "GMXAdapter", "compiler": "0.8.16", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/24/2023"}
+{"address": "0x888bc0D57727b74d42FB3a06B647FDeA8A06bB3B", "name": "ZigZagBTCBridge", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/24/2023"}
+{"address": "0xcB8A3652C98509A3A2aaCcDeD9E14fa9c357bAc2", "name": "DividendDistributor", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/24/2023"}
+{"address": "0xbf7c26990364db193cab37e7a3b7113b05bde862", "name": "Akong", "compiler": "0.8.0", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "1/24/2023"}
+{"address": "0x2911C31E35D7bFD5cF09dE0E6CFB7EcC44b418eB", "name": "AtlasMine", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/24/2023"}
+{"address": "0x30635eE6a1ef2F13Aa975Db353c7b20eE7887dE7", "name": "ZigZagBTCBridge", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/24/2023"}
+{"address": "0x6D490e1E363BD91CF82978c8Be0c8A552A0e318B", "name": "FnbswapExchange20", "compiler": "0.7.4", "balance": "-", "txcount": 0, "settings": "", "date": "1/24/2023"}
+{"address": "0xe4d5caB8AaD9D7B34996e24aad181e143b702fde", "name": "FnbswapFactory20", "compiler": "0.7.4", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "1/24/2023"}
+{"address": "0x507e3722e4420071D7F05f6983596ED4a0AFD006", "name": "FanbaseV2Router02", "compiler": "0.6.6", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/24/2023"}
+{"address": "0xb3A8C0600CE1838E9efB0A8c47B2F6C7ee70f2b5", "name": "FanbaseV2Factory", "compiler": "0.5.16", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/24/2023"}
+{"address": "0x336a85544bf35a8672e1fae5758e22a24ef3f8e7", "name": "DERC20", "compiler": "0.6.6", "balance": "0 ETH", "txcount": 15, "settings": "", "date": "1/24/2023"}
+{"address": "0x0cccef92cc1bb4fd44e221ed6b04cb57a45b5864", "name": "test", "compiler": "0.8.17", "balance": "0.000001525357738225 ETH", "txcount": 4, "settings": "", "date": "1/24/2023"}
+{"address": "0x87950aDE52d3F89F021222e62f9269F1079FdCCc", "name": "ResolverWithControl", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 2, "settings": "-", "date": "1/23/2023"}
+{"address": "0x6ccd44ed407558F4d95B14021743Ec7Cb0936c93", "name": "SimpleSnapshotWithoutToken", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "1/23/2023"}
+{"address": "0x5B6dDD4fbf59Ab342E17946D19ABa88261F3eF92", "name": "PlainMajorityVoteWithQuorum", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 2, "settings": "-", "date": "1/23/2023"}
+{"address": "0x295f7765DEe906dFBF8Db21828140ee4Ec54C074", "name": "MajorityVoteWithNFTQuorumAndOptionalDVGuard", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 2, "settings": "-", "date": "1/23/2023"}
+{"address": "0xF348C9902Df4E472A2b8CA960CeE3E3A3cd5AF1a", "name": "Lottery", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/23/2023"}
+{"address": "0xa967470C2A65CB6a9C91dAA3eE818370df2CfD82", "name": "DummyToken", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "1/23/2023"}
+{"address": "0xED5157841073193187A16B429bEc109A830381E0", "name": "DummyNFT", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 2, "settings": "-", "date": "1/23/2023"}
+{"address": "0xA654018C8776A267D9faD9C865BA8292970101C6", "name": "PlaygroundVotingBadge", "compiler": "0.8.13", "balance": "-", "txcount": 0, "settings": "", "date": "1/23/2023"}
+{"address": "0x19C079de81C1C1C075B0C3D08B66E27398F641b8", "name": "VotingPlayground", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 15, "settings": "", "date": "1/23/2023"}
+{"address": "0xC535389b5a26efEbc27811915B6d78f6C95433f7", "name": "VotingRegistry", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "1/23/2023"}
+{"address": "0x1426CF37CAA89628C4DA2864e40cF75E6d66Ac6b", "name": "RelayToken", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/23/2023"}
+{"address": "0x5B98009a8d4281166f815aEc1A2E0010cf79f4a4", "name": "Primitives_Test", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "1/23/2023"}
+{"address": "0xd427810ba8b2c17b88F00A6bf27142F100B6f889", "name": "BorrowerOperations", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/23/2023"}
+{"address": "0x40907bfc9b111d1cc6c99d8fbd9bb3b04b8939c7", "name": "LinkToken", "compiler": "0.4.16", "balance": "0 ETH", "txcount": 2, "settings": "-", "date": "1/23/2023"}
