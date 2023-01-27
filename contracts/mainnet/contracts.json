@@ -15104,3 +15104,23 @@
 {"address": "0xaB469011e36D25B316DaFcfda80335786404C9C6", "name": "VerifyHarvesterStake", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/26/2023"}
 {"address": "0xd6822535D55584B118e295ac2edd4F02cb7c1f6B", "name": "VerifyHarvesterStake", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/26/2023"}
 {"address": "0x13D73adDcf15c55b67BCdd53398E3604d464E338", "name": "INGOT", "compiler": "0.7.5", "balance": "0 ETH", "txcount": 106, "settings": "-", "date": "1/26/2023"}
+{"address": "0xe9a6dab9a6861aec105317831b475f9c19c45e45", "name": "Arbrickrum", "compiler": "0.8.5", "balance": "0 ETH", "txcount": 3, "settings": "-", "date": "1/27/2023"}
+{"address": "0x0f2731d5dc3dd11c1cb1f265f9774f64614644d9", "name": "GalgumaProtocol", "compiler": "0.8.5", "balance": "0 ETH", "txcount": 3, "settings": "", "date": "1/27/2023"}
+{"address": "0x68D39Fd72e84220574946D00d190003a5dE5D143", "name": "DataType_Test3", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "1/27/2023"}
+{"address": "0x1A794c9df186822EA346042A422C9013617B3143", "name": "JustYieldVault", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 5, "settings": "", "date": "1/27/2023"}
+{"address": "0x0a2a15fcBA241e67CbA42961379531340B24AeF5", "name": "BattleflyAtlasStakerV02", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/27/2023"}
+{"address": "0x6b647459d716c5041384960a32090421ebb0be82", "name": "KingAres", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 4, "settings": "", "date": "1/27/2023"}
+{"address": "0x1cea1434916691fcdc99a6a8f57de8c7cd3280c0", "name": "CauldronPro", "compiler": "0.8.5", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "1/27/2023"}
+{"address": "0xEA5d9f828A41912d5fcA42322dCfE924a67A5639", "name": "BattleflyFounderVaultV08", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/27/2023"}
+{"address": "0x15571497F99dE8574A92b547E1490d63D980bB30", "name": "EthWeeklyAtlanticPuts", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 5, "settings": "", "date": "1/27/2023"}
+{"address": "0xfe6667986f58f2f7ed1e7c17cee3951d8abb717f", "name": "RedPacket", "compiler": "0.8.17", "balance": "-", "txcount": 0, "settings": "-", "date": "1/27/2023"}
+{"address": "0x2da83188F2C6f760Db0493A7087266Fd1e9A7076", "name": "GmxPutPriceOracleV2", "compiler": "0.8.16", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/27/2023"}
+{"address": "0x8db6b62bb56825b1ea0b67c3d22addef75a9e5a3", "name": "Goat", "compiler": "0.8.0", "balance": "0 ETH", "txcount": 9, "settings": "-", "date": "1/27/2023"}
+{"address": "0x56d11b0fc3589658db1910b39bfa4fd93aa9ae52", "name": "ERC20", "compiler": "0.8.0", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/27/2023"}
+{"address": "0x182475276BD545cA737195A72f4D387d32e53efb", "name": "OneClicks", "compiler": "0.8.16", "balance": "0 ETH", "txcount": 13, "settings": "", "date": "1/27/2023"}
+{"address": "0x72976C24AAa4aB1e971b870831CBAaE923C44c7f", "name": "ArbiMisticBunny", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "1/27/2023"}
+{"address": "0x2e673c9d0dc651fac996956121dbeb91db2cf81a", "name": "StrategyTJLiquidityBookLB", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "1/27/2023"}
+{"address": "0xf8d6eb0e55a83e8a27af3c5f48cab883da3c716d", "name": "SteakHutLBVaultV1", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "1/27/2023"}
+{"address": "0x1ffa933112477bb764274321d170f335d71d456d", "name": "StrategyTJLiquidityBookLB", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "1/27/2023"}
+{"address": "0xfb6421346d7e96f573414be757b502c0bb15cb62", "name": "SteakHutLBVaultV1", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "1/27/2023"}
+{"address": "0xae1ab2b605513dd7e5fd4b6430249a12dcd4c3a0", "name": "ArbiAstro", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "1/27/2023"}
