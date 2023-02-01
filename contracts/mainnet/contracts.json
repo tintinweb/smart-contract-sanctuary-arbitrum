@@ -15841,3 +15841,41 @@
 {"address": "0xC05092A037A57e8d1Ad46Ebb8c0CE3331d1EeF7F", "name": "Orion", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 2, "settings": "-", "date": "2/1/2023"}
 {"address": "0x339fb49626de4fd893dcfa6abd5494ca07ac7931", "name": "AxelarExecutable", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/31/2023", "err": "Exception('HTML IN OUTPUT!! - BeautifulSoup messed up..')"}
 {"address": "0x66f3d3210f84fe8cc2c77a1f001a395b2ae0b801", "name": "CurveGaugeControllerOracle", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "1/31/2023", "err": "Exception('HTML IN OUTPUT!! - BeautifulSoup messed up..')"}
+{"address": "0x33966659939eff6d7ea443ebaa969974f22fdf14", "name": "DividendDistributor", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "2/1/2023"}
+{"address": "0xc966db9031318fa62d69b699095cb3bb84320897", "name": "Ninjiru", "compiler": "0.8.5", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "2/1/2023"}
+{"address": "0x8DC5189a79B19F5e487D5bD1fb5dB79914566a09", "name": "SolanaX", "compiler": "0.8.5", "balance": "0 ETH", "txcount": 3, "settings": "", "date": "2/1/2023"}
+{"address": "0x7f51d39edc1b14d939392a0edd17866031b134a7", "name": "PUMPER", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 8, "settings": "", "date": "2/1/2023"}
+{"address": "0x00e796f66309e1d6106276608798397272a83056", "name": "Togerum", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 5, "settings": "", "date": "2/1/2023"}
+{"address": "0x5f586b6Bf4E9c011ecEd2c842cFF16ff0cFf6D4C", "name": "plvGLPOracle", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "2/1/2023"}
+{"address": "0xA0c55b311f710DA1e682914efC8B9051fe14C768", "name": "Whitelist", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "2/1/2023"}
+{"address": "0xae25a112ab5166357a24fccb0fabe37715c655cb", "name": "Lock", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "2/1/2023"}
+{"address": "0x1bde25a6772ffa50099a3aed19c1017d866193ed", "name": "MagicTest", "compiler": "0.8.6", "balance": "295 wei", "txcount": 13, "settings": "", "date": "2/1/2023"}
+{"address": "0xaF9Ba74E8B285ab2ba089045760d6B0653a7A6dd", "name": "AKA", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 15, "settings": "", "date": "2/1/2023"}
+{"address": "0xa5f30037860dd746323a02f162322b7920a5267a", "name": "CHAI", "compiler": "0.8.5", "balance": "0 ETH", "txcount": 3, "settings": "-", "date": "2/1/2023"}
+{"address": "0x876e093b30f4372722dfcd609ede09537cf0b2e1", "name": "YakuzaKiller", "compiler": "0.8.7", "balance": "0.000727233217618803 ETH", "txcount": 67, "settings": "-", "date": "2/1/2023"}
+{"address": "0x1f45b68e30b3634ca1dc7bbbcce97976c01211a1", "name": "ChatGPTArb", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 10, "settings": "", "date": "2/1/2023"}
+{"address": "0xbe24b6eeee89d692448f4c916b01ae7af427cc69", "name": "PornArb", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 5, "settings": "", "date": "2/1/2023"}
+{"address": "0x231d72061435b2D5D03DB1870E7862Ab52FB257C", "name": "TimeERC20Token", "compiler": "0.7.5", "balance": "0 ETH", "txcount": 5, "settings": "-", "date": "2/1/2023"}
+{"address": "0x86501F479086d9CED6735a815057E3b44BC1601d", "name": "Liquidator", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "2/1/2023"}
+{"address": "0x73056325f28AabcFe9e1EaF90DC47d74EF97c406", "name": "AssetManager", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 4, "settings": "", "date": "2/1/2023"}
+{"address": "0x18eeB7D4ae3F8A67fCc618C379530f2b26229391", "name": "BalanceSheet", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 3, "settings": "", "date": "2/1/2023"}
+{"address": "0x120c78D2724a1132D15B5dea1766C83A241056f5", "name": "Qualifier", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "2/1/2023"}
+{"address": "0xf40e41647bFF92F2E2D0bcFb0Ff4D4C69966932D", "name": "rewardPool", "compiler": "0.7.5", "balance": "0 ETH", "txcount": 36, "settings": "", "date": "2/1/2023"}
+{"address": "0xd43230b930F9F556a573f159Ea2A9Bd33317BBd0", "name": "MethodsExposureFacet", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "2/1/2023"}
+{"address": "0x787b7dC455e2a502826e73eA9A9D03F0B279f228", "name": "HamachiFacet", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "2/1/2023"}
+{"address": "0xc0E94fEB56ce7b73A25160Cc7b52e253fA41caBb", "name": "ozCutFacet", "compiler": "0.8.14", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "2/1/2023"}
+{"address": "0x894eac76AEFa45886aBEB3beaE37Bcf0A1911295", "name": "ozLoupeFacet", "compiler": "0.8.14", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "2/1/2023"}
+{"address": "0x90D23c846de3fBDD5249df9D0642a330A79717d8", "name": "OZLFacet", "compiler": "0.8.14", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "2/1/2023"}
+{"address": "0x16242C721D3e44Cc2D2bD79254a9c16c6B13F511", "name": "ozExecutorFacet", "compiler": "0.8.14", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "2/1/2023"}
+{"address": "0x2Ab632De2d8Bf122de4B42dB7bf0CC20E43fbeD0", "name": "oz4626Facet", "compiler": "0.8.14", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "2/1/2023"}
+{"address": "0xf05C629E796ad887fc91ceDCa00748C492aaDa54", "name": "oz20Facet", "compiler": "0.8.14", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "2/1/2023"}
+{"address": "0xB3EA0b81598B761B8C75C77f0C9cDD6763038A20", "name": "RevenueFacet", "compiler": "0.8.14", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "2/1/2023"}
+{"address": "0xf68D935b888B91932964213982BA110d2E3fD1A3", "name": "OwnershipFacet", "compiler": "0.8.14", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "2/1/2023"}
+{"address": "0x1e3c17571E91b52F04D0dc2B7FC9081Dfc85626C", "name": "TokenStaking", "compiler": "0.5.16", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "2/1/2023"}
+{"address": "0x0Ea73134B93a0AD54aB74Be9772B775E5Bd539b8", "name": "TestToken", "compiler": "0.5.16", "balance": "0 ETH", "txcount": 4, "settings": "-", "date": "2/1/2023"}
+{"address": "0xDA5229a7f0F12FA0a60B0Da5603ae04301b4D566", "name": "SEKUINU", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 7, "settings": "", "date": "2/1/2023"}
+{"address": "0xf4798A010299D811796f05e49CBA02EaB1fa083b", "name": "Keepers", "compiler": "0.8.11", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "2/1/2023"}
+{"address": "0xea143fc06cf9f6e139ed9e341cff71721af4bbbf", "name": "Arbitomb", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "2/1/2023"}
+{"address": "0x7aE6DC970aB9Fe4aa36bA6a3BfA492A90Ba642f4", "name": "EpochFlipper", "compiler": "0.8.11", "balance": "0 ETH", "txcount": 4, "settings": "", "date": "2/1/2023"}
+{"address": "0x339fb49626de4fd893dcfa6abd5494ca07ac7931", "name": "AxelarExecutable", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/31/2023", "err": "Exception('HTML IN OUTPUT!! - BeautifulSoup messed up..')"}
+{"address": "0x66f3d3210f84fe8cc2c77a1f001a395b2ae0b801", "name": "CurveGaugeControllerOracle", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "1/31/2023", "err": "Exception('HTML IN OUTPUT!! - BeautifulSoup messed up..')"}
