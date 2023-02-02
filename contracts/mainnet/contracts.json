@@ -15996,3 +15996,60 @@
 {"address": "0xc760b56de26b78471d208c10b1e6ee044964ccaa", "name": "bCANTO", "compiler": "0.8.5", "balance": "0 ETH", "txcount": 6, "settings": "-", "date": "2/2/2023"}
 {"address": "0x339fb49626de4fd893dcfa6abd5494ca07ac7931", "name": "AxelarExecutable", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/31/2023", "err": "Exception('HTML IN OUTPUT!! - BeautifulSoup messed up..')"}
 {"address": "0x66f3d3210f84fe8cc2c77a1f001a395b2ae0b801", "name": "CurveGaugeControllerOracle", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "1/31/2023", "err": "Exception('HTML IN OUTPUT!! - BeautifulSoup messed up..')"}
+{"address": "0xf9a0ef1df4385ec4d748043eb06016f0e58c1fe6", "name": "BUILDER", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 5, "settings": "", "date": "2/2/2023"}
+{"address": "0x7774b80F66b0A5D129acc51ff818FEb70D4Cc213", "name": "Treasury", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 13, "settings": "", "date": "2/2/2023"}
+{"address": "0x4E0Bc86BB99baC3a5F5D0AD1D495068dE57053b7", "name": "ReferralStorage", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "2/2/2023"}
+{"address": "0xc62ccc42d054951dd1be6fdc9e3ebd6df4acb7b5", "name": "ARBIFY", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "2/2/2023"}
+{"address": "0xb5a0F2f6d8b55d08aB3a6f11E3fE99e2f07bC9Ed", "name": "OptionPricingSimple", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "2/2/2023"}
+{"address": "0x315462ffce27cb7f486ce25a2a00f20240afa82e", "name": "Example", "compiler": "0.8.18", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "2/2/2023"}
+{"address": "0xe350cf3039dcddcf1e8ba5fd57000d2a171ff362", "name": "SYNTHETIX", "compiler": "0.8.18", "balance": "0 ETH", "txcount": 6, "settings": "-", "date": "2/2/2023"}
+{"address": "0x547911901c034d2d254131d47c2bd69164d9473d", "name": "PolluxProtocol", "compiler": "0.8.5", "balance": "0 ETH", "txcount": 2, "settings": "-", "date": "2/2/2023"}
+{"address": "0x00eaed44a5d9301904a849dbd6ca5ab406239f31", "name": "ABIParse", "compiler": "0.8.18", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "2/2/2023"}
+{"address": "0x648dd8570290d58c5fe43470b152be87fe88d43d", "name": "ArbitrumTools", "compiler": "0.8.18", "balance": "0 ETH", "txcount": 223, "settings": "-", "date": "2/2/2023"}
+{"address": "0x85E9De497EDAc9572F62124CF3283f6f82f05fA9", "name": "MAKIBondDepository", "compiler": "0.7.5", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "2/2/2023"}
+{"address": "0x7b734b761f0D17F5285Bbce97F86442a9CBABB10", "name": "MAKIBondDepository", "compiler": "0.7.5", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "2/2/2023"}
+{"address": "0x290aa19b28c3f7be3a3267a13bcaad6f1a37c69f", "name": "PolluxToken", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 24, "settings": "", "date": "2/2/2023"}
+{"address": "0x3DcF86Fe00873085b7697D88f16eF70641282Ad2", "name": "MakiBondDepository", "compiler": "0.7.5", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "2/2/2023"}
+{"address": "0x1e90A17C90b12b059dB946f92035834522aCE378", "name": "Distributor", "compiler": "0.7.5", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "2/2/2023"}
+{"address": "0x3CdC18abC286034eA4ac9308cdCBDD84ee0977cB", "name": "Airdrop", "compiler": "0.7.5", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "2/2/2023"}
+{"address": "0xdBF30f218F6e4fD0786707940f3558E6409798f7", "name": "Oracle", "compiler": "0.7.5", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "2/2/2023"}
+{"address": "0x48649b8Cc6588d7a173Ad66083E549E903f1826B", "name": "MAKIBondingCalculator", "compiler": "0.7.5", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "2/2/2023"}
+{"address": "0xF2012928FDAdc061AF0B2E46a93EC3F983103964", "name": "LiquidityManagerLogic", "compiler": "0.8.11", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "2/2/2023"}
+{"address": "0xc34c48d9974b7dd85b97057b0328269f8a705f62", "name": "ARBIFY", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "2/2/2023"}
+{"address": "0xb4481fe938B7b6493A6A6d6428B39b44D2E587CE", "name": "MakiTreasury", "compiler": "0.7.5", "balance": "0 ETH", "txcount": 7, "settings": "", "date": "2/2/2023"}
+{"address": "0x43Bd78F7cf8AdA57BBd4536cD339f90517910364", "name": "SmartChef", "compiler": "0.7.5", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "2/2/2023"}
+{"address": "0x0b6f7355aC6C6d3A8A8e9FcE384E3220f71bFc3A", "name": "Burnai", "compiler": "0.8.11", "balance": "0 ETH", "txcount": 44, "settings": "", "date": "2/2/2023"}
+{"address": "0x1765b308001753901c7A676d0E1cCE5d03e18dd0", "name": "LyraReceiver", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "2/2/2023"}
+{"address": "0x04C947C809Ea42293FE27ae0A595E42E111E1225", "name": "StakingWarmup", "compiler": "0.7.5", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "2/2/2023"}
+{"address": "0xB9762F195d8DD453761Bee02445D431F2FF447e3", "name": "Arbikitties", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 11, "settings": "", "date": "2/2/2023"}
+{"address": "0xbd2b08c8fcf2903332fef4a77e91790906b54c03", "name": "PolluxProtocol", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 29, "settings": "", "date": "2/2/2023"}
+{"address": "0xE30456f7BBe8Fd7Ebb4A03697f848Bf7D0c8fc1d", "name": "Pollux", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 11, "settings": "", "date": "2/2/2023"}
+{"address": "0xdf72De267b99FbD64155D9469243D5D15f1Aa64C", "name": "MakiStaking", "compiler": "0.7.5", "balance": "0 ETH", "txcount": 4, "settings": "", "date": "2/2/2023"}
+{"address": "0x4764626f1e5f59820762020fdaf78ec07850f63b", "name": "dogrium", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 8, "settings": "", "date": "2/2/2023"}
+{"address": "0x4084ECce4644388eC7A03fa511BFfE2634844AA3", "name": "sMakiToken", "compiler": "0.7.5", "balance": "0 ETH", "txcount": 3, "settings": "", "date": "2/2/2023"}
+{"address": "0xD4fd62Dc7a225F5782377a09e297369768058f45", "name": "BuffarBin", "compiler": "0.7.4", "balance": "0.0000333004820301 ETH", "txcount": 13, "settings": "-", "date": "2/2/2023"}
+{"address": "0x157380D6aA5665A2781606398d72cbE67a9b6C58", "name": "TOKENPresale", "compiler": "0.7.5", "balance": "0 ETH", "txcount": 5, "settings": "", "date": "2/2/2023"}
+{"address": "0x0f0F2dAb7C37e477f8225DF18D2D70d84A54274a", "name": "TokenStaking", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 5, "settings": "", "date": "2/2/2023"}
+{"address": "0xFadB0E772E822e4Bc4d0A41bD8a34A86174fe3eA", "name": "TOKENPresale", "compiler": "0.7.5", "balance": "0 ETH", "txcount": 3, "settings": "", "date": "2/2/2023"}
+{"address": "0x13444b88D886E517f3fDaA3f3BCCa87BA347DA00", "name": "MakiToken", "compiler": "0.7.5", "balance": "0 ETH", "txcount": 15, "settings": "", "date": "2/2/2023"}
+{"address": "0xA77198ddD95a0f77201f69364b63906595A908EC", "name": "SiclePair", "compiler": "0.6.12", "balance": "-", "txcount": 0, "settings": "", "date": "2/2/2023"}
+{"address": "0xb43f563956FDFdB948CD76A55DA267042Fa6c805", "name": "Hope", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "2/2/2023"}
+{"address": "0x142072ba4aeaf8773b9722be62e09f5a09654061", "name": "ARBIFY", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "2/2/2023"}
+{"address": "0x98cfaf8aa79c09cb6bd4124dd46c3f19246fbb09", "name": "Arboy", "compiler": "0.8.6", "balance": "0 ETH", "txcount": 23, "settings": "-", "date": "2/2/2023"}
+{"address": "0x1B772a3721d44e1EA17d11CCD663a2edBBed52CA", "name": "PolluxProtocol", "compiler": "0.8.5", "balance": "0 ETH", "txcount": 2, "settings": "-", "date": "2/2/2023"}
+{"address": "0x2ca15b33aed18c1859f99e826d6e503dd71d657b", "name": "PolluxProtocol", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 19, "settings": "", "date": "2/2/2023"}
+{"address": "0xb03db842e63d195a7fa4610c8db636ef3f84caa1", "name": "Shelter", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "2/2/2023"}
+{"address": "0x550c18add093f5806f6df074d6c31b8d9e10c758", "name": "GShare", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 9, "settings": "", "date": "2/2/2023"}
+{"address": "0xee1468D54f23C9F3A19d5290fbB1215E694D653b", "name": "Arbizoo", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 76, "settings": "", "date": "2/2/2023"}
+{"address": "0xce45b39f8350a79bb8aa56036a4be4c1638ccc85", "name": "GBond", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "2/2/2023"}
+{"address": "0xe1387dd90a77ea1dae752f227162a7345fbd2f28", "name": "ONEDOLLARETHERIONAIRE", "compiler": "0.8.9", "balance": "0.003802956304134228 ETH", "txcount": 36, "settings": "-", "date": "2/2/2023"}
+{"address": "0x92d8efbd004731c9de359c33f02f9f116b460ecd", "name": "Treasury", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "2/2/2023"}
+{"address": "0x9ccde23c187345118a344e517332d0ef8aed4412", "name": "Example", "compiler": "0.8.18", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "2/2/2023"}
+{"address": "0x3b7d5b1677d6d84758aa7859b3840b65f9aa5620", "name": "ARBIFY", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "2/2/2023"}
+{"address": "0x1ffa3fddd6f71a87f64cd720c329c73ea832b364", "name": "ArbitrumTools", "compiler": "0.8.5", "balance": "0 ETH", "txcount": 4, "settings": "-", "date": "2/2/2023"}
+{"address": "0x7ee0a29cfe485c2ffdf003e3d3d3099e4f11f6cf", "name": "Kingsharbi", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 12, "settings": "", "date": "2/2/2023"}
+{"address": "0x5ca697193080021f87fD4B578e463D17b713377d", "name": "ArbitrumTools", "compiler": "0.8.5", "balance": "0 ETH", "txcount": 2, "settings": "-", "date": "2/2/2023"}
+{"address": "0xaae3CC17914ca370FeAdF57aea78a38472064CC7", "name": "HedgerOwnable", "compiler": "0.8.16", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "2/2/2023"}
+{"address": "0x45A2eAAaf7187D3dA8F09d15dD1a8ee1Ca932D44", "name": "HedgerERC2771", "compiler": "0.8.16", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "2/2/2023"}
+{"address": "0x339fb49626de4fd893dcfa6abd5494ca07ac7931", "name": "AxelarExecutable", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/31/2023", "err": "Exception('HTML IN OUTPUT!! - BeautifulSoup messed up..')"}
+{"address": "0x66f3d3210f84fe8cc2c77a1f001a395b2ae0b801", "name": "CurveGaugeControllerOracle", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "1/31/2023", "err": "Exception('HTML IN OUTPUT!! - BeautifulSoup messed up..')"}
