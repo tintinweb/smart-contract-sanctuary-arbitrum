@@ -15913,3 +15913,24 @@
 {"address": "0x6b0f8c476817af43be56d272c079dba275dc7087", "name": "FloodBetaPass", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 3, "settings": "", "date": "2/1/2023"}
 {"address": "0x339fb49626de4fd893dcfa6abd5494ca07ac7931", "name": "AxelarExecutable", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/31/2023", "err": "Exception('HTML IN OUTPUT!! - BeautifulSoup messed up..')"}
 {"address": "0x66f3d3210f84fe8cc2c77a1f001a395b2ae0b801", "name": "CurveGaugeControllerOracle", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "1/31/2023", "err": "Exception('HTML IN OUTPUT!! - BeautifulSoup messed up..')"}
+{"address": "0xb0BD772f357B0539F12ABBd0C62D3f84BFB65f49", "name": "Accounts", "compiler": "0.8.16", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "2/2/2023"}
+{"address": "0x604e253f885a91b98f600a99871fba148e702f7f", "name": "CryptoIndexPool", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "2/2/2023"}
+{"address": "0x051aF0F01414a69c0766813C28dB1EE4364b3aeF", "name": "Pyramidfinance", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 4, "settings": "", "date": "2/2/2023"}
+{"address": "0xacdf37a7e6af8a7e7b5746229ea8920f12077595", "name": "NITROCASH", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 5, "settings": "", "date": "2/2/2023"}
+{"address": "0xfe29a47a30672f362882c30b347a3275f963396e", "name": "stakingmerge", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "2/2/2023"}
+{"address": "0x6668ae8552e7d1b5c11860ba1c52f131e932c125", "name": "TheResurrection", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 19, "settings": "-", "date": "2/2/2023"}
+{"address": "0xD6DA45b98a19491a58941f1E7AC82BA47589e352", "name": "SwitchStargateSender", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 3, "settings": "", "date": "2/2/2023"}
+{"address": "0x48Fd9b3443b0948c320dA16BD9B1217F51ec8C9e", "name": "WooCrossChainRouterV2", "compiler": "0.8.14", "balance": "0 ETH", "txcount": 5, "settings": "", "date": "2/2/2023"}
+{"address": "0xec81da910e53df1c5284f5ee40115de10736348b", "name": "MotherFuckers", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 9, "settings": "-", "date": "2/2/2023"}
+{"address": "0x97C9AC90FF3A886bCDF6116096A158ccfb12bfAD", "name": "VodkaVaultLogicV2", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "2/2/2023"}
+{"address": "0x9C092c2c591024f42b2ac6324c57C4De03C9a909", "name": "OrangeAlphaVault", "compiler": "0.8.16", "balance": "0 ETH", "txcount": 5, "settings": "", "date": "2/2/2023"}
+{"address": "0x965c9f272D6f71878BfD2AB790661F801f938432", "name": "BaseV1Router01", "compiler": "0.8.11", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "2/2/2023"}
+{"address": "0x7322Ab63D37a257a7F86fF7B0cc33c20b8e0ABAE", "name": "BaseV1Factory", "compiler": "0.8.11", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "2/2/2023"}
+{"address": "0x418a23a8595dffa39e58b4b098be3211b85e38bb", "name": "GmxLens", "compiler": "0.8.16", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "2/2/2023"}
+{"address": "0x11cb89e609472c3d732175dae43c56b3d4406797", "name": "MagicGlpLevSwapper", "compiler": "0.8.16", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "2/2/2023"}
+{"address": "0x89963accaa9ddd00da7c9bde4308b5e4021d14d3", "name": "MagicGlpSwapper", "compiler": "0.8.16", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "2/2/2023"}
+{"address": "0xcbf0ac2e2cb53f29830fa671d48e805935598e77", "name": "ArbiLaundry", "compiler": "0.8.4", "balance": "0.000583322185180272 ETH", "txcount": 22, "settings": "-", "date": "2/2/2023"}
+{"address": "0x658c17af0f064542a76feee13bcf68884d99c08e", "name": "CheddarSwapWhitelist", "compiler": "0.4.26", "balance": "0.04 ETH", "txcount": 3, "settings": "", "date": "2/2/2023"}
+{"address": "0x4580fa71ea800234c9b1c841feb488f5c5a7b6c9", "name": "ManitobaInu", "compiler": "0.7.6", "balance": "0.000002008245434077 ETH", "txcount": 14, "settings": "", "date": "2/2/2023"}
+{"address": "0x339fb49626de4fd893dcfa6abd5494ca07ac7931", "name": "AxelarExecutable", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/31/2023", "err": "Exception('HTML IN OUTPUT!! - BeautifulSoup messed up..')"}
+{"address": "0x66f3d3210f84fe8cc2c77a1f001a395b2ae0b801", "name": "CurveGaugeControllerOracle", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "1/31/2023", "err": "Exception('HTML IN OUTPUT!! - BeautifulSoup messed up..')"}
