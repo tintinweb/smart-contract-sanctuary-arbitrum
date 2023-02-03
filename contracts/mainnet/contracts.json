@@ -16154,3 +16154,5 @@
 {"address": "0xbf8829f85020428f4c544010e4d98b8f1b6f5d04", "name": "ArbitrumIntelligence", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "2/3/2023"}
 {"address": "0x1dfd553ff9f79e0246114a3bffcb429e42d86fdc", "name": "Z", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 2, "settings": "-", "date": "2/3/2023"}
 {"address": "0x339fb49626de4fd893dcfa6abd5494ca07ac7931", "name": "AxelarExecutable", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/31/2023", "err": "Exception('HTML IN OUTPUT!! - BeautifulSoup messed up..')"}
+{"address": "0xdf0A5bf80E8009f2702E7d164A7bdeaa79013eba", "name": "SportPositionalMarketMastercopy", "compiler": "0.8.4", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "2/3/2023"}
+{"address": "0x339fb49626de4fd893dcfa6abd5494ca07ac7931", "name": "AxelarExecutable", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "1/31/2023", "err": "Exception('HTML IN OUTPUT!! - BeautifulSoup messed up..')"}
