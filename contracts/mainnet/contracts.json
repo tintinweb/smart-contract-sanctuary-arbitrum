@@ -16334,3 +16334,4 @@
 {"address": "0x866738D2d4FDfdE526ED019f76Cca3bD308Bc5Dc", "name": "ARBMinibingus", "compiler": "0.7.6", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "2/4/2023"}
 {"address": "0xdc9fa981a7523e61806c2416bcd846a77878bb5e", "name": "Syndicate", "compiler": "0.8.7", "balance": "0 ETH", "txcount": 12, "settings": "", "date": "2/4/2023"}
 {"address": "0x5fdbc28160d224906bb7182e97cde4f2ebbc46ae", "name": "Counter", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "2/4/2023"}
+{"address": "0xfdb17633db685de83b218bd6cb7591198cd26d57", "name": "NATATOKEN", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "2/4/2023"}
