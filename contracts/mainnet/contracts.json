@@ -16977,3 +16977,4 @@
 {"address": "0xb5D859BFB05394189DE42EF00480404D9C869fBd", "name": "VodkaVaultManager", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "2/8/2023"}
 {"address": "0x65Cd1BEc1bb55Ab8414eD09248A4b6523a648526", "name": "DnGmxBatchingManager", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "2/8/2023"}
 {"address": "0x740015c39da5d148fca25a467399d00bce10c001", "name": "X7LendingPoolV1", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "2/8/2023"}
+{"address": "0x4b6639f13fe16601fcf108ea8f51dfc9854fcfe8", "name": "MasterChef", "compiler": "0.6.12", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "2/8/2023"}
