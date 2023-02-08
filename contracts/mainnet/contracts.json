@@ -16915,3 +16915,4 @@
 {"address": "0x50A32fB0AdD0911b94a1DfE2E1293C77a4bB115d", "name": "StrategyKyberLP", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "2/7/2023"}
 {"address": "0xf9850b4e1C6FCcDD647a29aDe5965DdB01a828Fc", "name": "ELMT", "compiler": "0.8.13", "balance": "0 ETH", "txcount": 501, "settings": "", "date": "2/7/2023"}
 {"address": "0xd34ab85a106e7ebab99014a43dc0b9bc1d98b0c4", "name": "Arbificial", "compiler": "0.8.6", "balance": "0 ETH", "txcount": 20, "settings": "", "date": "2/7/2023"}
+{"address": "0x4c8b543Ae03a03FdD27f1eE31aBB8297763F352A", "name": "CErc20DelegateGmx", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "2/8/2023"}
