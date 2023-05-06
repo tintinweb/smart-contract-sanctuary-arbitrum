@@ -18503,3 +18503,4 @@
 {"address": "0xbc852871d68988df4d2d14eac5c76aa27ebcce54", "name": "SettingsManager", "compiler": "0.8.12", "balance": "0 ETH", "txcount": 26, "settings": "", "date": "5/5/2023"}
 {"address": "0x890271a98489e26c537e7cbe7c9ee386afd43591", "name": "Vault", "compiler": "0.8.12", "balance": "0 ETH", "txcount": 5, "settings": "", "date": "5/5/2023"}
 {"address": "0xf9792c2b35b9a659f7480bc5b0f60820d9b20e44", "name": "PositionHandler", "compiler": "0.8.12", "balance": "0 ETH", "txcount": 4, "settings": "", "date": "5/5/2023"}
+{"address": "0xDE7389330a43c248A830Bb0AcDb2cE8dD5CB9355", "name": "AIMonkeyBounsPool", "compiler": "0.8.19", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "5/6/2023"}
