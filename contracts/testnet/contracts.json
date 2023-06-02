@@ -22233,3 +22233,4 @@
 {"address": "0x02b22FcAd7b08E7250DE8E411A56Cd40904252b1", "name": "Vault", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 9, "settings": "", "date": "6/1/2023"}
 {"address": "0x4aB6929527820D950D7D32b98bd4e8199BD6E76b", "name": "OptionPricer", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "6/1/2023"}
 {"address": "0xaf505747bA600181a99a7Bbf15a35e487814cF4b", "name": "BlackScholes", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/1/2023"}
+{"address": "0x333332e92a49e9044fde6e0364b7c77a7a97674b", "name": "SmartTradingToken", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 4, "settings": "-", "date": "6/2/2023"}
