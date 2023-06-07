@@ -22953,3 +22953,6 @@
 {"address": "0xBe26BA5B50cbe9238AC80C37Df6eCC1a6AAF33d5", "name": "CoinFlip", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 4, "settings": "", "date": "6/6/2023"}
 {"address": "0x1F75B966586b8449c5d049530c60617aF95D6Ae9", "name": "VaultManager", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 21, "settings": "", "date": "6/6/2023"}
 {"address": "0x650dcfa75fd56402d00cb6e1ac7af49852ba70f3", "name": "A3SWalletFactoryV3", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/6/2023"}
+{"address": "0xdcabefd106cefdd8ed8bdd3cb5ac40bdc6fb2603", "name": "PriceManager", "compiler": "0.8.12", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/7/2023"}
+{"address": "0x05EF2119e3Cb111e3cd110012580d7084D4162a5", "name": "ContrastFactory", "compiler": "0.8.18", "balance": "0 ETH", "txcount": 0, "settings": "", "date": "6/7/2023", "err": "Exception('HTML IN OUTPUT!! - BeautifulSoup messed up..')"}
+{"address": "0x3b3D0d02F969a7Df9C0Cb99B9a6117778e1322a5", "name": "ContrastFactory", "compiler": "0.8.18", "balance": "0 ETH", "txcount": 0, "settings": "", "date": "6/6/2023", "err": "Exception('HTML IN OUTPUT!! - BeautifulSoup messed up..')"}
