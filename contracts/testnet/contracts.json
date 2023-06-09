@@ -23253,3 +23253,6 @@
 {"address": "0x3961D07891e98a53C80DbD48329860665428B902", "name": "TapiocaOFT", "compiler": "0.8.18", "balance": "0 ETH", "txcount": 0, "settings": "", "date": "6/8/2023"}
 {"address": "0x05EF2119e3Cb111e3cd110012580d7084D4162a5", "name": "ContrastFactory", "compiler": "0.8.18", "balance": "0 ETH", "txcount": 0, "settings": "", "date": "6/7/2023", "err": "Exception('HTML IN OUTPUT!! - BeautifulSoup messed up..')"}
 {"address": "0x3b3D0d02F969a7Df9C0Cb99B9a6117778e1322a5", "name": "ContrastFactory", "compiler": "0.8.18", "balance": "0 ETH", "txcount": 0, "settings": "", "date": "6/6/2023", "err": "Exception('HTML IN OUTPUT!! - BeautifulSoup messed up..')"}
+{"address": "0x50BDd6F29DD975d39cC64D5F5CCe92902B61f795", "name": "QQBToken", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/9/2023"}
+{"address": "0x05EF2119e3Cb111e3cd110012580d7084D4162a5", "name": "ContrastFactory", "compiler": "0.8.18", "balance": "0 ETH", "txcount": 0, "settings": "", "date": "6/7/2023", "err": "Exception('HTML IN OUTPUT!! - BeautifulSoup messed up..')"}
+{"address": "0x3b3D0d02F969a7Df9C0Cb99B9a6117778e1322a5", "name": "ContrastFactory", "compiler": "0.8.18", "balance": "0 ETH", "txcount": 0, "settings": "", "date": "6/6/2023", "err": "Exception('HTML IN OUTPUT!! - BeautifulSoup messed up..')"}
