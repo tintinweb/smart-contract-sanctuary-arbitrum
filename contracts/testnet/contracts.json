@@ -23368,3 +23368,30 @@
 {"address": "0x898b792e603d03b87148C91404f64410cb157b26", "name": "ARB", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "6/9/2023"}
 {"address": "0x05EF2119e3Cb111e3cd110012580d7084D4162a5", "name": "ContrastFactory", "compiler": "0.8.18", "balance": "0 ETH", "txcount": 0, "settings": "", "date": "6/7/2023", "err": "Exception('HTML IN OUTPUT!! - BeautifulSoup messed up..')"}
 {"address": "0x3b3D0d02F969a7Df9C0Cb99B9a6117778e1322a5", "name": "ContrastFactory", "compiler": "0.8.18", "balance": "0 ETH", "txcount": 0, "settings": "", "date": "6/6/2023", "err": "Exception('HTML IN OUTPUT!! - BeautifulSoup messed up..')"}
+{"address": "0x7f78703B5Ed5786870Dd405bF0252495BA383C84", "name": "LzNameRegistry", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 4, "settings": "", "date": "6/11/2023"}
+{"address": "0x5d270B192D7B839e56fcc70845903bFA664ce090", "name": "MainTreasury", "compiler": "0.8.18", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/11/2023"}
+{"address": "0xb7A9088FD945e4a6a1A43F8A1322B4c1800BC5C3", "name": "LPStaking", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/11/2023"}
+{"address": "0x1a26479d3A4bb6b3B5d8014dDC0F069174B2A7A9", "name": "MockToken", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/11/2023"}
+{"address": "0xaFd234ba78eb10F7c9C730470679fA07e37450B0", "name": "Staking", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/11/2023"}
+{"address": "0x93797Bc71Ff7964A5d02cfC69FfEE04dFCb5fCAb", "name": "StakingTorque", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/11/2023"}
+{"address": "0x7783c490B6D12E719A4271661D6Eb03539eB9BC9", "name": "Torque", "compiler": "0.8.15", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/11/2023"}
+{"address": "0x8bb4A684577dFC77f55C66a90EdE94458EC364eD", "name": "TokenClaim", "compiler": "0.8.18", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "6/11/2023"}
+{"address": "0x3676750B4258AB6794474eC37Da9d9BB36316F68", "name": "TekkenWager", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 28, "settings": "", "date": "6/10/2023"}
+{"address": "0x43D159bd2988CA883D5569A72535062707E51fa7", "name": "HelloWorld", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "-", "date": "6/10/2023"}
+{"address": "0xae5905E3f3b922E23E86a4FE6F52b31E343F281e", "name": "LefeFighting", "compiler": "0.8.19", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/10/2023"}
+{"address": "0x6bb08583A0ede3a3E532f4f3a0D11B68BB5aE083", "name": "ArbQQNFT", "compiler": "0.8.8", "balance": "0.00002 ETH", "txcount": 5, "settings": "", "date": "6/10/2023"}
+{"address": "0xDEEDe793b1Ca64c74Ae0532e40eE1D09c9e557D6", "name": "ArbQQNFT", "compiler": "0.8.8", "balance": "0.00002 ETH", "txcount": 5, "settings": "", "date": "6/10/2023"}
+{"address": "0xd15b19ca18ae8d0924186792cee3a41b49b1f77a", "name": "Airdrop", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 6, "settings": "", "date": "6/10/2023"}
+{"address": "0x5b6CaCa5A16A6055B4DC75cFedB8eA87329d256E", "name": "PingContract", "compiler": "0.8.20", "balance": "0 ETH", "txcount": 3, "settings": "", "date": "6/10/2023"}
+{"address": "0x3121082beb232abd92e7c337169d9f5285012670", "name": "BeaconProxy", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 4, "settings": "", "date": "6/10/2023"}
+{"address": "0xC4BcF44c0f2FC03887929de68fE1e6c97ecC40E6", "name": "NftMinning", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/10/2023"}
+{"address": "0xCF743322B91dD73937cEb1316C1ebdEfD1b4cF20", "name": "L2MagicCubeMergerVRF", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "6/10/2023"}
+{"address": "0x48838D87AA9776ef3D7dF51d234da816f6609937", "name": "L2UnicornHatcherVRF", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 5, "settings": "", "date": "6/10/2023"}
+{"address": "0x94866e74b0595a4144666cD5c050F57382C8B308", "name": "NftMinning", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/10/2023"}
+{"address": "0x624498472268a4Fb23ff735D46a16f4659c30A14", "name": "L2UnicornEvolutorVRF", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 8, "settings": "", "date": "6/10/2023"}
+{"address": "0x9a40Df2D72bdBee5c404237eE4A6C40Bc916C3ac", "name": "NftMinning", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/10/2023"}
+{"address": "0xa81C44f1B89b5C4909aF136Ef0e77852684Ad4e9", "name": "NftMinning", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/10/2023"}
+{"address": "0xBA3eFCF91B53352a2539D3fED629Cb987E9eB416", "name": "L2UnicornHatcherVRF", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 11, "settings": "", "date": "6/10/2023"}
+{"address": "0xD7f8ecA7f9bbBBbAE0A698cF5A8aa772afB16755", "name": "ArbQQNFT", "compiler": "0.8.8", "balance": "0.00008 ETH", "txcount": 18, "settings": "", "date": "6/10/2023"}
+{"address": "0x0140A3BBa6a0e17803e4B5Ec8718bF19614aB305", "name": "NftMinning", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/10/2023"}
+{"address": "0x05EF2119e3Cb111e3cd110012580d7084D4162a5", "name": "ContrastFactory", "compiler": "0.8.18", "balance": "0 ETH", "txcount": 0, "settings": "", "date": "6/7/2023", "err": "Exception('HTML IN OUTPUT!! - BeautifulSoup messed up..')"}
