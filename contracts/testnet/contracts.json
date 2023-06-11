@@ -23395,3 +23395,4 @@
 {"address": "0xD7f8ecA7f9bbBBbAE0A698cF5A8aa772afB16755", "name": "ArbQQNFT", "compiler": "0.8.8", "balance": "0.00008 ETH", "txcount": 18, "settings": "", "date": "6/10/2023"}
 {"address": "0x0140A3BBa6a0e17803e4B5Ec8718bF19614aB305", "name": "NftMinning", "compiler": "0.8.17", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/10/2023"}
 {"address": "0x05EF2119e3Cb111e3cd110012580d7084D4162a5", "name": "ContrastFactory", "compiler": "0.8.18", "balance": "0 ETH", "txcount": 0, "settings": "", "date": "6/7/2023", "err": "Exception('HTML IN OUTPUT!! - BeautifulSoup messed up..')"}
+{"address": "0x05EF2119e3Cb111e3cd110012580d7084D4162a5", "name": "ContrastFactory", "compiler": "0.8.18", "balance": "0 ETH", "txcount": 0, "settings": "", "date": "6/7/2023", "err": "Exception('HTML IN OUTPUT!! - BeautifulSoup messed up..')"}
