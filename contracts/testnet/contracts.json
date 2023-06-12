@@ -23443,3 +23443,5 @@
 {"address": "0x05bbbb5f1abbf24ee90257985d4e8ffb598e467c", "name": "CraftingChroniclesManager", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/11/2023"}
 {"address": "0x7f59c8ce6dcfd3fdf3587bcfee8d6da21ca25b88", "name": "CraftingChroniclesManager", "compiler": "0.8.10", "balance": "0 ETH", "txcount": 1, "settings": "", "date": "6/11/2023"}
 {"address": "0x05EF2119e3Cb111e3cd110012580d7084D4162a5", "name": "ContrastFactory", "compiler": "0.8.18", "balance": "0 ETH", "txcount": 0, "settings": "", "date": "6/7/2023", "err": "Exception('HTML IN OUTPUT!! - BeautifulSoup messed up..')"}
+{"address": "0xbA046236a0229C0F5E09F5975df2a54827575300", "name": "SHICHIJOCOFFEENFT", "compiler": "0.8.9", "balance": "0 ETH", "txcount": 2, "settings": "", "date": "6/12/2023"}
+{"address": "0x05EF2119e3Cb111e3cd110012580d7084D4162a5", "name": "ContrastFactory", "compiler": "0.8.18", "balance": "0 ETH", "txcount": 0, "settings": "", "date": "6/7/2023", "err": "Exception('HTML IN OUTPUT!! - BeautifulSoup messed up..')"}
