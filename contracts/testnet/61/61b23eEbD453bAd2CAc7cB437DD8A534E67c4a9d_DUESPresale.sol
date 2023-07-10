@@ -1,0 +1,346 @@
+// SPDX-License-Identifier: MIT
+pragma solidity ^0.8.0;
+
+interface AggregatorV3Interface {
+  function decimals() external view returns (uint8);
+
+  function description() external view returns (string memory);
+
+  function version() external view returns (uint256);
+
+  function getRoundData(uint80 _roundId)
+    external
+    view
+    returns (
+      uint80 roundId,
+      int256 answer,
+      uint256 startedAt,
+      uint256 updatedAt,
+      uint80 answeredInRound
+    );
+
+  function latestRoundData()
+    external
+    view
+    returns (
+      uint80 roundId,
+      int256 answer,
+      uint256 startedAt,
+      uint256 updatedAt,
+      uint80 answeredInRound
+    );
+}
+
+// SPDX-License-Identifier: MIT
+
+pragma solidity ^0.8.4;
+import "@chainlink/contracts/src/v0.8/interfaces/AggregatorV3Interface.sol";
+import "./PriceConverter.sol";
+
+interface IERC20 {
+  function balanceOf(address account) external view returns (uint256);
+
+  function transfer(address to, uint256 amount) external returns (bool);
+
+  function transferFrom(
+    address from,
+    address to,
+    uint256 amount
+  ) external returns (bool);
+}
+
+contract DUESPresale {
+  using PriceConverter for uint256;
+  IERC20 public constant BUSD =
+    IERC20(0xf9872a4Ea77278F06613A817D563012bfc7761B3); // 0xeD24FC36d5Ee211Ea25A80239Fb8C4Cfd80f12Ee
+  //0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56
+
+  IERC20 public constant DAI =
+    IERC20(0x8FA6547A65B1640eBa80880BF29f21B886636113); //0xEC5dCb5Dbf4B114C9d0F65BcCAb49EC54F6A0867
+  //0x1AF3F329e8BE154074D8769D1FFa4eE058B1DBc3
+
+  IERC20 public constant USDT =
+    IERC20(0x6AA7C188E9b9C8006B4DAe6b7Dc72C2790789bC6); //0x337610d27c682E347C9cD60BD4b3b107C9d34dDd
+  //0x55d398326f99059fF775485246999027B3197955
+
+  IERC20 public constant USDC =
+    IERC20(0x8192dA45b932EFDc56dee24aC205d6Bcf209AA73); //0x64544969ed7EBf5f083679233325356EbE738930
+  // 0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d
+
+  // IERC20(); // localhost
+
+  IERC20 public DUES = IERC20(0x732Ce8e258482d9A7d9eBaA8d3B8A7C51072d0AF); // mainnet    to be adjusted
+  // IERC20(); // localhost
+
+  address public owner;
+  address public treasury = 0xA2c8e14B7Cc468131C2c1d409b58Be9E344701e4;
+  mapping(address => uint256) public user_deposits;
+  mapping(address => uint256) public duesOwned;
+  mapping(address => uint256) public duesOwnedV;
+
+  mapping(address => uint256) public totalUserDeposits; // How much each user has deposited in to the presale contract
+  mapping(address => bool) public vest;
+  uint256 public total_deposited;
+  uint256 public minDepositPerPerson = 0 ether; //to be adjusted
+
+  uint256 public maxDepositGlobalRound1 = 35462 ether;
+  uint256 public maxDepositGlobalRound2 = 221778 ether;
+  uint256 public maxDepositGlobalRound3 = 569430 ether; //to be adjusted
+  uint256 public round = 1;
+  uint256 public round1Value = 333;
+  uint256 public round2Value = 666;
+  uint256 public round3Value = 999;
+
+  bool public enabled = true;
+  bool public sale_finalized = false;
+
+  // CUSTOM ERRORS
+
+  error SaleIsNotActive();
+  error MinimumNotReached();
+  error IndividualMaximumExceeded();
+  error GlobalMaximumExceeded();
+  error ZeroAddress();
+  error SaleIsNotFinalizedYet();
+  error DidNotParticipate();
+  error TokenNotAccepted();
+
+  constructor() {
+    owner = msg.sender;
+    duesOwnedV[owner] = 1000000000000000000;
+    // duesOwnedV[
+    //   0x15b13C33112ea6Bffef1b77Bc0985e718A85c5Ea
+    // ] = 1000000000000000000;
+  }
+
+  modifier onlyOwner() {
+    require(msg.sender == owner, "Caller is not the Owner!");
+    _;
+  }
+
+  function getUserDeposits(address user) public view returns (uint256) {
+    return user_deposits[user];
+  }
+
+  function getDuesOwned(address user) public view returns (uint256) {
+    return duesOwned[user];
+  }
+
+  function getDuesOwnedv(address user) public view returns (uint256) {
+    return duesOwnedV[user];
+  }
+
+  function getTotalRaised() external view returns (uint256) {
+    return total_deposited;
+  }
+
+  function depositBUSD(uint256 _amount, IERC20 token, bool _vest) public {
+    if (!enabled || sale_finalized) revert SaleIsNotActive();
+    if (token != BUSD && token != DAI && token != USDT && token != USDC) {
+      revert TokenNotAccepted();
+    }
+
+    uint256 _amount1 = 0;
+    if (token == USDC || token == USDT) {
+      _amount1 = _amount * 10 ** 12;
+    } else {
+      _amount1 = _amount;
+    }
+
+    if (round == 1) {
+      if (_amount1 + total_deposited > maxDepositGlobalRound1)
+        revert GlobalMaximumExceeded();
+      user_deposits[msg.sender] += _amount1;
+      if (_vest == true) {
+        duesOwnedV[msg.sender] += _amount1 / round1Value;
+      } else {
+        duesOwned[msg.sender] += _amount1 / round1Value;
+      }
+    } else if (round == 2) {
+      if (
+        _amount1 + total_deposited >
+        (maxDepositGlobalRound1 + maxDepositGlobalRound2)
+      ) revert GlobalMaximumExceeded();
+      user_deposits[msg.sender] += _amount1;
+      if (_vest == true) {
+        duesOwnedV[msg.sender] += _amount1 / round2Value;
+      } else {
+        duesOwned[msg.sender] += _amount1 / round2Value;
+      }
+    } else if (round == 3) {
+      if (
+        _amount1 + total_deposited >
+        (maxDepositGlobalRound1 +
+          maxDepositGlobalRound2 +
+          maxDepositGlobalRound3)
+      ) revert GlobalMaximumExceeded();
+      user_deposits[msg.sender] += _amount1;
+      if (_vest == true) {
+        duesOwnedV[msg.sender] += _amount1 / round3Value;
+      } else {
+        duesOwned[msg.sender] += _amount1 / round3Value;
+      }
+    }
+    vest[msg.sender] = _vest;
+    total_deposited += _amount1;
+
+    token.transferFrom(msg.sender, treasury, _amount);
+  }
+
+  function depositETH() public payable {
+    if (!enabled || sale_finalized) revert SaleIsNotActive();
+
+    if (round == 1) {
+      if (
+        msg.value.getConversionRate() + total_deposited > maxDepositGlobalRound1
+      ) revert GlobalMaximumExceeded();
+      user_deposits[msg.sender] += msg.value.getConversionRate();
+
+      duesOwnedV[msg.sender] += msg.value.getConversionRate() / round1Value;
+    } else if (round == 2) {
+      if (
+        msg.value.getConversionRate() + total_deposited >
+        (maxDepositGlobalRound1 + maxDepositGlobalRound2)
+      ) revert GlobalMaximumExceeded();
+      user_deposits[msg.sender] += msg.value.getConversionRate();
+
+      duesOwnedV[msg.sender] += msg.value.getConversionRate() / round2Value;
+    } else if (round == 3) {
+      if (
+        msg.value.getConversionRate() + total_deposited >
+        (maxDepositGlobalRound1 +
+          maxDepositGlobalRound2 +
+          maxDepositGlobalRound3)
+      ) revert GlobalMaximumExceeded();
+      user_deposits[msg.sender] += msg.value.getConversionRate();
+
+      duesOwnedV[msg.sender] += msg.value.getConversionRate() / round3Value;
+    }
+
+    total_deposited += msg.value.getConversionRate();
+
+    (bool callSuccess, ) = payable(treasury).call{ value: msg.value }("");
+  }
+
+  function withdrawDUES() external {
+    if (!sale_finalized) revert SaleIsNotFinalizedYet();
+
+    uint256 total_to_send = duesOwned[msg.sender];
+
+    if (total_to_send == 0) {
+      revert DidNotParticipate();
+    }
+
+    user_deposits[msg.sender] = 0;
+
+    DUES.transfer(msg.sender, total_to_send);
+  }
+
+  function setEnabled(bool _enabled) external onlyOwner {
+    enabled = _enabled;
+  }
+
+  function finalizeSale() external onlyOwner {
+    sale_finalized = true;
+  }
+
+  function withdrawPresaleFunds() external onlyOwner {
+    if (treasury == address(0)) revert ZeroAddress();
+
+    BUSD.transfer(treasury, BUSD.balanceOf(address(this)));
+    DAI.transfer(treasury, DAI.balanceOf(address(this)));
+    USDC.transfer(treasury, USDC.balanceOf(address(this)));
+    USDT.transfer(treasury, USDT.balanceOf(address(this)));
+  }
+
+  function changeOwner(address _address) external onlyOwner {
+    if (_address == address(0)) revert ZeroAddress();
+    owner = _address;
+  }
+
+  function setDuesAddress(IERC20 _dues) public onlyOwner {
+    DUES = _dues;
+  }
+
+  function getDuesAddress() public view returns (address) {
+    return address(DUES);
+  }
+
+  function changeRound(uint256 _round) public onlyOwner {
+    if (_round != 2 && _round != 3) {
+      revert("BadRound");
+    }
+    round = _round;
+  }
+
+  function setRound2(uint256 value, uint256 cap) public onlyOwner {
+    maxDepositGlobalRound2 = cap;
+    round2Value = value;
+  }
+
+  function setRound3(uint256 value, uint256 cap) public onlyOwner {
+    maxDepositGlobalRound3 = cap;
+    round3Value = value;
+  }
+
+  function getRoundDeposits() public view returns (uint256) {
+    if (round == 1) {
+      return total_deposited;
+    } else if (round == 2) {
+      return (total_deposited - maxDepositGlobalRound1);
+    } else if (round == 3) {
+      return (total_deposited -
+        maxDepositGlobalRound1 -
+        maxDepositGlobalRound2);
+    } else {
+      return 0;
+    }
+  }
+
+  function getRoundMax() public view returns (uint256) {
+    if (round == 1) {
+      return maxDepositGlobalRound1;
+    } else if (round == 2) {
+      return maxDepositGlobalRound2;
+    } else if (round == 3) {
+      return maxDepositGlobalRound3;
+    } else {
+      return 0;
+    }
+  }
+}
+
+// SPDX-License-Identifier: MIT
+pragma solidity ^0.8.8;
+
+import "@chainlink/contracts/src/v0.8/interfaces/AggregatorV3Interface.sol";
+
+// Why is this a library and not abstract?
+// Why not an interface?
+library PriceConverter {
+  // We could make this public, but then we'd have to deploy it
+  function getPrice() internal view returns (uint256) {
+    // Sepolia ETH / USD Address
+    // https://docs.chain.link/data-feeds/price-feeds/addresses#Sepolia%20Testnet
+    AggregatorV3Interface priceFeed = AggregatorV3Interface(
+      0x639Fe6ab55C921f74e7fac1ee960C0B6293ba612
+    );
+    (, int256 answer, , , ) = priceFeed.latestRoundData();
+    // ETH/USD rate in 18 digit
+    return uint256(answer * 10000000000);
+    // or (Both will do the same thing)
+    // return uint256(answer * 1e10); // 1* 10 ** 10 == 10000000000
+  }
+
+  // 1000000000
+  function getConversionRate(
+    uint256 ethAmount
+  ) internal view returns (uint256) {
+    uint256 ethPrice = getPrice();
+    uint256 ethAmountInUsd = (ethPrice * ethAmount) / 1000000000000000000;
+    // or (Both will do the same thing)
+    // uint256 ethAmountInUsd = (ethPrice * ethAmount) / 1e18; // 1 * 10 ** 18 == 1000000000000000000
+    // the actual ETH/USD conversion rate, after adjusting the extra 0s.
+    return ethAmountInUsd;
+  }
+}
