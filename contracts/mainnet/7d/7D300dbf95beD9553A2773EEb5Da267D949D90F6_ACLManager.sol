@@ -1,0 +1,1143 @@
+// SPDX-License-Identifier: MIT
+// OpenZeppelin Contracts (last updated v5.0.0) (access/AccessControl.sol)
+
+pragma solidity ^0.8.20;
+
+import {IAccessControl} from "./IAccessControl.sol";
+import {Context} from "../utils/Context.sol";
+import {ERC165} from "../utils/introspection/ERC165.sol";
+
+/**
+ * @dev Contract module that allows children to implement role-based access
+ * control mechanisms. This is a lightweight version that doesn't allow enumerating role
+ * members except through off-chain means by accessing the contract event logs. Some
+ * applications may benefit from on-chain enumerability, for those cases see
+ * {AccessControlEnumerable}.
+ *
+ * Roles are referred to by their `bytes32` identifier. These should be exposed
+ * in the external API and be unique. The best way to achieve this is by
+ * using `public constant` hash digests:
+ *
+ * ```solidity
+ * bytes32 public constant MY_ROLE = keccak256("MY_ROLE");
+ * ```
+ *
+ * Roles can be used to represent a set of permissions. To restrict access to a
+ * function call, use {hasRole}:
+ *
+ * ```solidity
+ * function foo() public {
+ *     require(hasRole(MY_ROLE, msg.sender));
+ *     ...
+ * }
+ * ```
+ *
+ * Roles can be granted and revoked dynamically via the {grantRole} and
+ * {revokeRole} functions. Each role has an associated admin role, and only
+ * accounts that have a role's admin role can call {grantRole} and {revokeRole}.
+ *
+ * By default, the admin role for all roles is `DEFAULT_ADMIN_ROLE`, which means
+ * that only accounts with this role will be able to grant or revoke other
+ * roles. More complex role relationships can be created by using
+ * {_setRoleAdmin}.
+ *
+ * WARNING: The `DEFAULT_ADMIN_ROLE` is also its own admin: it has permission to
+ * grant and revoke this role. Extra precautions should be taken to secure
+ * accounts that have been granted it. We recommend using {AccessControlDefaultAdminRules}
+ * to enforce additional security measures for this role.
+ */
+abstract contract AccessControl is Context, IAccessControl, ERC165 {
+    struct RoleData {
+        mapping(address account => bool) hasRole;
+        bytes32 adminRole;
+    }
+
+    mapping(bytes32 role => RoleData) private _roles;
+
+    bytes32 public constant DEFAULT_ADMIN_ROLE = 0x00;
+
+    /**
+     * @dev Modifier that checks that an account has a specific role. Reverts
+     * with an {AccessControlUnauthorizedAccount} error including the required role.
+     */
+    modifier onlyRole(bytes32 role) {
+        _checkRole(role);
+        _;
+    }
+
+    /**
+     * @dev See {IERC165-supportsInterface}.
+     */
+    function supportsInterface(bytes4 interfaceId) public view virtual override returns (bool) {
+        return interfaceId == type(IAccessControl).interfaceId || super.supportsInterface(interfaceId);
+    }
+
+    /**
+     * @dev Returns `true` if `account` has been granted `role`.
+     */
+    function hasRole(bytes32 role, address account) public view virtual returns (bool) {
+        return _roles[role].hasRole[account];
+    }
+
+    /**
+     * @dev Reverts with an {AccessControlUnauthorizedAccount} error if `_msgSender()`
+     * is missing `role`. Overriding this function changes the behavior of the {onlyRole} modifier.
+     */
+    function _checkRole(bytes32 role) internal view virtual {
+        _checkRole(role, _msgSender());
+    }
+
+    /**
+     * @dev Reverts with an {AccessControlUnauthorizedAccount} error if `account`
+     * is missing `role`.
+     */
+    function _checkRole(bytes32 role, address account) internal view virtual {
+        if (!hasRole(role, account)) {
+            revert AccessControlUnauthorizedAccount(account, role);
+        }
+    }
+
+    /**
+     * @dev Returns the admin role that controls `role`. See {grantRole} and
+     * {revokeRole}.
+     *
+     * To change a role's admin, use {_setRoleAdmin}.
+     */
+    function getRoleAdmin(bytes32 role) public view virtual returns (bytes32) {
+        return _roles[role].adminRole;
+    }
+
+    /**
+     * @dev Grants `role` to `account`.
+     *
+     * If `account` had not been already granted `role`, emits a {RoleGranted}
+     * event.
+     *
+     * Requirements:
+     *
+     * - the caller must have ``role``'s admin role.
+     *
+     * May emit a {RoleGranted} event.
+     */
+    function grantRole(bytes32 role, address account) public virtual onlyRole(getRoleAdmin(role)) {
+        _grantRole(role, account);
+    }
+
+    /**
+     * @dev Revokes `role` from `account`.
+     *
+     * If `account` had been granted `role`, emits a {RoleRevoked} event.
+     *
+     * Requirements:
+     *
+     * - the caller must have ``role``'s admin role.
+     *
+     * May emit a {RoleRevoked} event.
+     */
+    function revokeRole(bytes32 role, address account) public virtual onlyRole(getRoleAdmin(role)) {
+        _revokeRole(role, account);
+    }
+
+    /**
+     * @dev Revokes `role` from the calling account.
+     *
+     * Roles are often managed via {grantRole} and {revokeRole}: this function's
+     * purpose is to provide a mechanism for accounts to lose their privileges
+     * if they are compromised (such as when a trusted device is misplaced).
+     *
+     * If the calling account had been revoked `role`, emits a {RoleRevoked}
+     * event.
+     *
+     * Requirements:
+     *
+     * - the caller must be `callerConfirmation`.
+     *
+     * May emit a {RoleRevoked} event.
+     */
+    function renounceRole(bytes32 role, address callerConfirmation) public virtual {
+        if (callerConfirmation != _msgSender()) {
+            revert AccessControlBadConfirmation();
+        }
+
+        _revokeRole(role, callerConfirmation);
+    }
+
+    /**
+     * @dev Sets `adminRole` as ``role``'s admin role.
+     *
+     * Emits a {RoleAdminChanged} event.
+     */
+    function _setRoleAdmin(bytes32 role, bytes32 adminRole) internal virtual {
+        bytes32 previousAdminRole = getRoleAdmin(role);
+        _roles[role].adminRole = adminRole;
+        emit RoleAdminChanged(role, previousAdminRole, adminRole);
+    }
+
+    /**
+     * @dev Attempts to grant `role` to `account` and returns a boolean indicating if `role` was granted.
+     *
+     * Internal function without access restriction.
+     *
+     * May emit a {RoleGranted} event.
+     */
+    function _grantRole(bytes32 role, address account) internal virtual returns (bool) {
+        if (!hasRole(role, account)) {
+            _roles[role].hasRole[account] = true;
+            emit RoleGranted(role, account, _msgSender());
+            return true;
+        } else {
+            return false;
+        }
+    }
+
+    /**
+     * @dev Attempts to revoke `role` to `account` and returns a boolean indicating if `role` was revoked.
+     *
+     * Internal function without access restriction.
+     *
+     * May emit a {RoleRevoked} event.
+     */
+    function _revokeRole(bytes32 role, address account) internal virtual returns (bool) {
+        if (hasRole(role, account)) {
+            _roles[role].hasRole[account] = false;
+            emit RoleRevoked(role, account, _msgSender());
+            return true;
+        } else {
+            return false;
+        }
+    }
+}
+
+// SPDX-License-Identifier: MIT
+// OpenZeppelin Contracts (last updated v5.0.0) (access/IAccessControl.sol)
+
+pragma solidity ^0.8.20;
+
+/**
+ * @dev External interface of AccessControl declared to support ERC165 detection.
+ */
+interface IAccessControl {
+    /**
+     * @dev The `account` is missing a role.
+     */
+    error AccessControlUnauthorizedAccount(address account, bytes32 neededRole);
+
+    /**
+     * @dev The caller of a function is not the expected one.
+     *
+     * NOTE: Don't confuse with {AccessControlUnauthorizedAccount}.
+     */
+    error AccessControlBadConfirmation();
+
+    /**
+     * @dev Emitted when `newAdminRole` is set as ``role``'s admin role, replacing `previousAdminRole`
+     *
+     * `DEFAULT_ADMIN_ROLE` is the starting admin for all roles, despite
+     * {RoleAdminChanged} not being emitted signaling this.
+     */
+    event RoleAdminChanged(bytes32 indexed role, bytes32 indexed previousAdminRole, bytes32 indexed newAdminRole);
+
+    /**
+     * @dev Emitted when `account` is granted `role`.
+     *
+     * `sender` is the account that originated the contract call, an admin role
+     * bearer except when using {AccessControl-_setupRole}.
+     */
+    event RoleGranted(bytes32 indexed role, address indexed account, address indexed sender);
+
+    /**
+     * @dev Emitted when `account` is revoked `role`.
+     *
+     * `sender` is the account that originated the contract call:
+     *   - if using `revokeRole`, it is the admin role bearer
+     *   - if using `renounceRole`, it is the role bearer (i.e. `account`)
+     */
+    event RoleRevoked(bytes32 indexed role, address indexed account, address indexed sender);
+
+    /**
+     * @dev Returns `true` if `account` has been granted `role`.
+     */
+    function hasRole(bytes32 role, address account) external view returns (bool);
+
+    /**
+     * @dev Returns the admin role that controls `role`. See {grantRole} and
+     * {revokeRole}.
+     *
+     * To change a role's admin, use {AccessControl-_setRoleAdmin}.
+     */
+    function getRoleAdmin(bytes32 role) external view returns (bytes32);
+
+    /**
+     * @dev Grants `role` to `account`.
+     *
+     * If `account` had not been already granted `role`, emits a {RoleGranted}
+     * event.
+     *
+     * Requirements:
+     *
+     * - the caller must have ``role``'s admin role.
+     */
+    function grantRole(bytes32 role, address account) external;
+
+    /**
+     * @dev Revokes `role` from `account`.
+     *
+     * If `account` had been granted `role`, emits a {RoleRevoked} event.
+     *
+     * Requirements:
+     *
+     * - the caller must have ``role``'s admin role.
+     */
+    function revokeRole(bytes32 role, address account) external;
+
+    /**
+     * @dev Revokes `role` from the calling account.
+     *
+     * Roles are often managed via {grantRole} and {revokeRole}: this function's
+     * purpose is to provide a mechanism for accounts to lose their privileges
+     * if they are compromised (such as when a trusted device is misplaced).
+     *
+     * If the calling account had been granted `role`, emits a {RoleRevoked}
+     * event.
+     *
+     * Requirements:
+     *
+     * - the caller must be `callerConfirmation`.
+     */
+    function renounceRole(bytes32 role, address callerConfirmation) external;
+}
+
+// SPDX-License-Identifier: MIT
+// OpenZeppelin Contracts (last updated v5.0.1) (utils/Context.sol)
+
+pragma solidity ^0.8.20;
+
+/**
+ * @dev Provides information about the current execution context, including the
+ * sender of the transaction and its data. While these are generally available
+ * via msg.sender and msg.data, they should not be accessed in such a direct
+ * manner, since when dealing with meta-transactions the account sending and
+ * paying for execution may not be the actual sender (as far as an application
+ * is concerned).
+ *
+ * This contract is only required for intermediate, library-like contracts.
+ */
+abstract contract Context {
+    function _msgSender() internal view virtual returns (address) {
+        return msg.sender;
+    }
+
+    function _msgData() internal view virtual returns (bytes calldata) {
+        return msg.data;
+    }
+
+    function _contextSuffixLength() internal view virtual returns (uint256) {
+        return 0;
+    }
+}
+
+// SPDX-License-Identifier: MIT
+// OpenZeppelin Contracts (last updated v5.0.0) (utils/introspection/ERC165.sol)
+
+pragma solidity ^0.8.20;
+
+import {IERC165} from "./IERC165.sol";
+
+/**
+ * @dev Implementation of the {IERC165} interface.
+ *
+ * Contracts that want to implement ERC165 should inherit from this contract and override {supportsInterface} to check
+ * for the additional interface id that will be supported. For example:
+ *
+ * ```solidity
+ * function supportsInterface(bytes4 interfaceId) public view virtual override returns (bool) {
+ *     return interfaceId == type(MyInterface).interfaceId || super.supportsInterface(interfaceId);
+ * }
+ * ```
+ */
+abstract contract ERC165 is IERC165 {
+    /**
+     * @dev See {IERC165-supportsInterface}.
+     */
+    function supportsInterface(bytes4 interfaceId) public view virtual returns (bool) {
+        return interfaceId == type(IERC165).interfaceId;
+    }
+}
+
+// SPDX-License-Identifier: MIT
+// OpenZeppelin Contracts (last updated v5.0.0) (utils/introspection/IERC165.sol)
+
+pragma solidity ^0.8.20;
+
+/**
+ * @dev Interface of the ERC165 standard, as defined in the
+ * https://eips.ethereum.org/EIPS/eip-165[EIP].
+ *
+ * Implementers can declare support of contract interfaces, which can then be
+ * queried by others ({ERC165Checker}).
+ *
+ * For an implementation, see {ERC165}.
+ */
+interface IERC165 {
+    /**
+     * @dev Returns true if this contract implements the interface defined by
+     * `interfaceId`. See the corresponding
+     * https://eips.ethereum.org/EIPS/eip-165#how-interfaces-are-identified[EIP section]
+     * to learn more about how these ids are created.
+     *
+     * This function call must use less than 30 000 gas.
+     */
+    function supportsInterface(bytes4 interfaceId) external view returns (bool);
+}
+
+// SPDX-License-Identifier: AGPL-3.0
+pragma solidity 0.8.24;
+
+import {IPoolAddressesProvider} from "./IPoolAddressesProvider.sol";
+
+/**
+ * @title IACLManager
+ * @author maneki.finance
+ * @notice Defines the basic interface for the ACL Manager
+ */
+interface IACLManager {
+    /**
+     * @notice Returns the contract address of the PoolAddressesProvider
+     * @return The address of the PoolAddressesProvider
+     */
+    function ADDRESSES_PROVIDER()
+        external
+        view
+        returns (IPoolAddressesProvider);
+
+    /**
+     * @notice Returns the identifier of the PoolAdmin role
+     * @return The id of the PoolAdmin role
+     */
+    function POOL_ADMIN_ROLE() external view returns (bytes32);
+
+    /**
+     * @notice Returns the identifier of the EmergencyAdmin role
+     * @return The id of the EmergencyAdmin role
+     */
+    function EMERGENCY_ADMIN_ROLE() external view returns (bytes32);
+
+    /**
+     * @notice Returns the identifier of the RiskAdmin role
+     * @return The id of the RiskAdmin role
+     */
+    function RISK_ADMIN_ROLE() external view returns (bytes32);
+
+    /**
+     * @notice Returns the identifier of the FlashBorrower role
+     * @return The id of the FlashBorrower role
+     */
+    function FLASH_BORROWER_ROLE() external view returns (bytes32);
+
+    /**
+     * @notice Returns the identifier of the Bridge role
+     * @return The id of the Bridge role
+     */
+    function BRIDGE_ROLE() external view returns (bytes32);
+
+    /**
+     * @notice Returns the identifier of the AssetListingAdmin role
+     * @return The id of the AssetListingAdmin role
+     */
+    function ASSET_LISTING_ADMIN_ROLE() external view returns (bytes32);
+
+    /**
+     * @notice Set the role as admin of a specific role.
+     * @dev By default the admin role for all roles is `DEFAULT_ADMIN_ROLE`.
+     * @param role The role to be managed by the admin role
+     * @param adminRole The admin role
+     */
+    function setRoleAdmin(bytes32 role, bytes32 adminRole) external;
+
+    /**
+     * @notice Adds a new admin as PoolAdmin
+     * @param admin The address of the new admin
+     */
+    function addPoolAdmin(address admin) external;
+
+    /**
+     * @notice Removes an admin as PoolAdmin
+     * @param admin The address of the admin to remove
+     */
+    function removePoolAdmin(address admin) external;
+
+    /**
+     * @notice Returns true if the address is PoolAdmin, false otherwise
+     * @param admin The address to check
+     * @return True if the given address is PoolAdmin, false otherwise
+     */
+    function isPoolAdmin(address admin) external view returns (bool);
+
+    /**
+     * @notice Adds a new admin as EmergencyAdmin
+     * @param admin The address of the new admin
+     */
+    function addEmergencyAdmin(address admin) external;
+
+    /**
+     * @notice Removes an admin as EmergencyAdmin
+     * @param admin The address of the admin to remove
+     */
+    function removeEmergencyAdmin(address admin) external;
+
+    /**
+     * @notice Returns true if the address is EmergencyAdmin, false otherwise
+     * @param admin The address to check
+     * @return True if the given address is EmergencyAdmin, false otherwise
+     */
+    function isEmergencyAdmin(address admin) external view returns (bool);
+
+    /**
+     * @notice Adds a new admin as RiskAdmin
+     * @param admin The address of the new admin
+     */
+    function addRiskAdmin(address admin) external;
+
+    /**
+     * @notice Removes an admin as RiskAdmin
+     * @param admin The address of the admin to remove
+     */
+    function removeRiskAdmin(address admin) external;
+
+    /**
+     * @notice Returns true if the address is RiskAdmin, false otherwise
+     * @param admin The address to check
+     * @return True if the given address is RiskAdmin, false otherwise
+     */
+    function isRiskAdmin(address admin) external view returns (bool);
+
+    /**
+     * @notice Adds a new address as FlashBorrower
+     * @param borrower The address of the new FlashBorrower
+     */
+    function addFlashBorrower(address borrower) external;
+
+    /**
+     * @notice Removes an address as FlashBorrower
+     * @param borrower The address of the FlashBorrower to remove
+     */
+    function removeFlashBorrower(address borrower) external;
+
+    /**
+     * @notice Returns true if the address is FlashBorrower, false otherwise
+     * @param borrower The address to check
+     * @return True if the given address is FlashBorrower, false otherwise
+     */
+    function isFlashBorrower(address borrower) external view returns (bool);
+
+    /**
+     * @notice Adds a new address as Bridge
+     * @param bridge The address of the new Bridge
+     */
+    function addBridge(address bridge) external;
+
+    /**
+     * @notice Removes an address as Bridge
+     * @param bridge The address of the bridge to remove
+     */
+    function removeBridge(address bridge) external;
+
+    /**
+     * @notice Returns true if the address is Bridge, false otherwise
+     * @param bridge The address to check
+     * @return True if the given address is Bridge, false otherwise
+     */
+    function isBridge(address bridge) external view returns (bool);
+
+    /**
+     * @notice Adds a new admin as AssetListingAdmin
+     * @param admin The address of the new admin
+     */
+    function addAssetListingAdmin(address admin) external;
+
+    /**
+     * @notice Removes an admin as AssetListingAdmin
+     * @param admin The address of the admin to remove
+     */
+    function removeAssetListingAdmin(address admin) external;
+
+    /**
+     * @notice Returns true if the address is AssetListingAdmin, false otherwise
+     * @param admin The address to check
+     * @return True if the given address is AssetListingAdmin, false otherwise
+     */
+    function isAssetListingAdmin(address admin) external view returns (bool);
+}
+
+// SPDX-License-Identifier: AGPL-3.0
+pragma solidity 0.8.24;
+
+/**
+ * @title   IPoolAddressesProvider
+ * @author  maneki.finance
+ * @notice  Defines the basic interface for a Pool Addresses Provider
+ * @dev     Based on AaveV3's IPoolAddressesProvider
+ */
+interface IPoolAddressesProvider {
+    /**
+     * @dev     Emitted when the market identifier is updated.
+     * @param   oldMarketId The old id of the market
+     * @param   newMarketId The new id of the market
+     */
+    event MarketIdSet(string indexed oldMarketId, string indexed newMarketId);
+
+    /**
+     * @dev     Emitted when the pool is updated.
+     * @param   oldAddress The old address of the Pool
+     * @param   newAddress The new address of the Pool
+     */
+    event PoolUpdated(address indexed oldAddress, address indexed newAddress);
+
+    /**
+     * @dev     Emitted when the pool configurator is updated.
+     * @param   oldAddress The old address of the PoolConfigurator
+     * @param   newAddress The new address of the PoolConfigurator
+     */
+    event PoolConfiguratorUpdated(
+        address indexed oldAddress,
+        address indexed newAddress
+    );
+
+    /**
+     * @dev     Emitted when the price oracle is updated.
+     * @param   oldAddress The old address of the PriceOracle
+     * @param   newAddress The new address of the PriceOracle
+     */
+    event PriceOracleUpdated(
+        address indexed oldAddress,
+        address indexed newAddress
+    );
+
+    /**
+     * @dev     Emitted when the ACL manager is updated.
+     * @param   oldAddress The old address of the ACLManager
+     * @param   newAddress The new address of the ACLManager
+     */
+    event ACLManagerUpdated(
+        address indexed oldAddress,
+        address indexed newAddress
+    );
+
+    /**
+     * @dev     Emitted when the ACL admin is updated.
+     * @param   oldAddress The old address of the ACLAdmin
+     * @param   newAddress The new address of the ACLAdmin
+     */
+    event ACLAdminUpdated(
+        address indexed oldAddress,
+        address indexed newAddress
+    );
+
+    /**
+     * @dev     Emitted when the price oracle sentinel is updated.
+     * @param   oldAddress The old address of the PriceOracleSentinel
+     * @param   newAddress The new address of the PriceOracleSentinel
+     */
+    event PriceOracleSentinelUpdated(
+        address indexed oldAddress,
+        address indexed newAddress
+    );
+
+    /**
+     * @dev     Emitted when the pool data provider is updated.
+     * @param   oldAddress The old address of the PoolDataProvider
+     * @param   newAddress The new address of the PoolDataProvider
+     */
+    event PoolDataProviderUpdated(
+        address indexed oldAddress,
+        address indexed newAddress
+    );
+
+    /**
+     * @dev     Emitted when a new proxy is created.
+     * @param   id The identifier of the proxy
+     * @param   proxyAddress The address of the created proxy contract
+     * @param   implementationAddress The address of the implementation contract
+     */
+    event ProxyCreated(
+        bytes32 indexed id,
+        address indexed proxyAddress,
+        address indexed implementationAddress
+    );
+
+    /**
+     * @dev     Emitted when a new non-proxied contract address is registered.
+     * @param   id The identifier of the contract
+     * @param   oldAddress The address of the old contract
+     * @param   newAddress The address of the new contract
+     */
+    event AddressSet(
+        bytes32 indexed id,
+        address indexed oldAddress,
+        address indexed newAddress
+    );
+
+    /**
+     * @dev     Emitted when the implementation of the proxy registered with id is updated
+     * @param   id The identifier of the contract
+     * @param   proxyAddress The address of the proxy contract
+     * @param   oldImplementationAddress The address of the old implementation contract
+     * @param   newImplementationAddress The address of the new implementation contract
+     */
+    event AddressSetAsProxy(
+        bytes32 indexed id,
+        address indexed proxyAddress,
+        address oldImplementationAddress,
+        address indexed newImplementationAddress
+    );
+
+    /**
+     * @notice  Returns the id of the Maneki market to which this contract points to.
+     * @return  The market id
+     */
+    function getMarketId() external view returns (string memory);
+
+    /**
+     * @notice  Associates an id with a specific PoolAddressesProvider.
+     * @dev     This can be used to create an onchain registry of PoolAddressesProviders to
+     *          identify and validate multiple Maneki markets.
+     * @param newMarketId The market id
+     */
+    function setMarketId(string calldata newMarketId) external;
+
+    /**
+     * @notice  Returns an address by its identifier.
+     * @dev     The returned address might be an EOA or a contract, potentially proxied
+     * @dev     It returns ZERO if there is no registered address with the given id
+     * @param   id The id
+     * @return  The address of the registered for the specified id
+     */
+    function getAddress(bytes32 id) external view returns (address);
+
+    /**
+     * @notice  General function to update the implementation of a proxy registered with
+     *          certain `id`. If there is no proxy registered, it will instantiate one and
+     *          set as implementation the `newImplementationAddress`.
+     * @dev     IMPORTANT Use this function carefully, only for ids that don't have an explicit
+     *          setter function, in order to avoid unexpected consequences
+     * @param   id The id
+     * @param   newImplementationAddress The address of the new implementation
+     */
+    function setAddressAsProxy(
+        bytes32 id,
+        address newImplementationAddress
+    ) external;
+
+    /**
+     * @notice  Sets an address for an id replacing the address saved in the addresses map.
+     * @dev     IMPORTANT Use this function carefully, as it will do a hard replacement
+     * @param   id The id
+     * @param   newAddress The address to set
+     */
+    function setAddress(bytes32 id, address newAddress) external;
+
+    /**
+     * @notice  Returns the address of the Pool proxy.
+     * @return  The Pool proxy address
+     */
+    function getPool() external view returns (address);
+
+    /**
+     * @notice  Updates the implementation of the Pool, or creates a proxy
+     *          setting the new `pool` implementation when the function is called for the first time.
+     * @param   newPoolImpl The new Pool implementation
+     */
+    function setPoolImpl(address newPoolImpl) external;
+
+    /**
+     * @notice  Returns the address of the PoolConfigurator proxy.
+     * @return  The PoolConfigurator proxy address
+     */
+    function getPoolConfigurator() external view returns (address);
+
+    /**
+     * @notice  Updates the implementation of the PoolConfigurator, or creates a proxy
+     *          setting the new `PoolConfigurator` implementation when the function is called for the first time.
+     * @param   newPoolConfiguratorImpl The new PoolConfigurator implementation
+     */
+    function setPoolConfiguratorImpl(address newPoolConfiguratorImpl) external;
+
+    /**
+     * @notice  Returns the address of the price oracle.
+     * @return  The address of the PriceOracle
+     */
+    function getPriceOracle() external view returns (address);
+
+    /**
+     * @notice  Updates the address of the price oracle.
+     * @param   newPriceOracle The address of the new PriceOracle
+     */
+    function setPriceOracle(address newPriceOracle) external;
+
+    /**
+     * @notice  Returns the address of the ACL manager.
+     * @return  The address of the ACLManager
+     */
+    function getACLManager() external view returns (address);
+
+    /**
+     * @notice  Updates the address of the ACL manager.
+     * @param   newAclManager The address of the new ACLManager
+     */
+    function setACLManager(address newAclManager) external;
+
+    /**
+     * @notice  Returns the address of the ACL admin.
+     * @return  The address of the ACL admin
+     */
+    function getACLAdmin() external view returns (address);
+
+    /**
+     * @notice  Updates the address of the ACL admin.
+     * @param   newAclAdmin The address of the new ACL admin
+     */
+    function setACLAdmin(address newAclAdmin) external;
+
+    /**
+     * @notice  Returns the address of the price oracle sentinel.
+     * @return  The address of the PriceOracleSentinel
+     */
+    function getPriceOracleSentinel() external view returns (address);
+
+    /**
+     * @notice  Updates the address of the price oracle sentinel.
+     * @param   newPriceOracleSentinel The address of the new PriceOracleSentinel
+     */
+    function setPriceOracleSentinel(address newPriceOracleSentinel) external;
+
+    /**
+     * @notice  Returns the address of the data provider.
+     * @return  The address of the DataProvider
+     */
+    function getPoolDataProvider() external view returns (address);
+
+    /**
+     * @notice  Updates the address of the data provider.
+     * @param   newDataProvider The address of the new DataProvider
+     */
+    function setPoolDataProvider(address newDataProvider) external;
+}
+
+// SPDX-License-Identifier: BUSL-1.1
+pragma solidity 0.8.24;
+
+import {AccessControl} from "@openzeppelin/contracts/access/AccessControl.sol";
+import {IPoolAddressesProvider} from "../../interfaces/IPoolAddressesProvider.sol";
+import {IACLManager} from "../../interfaces/IACLManager.sol";
+import {Errors} from "../libraries/helpers/Errors.sol";
+
+/**
+ * @title ACLManager
+ * @author maneki.finance
+ * @notice Access Control List Manager. Main registry of system roles and permissions.
+ */
+contract ACLManager is AccessControl, IACLManager {
+    bytes32 public constant override POOL_ADMIN_ROLE = keccak256("POOL_ADMIN");
+    bytes32 public constant override EMERGENCY_ADMIN_ROLE =
+        keccak256("EMERGENCY_ADMIN");
+    bytes32 public constant override RISK_ADMIN_ROLE = keccak256("RISK_ADMIN");
+    bytes32 public constant override FLASH_BORROWER_ROLE =
+        keccak256("FLASH_BORROWER");
+    bytes32 public constant override BRIDGE_ROLE = keccak256("BRIDGE");
+    bytes32 public constant override ASSET_LISTING_ADMIN_ROLE =
+        keccak256("ASSET_LISTING_ADMIN");
+
+    IPoolAddressesProvider public immutable ADDRESSES_PROVIDER;
+
+    /**
+     * @dev Constructor
+     * @dev The ACL admin should be initialized at the addressesProvider beforehand
+     * @param provider The address of the PoolAddressesProvider
+     */
+    constructor(IPoolAddressesProvider provider) {
+        ADDRESSES_PROVIDER = provider;
+        address aclAdmin = provider.getACLAdmin();
+        require(aclAdmin != address(0), Errors.ACL_ADMIN_CANNOT_BE_ZERO);
+        _grantRole(DEFAULT_ADMIN_ROLE, aclAdmin);
+    }
+
+    /// @inheritdoc IACLManager
+    function setRoleAdmin(
+        bytes32 role,
+        bytes32 adminRole
+    ) external override onlyRole(DEFAULT_ADMIN_ROLE) {
+        _setRoleAdmin(role, adminRole);
+    }
+
+    /// @inheritdoc IACLManager
+    function addPoolAdmin(address admin) external override {
+        grantRole(POOL_ADMIN_ROLE, admin);
+    }
+
+    /// @inheritdoc IACLManager
+    function removePoolAdmin(address admin) external override {
+        revokeRole(POOL_ADMIN_ROLE, admin);
+    }
+
+    /// @inheritdoc IACLManager
+    function isPoolAdmin(address admin) external view override returns (bool) {
+        return hasRole(POOL_ADMIN_ROLE, admin);
+    }
+
+    /// @inheritdoc IACLManager
+    function addEmergencyAdmin(address admin) external override {
+        grantRole(EMERGENCY_ADMIN_ROLE, admin);
+    }
+
+    /// @inheritdoc IACLManager
+    function removeEmergencyAdmin(address admin) external override {
+        revokeRole(EMERGENCY_ADMIN_ROLE, admin);
+    }
+
+    /// @inheritdoc IACLManager
+    function isEmergencyAdmin(
+        address admin
+    ) external view override returns (bool) {
+        return hasRole(EMERGENCY_ADMIN_ROLE, admin);
+    }
+
+    /// @inheritdoc IACLManager
+    function addRiskAdmin(address admin) external override {
+        grantRole(RISK_ADMIN_ROLE, admin);
+    }
+
+    /// @inheritdoc IACLManager
+    function removeRiskAdmin(address admin) external override {
+        revokeRole(RISK_ADMIN_ROLE, admin);
+    }
+
+    /// @inheritdoc IACLManager
+    function isRiskAdmin(address admin) external view override returns (bool) {
+        return hasRole(RISK_ADMIN_ROLE, admin);
+    }
+
+    /// @inheritdoc IACLManager
+    function addFlashBorrower(address borrower) external override {
+        grantRole(FLASH_BORROWER_ROLE, borrower);
+    }
+
+    /// @inheritdoc IACLManager
+    function removeFlashBorrower(address borrower) external override {
+        revokeRole(FLASH_BORROWER_ROLE, borrower);
+    }
+
+    /// @inheritdoc IACLManager
+    function isFlashBorrower(
+        address borrower
+    ) external view override returns (bool) {
+        return hasRole(FLASH_BORROWER_ROLE, borrower);
+    }
+
+    /// @inheritdoc IACLManager
+    function addBridge(address bridge) external override {
+        grantRole(BRIDGE_ROLE, bridge);
+    }
+
+    /// @inheritdoc IACLManager
+    function removeBridge(address bridge) external override {
+        revokeRole(BRIDGE_ROLE, bridge);
+    }
+
+    /// @inheritdoc IACLManager
+    function isBridge(address bridge) external view override returns (bool) {
+        return hasRole(BRIDGE_ROLE, bridge);
+    }
+
+    /// @inheritdoc IACLManager
+    function addAssetListingAdmin(address admin) external override {
+        grantRole(ASSET_LISTING_ADMIN_ROLE, admin);
+    }
+
+    /// @inheritdoc IACLManager
+    function removeAssetListingAdmin(address admin) external override {
+        revokeRole(ASSET_LISTING_ADMIN_ROLE, admin);
+    }
+
+    /// @inheritdoc IACLManager
+    function isAssetListingAdmin(
+        address admin
+    ) external view override returns (bool) {
+        return hasRole(ASSET_LISTING_ADMIN_ROLE, admin);
+    }
+}
+
+// SPDX-License-Identifier: BUSL-1.1
+pragma solidity 0.8.24;
+
+/**
+ * @title   Errors library
+ * @author  maneki.finance
+ * @notice  Defines the error messages emitted by the different contracts of the Aave protocol
+ * @dev     Based on AaveV3's Errors.sol
+ */
+library Errors {
+    string public constant CALLER_NOT_POOL_ADMIN = "Caller not Pool Admin";
+    string public constant CALLER_NOT_EMERGENCY_ADMIN =
+        "Caller not Emergency Admin";
+    string public constant CALLER_NOT_POOL_OR_EMERGENCY_ADMIN =
+        "Caller not Pool or Emergency Admin";
+    string public constant CALLER_NOT_RISK_OR_POOL_ADMIN =
+        "Caller not Risk or Pool Admin";
+    string public constant CALLER_NOT_ASSET_LISTING_OR_POOL_ADMIN =
+        "Caller not Asset Listing or Pool Admin";
+    string public constant CALLER_NOT_BRIDGE = "Caller not Bridge";
+    string public constant ADDRESSES_PROVIDER_NOT_REGISTERED =
+        "Pool Addresses Provider not registered";
+    string public constant INVALID_ADDRESSES_PROVIDER_ID =
+        "Invalid Pool Addresses Provider ID";
+    string public constant NOT_CONTRACT = "Address is not a contract";
+    string public constant CALLER_NOT_POOL_CONFIGURATOR =
+        "Caller not Pool Configurator";
+    string public constant CALLER_NOT_ATOKEN = "Caller not MToken";
+    string public constant INVALID_ADDRESSES_PROVIDER =
+        "Invalid Pool Addresses Provider address";
+    string public constant INVALID_FLASHLOAN_EXECUTOR_RETURN =
+        "Invalid flashloan executor return value";
+    string public constant RESERVE_ALREADY_ADDED = "Reserve already added";
+    string public constant NO_MORE_RESERVES_ALLOWED =
+        "Maximum amount of reserves reached";
+    string public constant EMODE_CATEGORY_RESERVED =
+        "Zero eMode category is reserved for volatile heterogeneous assets";
+    string public constant INVALID_EMODE_CATEGORY_ASSIGNMENT =
+        "Invalid eMode category assignment to asset";
+    string public constant RESERVE_LIQUIDITY_NOT_ZERO =
+        "The liquidity of the reserve needs to be 0";
+    string public constant FLASHLOAN_PREMIUM_INVALID =
+        "Invalid flashloan premium";
+    string public constant INVALID_RESERVE_PARAMS =
+        "Invalid risk parameters for the reserve";
+    string public constant INVALID_EMODE_CATEGORY_PARAMS =
+        "Invalid risk parameters for the eMode category";
+    string public constant BRIDGE_PROTOCOL_FEE_INVALID =
+        "Invalid bridge protocol fee";
+    string public constant CALLER_MUST_BE_POOL =
+        "The caller of this function must be a pool";
+    string public constant INVALID_MINT_AMOUNT = "Invalid amount to mint";
+    string public constant INVALID_BURN_AMOUNT = "Invalid amount to burn";
+    string public constant INVALID_AMOUNT = "Amount must be greater than 0";
+    string public constant RESERVE_INACTIVE =
+        "Action requires an active reserve";
+    string public constant RESERVE_FROZEN = "Reserve is frozen";
+    string public constant RESERVE_PAUSED = "Reserve is paused";
+    string public constant BORROWING_NOT_ENABLED = "Borrowing is not enabled";
+    string public constant STABLE_BORROWING_NOT_ENABLED =
+        "Stable borrowing not enabled";
+    string public constant NOT_ENOUGH_AVAILABLE_USER_BALANCE =
+        "Cannot withdraw more than available user balance";
+    string public constant INVALID_INTEREST_RATE_MODE_SELECTED =
+        "Invalid interest rate mode";
+    string public constant COLLATERAL_BALANCE_IS_ZERO =
+        "The collateral balance is 0";
+    string public constant HEALTH_FACTOR_LOWER_THAN_LIQUIDATION_THRESHOLD =
+        "Health factor is lesser than the liquidation threshold";
+    string public constant COLLATERAL_CANNOT_COVER_NEW_BORROW =
+        "Not enough collateral to cover new borrow";
+    string public constant COLLATERAL_SAME_AS_BORROWING_CURRENCY =
+        "Collateral is (mostly) the same currency that is being borrowed";
+    string public constant AMOUNT_BIGGER_THAN_MAX_LOAN_SIZE_STABLE =
+        "Amount is greater than the max loan size in stable rate mode'";
+    string public constant NO_DEBT_OF_SELECTED_TYPE =
+        "User does not have debt on selected reserve to repay";
+    string public constant NO_EXPLICIT_AMOUNT_TO_REPAY_ON_BEHALF =
+        "To repay on behalf of a user an explicit amount to repay is needed";
+    string public constant NO_OUTSTANDING_STABLE_DEBT =
+        "User does not have outstanding stable rate debt on selected reserve";
+    string public constant NO_OUTSTANDING_VARIABLE_DEBT =
+        "User does not have outstanding variable rate debt on selected reserve";
+    string public constant UNDERLYING_BALANCE_ZERO =
+        "The underlying balance needs to be greater than 0'";
+    string public constant INTEREST_RATE_REBALANCE_CONDITIONS_NOT_MET =
+        "Interest rate rebalance conditions were not met";
+    string public constant HEALTH_FACTOR_NOT_BELOW_THRESHOLD =
+        "Health factor is not below the threshold";
+    string public constant COLLATERAL_CANNOT_BE_LIQUIDATED =
+        "The collateral chosen cannot be liquidated";
+    string public constant SPECIFIED_CURRENCY_NOT_BORROWED_BY_USER =
+        "User did not borrow the specified currency";
+    string public constant INCONSISTENT_FLASHLOAN_PARAMS =
+        "Inconsistent flashloan parameters";
+    string public constant BORROW_CAP_EXCEEDED = "Borrow cap is exceeded";
+    string public constant SUPPLY_CAP_EXCEEDED = "Supply cap is exceeded";
+    string public constant UNBACKED_MINT_CAP_EXCEEDED =
+        "Unbacked mint cap is exceeded";
+    string public constant DEBT_CEILING_EXCEEDED = "Debt ceiling is exceeded";
+    string public constant UNDERLYING_CLAIMABLE_RIGHTS_NOT_ZERO =
+        "Claimable rights over underlying not zero (mToken supply or accruedToTreasury)";
+    string public constant STABLE_DEBT_NOT_ZERO =
+        "Stable debt supply is not zero";
+    string public constant VARIABLE_DEBT_SUPPLY_NOT_ZERO =
+        "Variable debt supply is not zero";
+    string public constant LTV_VALIDATION_FAILED = "Ltv validation failed";
+    string public constant INCONSISTENT_EMODE_CATEGORY =
+        "Inconsistent eMode category";
+    string public constant PRICE_ORACLE_SENTINEL_CHECK_FAILED =
+        "Price oracle sentinel validation failed";
+    string public constant ASSET_NOT_BORROWABLE_IN_ISOLATION =
+        "Asset is not borrowable in isolation mode";
+    string public constant RESERVE_ALREADY_INITIALIZED =
+        "Reserve has already been initialized";
+    string public constant USER_IN_ISOLATION_MODE = "User is in isolation mode";
+    string public constant INVALID_LTV =
+        "Invalid ltv parameter for the reserve";
+    string public constant INVALID_LIQ_THRESHOLD =
+        "Invalid liquidity threshold parameter for the reserve";
+    string public constant INVALID_LIQ_BONUS =
+        "Invalid liquidity bonus parameter for the reserve";
+    string public constant INVALID_DECIMALS =
+        "Invalid decimals parameter of the underlying asset of the reserve";
+    string public constant INVALID_RESERVE_FACTOR =
+        "Invalid reserve factor parameter for the reserve";
+    string public constant INVALID_BORROW_CAP =
+        "Invalid borrow cap for the reserve";
+    string public constant INVALID_SUPPLY_CAP =
+        "Invalid supply cap for the reserve";
+    string public constant INVALID_LIQUIDATION_PROTOCOL_FEE =
+        "Invalid liquidation protocol fee for the reserve";
+    string public constant INVALID_EMODE_CATEGORY =
+        "Invalid eMode category for the reserve";
+    string public constant INVALID_UNBACKED_MINT_CAP =
+        "Invalid unbacked mint cap for the reserve";
+    string public constant INVALID_DEBT_CEILING =
+        "Invalid debt ceiling for the reserve";
+    string public constant INVALID_RESERVE_INDEX = "Invalid reserve index";
+    string public constant ACL_ADMIN_CANNOT_BE_ZERO =
+        "ACL admin cannot be set to the zero address";
+    string public constant INCONSISTENT_PARAMS_LENGTH =
+        "Inconsistent parameters length";
+    string public constant ZERO_ADDRESS_NOT_VALID = "Zero address not valid";
+    string public constant INVALID_EXPIRATION = "Invalid expiration";
+    string public constant INVALID_SIGNATURE = "Invalid signature";
+    string public constant OPERATION_NOT_SUPPORTED = "Operation not supported";
+    string public constant DEBT_CEILING_NOT_ZERO = "Debt ceiling is not zero";
+    string public constant ASSET_NOT_LISTED = "Asset is not listed";
+    string public constant INVALID_OPTIMAL_USAGE_RATIO =
+        "Invalid optimal usage ratio";
+    string public constant INVALID_OPTIMAL_STABLE_TO_TOTAL_DEBT_RATIO =
+        "Invalid optimal stable to total debt ratio";
+    string public constant UNDERLYING_CANNOT_BE_RESCUED =
+        "The underlying asset cannot be rescued";
+    string public constant ADDRESSES_PROVIDER_ALREADY_ADDED =
+        "Reserve has already been added to reserve list";
+    string public constant POOL_ADDRESSES_DO_NOT_MATCH =
+        "The token implementation pool address and the pool address provided by the initializing pool do not match";
+    string public constant STABLE_BORROWING_ENABLED =
+        "Stable borrowing is enabled";
+    string public constant SILOED_BORROWING_VIOLATION =
+        "User is trying to borrow multiple assets including a siloed one";
+    string public constant RESERVE_DEBT_NOT_ZERO =
+        "The total debt of the reserve needs to be 0";
+    string public constant FLASHLOAN_DISABLED =
+        "FlashLoaning for this asset is disabled";
+    string public constant REBASING_DISTRIBUTOR_CANNOT_BE_ZERO =
+        "Rebasing Distributor cannot be zero address";
+    string public constant REBASING_DISTRIBUTOR_ALREADY_SET =
+        "Rebasing Distributor already set";
+    string public constant DELEGATE_CALL_FAILED = "Delegate call failed";
+    string public constant ONLY_PUBLIC_LIQUIDATOR_ALLOWED =
+        "Only PublicLiquidator allowed to liquidate";
+}
