@@ -1,0 +1,1337 @@
+// SPDX-License-Identifier: MIT
+
+pragma solidity ^0.8.8;
+
+import { IERC165 } from './IERC165.sol';
+import { IERC1155Internal } from './IERC1155Internal.sol';
+
+/**
+ * @title ERC1155 interface
+ * @dev see https://eips.ethereum.org/EIPS/eip-1155
+ */
+interface IERC1155 is IERC1155Internal, IERC165 {
+    /**
+     * @notice query the balance of given token held by given address
+     * @param account address to query
+     * @param id token to query
+     * @return token balance
+     */
+    function balanceOf(
+        address account,
+        uint256 id
+    ) external view returns (uint256);
+
+    /**
+     * @notice query the balances of given tokens held by given addresses
+     * @param accounts addresss to query
+     * @param ids tokens to query
+     * @return token balances
+     */
+    function balanceOfBatch(
+        address[] calldata accounts,
+        uint256[] calldata ids
+    ) external view returns (uint256[] memory);
+
+    /**
+     * @notice query approval status of given operator with respect to given address
+     * @param account address to query for approval granted
+     * @param operator address to query for approval received
+     * @return whether operator is approved to spend tokens held by account
+     */
+    function isApprovedForAll(
+        address account,
+        address operator
+    ) external view returns (bool);
+
+    /**
+     * @notice grant approval to or revoke approval from given operator to spend held tokens
+     * @param operator address whose approval status to update
+     * @param status whether operator should be considered approved
+     */
+    function setApprovalForAll(address operator, bool status) external;
+
+    /**
+     * @notice transfer tokens between given addresses, checking for ERC1155Receiver implementation if applicable
+     * @param from sender of tokens
+     * @param to receiver of tokens
+     * @param id token ID
+     * @param amount quantity of tokens to transfer
+     * @param data data payload
+     */
+    function safeTransferFrom(
+        address from,
+        address to,
+        uint256 id,
+        uint256 amount,
+        bytes calldata data
+    ) external;
+
+    /**
+     * @notice transfer batch of tokens between given addresses, checking for ERC1155Receiver implementation if applicable
+     * @param from sender of tokens
+     * @param to receiver of tokens
+     * @param ids list of token IDs
+     * @param amounts list of quantities of tokens to transfer
+     * @param data data payload
+     */
+    function safeBatchTransferFrom(
+        address from,
+        address to,
+        uint256[] calldata ids,
+        uint256[] calldata amounts,
+        bytes calldata data
+    ) external;
+}
+
+// SPDX-License-Identifier: MIT
+
+pragma solidity ^0.8.8;
+
+/**
+ * @title Partial ERC1155 interface needed by internal functions
+ */
+interface IERC1155Internal {
+    event TransferSingle(
+        address indexed operator,
+        address indexed from,
+        address indexed to,
+        uint256 id,
+        uint256 value
+    );
+
+    event TransferBatch(
+        address indexed operator,
+        address indexed from,
+        address indexed to,
+        uint256[] ids,
+        uint256[] values
+    );
+
+    event ApprovalForAll(
+        address indexed account,
+        address indexed operator,
+        bool approved
+    );
+}
+
+// SPDX-License-Identifier: MIT
+
+pragma solidity ^0.8.8;
+
+import { IERC165Internal } from './IERC165Internal.sol';
+
+/**
+ * @title ERC165 interface registration interface
+ * @dev see https://eips.ethereum.org/EIPS/eip-165
+ */
+interface IERC165 is IERC165Internal {
+    /**
+     * @notice query whether contract has registered support for given interface
+     * @param interfaceId interface id
+     * @return bool whether interface is supported
+     */
+    function supportsInterface(bytes4 interfaceId) external view returns (bool);
+}
+
+// SPDX-License-Identifier: MIT
+
+pragma solidity ^0.8.8;
+
+/**
+ * @title ERC165 interface registration interface
+ */
+interface IERC165Internal {
+
+}
+
+// SPDX-License-Identifier: MIT
+
+pragma solidity ^0.8.8;
+
+import { IERC20Internal } from './IERC20Internal.sol';
+
+/**
+ * @title ERC20 interface
+ * @dev see https://eips.ethereum.org/EIPS/eip-20
+ */
+interface IERC20 is IERC20Internal {
+    /**
+     * @notice query the total minted token supply
+     * @return token supply
+     */
+    function totalSupply() external view returns (uint256);
+
+    /**
+     * @notice query the token balance of given account
+     * @param account address to query
+     * @return token balance
+     */
+    function balanceOf(address account) external view returns (uint256);
+
+    /**
+     * @notice query the allowance granted from given holder to given spender
+     * @param holder approver of allowance
+     * @param spender recipient of allowance
+     * @return token allowance
+     */
+    function allowance(
+        address holder,
+        address spender
+    ) external view returns (uint256);
+
+    /**
+     * @notice grant approval to spender to spend tokens
+     * @dev prefer ERC20Extended functions to avoid transaction-ordering vulnerability (see https://github.com/ethereum/EIPs/issues/20#issuecomment-263524729)
+     * @param spender recipient of allowance
+     * @param amount quantity of tokens approved for spending
+     * @return success status (always true; otherwise function should revert)
+     */
+    function approve(address spender, uint256 amount) external returns (bool);
+
+    /**
+     * @notice transfer tokens to given recipient
+     * @param recipient beneficiary of token transfer
+     * @param amount quantity of tokens to transfer
+     * @return success status (always true; otherwise function should revert)
+     */
+    function transfer(
+        address recipient,
+        uint256 amount
+    ) external returns (bool);
+
+    /**
+     * @notice transfer tokens to given recipient on behalf of given holder
+     * @param holder holder of tokens prior to transfer
+     * @param recipient beneficiary of token transfer
+     * @param amount quantity of tokens to transfer
+     * @return success status (always true; otherwise function should revert)
+     */
+    function transferFrom(
+        address holder,
+        address recipient,
+        uint256 amount
+    ) external returns (bool);
+}
+
+// SPDX-License-Identifier: MIT
+
+pragma solidity ^0.8.8;
+
+/**
+ * @title Partial ERC20 interface needed by internal functions
+ */
+interface IERC20Internal {
+    event Transfer(address indexed from, address indexed to, uint256 value);
+
+    event Approval(
+        address indexed owner,
+        address indexed spender,
+        uint256 value
+    );
+}
+
+// SPDX-License-Identifier: MIT
+
+pragma solidity ^0.8.8;
+
+import { IERC165 } from './IERC165.sol';
+import { IERC721Internal } from './IERC721Internal.sol';
+
+/**
+ * @title ERC721 interface
+ * @dev see https://eips.ethereum.org/EIPS/eip-721
+ */
+interface IERC721 is IERC721Internal, IERC165 {
+    /**
+     * @notice query the balance of given address
+     * @return balance quantity of tokens held
+     */
+    function balanceOf(address account) external view returns (uint256 balance);
+
+    /**
+     * @notice query the owner of given token
+     * @param tokenId token to query
+     * @return owner token owner
+     */
+    function ownerOf(uint256 tokenId) external view returns (address owner);
+
+    /**
+     * @notice transfer token between given addresses, checking for ERC721Receiver implementation if applicable
+     * @param from sender of token
+     * @param to receiver of token
+     * @param tokenId token id
+     */
+    function safeTransferFrom(
+        address from,
+        address to,
+        uint256 tokenId
+    ) external payable;
+
+    /**
+     * @notice transfer token between given addresses, checking for ERC721Receiver implementation if applicable
+     * @param from sender of token
+     * @param to receiver of token
+     * @param tokenId token id
+     * @param data data payload
+     */
+    function safeTransferFrom(
+        address from,
+        address to,
+        uint256 tokenId,
+        bytes calldata data
+    ) external payable;
+
+    /**
+     * @notice transfer token between given addresses, without checking for ERC721Receiver implementation if applicable
+     * @param from sender of token
+     * @param to receiver of token
+     * @param tokenId token id
+     */
+    function transferFrom(
+        address from,
+        address to,
+        uint256 tokenId
+    ) external payable;
+
+    /**
+     * @notice grant approval to given account to spend token
+     * @param operator address to be approved
+     * @param tokenId token to approve
+     */
+    function approve(address operator, uint256 tokenId) external payable;
+
+    /**
+     * @notice get approval status for given token
+     * @param tokenId token to query
+     * @return operator address approved to spend token
+     */
+    function getApproved(
+        uint256 tokenId
+    ) external view returns (address operator);
+
+    /**
+     * @notice grant approval to or revoke approval from given account to spend all tokens held by sender
+     * @param operator address to be approved
+     * @param status approval status
+     */
+    function setApprovalForAll(address operator, bool status) external;
+
+    /**
+     * @notice query approval status of given operator with respect to given address
+     * @param account address to query for approval granted
+     * @param operator address to query for approval received
+     * @return status whether operator is approved to spend tokens held by account
+     */
+    function isApprovedForAll(
+        address account,
+        address operator
+    ) external view returns (bool status);
+}
+
+// SPDX-License-Identifier: MIT
+
+pragma solidity ^0.8.8;
+
+/**
+ * @title Partial ERC721 interface needed by internal functions
+ */
+interface IERC721Internal {
+    event Transfer(
+        address indexed from,
+        address indexed to,
+        uint256 indexed tokenId
+    );
+
+    event Approval(
+        address indexed owner,
+        address indexed operator,
+        uint256 indexed tokenId
+    );
+
+    event ApprovalForAll(
+        address indexed owner,
+        address indexed operator,
+        bool approved
+    );
+}
+
+// SPDX-License-Identifier: MIT
+
+pragma solidity ^0.8.8;
+
+import { IERC1155Internal } from '../../../interfaces/IERC1155Internal.sol';
+
+/**
+ * @title ERC1155 base interface
+ */
+interface IERC1155BaseInternal is IERC1155Internal {
+    error ERC1155Base__ArrayLengthMismatch();
+    error ERC1155Base__BalanceQueryZeroAddress();
+    error ERC1155Base__NotOwnerOrApproved();
+    error ERC1155Base__SelfApproval();
+    error ERC1155Base__BurnExceedsBalance();
+    error ERC1155Base__BurnFromZeroAddress();
+    error ERC1155Base__ERC1155ReceiverRejected();
+    error ERC1155Base__ERC1155ReceiverNotImplemented();
+    error ERC1155Base__MintToZeroAddress();
+    error ERC1155Base__TransferExceedsBalance();
+    error ERC1155Base__TransferToZeroAddress();
+}
+
+// SPDX-License-Identifier: MIT
+
+pragma solidity ^0.8.8;
+
+import { IERC1155BaseInternal } from '../base/IERC1155BaseInternal.sol';
+
+/**
+ * @title ERC1155 enumerable and aggregate function interface
+ */
+interface IERC1155Enumerable is IERC1155BaseInternal {
+    /**
+     * @notice query total minted supply of given token
+     * @param id token id to query
+     * @return token supply
+     */
+    function totalSupply(uint256 id) external view returns (uint256);
+
+    /**
+     * @notice query total number of holders for given token
+     * @param id token id to query
+     * @return quantity of holders
+     */
+    function totalHolders(uint256 id) external view returns (uint256);
+
+    /**
+     * @notice query holders of given token
+     * @param id token id to query
+     * @return list of holder addresses
+     */
+    function accountsByToken(
+        uint256 id
+    ) external view returns (address[] memory);
+
+    /**
+     * @notice query tokens held by given address
+     * @param account address to query
+     * @return list of token ids
+     */
+    function tokensByAccount(
+        address account
+    ) external view returns (uint256[] memory);
+}
+
+// SPDX-License-Identifier: MIT
+
+pragma solidity ^0.8.8;
+
+import { IERC1155MetadataInternal } from './IERC1155MetadataInternal.sol';
+
+/**
+ * @title ERC1155Metadata interface
+ */
+interface IERC1155Metadata is IERC1155MetadataInternal {
+    /**
+     * @notice get generated URI for given token
+     * @return token URI
+     */
+    function uri(uint256 tokenId) external view returns (string memory);
+}
+
+// SPDX-License-Identifier: MIT
+
+pragma solidity ^0.8.8;
+
+/**
+ * @title Partial ERC1155Metadata interface needed by internal functions
+ */
+interface IERC1155MetadataInternal {
+    event URI(string value, uint256 indexed tokenId);
+}
+
+// SPDX-License-Identifier: MIT
+
+pragma solidity ^0.8.8;
+
+import { IERC20Internal } from '../../../interfaces/IERC20Internal.sol';
+
+/**
+ * @title ERC20 base interface
+ */
+interface IERC20BaseInternal is IERC20Internal {
+    error ERC20Base__ApproveFromZeroAddress();
+    error ERC20Base__ApproveToZeroAddress();
+    error ERC20Base__BurnExceedsBalance();
+    error ERC20Base__BurnFromZeroAddress();
+    error ERC20Base__InsufficientAllowance();
+    error ERC20Base__MintToZeroAddress();
+    error ERC20Base__TransferExceedsBalance();
+    error ERC20Base__TransferFromZeroAddress();
+    error ERC20Base__TransferToZeroAddress();
+}
+
+// SPDX-License-Identifier: MIT
+
+pragma solidity ^0.8.8;
+
+import { IERC20ExtendedInternal } from './IERC20ExtendedInternal.sol';
+
+/**
+ * @title ERC20 extended interface
+ */
+interface IERC20Extended is IERC20ExtendedInternal {
+    /**
+     * @notice increase spend amount granted to spender
+     * @param spender address whose allowance to increase
+     * @param amount quantity by which to increase allowance
+     * @return success status (always true; otherwise function will revert)
+     */
+    function increaseAllowance(
+        address spender,
+        uint256 amount
+    ) external returns (bool);
+
+    /**
+     * @notice decrease spend amount granted to spender
+     * @param spender address whose allowance to decrease
+     * @param amount quantity by which to decrease allowance
+     * @return success status (always true; otherwise function will revert)
+     */
+    function decreaseAllowance(
+        address spender,
+        uint256 amount
+    ) external returns (bool);
+}
+
+// SPDX-License-Identifier: MIT
+
+pragma solidity ^0.8.8;
+
+import { IERC20BaseInternal } from '../base/IERC20BaseInternal.sol';
+
+/**
+ * @title ERC20 extended internal interface
+ */
+interface IERC20ExtendedInternal is IERC20BaseInternal {
+    error ERC20Extended__ExcessiveAllowance();
+    error ERC20Extended__InsufficientAllowance();
+}
+
+// SPDX-License-Identifier: MIT
+
+pragma solidity ^0.8.8;
+
+import { IERC20MetadataInternal } from './IERC20MetadataInternal.sol';
+
+/**
+ * @title ERC20 metadata interface
+ */
+interface IERC20Metadata is IERC20MetadataInternal {
+    /**
+     * @notice return token name
+     * @return token name
+     */
+    function name() external view returns (string memory);
+
+    /**
+     * @notice return token symbol
+     * @return token symbol
+     */
+    function symbol() external view returns (string memory);
+
+    /**
+     * @notice return token decimals, generally used only for display purposes
+     * @return token decimals
+     */
+    function decimals() external view returns (uint8);
+}
+
+// SPDX-License-Identifier: MIT
+
+pragma solidity ^0.8.8;
+
+/**
+ * @title ERC20 metadata internal interface
+ */
+interface IERC20MetadataInternal {
+
+}
+
+// SPDX-License-Identifier: MIT
+
+pragma solidity ^0.8.8;
+
+import { IERC2612Internal } from './IERC2612Internal.sol';
+
+/**
+ * @title ERC2612 interface
+ * @dev see https://eips.ethereum.org/EIPS/eip-2612.
+ */
+interface IERC2612 is IERC2612Internal {
+    /**
+     * @notice return the EIP-712 domain separator unique to contract and chain
+     * @return domainSeparator domain separator
+     */
+    function DOMAIN_SEPARATOR() external view returns (bytes32 domainSeparator);
+
+    /**
+     * @notice get the current ERC2612 nonce for the given address
+     * @return current nonce
+     */
+    function nonces(address owner) external view returns (uint256);
+
+    /**
+     * @notice approve spender to transfer tokens held by owner via signature
+     * @dev this function may be vulnerable to approval replay attacks
+     * @param owner holder of tokens and signer of permit
+     * @param spender beneficiary of approval
+     * @param amount quantity of tokens to approve
+     * @param v secp256k1 'v' value
+     * @param r secp256k1 'r' value
+     * @param s secp256k1 's' value
+     */
+    function permit(
+        address owner,
+        address spender,
+        uint256 amount,
+        uint256 deadline,
+        uint8 v,
+        bytes32 r,
+        bytes32 s
+    ) external;
+}
+
+// SPDX-License-Identifier: MIT
+
+pragma solidity ^0.8.8;
+
+interface IERC2612Internal {}
+
+// SPDX-License-Identifier: MIT
+
+pragma solidity ^0.8.8;
+
+import { IERC721Internal } from '../../../interfaces/IERC721Internal.sol';
+
+/**
+ * @title ERC721 base interface
+ */
+interface IERC721BaseInternal is IERC721Internal {
+    error ERC721Base__NotOwnerOrApproved();
+    error ERC721Base__SelfApproval();
+    error ERC721Base__BalanceQueryZeroAddress();
+    error ERC721Base__ERC721ReceiverNotImplemented();
+    error ERC721Base__InvalidOwner();
+    error ERC721Base__MintToZeroAddress();
+    error ERC721Base__NonExistentToken();
+    error ERC721Base__NotTokenOwner();
+    error ERC721Base__TokenAlreadyMinted();
+    error ERC721Base__TransferToZeroAddress();
+}
+
+// SPDX-License-Identifier: MIT
+
+pragma solidity ^0.8.8;
+
+interface IERC721Enumerable {
+    /**
+     * @notice get total token supply
+     * @return total supply
+     */
+    function totalSupply() external view returns (uint256);
+
+    /**
+     * @notice get token of given owner at given internal storage index
+     * @param owner token holder to query
+     * @param index position in owner's token list to query
+     * @return tokenId id of retrieved token
+     */
+    function tokenOfOwnerByIndex(
+        address owner,
+        uint256 index
+    ) external view returns (uint256 tokenId);
+
+    /**
+     * @notice get token at given internal storage index
+     * @param index position in global token list to query
+     * @return tokenId id of retrieved token
+     */
+    function tokenByIndex(
+        uint256 index
+    ) external view returns (uint256 tokenId);
+}
+
+// SPDX-License-Identifier: MIT
+
+pragma solidity ^0.8.8;
+
+import { IERC721MetadataInternal } from './IERC721MetadataInternal.sol';
+
+/**
+ * @title ERC721Metadata interface
+ */
+interface IERC721Metadata is IERC721MetadataInternal {
+    /**
+     * @notice get token name
+     * @return token name
+     */
+    function name() external view returns (string memory);
+
+    /**
+     * @notice get token symbol
+     * @return token symbol
+     */
+    function symbol() external view returns (string memory);
+
+    /**
+     * @notice get generated URI for given token
+     * @return token URI
+     */
+    function tokenURI(uint256 tokenId) external view returns (string memory);
+}
+
+// SPDX-License-Identifier: MIT
+
+pragma solidity ^0.8.8;
+
+import { IERC721BaseInternal } from '../base/IERC721BaseInternal.sol';
+
+/**
+ * @title ERC721Metadata internal interface
+ */
+interface IERC721MetadataInternal is IERC721BaseInternal {
+    error ERC721Metadata__NonExistentToken();
+}
+
+// SPDX-License-Identifier: MIT
+pragma solidity 0.8.23;
+
+import { IPaymentModule } from "./IPaymentModule.sol";
+
+interface ICrossPaymentModule {
+    struct CrossPaymentSignatureInput {
+        address payer;
+        uint256 sourceChainId;
+        uint256 paymentIndex;
+        bytes signature;
+    }
+
+    struct ProcessCrossPaymentOutput {
+        bytes32 platformId;
+        uint32[] services;
+        uint32[] serviceAmounts;
+        address spender;
+        uint256 destinationChainId;
+        address payer;
+        uint256 sourceChainId;
+        uint256 paymentIndex;
+    }
+
+    function updateSignerAddress(address newSignerAddress) external;
+    function processCrossPayment(
+        IPaymentModule.ProcessPaymentInput memory paymentInput,
+        address spender,
+        uint256 destinationChainId
+    ) external payable returns (uint256);
+    function spendCrossPaymentSignature(address spender, ProcessCrossPaymentOutput memory output, bytes memory signature) external;
+    function getSignerAddress() external view returns (address);
+    function getCrossPaymentOutputByIndex(uint256 paymentIndex) external view returns (ProcessCrossPaymentOutput memory);
+    function prefixedMessage(bytes32 hash) external pure returns (bytes32);
+    function getHashedMessage(ProcessCrossPaymentOutput memory output) external pure returns (bytes32);
+    function recoverSigner(bytes32 message, bytes memory signature) external pure returns (address);
+    function checkSignature(ProcessCrossPaymentOutput memory output, bytes memory signature) external view;
+    function getChainID() external view returns (uint256);
+
+    /** EVENTS */
+    event CrossPaymentProcessed(uint256 indexed previousBlock, uint256 indexed paymentIndex);
+    event CrossPaymentSignatureSpent(uint256 indexed previousBlock, uint256 indexed sourceChainId, uint256 indexed paymentIndex);
+    event SignerAddressUpdated(address indexed oldSigner, address indexed newSigner);
+
+    /** ERRORS */
+    error ProcessCrossPaymentError(string errorMessage);
+    error CheckSignatureError(string errorMessage);
+    error ProcessCrossPaymentSignatureError(string errorMessage);
+}
+
+// SPDX-License-Identifier: MIT
+pragma solidity 0.8.23;
+
+interface IPaymentModule {
+    enum PaymentMethod {
+        NATIVE,
+        USD,
+        ALTCOIN
+    }
+
+    enum PaymentType {
+        NATIVE,
+        GIFT,
+        CROSSCHAIN
+    }
+
+    struct AcceptedToken {
+        string name;
+        PaymentMethod tokenType;
+        address token;
+        address router;
+        bool isV2Router;
+        uint256 slippageTolerance;
+    }
+
+    struct ProcessPaymentInput {
+        bytes32 platformId;
+        uint32[] services;
+        uint32[] serviceAmounts;
+        address referrer;
+        address user;
+        address tokenAddress;
+    }
+
+    struct ProcessPaymentOutput {
+        ProcessPaymentInput processPaymentInput;
+        uint256 usdPrice;
+        uint256 paymentAmount;
+        uint256 burnedAmount;
+        uint256 treasuryShare;
+        uint256 referrerShare;
+    }
+
+    struct ProcessCrossPaymentOutput {
+        bytes32 platformId;
+        uint32[] services;
+        uint32[] serviceAmounts;
+        address payer;
+        address spender;
+        uint256 sourceChainId;
+        uint256 destinationChainId;
+    }
+
+    // solhint-disable-next-line func-name-mixedcase
+    function PAYMENT_PROCESSOR_ROLE() external pure returns (bytes32);
+    function adminWithdraw(address tokenAddress, uint256 amount, address treasury) external;
+    function setUsdToken(address newUsdToken) external;
+    function setRouterAddress(address newRouter) external;
+    function addAcceptedToken(AcceptedToken memory acceptedToken) external;
+    function removeAcceptedToken(address tokenAddress) external;
+    function updateAcceptedToken(AcceptedToken memory acceptedToken) external;
+    function setV3PoolFeeForTokenNative(address token, uint24 poolFee) external;
+    function getUsdToken() external view returns (address);
+    function processPayment(ProcessPaymentInput memory params) external payable returns (uint256);
+    function getPaymentByIndex(uint256 paymentIndex) external view returns (ProcessPaymentOutput memory);
+    function getQuoteTokenPrice(address token0, address token1) external view returns (uint256 price);
+    function getV3PoolFeeForTokenWithNative(address token) external view returns (uint24);
+    function isV2Router() external view returns (bool);
+    function getRouterAddress() external view returns (address);
+    function getAcceptedTokenByAddress(address tokenAddress) external view returns (AcceptedToken memory);
+    function getAcceptedTokens() external view returns (address[] memory);
+
+    /** EVENTS */
+    event TokenBurned(uint256 indexed tokenBurnedLastBlock, address indexed tokenAddress, uint256 amount);
+    event PaymentProcessed(uint256 indexed previousBlock, uint256 indexed paymentIndex);
+    event TreasuryAddressUpdated(address indexed oldTreasury, address indexed newTreasury);
+
+    /** ERRORS */
+    error ProcessPaymentError(string errorMessage);
+}
+
+// SPDX-License-Identifier: MIT
+pragma solidity 0.8.23;
+
+import { ITokenLauncherQuerier } from "../interfaces/ITokenLauncherQuerier.sol";
+import { LibTokenLauncherConsts } from "../libraries/LibTokenLauncherConsts.sol";
+import { LibTokenLauncherFactoryStorage } from "../libraries/LibTokenLauncherFactoryStorage.sol";
+
+contract TokenLauncherQuerierFacet is ITokenLauncherQuerier {
+    // solhint-disable func-name-mixedcase
+    function TOKENLAUNCHER_PRODUCT_ID() external pure override returns (bytes32) {
+        return LibTokenLauncherConsts.PRODUCT_ID;
+    }
+
+    function getTokensPaginated(TokenType tokenType, uint256 quantity, uint256 page) external view override returns (address[] memory) {
+        require(quantity > 0, "TokenLauncher: quantity must be greater than 0");
+        require(page > 0, "TokenLauncher: page must be greater than 0");
+
+        LibTokenLauncherFactoryStorage.DiamondStorage storage ds = LibTokenLauncherFactoryStorage.diamondStorage();
+
+        uint256 offset = quantity * (page - 1);
+        uint256 size = quantity;
+        if (offset + size > ds.tokensByType[tokenType].length) {
+            size = ds.tokensByType[tokenType].length - offset;
+        }
+        address[] memory tokens = new address[](size);
+        for (uint256 i = 0; i < size; i++) {
+            tokens[i] = ds.tokensByType[tokenType][offset + i];
+        }
+        return tokens;
+    }
+
+    function getTokensByOwnerPaginated(address owner, TokenType tokenType, uint256 quantity, uint256 page) external view override returns (address[] memory) {
+        require(quantity > 0, "TokenLauncher: quantity must be greater than 0");
+        require(page > 0, "TokenLauncher: page must be greater than 0");
+
+        LibTokenLauncherFactoryStorage.DiamondStorage storage ds = LibTokenLauncherFactoryStorage.diamondStorage();
+
+        uint256 offset = quantity * (page - 1);
+        uint256 size = quantity;
+        if (offset + size > ds.tokensByOwnerByType[tokenType][owner].length) {
+            size = ds.tokensByOwnerByType[tokenType][owner].length - offset;
+        }
+        address[] memory tokens = new address[](size);
+        for (uint256 i = 0; i < size; i++) {
+            tokens[i] = ds.tokensByOwnerByType[tokenType][owner][offset + i];
+        }
+        return tokens;
+    }
+
+    function getTokenOwnerByToken(address tokenAddress) external view override returns (address) {
+        LibTokenLauncherFactoryStorage.DiamondStorage storage ds = LibTokenLauncherFactoryStorage.diamondStorage();
+
+        return ds.tokenOwnerByToken[tokenAddress];
+    }
+
+    function buybackHandler() external view override returns (address) {
+        LibTokenLauncherFactoryStorage.DiamondStorage storage ds = LibTokenLauncherFactoryStorage.diamondStorage();
+
+        return ds.buybackHandler;
+    }
+
+    function currentBlockTokenCreated() external view override returns (uint256) {
+        LibTokenLauncherFactoryStorage.DiamondStorage storage ds = LibTokenLauncherFactoryStorage.diamondStorage();
+
+        return ds.currentBlockTokenCreated;
+    }
+
+    function currentBlockTokenOwnerUpdated() external view override returns (uint256) {
+        LibTokenLauncherFactoryStorage.DiamondStorage storage ds = LibTokenLauncherFactoryStorage.diamondStorage();
+
+        return ds.currentBlockTokenOwnerUpdated;
+    }
+}
+
+// SPDX-License-Identifier: MIT
+pragma solidity 0.8.23;
+
+import { ICrossPaymentModule } from "../../common/admin/interfaces/ICrossPaymentModule.sol";
+
+interface ITokenFiErc1155 {
+    struct TokenInfo {
+        string name;
+        string symbol;
+        string collectionLogo;
+        string baseURI;
+        bool isPublicMintEnabled;
+        bool isAdminMintEnabled;
+        address owner;
+    }
+
+    struct CreateTokenInput {
+        uint256 tokenId;
+        uint256 maxSupply;
+        uint256 publicMintUsdPrice;
+        uint8 decimals;
+        string uri;
+    }
+
+    function adminMint(address account, uint256 id, uint256 amount) external;
+    function setTokenInfo(TokenInfo memory _newTokenInfo) external;
+    function createToken(CreateTokenInput memory input) external;
+    function setTokenPublicMintPrice(uint256 _tokenId, uint256 _price) external;
+    function setTokenUri(uint256 _tokenId, string memory _uri) external;
+    function mint(address account, uint256 id, uint256 amount, address paymentToken, address referrer) external payable;
+    function mintWithPaymentSignature(
+        address account,
+        uint256 id,
+        uint256 amount,
+        ICrossPaymentModule.CrossPaymentSignatureInput memory crossPaymentSignatureInput
+    ) external;
+    function tokenInfo() external view returns (TokenInfo memory);
+    function maxSupply(uint256 tokenId) external view returns (uint256);
+    function decimals(uint256 tokenId) external view returns (uint256);
+    function paymentServiceIndexByTokenId(uint256 tokenId) external view returns (uint256);
+    function exists(uint256 id) external view returns (bool);
+    function getExistingTokenIds() external view returns (uint256[] memory);
+    function paymentModule() external view returns (address);
+
+    event TokenInfoUpdated(TokenInfo indexed oldTokenInfo, TokenInfo indexed newTokenInfo);
+    event MintPaymentProccessed(address indexed user, uint256 indexed paymentId);
+}
+
+// SPDX-License-Identifier: MIT
+pragma solidity 0.8.23;
+
+interface ITokenFiErc20 {
+    struct FeeDetails {
+        uint256 percentage;
+        bool onlyOnSwaps;
+    }
+
+    struct Fees {
+        FeeDetails transferFee;
+        FeeDetails burn;
+        FeeDetails reflection;
+        FeeDetails buyback;
+    }
+
+    struct BuybackDetails {
+        address pairToken;
+        address router;
+        uint256 liquidityBasisPoints;
+        uint256 priceImpactBasisPoints;
+    }
+
+    struct TokenInfo {
+        string name;
+        string symbol;
+        string logo;
+        uint8 decimals;
+        uint256 initialSupply;
+        uint256 maxSupply;
+        address treasury;
+        address owner;
+        Fees fees;
+        BuybackDetails buybackDetails;
+    }
+
+    struct TotalReflection {
+        uint256 tTotal;
+        uint256 rTotal;
+        uint256 tFeeTotal;
+    }
+
+    struct ReflectionInfo {
+        TotalReflection totalReflection;
+        mapping(address => uint256) rOwned;
+        mapping(address => uint256) tOwned;
+        mapping(address => bool) isExcludedFromReflectionRewards;
+        address[] excluded;
+    }
+
+    /** ONLY ROLES */
+    function mint(address to, uint256 amount) external;
+    function updateTokenLauncher(address _newTokenLauncher) external;
+    function updateTreasury(address _newTreasury) external;
+    function setName(string memory name) external;
+    function setSymbol(string memory symbol) external;
+    function setDecimals(uint8 decimals) external;
+    function updateFees(Fees memory _fees) external;
+    function setBuybackDetails(BuybackDetails memory _buybackDetails) external;
+    function setBuybackHandler(address _newBuybackHandler) external;
+    function addExchangePool(address pool) external;
+    function removeExchangePool(address pool) external;
+    function addExemptAddress(address account) external;
+    function removeExemptAddress(address account) external;
+
+    /** VIEW */
+    function fees() external view returns (Fees memory);
+    function tokenInfo() external view returns (TokenInfo memory);
+    function buybackHandler() external view returns (address);
+    function isExchangePool(address pool) external view returns (bool);
+    function isExemptedFromTax(address account) external view returns (bool);
+    function isReflectionToken() external view returns (bool);
+
+    /** REFLECTION Implemetation */
+    function reflect(uint256 tAmount) external;
+    function excludeAccount(address account) external;
+    function includeAccount(address account) external;
+    function isExcludedFromReflectionRewards(address account) external view returns (bool);
+    function totalReflection() external view returns (TotalReflection memory);
+    function reflectionFromToken(uint256 tAmount, bool deductTransferFee) external view returns (uint256);
+    function tokenFromReflection(uint256 rAmount) external view returns (uint256);
+    function totalFees() external view returns (uint256);
+
+    event ExemptedAdded(address indexed account);
+    event ExemptedRemoved(address indexed account);
+    event ExchangePoolAdded(address indexed pool);
+    event ExchangePoolRemoved(address indexed pool);
+    event TokenLauncherUpdated(address indexed oldTokenLauncher, address indexed newTokenLauncher);
+    event TransferTax(address indexed account, address indexed receiver, uint256 amount, string indexed taxType);
+    event BuybackHandlerUpdated(address indexed oldBuybackHandler, address indexed newBuybackHandler);
+    event BuybackDetailsUpdated(address indexed router, address indexed pairToken, uint256 liquidityBasisPoints, uint256 priceImpactBasisPoints);
+    event TreasuryUpdated(address indexed oldTreasury, address indexed newTreasury);
+}
+
+// SPDX-License-Identifier: MIT
+pragma solidity 0.8.23;
+
+import { ICrossPaymentModule } from "../../common/admin/interfaces/ICrossPaymentModule.sol";
+
+interface ITokenFiErc721 {
+    enum PaymentServices {
+        TOKEN_MINT
+    }
+
+    struct TokenInfo {
+        string name;
+        string symbol;
+        string collectionLogo;
+        string baseURI;
+        uint256 maxSupply;
+        bool isPublicMintEnabled;
+        bool isAdminMintEnabled;
+        address owner;
+    }
+
+    function adminMint(address _to) external;
+    function adminMintBatch(address _to, uint256 _amount) external;
+    function setTokenInfo(TokenInfo memory _newTokenInfo) external;
+    function setTokenUri(uint256 tokenId, string memory uri) external;
+    function mint(address _to, address paymentToken, address referrer) external payable;
+    function mintWithPaymentSignature(address _to, ICrossPaymentModule.CrossPaymentSignatureInput memory crossPaymentSignatureInput) external;
+    function mintBatch(address _to, uint256 _amount, address paymentToken, address referrer) external payable;
+    function mintBatchWithPaymentSignature(
+        address _to,
+        uint256 _amount,
+        ICrossPaymentModule.CrossPaymentSignatureInput memory crossPaymentSignatureInput
+    ) external;
+    function tokenInfo() external view returns (TokenInfo memory);
+    function paymentModule() external view returns (address);
+
+    event TokenInfoUpdated(TokenInfo indexed oldTokenInfo, TokenInfo indexed newTokenInfo);
+    event MintPaymentProccessed(address indexed user, uint256 indexed paymentId);
+}
+
+// SPDX-License-Identifier: MIT
+pragma solidity 0.8.23;
+
+interface ITokenLauncherCommon {
+    enum TokenType {
+        ERC20,
+        ERC721,
+        ERC1155
+    }
+}
+
+// SPDX-License-Identifier: MIT
+pragma solidity 0.8.23;
+
+import { ITokenLauncherCommon } from "./ITokenLauncherCommon.sol";
+
+interface ITokenLauncherQuerier is ITokenLauncherCommon {
+    // solhint-disable func-name-mixedcase
+    function TOKENLAUNCHER_PRODUCT_ID() external pure returns (bytes32);
+
+    function getTokenOwnerByToken(address tokenAddress) external view returns (address);
+
+    function getTokensPaginated(TokenType tokenType, uint256 quantity, uint256 page) external view returns (address[] memory);
+
+    function getTokensByOwnerPaginated(address owner, TokenType tokenType, uint256 quantity, uint256 page) external view returns (address[] memory);
+
+    function buybackHandler() external view returns (address);
+
+    function currentBlockTokenCreated() external view returns (uint256);
+
+    function currentBlockTokenOwnerUpdated() external view returns (uint256);
+}
+
+// SPDX-License-Identifier: MIT
+pragma solidity 0.8.23;
+
+library LibTokenLauncherConsts {
+    bytes32 internal constant PRODUCT_ID = keccak256("tokenfi.tokenLauncher");
+
+    // TOKEN LAUNCHER ROLES
+    bytes32 internal constant FEE_MANAGER_ROLE = keccak256("FEE_MANAGER_ROLE");
+    bytes32 public constant BUYBACK_CALLER_ROLE = keccak256("BUYBACK_CALLER_ROLE");
+
+    uint256 public constant SLIPPAGE_TOLERANCE = 500;
+    uint256 public constant REFLECTION_MAX = type(uint256).max / 2;
+}
+
+// SPDX-License-Identifier: MIT
+pragma solidity 0.8.23;
+
+import { ITokenLauncherCommon } from "../interfaces/ITokenLauncherCommon.sol";
+// ITokenFiErc20
+import { IERC20 } from "@solidstate/contracts/interfaces/IERC20.sol";
+import { IERC20Extended } from "@solidstate/contracts/token/ERC20/extended/IERC20Extended.sol";
+import { IERC20Metadata } from "@solidstate/contracts/token/ERC20/metadata/IERC20Metadata.sol";
+import { IERC2612 } from "@solidstate/contracts/token/ERC20/permit/IERC2612.sol";
+import { ITokenFiErc20 } from "../interfaces/ITokenFiErc20.sol";
+// ITokenFiErc721
+import { IERC721 } from "@solidstate/contracts/interfaces/IERC721.sol";
+import { IERC721Enumerable } from "@solidstate/contracts/token/ERC721/enumerable/IERC721Enumerable.sol";
+import { IERC721Metadata } from "@solidstate/contracts/token/ERC721/metadata/IERC721Metadata.sol";
+import { ITokenFiErc721 } from "../interfaces/ITokenFiErc721.sol";
+// ITokenFiErc1155
+import { IERC165 } from "@solidstate/contracts/interfaces/IERC165.sol";
+import { IERC1155 } from "@solidstate/contracts/interfaces/IERC1155.sol";
+import { IERC1155Enumerable } from "@solidstate/contracts/token/ERC1155/enumerable/IERC1155Enumerable.sol";
+import { IERC1155Metadata } from "@solidstate/contracts/token/ERC1155/metadata/IERC1155Metadata.sol";
+import { ITokenFiErc1155 } from "../interfaces/ITokenFiErc1155.sol";
+
+library LibTokenLauncherFactoryStorage {
+    bytes32 internal constant DIAMOND_STORAGE_POSITION = keccak256("tokenfi.tokenlauncher.factory.diamond.storage");
+
+    struct DiamondStorage {
+        mapping(ITokenLauncherCommon.TokenType => address[]) tokensByType;
+        mapping(ITokenLauncherCommon.TokenType => mapping(address => address[])) tokensByOwnerByType;
+        mapping(address => address) tokenOwnerByToken;
+        uint256 currentBlockTokenCreated;
+        uint256 currentBlockTokenOwnerUpdated;
+        address buybackHandler;
+        address accessControlFacet;
+        address pausableFacet;
+        address loupeFacet;
+        address proxyFacet;
+        address tokenFiErc20Facet;
+        address tokenFiErc20DiamondInit;
+        address tokenFiErc721Facet;
+        address tokenFiErc721DiamondInit;
+        address tokenFiErc1155Facet;
+        address tokenFiErc1155DiamondInit;
+        address tokenFiErc20Implementation;
+        address tokenFiErc721Implementation;
+        address tokenFiErc1155Implementation;
+    }
+
+    function diamondStorage() internal pure returns (DiamondStorage storage ds) {
+        bytes32 position = DIAMOND_STORAGE_POSITION;
+        assembly {
+            ds.slot := position
+        }
+    }
+
+    function getTokenFiErc20FunctionSelectors() internal pure returns (bytes4[] memory) {
+        bytes4[] memory selectors = new bytes4[](41);
+
+        /** IERC20 selectors */
+        selectors[0] = IERC20.totalSupply.selector;
+        selectors[1] = IERC20.balanceOf.selector;
+        selectors[2] = IERC20.allowance.selector;
+        selectors[3] = IERC20.approve.selector;
+        selectors[4] = IERC20.transfer.selector;
+        selectors[5] = IERC20.transferFrom.selector;
+
+        /** IERC20Extended selectors */
+
+        selectors[6] = IERC20Extended.increaseAllowance.selector;
+        selectors[7] = IERC20Extended.decreaseAllowance.selector;
+
+        /** IERC20Metadata selectors */
+        selectors[8] = IERC20Metadata.name.selector;
+        selectors[9] = IERC20Metadata.symbol.selector;
+        selectors[10] = IERC20Metadata.decimals.selector;
+
+        /** IERC2612 selectors */
+        selectors[11] = IERC2612.DOMAIN_SEPARATOR.selector;
+        selectors[12] = IERC2612.nonces.selector;
+        selectors[13] = IERC2612.permit.selector;
+
+        /** ITokenFiErc20 selectors */
+        selectors[14] = ITokenFiErc20.mint.selector;
+        selectors[15] = ITokenFiErc20.updateTokenLauncher.selector;
+        selectors[16] = ITokenFiErc20.updateTreasury.selector;
+        selectors[17] = ITokenFiErc20.setName.selector;
+        selectors[18] = ITokenFiErc20.setSymbol.selector;
+        selectors[19] = ITokenFiErc20.setDecimals.selector;
+        selectors[20] = ITokenFiErc20.updateFees.selector;
+        selectors[21] = ITokenFiErc20.setBuybackDetails.selector;
+        selectors[22] = ITokenFiErc20.setBuybackHandler.selector;
+        selectors[23] = ITokenFiErc20.addExchangePool.selector;
+        selectors[24] = ITokenFiErc20.removeExchangePool.selector;
+        selectors[25] = ITokenFiErc20.addExemptAddress.selector;
+        selectors[26] = ITokenFiErc20.removeExemptAddress.selector;
+        /** VIEW */
+        selectors[27] = ITokenFiErc20.fees.selector;
+        selectors[28] = ITokenFiErc20.tokenInfo.selector;
+        selectors[29] = ITokenFiErc20.buybackHandler.selector;
+        selectors[30] = ITokenFiErc20.isExchangePool.selector;
+        selectors[31] = ITokenFiErc20.isExemptedFromTax.selector;
+        selectors[32] = ITokenFiErc20.isReflectionToken.selector;
+
+        // Reflection function selectors
+        selectors[33] = ITokenFiErc20.reflect.selector;
+        selectors[34] = ITokenFiErc20.excludeAccount.selector;
+        selectors[35] = ITokenFiErc20.includeAccount.selector;
+        selectors[36] = ITokenFiErc20.isExcludedFromReflectionRewards.selector;
+        selectors[37] = ITokenFiErc20.totalReflection.selector;
+        selectors[38] = ITokenFiErc20.reflectionFromToken.selector;
+        selectors[39] = ITokenFiErc20.tokenFromReflection.selector;
+        selectors[40] = ITokenFiErc20.totalFees.selector;
+
+        return selectors;
+    }
+
+    function getTokenFiErc721FunctionSelectors() internal pure returns (bytes4[] memory) {
+        bytes4[] memory selectors = new bytes4[](24);
+
+        // IERC165 selectors
+        selectors[0] = IERC165.supportsInterface.selector;
+
+        // IERC721 function selectors
+        selectors[1] = IERC721.balanceOf.selector;
+        selectors[2] = IERC721.ownerOf.selector;
+        // selectors[8] = IERC721.safeTransferFrom.selector;
+        selectors[3] = IERC721.transferFrom.selector;
+        selectors[4] = IERC721.approve.selector;
+        selectors[5] = IERC721.getApproved.selector;
+        selectors[6] = IERC721.setApprovalForAll.selector;
+        selectors[7] = IERC721.isApprovedForAll.selector;
+
+        // IERC721Enumerable selectors
+        selectors[8] = IERC721Enumerable.totalSupply.selector;
+        selectors[9] = IERC721Enumerable.tokenOfOwnerByIndex.selector;
+        selectors[10] = IERC721Enumerable.tokenByIndex.selector;
+
+        // IERC721Metadata selectors
+        selectors[11] = IERC721Metadata.name.selector;
+        selectors[12] = IERC721Metadata.symbol.selector;
+        selectors[13] = IERC721Metadata.tokenURI.selector;
+
+        // ITokenFiErc721 function selectors
+        selectors[14] = ITokenFiErc721.adminMint.selector;
+        selectors[15] = ITokenFiErc721.adminMintBatch.selector;
+        selectors[16] = ITokenFiErc721.setTokenInfo.selector;
+        selectors[17] = ITokenFiErc721.setTokenUri.selector;
+        selectors[18] = ITokenFiErc721.mint.selector;
+        selectors[19] = ITokenFiErc721.mintWithPaymentSignature.selector;
+        selectors[20] = ITokenFiErc721.mintBatch.selector;
+        selectors[21] = ITokenFiErc721.mintBatchWithPaymentSignature.selector;
+        selectors[22] = ITokenFiErc721.tokenInfo.selector;
+        selectors[23] = ITokenFiErc721.paymentModule.selector;
+
+        return selectors;
+    }
+
+    function getTokenFiErc1155FunctionSelectors() internal pure returns (bytes4[] memory) {
+        bytes4[] memory selectors = new bytes4[](26);
+
+        // IERC165 selectors
+        selectors[0] = IERC165.supportsInterface.selector;
+
+        // IERC1155 selectors
+        selectors[1] = IERC1155.balanceOf.selector;
+        selectors[2] = IERC1155.balanceOfBatch.selector;
+        selectors[3] = IERC1155.isApprovedForAll.selector;
+        selectors[4] = IERC1155.setApprovalForAll.selector;
+        selectors[5] = IERC1155.safeTransferFrom.selector;
+        selectors[6] = IERC1155.safeBatchTransferFrom.selector;
+
+        // IERC1155Enumerable selectors
+        selectors[7] = IERC1155Enumerable.totalSupply.selector;
+        selectors[8] = IERC1155Enumerable.totalHolders.selector;
+        selectors[9] = IERC1155Enumerable.accountsByToken.selector;
+        selectors[10] = IERC1155Enumerable.tokensByAccount.selector;
+
+        // IERC1155Metadata selectors
+        selectors[11] = IERC1155Metadata.uri.selector;
+
+        // ITokenFiErc1155 selectors
+        selectors[12] = ITokenFiErc1155.adminMint.selector;
+        selectors[13] = ITokenFiErc1155.setTokenInfo.selector;
+        selectors[14] = ITokenFiErc1155.createToken.selector;
+        selectors[15] = ITokenFiErc1155.setTokenPublicMintPrice.selector;
+        selectors[16] = ITokenFiErc1155.setTokenUri.selector;
+        selectors[17] = ITokenFiErc1155.mint.selector;
+        selectors[18] = ITokenFiErc1155.mintWithPaymentSignature.selector;
+        selectors[19] = ITokenFiErc1155.tokenInfo.selector;
+        selectors[20] = ITokenFiErc1155.maxSupply.selector;
+        selectors[21] = ITokenFiErc1155.decimals.selector;
+        selectors[22] = ITokenFiErc1155.paymentServiceIndexByTokenId.selector;
+        selectors[23] = ITokenFiErc1155.exists.selector;
+        selectors[24] = ITokenFiErc1155.getExistingTokenIds.selector;
+        selectors[25] = ITokenFiErc1155.paymentModule.selector;
+
+        return selectors;
+    }
+}
