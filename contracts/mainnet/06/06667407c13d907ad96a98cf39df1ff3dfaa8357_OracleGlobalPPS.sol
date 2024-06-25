@@ -1,0 +1,257 @@
+// SPDX-License-Identifier: MIT
+pragma solidity 0.8.20;
+
+import "../interfaces/IOracleGlobalPPS.sol";
+import "@openzeppelin/contracts/access/Ownable.sol";
+
+contract OracleGlobalPPS is IOracleGlobalPPS, Ownable {
+    struct PricePerShare {
+        uint112 pricePerShare;
+        uint112 prevPricePerShare;
+        uint32 lastUpdateTime;
+        uint32 prevUpdateTime;
+    }
+
+    ///@dev DELTA_PPS_PER_SECOND determines how much the PPS can change over time
+    uint public DELTA_PPS_PER_SECOND; //RECOMMENDED VALUE: 116 (116 -> 10% APR Per Day)
+
+    uint private constant _decimals = 8;
+
+    mapping(address token => bool) public isInitialized;
+
+    mapping(address => PricePerShare) globalPricePerShare;
+
+    constructor(address admin, uint delta) Ownable(admin) {
+        DELTA_PPS_PER_SECOND = delta;
+    }
+
+    /* ========== INIT ========== */
+    function initPPS(address token) external {
+        require(
+            !isInitialized[token],
+            "OracleGlobalPPS: PricePerShare for this token already initialized"
+        );
+        _updatePPS(10 ** 8, token);
+        _updatePPS(10 ** 8, token);
+
+        isInitialized[token] = true;
+    }
+
+    /* ========== UPDATE PPS FUNCTION ========== */
+    function updateGlobalPPS(
+        address token,
+        uint112 newPricePerShare
+    ) external onlyOwner {
+        uint112 pricePerShare = globalPricePerShare[token].pricePerShare;
+        uint32 _lastUpdateTime = globalPricePerShare[token].lastUpdateTime;
+
+        require(
+            _checkDeltaPPS(newPricePerShare, pricePerShare, _lastUpdateTime),
+            "OracleGlobalPPS: Insufficient value of price per share"
+        );
+
+        _updatePPS(newPricePerShare, token);
+
+        emit UpdatePPS(
+            token,
+            globalPricePerShare[token].pricePerShare,
+            globalPricePerShare[token].prevPricePerShare,
+            _lastUpdateTime
+        );
+    }
+
+    /* ========== EXTERNAL ========== */
+    function getGlobalPPS(address token) external view returns (uint) {
+        return globalPricePerShare[token].prevPricePerShare;
+    }
+
+    function decimals() external pure returns (uint) {
+        return _decimals;
+    }
+
+    function synchronize() external {}
+
+    /* ========== INTERNAL ========== */
+    function _checkDeltaPPS(
+        uint112 newPPS,
+        uint112 prevPPS,
+        uint32 _lastUpdateTime
+    ) internal view returns (bool) {
+        uint deltaTime = block.timestamp - _lastUpdateTime;
+
+        if (_subAbs(newPPS, prevPPS) < deltaTime * DELTA_PPS_PER_SECOND)
+            return true;
+        else return false;
+    }
+
+    function _updatePPS(uint112 newPricePerShare, address token) internal {
+        globalPricePerShare[token].prevPricePerShare = globalPricePerShare[
+            token
+        ].pricePerShare;
+
+        globalPricePerShare[token].pricePerShare = newPricePerShare;
+
+        globalPricePerShare[token].prevUpdateTime = globalPricePerShare[token]
+            .lastUpdateTime;
+
+        globalPricePerShare[token].lastUpdateTime = uint32(block.timestamp);
+    }
+
+    function _subAbs(uint x, uint y) private pure returns (uint) {
+        if (x > y) return x - y;
+        else return y - x;
+    }
+}
+
+// SPDX-License-Identifier: MIT
+pragma solidity 0.8.20;
+
+interface IOracleGlobalPPS {
+    event UpdatePPS(
+        address token,
+        uint256 pricePerShare,
+        uint256 prevPricePerShare,
+        uint32 prevUpdateTime
+    );
+
+    ///@notice This function returns the global PricePerShare value.
+    function getGlobalPPS(address token) external view returns (uint256);
+
+    ///@notice This function updates the global PricePerShare value.
+    ///@dev This function requires that the caller is an administrator or has appropriate access rights.
+    function updateGlobalPPS(address token, uint112 _pricePerShare) external;
+
+    function decimals() external view returns (uint);
+
+    function synchronize() external;
+}
+
+// SPDX-License-Identifier: MIT
+// OpenZeppelin Contracts (last updated v5.0.0) (access/Ownable.sol)
+
+pragma solidity ^0.8.20;
+
+import {Context} from "../utils/Context.sol";
+
+/**
+ * @dev Contract module which provides a basic access control mechanism, where
+ * there is an account (an owner) that can be granted exclusive access to
+ * specific functions.
+ *
+ * The initial owner is set to the address provided by the deployer. This can
+ * later be changed with {transferOwnership}.
+ *
+ * This module is used through inheritance. It will make available the modifier
+ * `onlyOwner`, which can be applied to your functions to restrict their use to
+ * the owner.
+ */
+abstract contract Ownable is Context {
+    address private _owner;
+
+    /**
+     * @dev The caller account is not authorized to perform an operation.
+     */
+    error OwnableUnauthorizedAccount(address account);
+
+    /**
+     * @dev The owner is not a valid owner account. (eg. `address(0)`)
+     */
+    error OwnableInvalidOwner(address owner);
+
+    event OwnershipTransferred(address indexed previousOwner, address indexed newOwner);
+
+    /**
+     * @dev Initializes the contract setting the address provided by the deployer as the initial owner.
+     */
+    constructor(address initialOwner) {
+        if (initialOwner == address(0)) {
+            revert OwnableInvalidOwner(address(0));
+        }
+        _transferOwnership(initialOwner);
+    }
+
+    /**
+     * @dev Throws if called by any account other than the owner.
+     */
+    modifier onlyOwner() {
+        _checkOwner();
+        _;
+    }
+
+    /**
+     * @dev Returns the address of the current owner.
+     */
+    function owner() public view virtual returns (address) {
+        return _owner;
+    }
+
+    /**
+     * @dev Throws if the sender is not the owner.
+     */
+    function _checkOwner() internal view virtual {
+        if (owner() != _msgSender()) {
+            revert OwnableUnauthorizedAccount(_msgSender());
+        }
+    }
+
+    /**
+     * @dev Leaves the contract without owner. It will not be possible to call
+     * `onlyOwner` functions. Can only be called by the current owner.
+     *
+     * NOTE: Renouncing ownership will leave the contract without an owner,
+     * thereby disabling any functionality that is only available to the owner.
+     */
+    function renounceOwnership() public virtual onlyOwner {
+        _transferOwnership(address(0));
+    }
+
+    /**
+     * @dev Transfers ownership of the contract to a new account (`newOwner`).
+     * Can only be called by the current owner.
+     */
+    function transferOwnership(address newOwner) public virtual onlyOwner {
+        if (newOwner == address(0)) {
+            revert OwnableInvalidOwner(address(0));
+        }
+        _transferOwnership(newOwner);
+    }
+
+    /**
+     * @dev Transfers ownership of the contract to a new account (`newOwner`).
+     * Internal function without access restriction.
+     */
+    function _transferOwnership(address newOwner) internal virtual {
+        address oldOwner = _owner;
+        _owner = newOwner;
+        emit OwnershipTransferred(oldOwner, newOwner);
+    }
+}
+
+// SPDX-License-Identifier: MIT
+// OpenZeppelin Contracts (last updated v5.0.1) (utils/Context.sol)
+
+pragma solidity ^0.8.20;
+
+/**
+ * @dev Provides information about the current execution context, including the
+ * sender of the transaction and its data. While these are generally available
+ * via msg.sender and msg.data, they should not be accessed in such a direct
+ * manner, since when dealing with meta-transactions the account sending and
+ * paying for execution may not be the actual sender (as far as an application
+ * is concerned).
+ *
+ * This contract is only required for intermediate, library-like contracts.
+ */
+abstract contract Context {
+    function _msgSender() internal view virtual returns (address) {
+        return msg.sender;
+    }
+
+    function _msgData() internal view virtual returns (bytes calldata) {
+        return msg.data;
+    }
+
+    function _contextSuffixLength() internal view virtual returns (uint256) {
+        return 0;
+    }
+}
